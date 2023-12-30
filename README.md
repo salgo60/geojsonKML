@@ -10,6 +10,6 @@ exempel
   * Open street Map [10627921](https://www.openstreetmap.org/relation/10627921)
  
 ## SPARQL
-* [Nature reserves in Stockholms län](https://w.wiki/8g9N) 
+* [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH) 
