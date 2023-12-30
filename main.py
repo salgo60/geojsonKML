@@ -15,10 +15,11 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 
 endpoint_url = "https://query.wikidata.org/sparql"
 
-query = """#title: stockholm county nature reserve - geoshapeRaw
+query = """#title: Sweden nature reserve - geoshapeRaw
 SELECT ?wd ?wdLabel ?inatPid ?inatP  ?geoshapeRaw    WHERE {
   ?wd wdt:P31 wd:Q179049;
-    wdt:P131/wdt:P131 wd:Q104231.
+  #  wdt:P131/wdt:P131 wd:Q104231.
+     wdt:P17 wd:Q34.
   OPTIONAL {?wd wdt:P7471 ?inatPid}
   BIND(URI(CONCAT("https://www.inaturalist.org/places/",?inatPid)) as ?inatP)
   OPTIONAL {?wd wdt:P3896 ?geoshape}
@@ -39,7 +40,7 @@ def get_results(endpoint_url, query):
 
 
 def saveUrlToFile(filename  , url):
-    
+
     try:
         response = requests.get(url)
         if response.status_code == 200:
@@ -52,13 +53,16 @@ def saveUrlToFile(filename  , url):
         print(f"An error occurred: {str(e)}")
 
 def extractgeojsonFromWD():
+
     results = get_results(endpoint_url, query)
     for result in results["results"]["bindings"]:
         try:
             geojsonUrl = result["geoshapeRaw"]["value"]
             name = result["wdLabel"]["value"]
-            filenameGeoJson = name + ".json"
-            #print(name,geojsonUrl)
+            wd = result["wd"]["value"].replace ("http://www.wikidata.org/entity/","")
+            print(wd, name )
+            filenameGeoJson = wd + "_" + name + ".json"
+
             saveUrlToFile(input_directory + "/" + filenameGeoJson,geojsonUrl)
         except Exception as e:
             print(f"An error occurred in SPARQL: {str(e)}")

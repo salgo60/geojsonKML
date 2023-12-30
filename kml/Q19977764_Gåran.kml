@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19977764_Gåran" id="Q19977764_Gåran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19977764_Gåran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19977764_Gåran">
+		<SimpleData name="NVRID">2000417</SimpleData>
+		<SimpleData name="NAMN">Gåran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/09/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/11/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/11/09</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">27.96</SimpleData>
+		<SimpleData name="LAND_HA">27.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">26.132</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2044-2001</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7388725668104,58.3484268783895 13.738872491653,58.3484265902078 13.7388724313351,58.3484263650501 13.7388718594348,58.3484241946241 13.738765454162,58.3480185458024 13.7352077515848,58.3474507776184 13.734703987985,58.3459925936573 13.7338440139533,58.3462015304513 13.7328892823597,58.346273851106 13.7318875532471,58.3462711259247 13.7309640377586,58.3461703063741 13.7308109461131,58.3426497734936 13.7308085317707,58.3425942014136 13.7303634164964,58.3426140936485 13.7301572687734,58.342689451302 13.7298925594734,58.3427862078458 13.7298169286195,58.3428053357277 13.7297421080484,58.3428242560253 13.7294893555164,58.3428881644146 13.7294247407205,58.3429045000487 13.7294738640011,58.3439833888084 13.7294768039274,58.3440480564804 13.7294765822385,58.3440480452973 13.7294262147965,58.3440424522182 13.7281293614452,58.3438984179072 13.7281293433992,58.3438984446756 13.7275563705621,58.3443944079607 13.7275561662726,58.3443943879647 13.7266184294936,58.3442589022346 13.7266181904034,58.344258899856 13.7264176312807,58.3442553863775 13.7249339171867,58.3442294223984 13.724387148173,58.3442198425025 13.7243885600622,58.3442361240003 13.7245089890835,58.3456261005198 13.7247740937105,58.3486854626973 13.7247777629036,58.3487277711747 13.7277477013371,58.34866483922 13.7292794250958,58.3486323384247 13.7294960367129,58.3486277426404 13.7310694446225,58.3485943496583 13.7364137243337,58.3484747509902 13.7385553676751,58.3484330588495 13.7388724643306,58.3484268773798 13.7388725668104,58.3484268783895</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

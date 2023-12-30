@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158657_Lilla_Korslången" id="Q30158657_Lilla_Korslången">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158657_Lilla_Korslången</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158657_Lilla_Korslången">
+		<SimpleData name="NVRID">2005467</SimpleData>
+		<SimpleData name="NAMN">Lilla Korslången</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/04/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/05/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/05/18</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">5.19</SimpleData>
+		<SimpleData name="LAND_HA">5.19</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.906</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">5112-02496-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2454388968998,59.8947662093809 15.245464096972,59.8942793686266 15.2453456755626,59.8942446949617 15.2452804081573,59.8940820998446 15.2453008612903,59.8938771597462 15.2452719033605,59.8935780273742 15.2453411965802,59.8935014384075 15.2454942128074,59.8935020873731 15.2459146240122,59.8937772511609 15.245998482851,59.8938459490996 15.2463912416528,59.8937451036419 15.2474120230266,59.893706726047 15.2475951545368,59.8939381597348 15.2489132371081,59.8939511668382 15.2492947144876,59.8939795213719 15.2497705804115,59.8940044095024 15.2485564396661,59.8929273476864 15.247682416899,59.8928836916117 15.2467797067793,59.8919281034471 15.2459158700198,59.8920933953913 15.2451352330953,59.8923174770473 15.2438655447956,59.8930125788698 15.2445693632195,59.8952469419248 15.2455718015114,59.8952617081511 15.2456244693552,59.894852425591 15.2454388968998,59.8947662093809</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

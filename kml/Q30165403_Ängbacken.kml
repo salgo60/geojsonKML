@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30165403_Ängbacken" id="Q30165403_Ängbacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30165403_Ängbacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30165403_Ängbacken">
+		<SimpleData name="NVRID">2001305</SimpleData>
+		<SimpleData name="NAMN">Ängbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1956/01/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1956/01/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/06/19</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Nyköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">3.96</SimpleData>
+		<SimpleData name="LAND_HA">3.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.076</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8061886404993,58.9173520506515 16.8060238752844,58.9168721708798 16.8059702449074,58.9165701531444 16.8059414376687,58.916541990031 16.8054353319438,58.9164196955112 16.8052276053001,58.9163839155775 16.8050250531814,58.9163870486185 16.8048585594622,58.9164521537143 16.8047114496642,58.9165875392931 16.8045777143783,58.9167342899761 16.804294876698,58.9168884119751 16.8039362763204,58.9170048832328 16.8035044484492,58.9170676962787 16.8034196457687,58.9170608034442 16.8025797299511,58.917220470977 16.8016449152595,58.9172859317686 16.8015526356913,58.9172885469087 16.8015065121897,58.9173000048288 16.8014039107981,58.9173525465237 16.8022199985735,58.9178080938472 16.8037692343453,58.9185280258961 16.8040985913597,58.9186551017337 16.8054382807093,58.9189152585043 16.8054104023326,58.9185442162587 16.8054434868575,58.9182390294242 16.8056514696863,58.9179730718675 16.8060919587679,58.9175723848252 16.8061886404993,58.9173520506515</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

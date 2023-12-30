@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89978045_Rovenlamms_naturreservat" id="Q89978045_Rovenlamms_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89978045_Rovenlamms_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89978045_Rovenlamms_naturreservat">
+		<SimpleData name="NVRID">2049960</SimpleData>
+		<SimpleData name="NAMN">Rovenlamm</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/05/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/06/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/06/05</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Orsa</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">367.96</SimpleData>
+		<SimpleData name="LAND_HA">352.11</SimpleData>
+		<SimpleData name="VATTEN_HA">15.837</SimpleData>
+		<SimpleData name="SKOG_HA">219.767</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7823-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4515526300094,61.4436108824483 14.4515692481799,61.4442619824005 14.4533640055862,61.4446241486632 14.4570762067043,61.4442335212446 14.4599473948656,61.4460904068387 14.4601814274184,61.4475649952407 14.4581958565105,61.4487445629682 14.4547644901323,61.4552408379586 14.4421673667174,61.452265731586 14.4301737132821,61.4542229478191 14.4300481179816,61.4570712653374 14.433795522072,61.459305619874 14.4318622250964,61.4609483903407 14.4319168220107,61.4653420497527 14.4365424840017,61.4645574910339 14.4389363001912,61.4625986933046 14.4434832717725,61.4624661434455 14.442984673907,61.4653582252634 14.4553431644581,61.4682358635436 14.4673386638941,61.4680573971547 14.4681407882943,61.4642180713917 14.4755291689397,61.4587459545273 14.4734252028399,61.4568850472731 14.4692856759537,61.4591122714671 14.4619837138832,61.4569745025469 14.4602603430827,61.4549390394311 14.4604296024862,61.4544657865981 14.4683856211963,61.4482750894398 14.4720920585851,61.4466101652294 14.4764817566225,61.4466174600114 14.4821917034277,61.4429805207843 14.4879787881756,61.4430281934184 14.4934748663736,61.4409209423797 14.4934670472308,61.4409209671736 14.4799142305906,61.440963009809 14.4800710512315,61.4428904260164 14.4515526300094,61.4436108824483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

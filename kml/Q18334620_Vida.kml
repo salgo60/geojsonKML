@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18334620_Vida" id="Q18334620_Vida">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18334620_Vida</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18334620_Vida">
+		<SimpleData name="NVRID">2002922</SimpleData>
+		<SimpleData name="NAMN">Vida</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/11/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2004/12/31</SimpleData>
+		<SimpleData name="SENGALLDAT">2004/12/31</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Heby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">94.36</SimpleData>
+		<SimpleData name="LAND_HA">94.35</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">94.312</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2977-01</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3032617367768,60.0883629308325 17.3049385755419,60.0876576560459 17.3001021133179,60.0864095187534 17.2982238056594,60.0880190164764 17.2889170615745,60.0880787566224 17.2886192209853,60.0898505645671 17.2902252823199,60.0906798718236 17.2906723197766,60.0907432021783 17.2908807942163,60.0915445984438 17.2920300080129,60.0919452889391 17.2931954724575,60.0932260606273 17.2950531359699,60.0947626628476 17.2938806940076,60.0958060450118 17.2972055899292,60.0958398545537 17.2983687471626,60.0978710530349 17.3018669935294,60.0985110374869 17.3033537965378,60.0959021423047 17.3049640150576,60.0929856973812 17.3071983428841,60.088870897875 17.3032617367768,60.0883629308325</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2868625411884,60.080145166169 17.291799504888,60.0821544424463 17.2935022147626,60.0846100056044 17.2983459701939,60.0849037419893 17.2957210698634,60.0832361832748 17.3000033540437,60.0803330888827 17.2994790730359,60.07999976461 17.2963718779832,60.0805991922007 17.2886053027114,60.0797948536417 17.2868625411884,60.080145166169</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

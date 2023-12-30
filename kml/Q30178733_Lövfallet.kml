@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30178733_Lövfallet" id="Q30178733_Lövfallet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30178733_Lövfallet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30178733_Lövfallet">
+		<SimpleData name="NVRID">2014524</SimpleData>
+		<SimpleData name="NAMN">Lövfallet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/11/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/11/14</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Finspång</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">14.3</SimpleData>
+		<SimpleData name="LAND_HA">14.29</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.767</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-14095-03</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8954406243618,58.703236576507 15.8955164545175,58.7033534474842 15.8968542915065,58.7053822202755 15.8984879294227,58.7052605354808 15.8994704445624,58.7046099260525 15.9002055803863,58.7043289766291 15.9003722142771,58.7039537028839 15.900908956324,58.7035470284642 15.9020469596666,58.702989114962 15.9044888607555,58.7018599764299 15.9055204590316,58.7006022692461 15.905579704404,58.6999586099193 15.9070745908015,58.6995832880048 15.9073023404298,58.6992904293742 15.9074249457811,58.6989724529981 15.9073953849523,58.6986863821706 15.9076423784671,58.6981358762491 15.9069923620876,58.697756006633 15.9063431131207,58.6976709219886 15.9063551952726,58.6979820040092 15.906158755503,58.6985569140255 15.9061327198812,58.6988062912096 15.906225537748,58.6992042050608 15.9060742694011,58.6994182942687 15.904837586509,58.6991930610945 15.9039683283996,58.6998833086006 15.9035892393412,58.7002948455096 15.9033477755444,58.7008373466754 15.9029164502543,58.7010368873291 15.9016124193795,58.7023208290247 15.8984485890158,58.7021577048866 15.897904127011,58.7022981912302 15.8971751694036,58.7025734891729 15.8964266948352,58.7029245525079 15.896111115113,58.7029597102854 15.8954406243618,58.703236576507</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

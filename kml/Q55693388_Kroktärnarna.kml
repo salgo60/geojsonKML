@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693388_Kroktärnarna" id="Q55693388_Kroktärnarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693388_Kroktärnarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693388_Kroktärnarna">
+		<SimpleData name="NVRID">2044654</SimpleData>
+		<SimpleData name="NAMN">Kroktärnarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/10/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/18</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund, Laxå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">10.28</SimpleData>
+		<SimpleData name="LAND_HA">7.59</SimpleData>
+		<SimpleData name="VATTEN_HA">2.69</SimpleData>
+		<SimpleData name="SKOG_HA">7.263</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2364-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6832862282123,58.7409646553826 14.6833058727147,58.7411697864018 14.683997640546,58.7414893597391 14.6845266167351,58.7417809682128 14.6853184195673,58.7421067156076 14.6857407045572,58.7423226894767 14.6878981042917,58.7411798707694 14.6908782452725,58.7426755094468 14.6927481724786,58.7427080627936 14.6929516032527,58.7412483876794 14.6913484465314,58.7401338171965 14.6875700205069,58.7399839651372 14.6874333077193,58.7401968623648 14.6868708813261,58.740374777783 14.6857617712542,58.7404543010646 14.6849033399663,58.7405099991794 14.6837599279451,58.7405305145659 14.6835332607785,58.7406147756443 14.6834020281644,58.7407254146051 14.6832862282123,58.7409646553826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

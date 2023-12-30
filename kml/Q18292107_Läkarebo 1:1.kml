@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18292107_Läkarebo_1_1" id="Q18292107_Läkarebo_1_1">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18292107_Läkarebo_1_1</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18292107_Läkarebo_1_1">
+		<SimpleData name="NVRID">2000511</SimpleData>
+		<SimpleData name="NAMN">Läkarebo 1:1</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1959/01/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1959/01/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1959/01/26</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Alingsås</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Alingsås kommun</SimpleData>
+		<SimpleData name="AREA_HA">0.56</SimpleData>
+		<SimpleData name="LAND_HA">0.53</SimpleData>
+		<SimpleData name="VATTEN_HA">0.029</SimpleData>
+		<SimpleData name="SKOG_HA">0.528</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">IIIÖ 57 58 RrP50</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.5085334719682,57.7860108394124 12.5084177550558,57.7860437623594 12.5082272763568,57.7860477897006 12.5081467701711,57.786063666392 12.5080544686353,57.7860612581362 12.5079243763134,57.7860488869176 12.5077960426311,57.786072503252 12.507675207324,57.7860693537896 12.5074814846305,57.7864776245972 12.5081521222894,57.7869263762735 12.5086422999673,57.7866246579195 12.5086824135256,57.7865538189927 12.5088063117304,57.78643125929 12.5088369273435,57.7862433613507 12.5088818205105,57.7860648289656 12.5087290522323,57.7860428829738 12.5085334719682,57.7860108394124</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

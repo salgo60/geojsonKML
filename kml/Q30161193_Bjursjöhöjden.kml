@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30161193_Bjursjöhöjden" id="Q30161193_Bjursjöhöjden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30161193_Bjursjöhöjden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30161193_Bjursjöhöjden">
+		<SimpleData name="NVRID">2002442</SimpleData>
+		<SimpleData name="NAMN">Bjursjöhöjden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/03/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2004/04/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2004/04/30</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Säffle</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">152.68</SimpleData>
+		<SimpleData name="LAND_HA">139.37</SimpleData>
+		<SimpleData name="VATTEN_HA">13.303</SimpleData>
+		<SimpleData name="SKOG_HA">128.516</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8892-00 / 511 / 511-2</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.5275432679623,59.3777733332428 12.5283487798806,59.3782686441349 12.5293724857682,59.3788563978616 12.5305172157765,59.3795297448027 12.5316802165616,59.38020209725 12.5320076982483,59.3803863157708 12.5356604290269,59.3825255390994 12.5382364941547,59.3856168733174 12.547514599729,59.3871735639367 12.5490127333466,59.3855923652722 12.5523805771902,59.3865632354571 12.5586806785375,59.387270028225 12.5645593825908,59.3844677907252 12.566459307342,59.3834511380275 12.5528205273602,59.3751514054862 12.5510235922007,59.3753781896967 12.5507571836425,59.3785739583411 12.551876095002,59.3791663371812 12.5512562540863,59.3802669625508 12.5472188585903,59.3789560021772 12.5459495546634,59.3794370362596 12.5456782634567,59.3809448680848 12.5322577237437,59.3771636433609 12.5328019268723,59.3758272650615 12.5324820556025,59.3757707126958 12.5284526354928,59.3750588267552 12.5277694060373,59.3761924404038 12.5280888642288,59.3762606669505 12.5278189510188,59.3764668750492 12.5276474163053,59.3769448855135 12.5275626224396,59.3776767972358 12.5275432679623,59.3777733332428</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

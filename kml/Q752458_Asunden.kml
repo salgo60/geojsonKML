@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q752458_Asunden" id="Q752458_Asunden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q752458_Asunden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q752458_Asunden">
+		<SimpleData name="NVRID">2000117</SimpleData>
+		<SimpleData name="NAMN">Asunden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1930/12/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1930/12/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1930/12/31</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">7.95</SimpleData>
+		<SimpleData name="LAND_HA">3.46</SimpleData>
+		<SimpleData name="VATTEN_HA">4.491</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">37/24 BD   I 19</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8560025166538,57.7090582264804 18.8556640036774,57.7098479893978 18.855588466108,57.7101463196522 18.8557333293631,57.7101481241193 18.8557355156799,57.7101481473608 18.8573087256346,57.7101677322368 18.858042153135,57.7092606185452 18.8587019474379,57.7090775721815 18.858761631987,57.7089938405523 18.8590228759968,57.7086978511558 18.8590639137233,57.7085620897642 18.8586754103954,57.7082839437713 18.8585583328237,57.7079903475834 18.8585544639301,57.7077703063469 18.8591488556189,57.7071889992112 18.8592692300388,57.7069894239 18.8593165521196,57.7066288694428 18.8591312861194,57.7058247737958 18.8576071730341,57.7059424067545 18.8575511178202,57.7059459962402 18.8575502835601,57.705946048668 18.8563680625859,57.7060217113163 18.8555868046152,57.7077834693241 18.8555472772326,57.7079371657521 18.8555447652768,57.7082561968249 18.8560025166538,57.7090582264804</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

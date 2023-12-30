@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q29579995_Viggeby" id="Q29579995_Viggeby">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q29579995_Viggeby</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q29579995_Viggeby">
+		<SimpleData name="NVRID">2001746</SimpleData>
+		<SimpleData name="NAMN">Viggeby</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1972/03/03</SimpleData>
+		<SimpleData name="URSGALLDAT">1972/03/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/03/09</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Linköping</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Linköpings kommun</SimpleData>
+		<SimpleData name="AREA_HA">638.05</SimpleData>
+		<SimpleData name="LAND_HA">266.54</SimpleData>
+		<SimpleData name="VATTEN_HA">378.844</SimpleData>
+		<SimpleData name="SKOG_HA">176.111</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6503696937554,58.2097800142326 15.6506458211036,58.2097464593238 15.6510289929577,58.2098393153701 15.6518163924079,58.208355422892 15.6531253801317,58.2078589824772 15.6568284178302,58.2048161308684 15.657969194036,58.2020592035763 15.6577647832394,58.2008954084037 15.6593081053823,58.1995147156948 15.6600279547917,58.1978423488457 15.6538297606214,58.1904861096962 15.6576741161824,58.1844568789459 15.6631338335422,58.1833975856971 15.6564645662578,58.1778510696436 15.659178198252,58.1736383110343 15.6592959285559,58.1734364084071 15.6656951321307,58.1721584013556 15.6652079035895,58.1684358642061 15.6683286154019,58.1667662597733 15.6680162310934,58.1646876028722 15.6676700593044,58.1644051825491 15.6619861972857,58.1597886018173 15.6613835276516,58.1592121736266 15.660091470845,58.1591925035905 15.6517168773448,58.1589317106615 15.6500892951372,58.1588544391729 15.6501071119919,58.1598592397888 15.6499965790965,58.1710899183983 15.6521746832221,58.1789555122377 15.6522187446916,58.1791137036751 15.6518009796013,58.1791940489304 15.6359848330137,58.1822342438912 15.6379260229581,58.1867944076033 15.6432995199617,58.1896450994146 15.6397271745924,58.1920220867342 15.6405682722673,58.1942201787845 15.6392816118742,58.1982795345235 15.6375691318127,58.2001008686741 15.6351253115294,58.2012764107616 15.633180440438,58.2022830755498 15.6333751961188,58.2079544110127 15.6327970553064,58.2131685434016 15.6323831833858,58.2164642345761 15.6350443935319,58.2180598386528 15.6357099936692,58.2184974796838 15.6379095817025,58.2198568501124 15.6406097921319,58.2194353384906 15.6407624432922,58.2194115061593 15.6418995858094,58.2192362687291 15.6419564400351,58.2192274519051 15.6449245761433,58.2187670577456 15.6450242226563,58.2185091448967 15.6452028052295,58.2180469481673 15.646040292701,58.215745540384 15.6481318427227,58.2141317548427 15.6507739628204,58.2102123663807 15.6502176678501,58.2101068758664 15.6503696937554,58.2097800142326</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>15.6422613641447,58.2034900133873 15.6426500819974,58.203414333313 15.6430758287442,58.2038737848286 15.642369363686,58.2040577533538 15.6422613641447,58.2034900133873</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

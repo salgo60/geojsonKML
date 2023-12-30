@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30165595_Häggholmen" id="Q30165595_Häggholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30165595_Häggholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30165595_Häggholmen">
+		<SimpleData name="NVRID">2001347</SimpleData>
+		<SimpleData name="NAMN">Häggholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1962/01/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1962/02/21</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/07/19</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallstahammar</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.24</SimpleData>
+		<SimpleData name="LAND_HA">11.24</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.779</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8817-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.2327989864678,59.5014167311536 16.2320589503854,59.5004763761488 16.2318129678093,59.5003328516733 16.231076085436,59.5001407188353 16.2300754202343,59.5003444650501 16.2295875749895,59.5007144788744 16.2298974380851,59.5008330593601 16.2295988724312,59.5013047624235 16.2303620146179,59.5012346193651 16.230527640291,59.5012918144017 16.2304963899048,59.5014766759979 16.2295453386837,59.5016065946123 16.2284688562181,59.5019766227134 16.2283563744847,59.5020260506636 16.2282389412907,59.5020821529577 16.2281481445574,59.5023180640107 16.2280689842202,59.5027352179686 16.2280906802475,59.5029385134954 16.2282626635228,59.5038744462464 16.2283567129228,59.5039204344812 16.2289302828315,59.5039867678447 16.2292010662674,59.5040584056842 16.2297668761249,59.5042784184596 16.2302731443073,59.5044583052526 16.2306754443618,59.5045915066066 16.231667882465,59.5048455931723 16.232152613464,59.5049532173085 16.2338645077262,59.5050057462402 16.2343064238261,59.5049377935653 16.2337617935076,59.5041835659666 16.2333883065599,59.5041749555377 16.2333124514536,59.5040560086746 16.2330835390569,59.5036650618877 16.2323752849102,59.5028048154393 16.2324791959784,59.5026512408214 16.2332003125659,59.5025431736406 16.2332223314321,59.5020020610192 16.2330701114174,59.5017430935522 16.2327989864678,59.5014167311536</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

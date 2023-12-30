@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10605046_Näktergalslunden" id="Q10605046_Näktergalslunden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10605046_Näktergalslunden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10605046_Näktergalslunden">
+		<SimpleData name="NVRID">2001397</SimpleData>
+		<SimpleData name="NAMN">Näktergalslunden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/05/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/05/05</SimpleData>
+		<SimpleData name="SENGALLDAT">1960/05/05</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falkenberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">4.99</SimpleData>
+		<SimpleData name="LAND_HA">4.99</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.872</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">III 19-3-65, III R 25-59</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.6240260216723,56.8007900031572 12.6233532606379,56.8005751698894 12.6231332880662,56.8005862019462 12.6230477887875,56.8006712869298 12.6229976954804,56.8009034337649 12.6226847828837,56.8012507529891 12.6225451653856,56.8013479359723 12.6222543855767,56.8015706686508 12.6218320067968,56.801783270745 12.6215594716471,56.8020524703701 12.6214834296328,56.8023116217003 12.6214797738156,56.8023240796889 12.6217198051556,56.8023759096463 12.6220723326829,56.8024544629558 12.6224696618282,56.8025257810488 12.6226664678832,56.8025732084457 12.6228578922907,56.8026947734943 12.622977962543,56.8027340876431 12.6262713176874,56.803132420097 12.6274222204346,56.8032611078816 12.6283772098594,56.8033688862225 12.6289473923,56.8034332338321 12.6293572562288,56.8035160105346 12.6306267076965,56.803733545753 12.6306837939436,56.8037135829169 12.6308905941042,56.8036413114191 12.6309703544175,56.8035203175982 12.6308969097607,56.8034355786371 12.6303454211136,56.8033036545389 12.6297770921885,56.8032304425781 12.629235239024,56.8032072577668 12.6285307048374,56.8030726322295 12.6280972043099,56.8030031711263 12.627186959528,56.8026948012906 12.6264610127532,56.8025781076923 12.6256997538787,56.8024870601652 12.6253637395628,56.8024205324752 12.625119054964,56.8021130525423 12.6242782175832,56.8019717721647 12.6240866259691,56.8015939905098 12.6240470851766,56.8015018318752 12.624315175346,56.8011267579466 12.6240260216723,56.8007900031572</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

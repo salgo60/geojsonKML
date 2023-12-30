@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30168104_Flakaliden" id="Q30168104_Flakaliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30168104_Flakaliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30168104_Flakaliden">
+		<SimpleData name="NVRID">2044031</SimpleData>
+		<SimpleData name="NAMN">Flakaliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/06/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/07/11</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/07/11</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Piteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">72.28</SimpleData>
+		<SimpleData name="LAND_HA">72.28</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">61.983</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9004-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.5811441732893,65.3064970217674 20.5827409237478,65.306278827571 20.5859674603049,65.306261688094 20.587183347311,65.3064397082333 20.5898915988741,65.3057597085162 20.5921587106362,65.3050215478691 20.5940008036386,65.3044558454939 20.5960364936684,65.3040467116776 20.5974460935816,65.3029065978015 20.5988853782329,65.3024715615001 20.5989914799163,65.3010415546666 20.5972137538156,65.3001609448848 20.5954151063802,65.2999310624048 20.591545755035,65.3006671273666 20.5906818193552,65.3012626517135 20.5892027505457,65.3008211019389 20.5883312290034,65.3001438766609 20.5864259165614,65.2989924864865 20.5851831536,65.2987880940816 20.5835312591341,65.2989137175414 20.5822707946036,65.2994639392881 20.580813229228,65.2993993220949 20.579095668713,65.2999166837472 20.5746739879233,65.3005992742833 20.5734657185091,65.3011659230908 20.5726356015164,65.3014428240051 20.5722651822897,65.3017041978446 20.5737620681277,65.3024104293286 20.5746444963613,65.3032380296642 20.5733121128762,65.3049929619197 20.5737748800026,65.3050775457365 20.575274775621,65.305193688973 20.5781383610668,65.3061485401656 20.5768336937685,65.306709570352 20.57764331254,65.3069606784928 20.5786877431367,65.3071896489995 20.5800211900593,65.3071150210921 20.5811441732893,65.3064970217674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

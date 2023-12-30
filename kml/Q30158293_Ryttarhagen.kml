@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158293_Ryttarhagen" id="Q30158293_Ryttarhagen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158293_Ryttarhagen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158293_Ryttarhagen">
+		<SimpleData name="NVRID">2002619</SimpleData>
+		<SimpleData name="NAMN">Ryttarhagen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/06/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/06/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/06/26</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">1.38</SimpleData>
+		<SimpleData name="LAND_HA">1.38</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.262</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-7350-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3741504346457,59.8889605992259 18.3739707417616,59.8888133216632 18.3737990180854,59.8886976811486 18.3734559401743,59.8884664799087 18.3731575106543,59.8882418627922 18.3732453476588,59.8880394502014 18.3731049865483,59.8879455540273 18.3727761415152,59.8880932174456 18.3723882259357,59.8882419528422 18.37199973883,59.8883833232229 18.3717946574689,59.8884235989247 18.371904352869,59.8886826029441 18.3720161077325,59.8889777633677 18.3720923505688,59.8891992579739 18.3721712696857,59.8894578818075 18.3724929386095,59.8894069799531 18.3728338261749,59.8894152506244 18.3730365288244,59.8894505443984 18.3732974066098,59.8894595516837 18.3735453572844,59.8894375694765 18.3737243706445,59.889367537631 18.3738643768823,59.8892805758174 18.3739394762639,59.8891815808817 18.3740424567288,59.8890825903019 18.3741504346457,59.8889605992259</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

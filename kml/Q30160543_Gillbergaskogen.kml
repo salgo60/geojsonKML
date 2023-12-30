@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160543_Gillbergaskogen" id="Q30160543_Gillbergaskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160543_Gillbergaskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160543_Gillbergaskogen">
+		<SimpleData name="NVRID">2041432</SimpleData>
+		<SimpleData name="NAMN">Gillbergaskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/04/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/05/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/05/26</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Säffle</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">27.35</SimpleData>
+		<SimpleData name="LAND_HA">27.08</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.215</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-6673-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.7768325816765,59.3080246163107 12.7780419327578,59.303111622425 12.7787028651235,59.3004259029306 12.7780948139869,59.3002715517278 12.7775288564686,59.3001278804822 12.7755427203429,59.3026776197607 12.7747302869141,59.3025365160938 12.7720382601958,59.3020689478763 12.7717926817168,59.3023238206996 12.7716962081964,59.302452960429 12.7716428874944,59.3025510639372 12.7716168882166,59.3027033112041 12.7715996805856,59.30288281205 12.7715958654017,59.303078317038 12.7716125288492,59.3033638275208 12.7722720011768,59.3034785548388 12.7723621833654,59.3040789088062 12.7715003054525,59.30395348703 12.771447651932,59.3040520869956 12.771347333068,59.3042275423864 12.7712173331544,59.304442322485 12.7711029288485,59.3046544587332 12.7709939261447,59.3049016061103 12.7708766317734,59.3051433561512 12.7707293436357,59.3054117317705 12.77051794307,59.3057791934532 12.7702491986617,59.3060701310223 12.7699085053587,59.3062481535149 12.7696900508374,59.3063011523251 12.7687025467509,59.3064838236399 12.768514772117,59.306548216143 12.768410518282,59.3066233194442 12.7679448880784,59.3070952378156 12.7669314138281,59.3076978061538 12.7696512895073,59.3076029938718 12.7703647486341,59.3077344833296 12.7768016294203,59.3080232264558 12.7768074627254,59.3080234904256 12.7768325816765,59.3080246163107</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q21079355_Varholmen" id="Q21079355_Varholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q21079355_Varholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q21079355_Varholmen">
+		<SimpleData name="NVRID">2000610</SimpleData>
+		<SimpleData name="NAMN">Varholmen, Dala</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1936/10/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1936/10/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/09</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">2.94</SimpleData>
+		<SimpleData name="LAND_HA">2.94</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">512-30983-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7554202074528,58.2628223877014 13.7551585418511,58.2631897171643 13.7551585232376,58.2631897618962 13.7551594222133,58.2631898874258 13.7551634753365,58.2631904748408 13.7559233457257,58.2633005805523 13.7567364695738,58.2633245353562 13.7576369533872,58.2633298777804 13.7580142741617,58.2633104683994 13.7581371806365,58.2631541972397 13.7582707503931,58.2630526618729 13.7584630405211,58.2628302067898 13.7584289108986,58.2627041634534 13.7583202584039,58.2625738570032 13.7581871568262,58.2625178417447 13.7580417037851,58.2623807998302 13.7580383706546,58.2622909411986 13.7579855224236,58.2621733481337 13.75800313256,58.2620748451249 13.7579407307599,58.2619750525887 13.7578674416002,58.2618571350652 13.7576809785161,58.2616924947532 13.7574643906719,58.2615183900359 13.7572585441339,58.2613354786091 13.757139447731,58.2612437577036 13.7569393042554,58.2611687017082 13.756800805179,58.2610587187214 13.7567165235131,58.2610100484366 13.7567127815298,58.2610078831534 13.7567126644651,58.2610078191363 13.7554202074528,58.2628223877014</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

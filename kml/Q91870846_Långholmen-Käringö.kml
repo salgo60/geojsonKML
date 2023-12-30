@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q91870846_Långholmen_Käringö" id="Q91870846_Långholmen_Käringö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q91870846_Långholmen_Käringö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q91870846_Långholmen_Käringö">
+		<SimpleData name="NVRID">2051019</SimpleData>
+		<SimpleData name="NAMN">Långholmen-Käringö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2020/01/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2020/01/30</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">133.68</SimpleData>
+		<SimpleData name="LAND_HA">123.6</SimpleData>
+		<SimpleData name="VATTEN_HA">9.922</SimpleData>
+		<SimpleData name="SKOG_HA">34.03</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">5112-4945-2019</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0087049599594,59.7921733613525 19.0066307713762,59.792068857829 19.0048501597217,59.7942496845744 19.0050468723347,59.794714811074 19.0048407055697,59.7951309117721 19.0023158567181,59.7956357824088 19.0022302702883,59.7970691654947 19.000127311501,59.7990849350609 19.0002518630641,59.7992418448468 19.0018245648677,59.801223167081 19.0037898218146,59.8036972858995 19.0069002948745,59.805138510159 19.012902154965,59.8042906890047 19.0119599416223,59.795387989155 19.0087049599594,59.7921733613525</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>19.030280198874,59.7863796007087 19.019356064606,59.7783447842616 19.0172393664029,59.7806993339426 19.0172236729297,59.7808406589434 19.016806524444,59.7845973159318 19.0211152086816,59.7896606984726 19.0301809305835,59.7914996686979 19.030280198874,59.7863796007087</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

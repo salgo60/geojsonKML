@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30171671_Avradslandet" id="Q30171671_Avradslandet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30171671_Avradslandet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30171671_Avradslandet">
+		<SimpleData name="NVRID">2014312</SimpleData>
+		<SimpleData name="NAMN">Avradslandet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/05/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/06/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/06/18</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sollefteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">49.74</SimpleData>
+		<SimpleData name="LAND_HA">49.66</SimpleData>
+		<SimpleData name="VATTEN_HA">0.081</SimpleData>
+		<SimpleData name="SKOG_HA">35.272</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6614-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9575036417302,63.4916027895117 16.9657413165571,63.4940810874158 16.9690838292532,63.4950886834204 16.9724049207872,63.4960959420975 16.9729499645985,63.4962615458532 16.975172034363,63.4964919676884 16.9764763172404,63.4962810669306 16.9774880273746,63.496282453721 16.9785948949575,63.4962150859788 16.9793606654364,63.4957447386995 16.9793673744614,63.4954004431043 16.9798159681367,63.4950201073203 16.9794425166683,63.4949714649908 16.9788492626354,63.4946813015598 16.9780705968968,63.4943758308435 16.9778379415596,63.4943567430548 16.9776990110387,63.4941843293123 16.9778475668121,63.4938524485833 16.9778726074999,63.4936163976123 16.9782535208932,63.493292233175 16.9791037223097,63.4931741881241 16.9792510216126,63.4930915400293 16.9789115408216,63.4929902566123 16.9752147626842,63.4918753366665 16.9705810952404,63.4905068916382 16.9655647785847,63.4890107178376 16.9624831191356,63.4880966217846 16.9614741059507,63.4888084373443 16.9603861155054,63.4895708391459 16.9576416382488,63.4915070041905 16.9575036417302,63.4916027895117</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30170274_Seitterovantaustanjänkkä" id="Q30170274_Seitterovantaustanjänkkä">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30170274_Seitterovantaustanjänkkä</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30170274_Seitterovantaustanjänkkä">
+		<SimpleData name="NVRID">2014697</SimpleData>
+		<SimpleData name="NAMN">Seitterovantaustanjänkkä</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Övertorneå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">96.67</SimpleData>
+		<SimpleData name="LAND_HA">96.66</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">74.986</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6645-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.5906639228339,66.5813318155832 23.6013436409957,66.5824323238692 23.6015315768007,66.5834523368642 23.6065844714345,66.5839084349997 23.6098150612389,66.5822266444027 23.6100796362913,66.581072486396 23.6117064270959,66.5797785470524 23.6144472543916,66.58024049822 23.6163288046274,66.5809508403923 23.6200679795302,66.5823638448112 23.617370653149,66.582888853971 23.6184359362412,66.583157745387 23.6206423793724,66.5835386039357 23.6225311134879,66.5840043796534 23.6235665783908,66.5842448743979 23.6248591599324,66.5846082826503 23.6284299766555,66.5833119944508 23.6287141224937,66.5830784471373 23.6294119218497,66.5824353727393 23.6273688164619,66.5810077355094 23.6260696663482,66.5810979593954 23.6236931095754,66.5817336916262 23.6218888695374,66.5811667172701 23.621277893169,66.5803909878119 23.6212482421466,66.5800260980614 23.6212085133307,66.5795147560089 23.6216324382072,66.5787132905879 23.6216175747389,66.5777155101967 23.6216262249145,66.5772970555235 23.6221929907994,66.5770478727332 23.6212569175025,66.5762745066682 23.6193851074599,66.5763461191648 23.6174866384675,66.5764051701677 23.6164173733004,66.5764569243387 23.6142283426226,66.576514743305 23.6104799614314,66.5729601620828 23.6017959633151,66.5752171181294 23.5988133548383,66.5775040917598 23.5972469454804,66.5778680356405 23.5976569757888,66.5796097178039 23.5917932071331,66.580272061343 23.5906639228339,66.5813318155832</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

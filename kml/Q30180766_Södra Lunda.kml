@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30180766_Södra_Lunda" id="Q30180766_Södra_Lunda">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30180766_Södra_Lunda</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30180766_Södra_Lunda">
+		<SimpleData name="NVRID">2001453</SimpleData>
+		<SimpleData name="NAMN">Södra Lunda</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/07/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/07/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/11/30</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrköping</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">220.12</SimpleData>
+		<SimpleData name="LAND_HA">13.08</SimpleData>
+		<SimpleData name="VATTEN_HA">207.028</SimpleData>
+		<SimpleData name="SKOG_HA">3.047</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-14044-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9980083786185,58.4856653598653 17.0007307227082,58.5014648298073 17.0058162440116,58.5013276192935 17.0065352096646,58.5011592786607 17.006617575155,58.501122594366 17.0067115807824,58.5010498914265 17.0070366139856,58.5007730018498 17.007163221968,58.5006506020664 17.0074100035245,58.5004058757987 17.0077743656656,58.500025360136 17.0078956051464,58.4998087400853 17.0078922323838,58.4997100064389 17.0078481363871,58.4995488074372 17.0077747836511,58.4992217751164 17.0077450862043,58.4991053329296 17.0077440111923,58.4990110642319 17.0078148817746,58.4988891943953 17.0078906525888,58.4987852245223 17.0079895483759,58.4986675786575 17.0327488233223,58.4829452063994 17.0052073671549,58.4834658796412 17.0031940064162,58.4835609946578 16.9980083786185,58.4856653598653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

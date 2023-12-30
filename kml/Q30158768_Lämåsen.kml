@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158768_Lämåsen" id="Q30158768_Lämåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158768_Lämåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158768_Lämåsen">
+		<SimpleData name="NVRID">2002061</SimpleData>
+		<SimpleData name="NAMN">Lämåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1978/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1978/12/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1978/12/18</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Vansbro</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">3.01</SimpleData>
+		<SimpleData name="LAND_HA">2.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0.044</SimpleData>
+		<SimpleData name="SKOG_HA">1.654</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-2703-76</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.9807631693672,60.4975791873503 13.9808672699409,60.4974350023772 13.9810421022796,60.4972892921876 13.981172404508,60.4971703503584 13.9812409221807,60.4971210562143 13.9812551292266,60.4971126702412 13.9812688709286,60.4971057712805 13.9813397097497,60.4954744290602 13.9795912086813,60.4953287506969 13.9786047979591,60.4974546995093 13.9785808770716,60.4975062372938 13.9786478435154,60.497542864665 13.9786742074055,60.4975444492563 13.9787511722987,60.4975491059092 13.9790396678722,60.4975137439389 13.9792379779071,60.4975369729873 13.9797489444618,60.4975959416577 13.9798358303773,60.497605244005 13.98008783136,60.4976896901541 13.9801342033445,60.497738739389 13.9801778929777,60.4978088605212 13.9802250556096,60.4978339050736 13.9802759797813,60.497873075878 13.9802885367125,60.4980465085381 13.9803078923282,60.4980411431377 13.9803461922133,60.4980226420777 13.9803749435929,60.4979951695493 13.9804946523296,60.4979169404555 13.9805857873443,60.4978373256729 13.9806326765997,60.4977597613548 13.9806624033917,60.4977139604547 13.9806900450658,60.4976870271218 13.9807631693672,60.4975791873503</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

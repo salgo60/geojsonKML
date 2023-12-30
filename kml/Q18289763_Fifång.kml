@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18289763_Fifång" id="Q18289763_Fifång">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18289763_Fifång</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18289763_Fifång">
+		<SimpleData name="NVRID">2002734</SimpleData>
+		<SimpleData name="NAMN">Fifång</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/05/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/07/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/05</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Södertälje</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">1720.84</SimpleData>
+		<SimpleData name="LAND_HA">242.7</SimpleData>
+		<SimpleData name="VATTEN_HA">1478.126</SimpleData>
+		<SimpleData name="SKOG_HA">126.23</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-46311-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7178547910702,58.8152952167185 17.7091128105611,58.8172803838764 17.6696263167512,58.8262369781543 17.6668558286925,58.8316847605973 17.6630454964614,58.8391723585579 17.6630253120826,58.8392099565009 17.6630152285304,58.8392287552928 17.6622118758796,58.8407252457214 17.6614084237162,58.8422217679595 17.6521307448812,58.8599828959125 17.6521307289374,58.8599829142106 17.6521307129937,58.8599829325088 17.6521342161816,58.8599833817031 17.6521357745441,58.8599835743279 17.7157749185189,58.8680476174458 17.7157749330259,58.8680475811986 17.7176458690744,58.8638815150452 17.7176506243044,58.8638709288414 17.7271231349201,58.8428696747332 17.7237244014506,58.8328132063143 17.7178547910702,58.8152952167185</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

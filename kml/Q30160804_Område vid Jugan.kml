@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160804_Område_vid_Jugan" id="Q30160804_Område_vid_Jugan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160804_Område_vid_Jugan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160804_Område_vid_Jugan">
+		<SimpleData name="NVRID">2002502</SimpleData>
+		<SimpleData name="NAMN">Område vid Jugaren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1961/10/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1961/10/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1961/10/23</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Mora</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">28.75</SimpleData>
+		<SimpleData name="LAND_HA">12.18</SimpleData>
+		<SimpleData name="VATTEN_HA">16.564</SimpleData>
+		<SimpleData name="SKOG_HA">11.678</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">III Ö 106-55</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3267885901876,60.8767987614416 14.3308198180405,60.8776238300877 14.3316433323674,60.8767453474297 14.3318774366879,60.8765088790332 14.3327088637965,60.8756058822717 14.3329777570653,60.8753042846601 14.3343868750836,60.8738107763896 14.3345826231853,60.8736021081849 14.3350807810714,60.8731457303562 14.3360572647038,60.872244130249 14.3391907092243,60.8723250377092 14.3408848576486,60.8709118359069 14.3409805653261,60.8708320918415 14.3448509976698,60.8676943472865 14.3436140561066,60.8657400682024 14.3403350871528,60.8657834823872 14.3391828537098,60.8657987194031 14.3387363108657,60.8658046144396 14.3391685428229,60.866317600647 14.3394595840862,60.8665620934033 14.3392451594145,60.8668139168976 14.334196828038,60.8727001242304 14.3340620046059,60.8728999175659 14.3329986582474,60.8740525486285 14.3328249654552,60.8742256797052 14.3325914463055,60.8743487914274 14.3310478597444,60.8749682750613 14.3303278996703,60.8752709374455 14.3294200200804,60.8756424485756 14.3280823003568,60.8762285192002 14.3267885901876,60.8767987614416</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

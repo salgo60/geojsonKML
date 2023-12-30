@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18290345_Gåsevik" id="Q18290345_Gåsevik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18290345_Gåsevik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18290345_Gåsevik">
+		<SimpleData name="NVRID">2027489</SimpleData>
+		<SimpleData name="NAMN">Gåsevik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1974/05/09</SimpleData>
+		<SimpleData name="URSGALLDAT">1974/06/09</SimpleData>
+		<SimpleData name="SENGALLDAT">1974/06/09</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Lysekil</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Kungliga Vetenskapsakademin</SimpleData>
+		<SimpleData name="AREA_HA">1.48</SimpleData>
+		<SimpleData name="LAND_HA">1.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0.004</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.4417325124952,58.2465509050407 11.44053270434,58.245906769955 11.4387514300224,58.2459259307395 11.4379245983357,58.245268174445 11.4375890558022,58.2458134231985 11.4375746223515,58.2458529155747 11.4375472260852,58.2459279500499 11.4375378516629,58.2459449032139 11.4374910735222,58.2460294109543 11.4374347714019,58.2460905858774 11.4373679266529,58.2461290647564 11.4373493602303,58.2461397563683 11.4373171507215,58.2461582925104 11.4372290913207,58.2461740650597 11.437222925204,58.2461750256093 11.4371541975943,58.2461857283146 11.4370875998944,58.2461961038937 11.4370222909319,58.246192626691 11.4369974800626,58.2461913048084 11.4369496601466,58.2461698694091 11.4369299347706,58.2461610304572 11.4369146856045,58.2462612687893 11.4378068619749,58.2462391753742 11.4386891016169,58.2464952739031 11.4400322532896,58.2461271492074 11.4403869425171,58.2462091641668 11.440605350603,58.2463189305844 11.4408556833397,58.2464746958998 11.4412510625682,58.2467269974342 11.4415296228211,58.2468747297223 11.4417167014808,58.2469618751612 11.4420108158057,58.2470939578408 11.4423031164351,58.2469600186409 11.4417325124952,58.2465509050407</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158744_Sköllersta_prästäng" id="Q30158744_Sköllersta_prästäng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158744_Sköllersta_prästäng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158744_Sköllersta_prästäng">
+		<SimpleData name="NVRID">2000187</SimpleData>
+		<SimpleData name="NAMN">Sköllersta prästäng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1965/09/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1965/09/02</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/04/10</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">20.53</SimpleData>
+		<SimpleData name="LAND_HA">20.53</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.271</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-2253-89</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3432836236372,59.1420037648681 15.3433552856319,59.141249884947 15.342916443643,59.1412237793469 15.342916356168,59.1412237705973 15.3423197304532,59.141192655195 15.3419829548658,59.1410207120959 15.3421258252043,59.1406993539444 15.3421258422332,59.1406993089969 15.3421737583329,59.1405935538425 15.3413238491107,59.1404379033574 15.3414586162299,59.1405872275655 15.3408987962041,59.1407411154707 15.3406278046533,59.1405416055999 15.3401923849069,59.1402127483464 15.3382685979414,59.1407613277857 15.3385404661264,59.1410154508285 15.3383182893618,59.143162302515 15.337782832771,59.1447448061333 15.3377480842656,59.1468264364557 15.3418627268043,59.1468169128964 15.3440261647694,59.1467836763216 15.3440059785105,59.1467125950979 15.3435498345928,59.1451132492795 15.343345172091,59.1437346428552 15.3432252797573,59.1426758418061 15.3431350665649,59.1426680605365 15.3422353162761,59.1425887293949 15.3422987301468,59.1419568902715 15.3432836236372,59.1420037648681</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

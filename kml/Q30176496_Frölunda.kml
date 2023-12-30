@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30176496_Frölunda" id="Q30176496_Frölunda">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30176496_Frölunda</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30176496_Frölunda">
+		<SimpleData name="NVRID">2022529</SimpleData>
+		<SimpleData name="NAMN">Frölunda</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/06/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/09/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/09/08</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Upplands-Bro</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Upplands-Bro kommun</SimpleData>
+		<SimpleData name="AREA_HA">205.98</SimpleData>
+		<SimpleData name="LAND_HA">73.51</SimpleData>
+		<SimpleData name="VATTEN_HA">132.463</SimpleData>
+		<SimpleData name="SKOG_HA">65.153</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">2010-156</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6665597140173,59.4572522239467 17.6819882406962,59.4516299859748 17.6911755789077,59.4517042080341 17.6922786817907,59.4510655499562 17.6935622584447,59.4503223852969 17.693244740403,59.4498972685556 17.6931528667575,59.4496702484392 17.7061590713996,59.449773973647 17.7070423590124,59.4497809288784 17.7021532677854,59.4432324681035 17.7020760139474,59.4414326751119 17.7020329073989,59.4404279460319 17.6989117897976,59.4404349895297 17.6988040287338,59.4379851083785 17.693550937347,59.4380839668808 17.6727076703468,59.4496043448597 17.6622142314815,59.4547128682459 17.6665597140173,59.4572522239467</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

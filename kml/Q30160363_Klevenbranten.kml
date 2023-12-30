@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160363_Klevenbranten" id="Q30160363_Klevenbranten">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160363_Klevenbranten</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160363_Klevenbranten">
+		<SimpleData name="NVRID">2042453</SimpleData>
+		<SimpleData name="NAMN">Klevenbranten</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/06/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/11/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/11/13</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Jönköping, Ödeshög</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">16.42</SimpleData>
+		<SimpleData name="LAND_HA">16.02</SimpleData>
+		<SimpleData name="VATTEN_HA">0.401</SimpleData>
+		<SimpleData name="SKOG_HA">15.588</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-448-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5447152441715,58.1098093752935 14.5449993086345,58.1094095324316 14.5452024376749,58.1092167098536 14.5456554585555,58.1088964704236 14.5456169382535,58.108597346674 14.5457621709116,58.1083939066678 14.5459584947444,58.1082277100956 14.5455986125094,58.1082320299819 14.5449949880152,58.1088398024402 14.5446537690915,58.1092929947253 14.5445757606956,58.1096008139054 14.544059620484,58.1094085088638 14.5438089914627,58.1091443284829 14.5430307984185,58.1087550198116 14.5428363211927,58.108238959925 14.5423834585058,58.1072402204673 14.5422136952356,58.1064365492661 14.5421481483801,58.1057829151512 14.5413837229733,58.1051527689147 14.5412000852374,58.1046199397554 14.540875511346,58.1043498859434 14.5408154780478,58.1040807844406 14.5408943000788,58.1037113516253 14.540570024874,58.1034188905657 14.5404377999178,58.1030038831272 14.5400472376055,58.1029296508721 14.539574669446,58.1020617208278 14.539098781259,58.1009880109081 14.5387500470215,58.1004027327667 14.5385943313643,58.1002378849978 14.5378618575502,58.1001839405118 14.5378714699323,58.1006026516534 14.5394588435043,58.1036096609674 14.538776604219,58.1042230054772 14.5390643590487,58.1049037015454 14.5375662893068,58.1051097985775 14.537699689197,58.1056993736145 14.5385736905501,58.1062963153199 14.5392043270274,58.1067927922135 14.5396527223172,58.1072057532356 14.5404785638334,58.1082924081931 14.541270701026,58.1094604247745 14.5420424368606,58.1103341099021 14.5422771888603,58.1106795815215 14.5432987665746,58.1114740349386 14.5435926420015,58.1113955721386 14.5438582188321,58.1113846276794 14.5444108851805,58.1107906052522 14.5445524565802,58.1102493836902 14.5447152441715,58.1098093752935</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30172572_Långnäsudden" id="Q30172572_Långnäsudden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30172572_Långnäsudden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30172572_Långnäsudden">
+		<SimpleData name="NVRID">2040452</SimpleData>
+		<SimpleData name="NAMN">Långnäsudden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/12/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/01/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/01/07</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Söderhamn</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">37.34</SimpleData>
+		<SimpleData name="LAND_HA">34.13</SimpleData>
+		<SimpleData name="VATTEN_HA">3.199</SimpleData>
+		<SimpleData name="SKOG_HA">33.632</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-7892-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7824564963303,61.2236313918874 16.7827414163495,61.2215702459296 16.7823167002711,61.2216299962786 16.7823303331255,61.2214127628538 16.7827696807461,61.2213508731156 16.7830340178574,61.2194532337355 16.7823367964126,61.2179808562679 16.7794191358354,61.2167477403167 16.7790303933121,61.2167994151391 16.7777247790702,61.2157676557276 16.7769285324068,61.2155938667475 16.7745586294072,61.2177078150414 16.7755694105704,61.21869271222 16.7763923445395,61.2187777319033 16.7772276007037,61.2188178263681 16.7770744980936,61.2192222121612 16.7763747198569,61.2191546260044 16.7762002770011,61.2191643720595 16.7737328630953,61.2193022070278 16.7695606647432,61.2216017063752 16.7731126971228,61.2231537698952 16.7747492665219,61.2234385882638 16.7766729171631,61.2233826795337 16.7774828119466,61.2226217948494 16.7791439791938,61.2230567449013 16.7824564963303,61.2236313918874</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>16.7749821298565,61.2223121895178 16.775256308691,61.2222139976878 16.7756487439796,61.2224686118126 16.7753705314405,61.2225581673932 16.7749821298565,61.2223121895178</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30162738_Kvillanudden" id="Q30162738_Kvillanudden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30162738_Kvillanudden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30162738_Kvillanudden">
+		<SimpleData name="NVRID">2000284</SimpleData>
+		<SimpleData name="NAMN">Kvillanudden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/10/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/05/09</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Gävle</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">1.86</SimpleData>
+		<SimpleData name="LAND_HA">1.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0.169</SimpleData>
+		<SimpleData name="SKOG_HA">1.589</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4229-06, 80-203</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0455628512857,60.371867081248 17.0458738450989,60.3719185339739 17.0459410455262,60.3725756602771 17.0458640116266,60.3729375131208 17.0458516747146,60.3733053948123 17.0458121731562,60.3737121626792 17.0458456643765,60.3737495773683 17.0460388369296,60.3738601983995 17.0466196411101,60.3740505247337 17.046850312742,60.3739564681141 17.0473105089833,60.3738472574005 17.0472540458782,60.3737585877618 17.0471740588259,60.373648562323 17.0471392953334,60.373583090787 17.0471079728525,60.3734264740756 17.0471865962652,60.3732485587871 17.0472333153332,60.3731230035513 17.0472618616565,60.3728061396079 17.0472315486883,60.3725667501402 17.0471839003517,60.3722988141426 17.0470053196869,60.3719607337058 17.046457969972,60.3717763346825 17.0465022868328,60.3716428319177 17.0459692424323,60.3712924809302 17.0455628512857,60.371867081248</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

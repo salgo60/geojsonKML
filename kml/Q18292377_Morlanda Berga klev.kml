@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18292377_Morlanda_Berga_klev" id="Q18292377_Morlanda_Berga_klev">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18292377_Morlanda_Berga_klev</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18292377_Morlanda_Berga_klev">
+		<SimpleData name="NVRID">2027551</SimpleData>
+		<SimpleData name="NAMN">Morlanda Berga klev</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1945/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1946/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1946/01/10</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Orust</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">1.05</SimpleData>
+		<SimpleData name="LAND_HA">1.05</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.847</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.5151116398726,58.1858829655726 11.5156805012274,58.1858690634618 11.5161032832854,58.1859418233625 11.5163731715314,58.1859567572562 11.5166195258623,58.1858957003735 11.516682303003,58.1857817966182 11.5165347542252,58.1856817252896 11.5162972485926,58.1856248250597 11.5158189095751,58.185583241258 11.5152079016377,58.1855579857604 11.5145317602188,58.1855514781427 11.5137914656305,58.1855425926292 11.5133702016306,58.1855103447281 11.5130257844657,58.1854982203713 11.5126757734391,58.1855336027845 11.5124594310541,58.1856037520612 11.5124362572607,58.1856529722717 11.5124771761153,58.1856449584748 11.5129495338839,58.1855640304218 11.5133552245738,58.1864482357713 11.5133888144928,58.1864802658606 11.5137812247975,58.1861273649286 11.5139736527784,58.1860622677135 11.5142272522376,58.1859907253167 11.5146871805104,58.1859194020392 11.5151116398726,58.1858829655726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

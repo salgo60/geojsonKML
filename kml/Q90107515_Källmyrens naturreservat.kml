@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q90107515_Källmyrens_naturreservat" id="Q90107515_Källmyrens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q90107515_Källmyrens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q90107515_Källmyrens_naturreservat">
+		<SimpleData name="NVRID">2048581</SimpleData>
+		<SimpleData name="NAMN">Källmyren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/03/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/03/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/03/29</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Östersund</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">80.33</SimpleData>
+		<SimpleData name="LAND_HA">80.33</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">55.743</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7995-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.7728689254452,63.2305754759885 14.7746869688645,63.2314316945827 14.7763882510261,63.2319417009334 14.77758453558,63.2310422495264 14.7813158195756,63.2314425754091 14.7811915786949,63.2328303186138 14.7797607141016,63.2336195469749 14.7805793284309,63.2342599501378 14.7810766370066,63.2338422465662 14.7839746561051,63.2331276504645 14.7878870974631,63.2332082085587 14.7905708503261,63.2259482539997 14.7933424869787,63.2259294027621 14.7922711827931,63.2249957854416 14.7931319700329,63.2246644608964 14.7924341852323,63.2240582669697 14.7912960536412,63.2240134588423 14.7923841981146,63.2209524994265 14.7877482710051,63.2186622366822 14.7866926049005,63.2188745417569 14.7855145086793,63.2190762972512 14.7852757426562,63.2191093959808 14.7835760435943,63.2220738341831 14.7830499893131,63.2228179342301 14.7823965461586,63.2238711711479 14.7832481890007,63.2246523661042 14.7837017357328,63.2249839390626 14.783467257646,63.2253493420086 14.783032052445,63.2255937422986 14.7813391221385,63.2256055553151 14.77942308376,63.227911497145 14.778107775907,63.2274169468544 14.775176250574,63.228450101018 14.7732495715818,63.2301223772395 14.7728689254452,63.2305754759885</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

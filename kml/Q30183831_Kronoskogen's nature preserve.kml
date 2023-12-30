@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30183831_Kronoskogen_s_nature_preserve" id="Q30183831_Kronoskogen_s_nature_preserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30183831_Kronoskogen_s_nature_preserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30183831_Kronoskogen_s_nature_preserve">
+		<SimpleData name="NVRID">2046111</SimpleData>
+		<SimpleData name="NAMN">Kronoskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/09/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/10/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/10/26</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljungby</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Ljungby kommun</SimpleData>
+		<SimpleData name="AREA_HA">55.54</SimpleData>
+		<SimpleData name="LAND_HA">55.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">48.965</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2391-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.9679794702378,56.8444372028119 13.9657304013294,56.8440060453229 13.9651587338966,56.844025279112 13.9642014145186,56.843917709423 13.9632423356058,56.8436672574291 13.962310673998,56.843289689476 13.9612621874344,56.8428331687635 13.9605360590294,56.8426770899939 13.9596081458486,56.8426011297942 13.9593343809088,56.8426271724107 13.9589137178803,56.8426671858017 13.9581910942493,56.8427968461324 13.9575851084499,56.8429895783351 13.9569491878496,56.8431030387432 13.9558196560554,56.8431230408354 13.9546032196572,56.8431433509484 13.9535893648899,56.8431470388114 13.9523738882353,56.8432467009245 13.9518643267826,56.8433638522652 13.9509240659179,56.8435800188295 13.9499183183705,56.8438112271389 13.9498047306901,56.8440021472956 13.9500381906587,56.8441441868872 13.9490879454537,56.8446238826881 13.9493797229642,56.8447974667826 13.9521261208195,56.8467244028343 13.9537825210046,56.8484182613023 13.9552356854058,56.8499041465101 13.9552648517847,56.8499199144972 13.9576067854947,56.8495144599866 13.9576101535642,56.8495139795889 13.9595446146503,56.8492374563323 13.9596542675496,56.849216980055 13.9607587096751,56.849010722685 13.9607791300339,56.8484593014905 13.9607804640703,56.8484232370302 13.9622272721553,56.84827500871 13.9649657588638,56.8471535340633 13.9649693019419,56.8471482465226 13.9650715880174,56.8469956352839 13.9651364325177,56.8468988853098 13.9648997494029,56.8465028714037 13.9682688058714,56.8448550735115 13.9679794702378,56.8444372028119</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30179352_Forstjärnberget" id="Q30179352_Forstjärnberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30179352_Forstjärnberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30179352_Forstjärnberget">
+		<SimpleData name="NVRID">2001065</SimpleData>
+		<SimpleData name="NAMN">Forstjärnberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/11/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/11/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/11/04</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Piteå</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">82.13</SimpleData>
+		<SimpleData name="LAND_HA">80.98</SimpleData>
+		<SimpleData name="VATTEN_HA">1.148</SimpleData>
+		<SimpleData name="SKOG_HA">73.496</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-9254-02</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.235812018505,65.5369420650062 21.2361289836456,65.5370662389061 21.2369052435399,65.5373703251683 21.2309685277089,65.5446204282011 21.2309459833795,65.5446479461747 21.2321826638168,65.54528222564 21.2325685850164,65.5454801484272 21.2331109675946,65.5455553939651 21.2332928862726,65.5455806302278 21.2346309098,65.5455284526147 21.2363726649393,65.5454605106277 21.2363799566132,65.5454734146967 21.2377663692175,65.5479257662961 21.2378015076687,65.5479879270015 21.2399082023234,65.5483322539098 21.2431256484881,65.5479142822501 21.2431565265923,65.5479102697036 21.2431079268927,65.5466427955229 21.2430812676199,65.5462803946042 21.2430584180478,65.5459699350656 21.2431093047033,65.5457501719809 21.2431245781135,65.5456842112151 21.2434021194081,65.5452639209924 21.24347076366,65.5451599530279 21.2435290139285,65.5450821931157 21.2439526359003,65.5445165908076 21.2444101861998,65.5441210955589 21.2444434026973,65.5440923779042 21.2449048226325,65.5439158705632 21.2450221488891,65.5438709977942 21.2451370612655,65.5438625603796 21.2456698103629,65.5438234495657 21.2477001416856,65.5440558877288 21.2481156709649,65.5441034603644 21.2491048852729,65.5441947346914 21.2491561803728,65.5441967499186 21.2492443346289,65.5442002147747 21.2492592762473,65.544200804467 21.2484370402002,65.5432688973664 21.247783344266,65.5425279729393 21.2508938164701,65.5408664970225 21.2415284481593,65.5329860764011 21.2415271974828,65.5329850291295 21.2412776181648,65.5329440159962 21.2393856256252,65.5326330886752 21.2393268363765,65.5327881074671 21.2386061688921,65.534688147185 21.2384178013521,65.5351846998136 21.2383917558792,65.5352533290872 21.2382762265469,65.5353123640265 21.2376245239865,65.5357433954155 21.2358197070321,65.536936983127 21.235812018505,65.5369420650062</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

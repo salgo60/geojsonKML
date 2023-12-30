@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160721_Ånö" id="Q30160721_Ånö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160721_Ånö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160721_Ånö">
+		<SimpleData name="NVRID">2002540</SimpleData>
+		<SimpleData name="NAMN">Ånö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/12/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2003/01/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2003/01/03</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Östhammar</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">15.9</SimpleData>
+		<SimpleData name="LAND_HA">15.9</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">15.204</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-6098-99</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.2593547127561,60.2585870147446 18.2598164305692,60.2583965975895 18.2606384337803,60.258238384424 18.2611541112666,60.2578483792777 18.2622507796511,60.2576835845215 18.2630054869457,60.2576082150826 18.2631258529042,60.2574577780073 18.2630962712019,60.2563156081927 18.2632785261982,60.2558826211157 18.2631891304625,60.2556468950382 18.2621099938962,60.2544553769379 18.2617374991282,60.2543347740553 18.2617533661388,60.2540780286777 18.2620514240909,60.2537115779384 18.2621017287833,60.2532878231828 18.2627071619913,60.2529956186406 18.2629403004537,60.2524028936756 18.2619213331631,60.2525776887175 18.2612092471064,60.2528658459981 18.2609534704004,60.2529608771036 18.2602795893487,60.2531202200825 18.2602826007468,60.2537659208336 18.2574256135234,60.2548759539589 18.2571561526513,60.256746099092 18.2568578284928,60.2567881721892 18.2566807956598,60.2585573495549 18.2569293897607,60.2586498087646 18.2579234755833,60.258521580501 18.258920730837,60.2586561554413 18.2593547127561,60.2585870147446</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

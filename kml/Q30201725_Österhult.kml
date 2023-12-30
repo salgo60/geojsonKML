@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30201725_Österhult" id="Q30201725_Österhult">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30201725_Österhult</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30201725_Österhult">
+		<SimpleData name="NVRID">2029529</SimpleData>
+		<SimpleData name="NAMN">Österhult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/02/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/03/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/03/19</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ydre</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.33</SimpleData>
+		<SimpleData name="LAND_HA">11.33</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.326</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2589-07</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4960228105121,57.8528254552091 15.4944633559174,57.8520540491666 15.4935659264759,57.8524837303508 15.493050044225,57.8538494175197 15.4930181616718,57.8539342454546 15.4915989837951,57.8554322211544 15.4928366083568,57.8559075765405 15.4952540441182,57.8568365597388 15.4975213988642,57.8553007113483 15.4974120369605,57.8549582634641 15.4977532081322,57.8548123452557 15.4979337750757,57.8547954507748 15.497929481056,57.854772454688 15.4979096223308,57.8544653611503 15.4978914294694,57.854382704523 15.4978744956132,57.8543387661205 15.4978438458999,57.8542826025566 15.4978110244607,57.8542351155271 15.4977563597113,57.8541713032838 15.4977033039978,57.8541166288008 15.4976456296784,57.8540654755424 15.4975421626743,57.8539853179095 15.4974051800681,57.8538866620131 15.4970483986319,57.8536291775667 15.4968690651842,57.8534979101099 15.4967687566366,57.853407050416 15.4967032611327,57.8533114374619 15.4966740114937,57.8532221499882 15.4966716394877,57.853146545341 15.4960228105121,57.8528254552091</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

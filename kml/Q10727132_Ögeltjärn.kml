@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10727132_Ögeltjärn" id="Q10727132_Ögeltjärn">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10727132_Ögeltjärn</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10727132_Ögeltjärn">
+		<SimpleData name="NVRID">2000501</SimpleData>
+		<SimpleData name="NAMN">Ögeltjärn</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1994/06/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1994/07/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/07/07</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Örnsköldsvik</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Örnsköldsviks kommun</SimpleData>
+		<SimpleData name="AREA_HA">74.32</SimpleData>
+		<SimpleData name="LAND_HA">73.9</SimpleData>
+		<SimpleData name="VATTEN_HA">0.41</SimpleData>
+		<SimpleData name="SKOG_HA">63.348</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Örnsköldsvik kommun  MUN 93/000721 252</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7979457810218,63.202217522558 18.7961487700757,63.2025065626569 18.7936510897904,63.2029080077544 18.791505131936,63.203253679751 18.7891496238716,63.2036310981449 18.7873074392989,63.2039262249472 18.7833808764431,63.2061333400966 18.7839508314796,63.2064086730917 18.7863444546403,63.2075649856811 18.7877798394973,63.208258776682 18.7888964790332,63.208798652269 18.7903787065135,63.209520295386 18.7948132783283,63.2124624475603 18.8058999448607,63.2091883308129 18.805251237624,63.2082776410099 18.8045651552309,63.2073145149766 18.8039252645392,63.2064160131448 18.8026653615983,63.2046461768633 18.8015661450372,63.2040813711393 18.8007426322654,63.2036586363985 18.7985578704161,63.2025330910333 18.7979458452323,63.2022175567873 18.7979457810218,63.202217522558</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

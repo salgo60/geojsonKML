@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30209949_Håbolsängs_lövskog" id="Q30209949_Håbolsängs_lövskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30209949_Håbolsängs_lövskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30209949_Håbolsängs_lövskog">
+		<SimpleData name="NVRID">2044494</SimpleData>
+		<SimpleData name="NAMN">Håbolsängs lövskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/09/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/10/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/10/22</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Dals-Ed</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">11.36</SimpleData>
+		<SimpleData name="LAND_HA">11.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">8.877</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-32532-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.9828727527355,59.0316536851472 11.9827668889659,59.0312689345788 11.9826047554098,59.0308304125448 11.9825653695861,59.0307238850216 11.9840261570341,59.0300257073527 11.9864350200331,59.0289825305039 11.9840923542606,59.0287270381945 11.9829358260252,59.0286007823578 11.982063892207,59.0288732697579 11.9803547081962,59.029409999461 11.9797376817177,59.0294560464668 11.979480296634,59.0294752882824 11.9795574998276,59.0296960993445 11.9795746900837,59.0299256087727 11.9797653038245,59.0301890958672 11.9796361996233,59.0302418513895 11.9790696333366,59.0304733769234 11.9792732511349,59.0309469466602 11.9790861396818,59.0309648623317 11.9792491226492,59.0314231552292 11.9792783617551,59.0314230706805 11.979301646865,59.0314509569568 11.979476700309,59.0314180299697 11.979566779554,59.0317533530611 11.9796065205054,59.0324295884906 11.9799409357899,59.0333684830612 11.98149575507,59.0332992595876 11.9820970247039,59.0332729333933 11.9833378276793,59.0332113372367 11.9831108539018,59.032421151925 11.9828727527355,59.0316536851472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

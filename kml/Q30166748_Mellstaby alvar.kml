@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30166748_Mellstaby_alvar" id="Q30166748_Mellstaby_alvar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30166748_Mellstaby_alvar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30166748_Mellstaby_alvar">
+		<SimpleData name="NVRID">2002930</SimpleData>
+		<SimpleData name="NAMN">Mellstaby alvar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/06/01</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/07/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/07/08</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Mörbylånga</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">216.16</SimpleData>
+		<SimpleData name="LAND_HA">216.15</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.07</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1073-99</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4608529708036,56.3427964131597 16.4608568436086,56.3427952982206 16.4616145161595,56.342576308036 16.4685209883402,56.3405798070264 16.4853444245968,56.3357214669337 16.4853444885748,56.3357214481955 16.4916606886825,56.3338475447738 16.4917735663185,56.3338140531483 16.4941844002017,56.3331010523113 16.4940064639223,56.3321690605806 16.4937729441787,56.3314399334504 16.4931113016865,56.3291319153602 16.4926910245233,56.3276990441761 16.494386840842,56.3276232935612 16.4941906438132,56.3258992216895 16.496049182897,56.3256212578562 16.4959558322801,56.3253230463025 16.4959551112283,56.3253207367127 16.4959549998378,56.3253203696463 16.4954825985574,56.3253998453684 16.4940733836325,56.3256017195227 16.4937972086676,56.3256401838124 16.4937971281952,56.3256401937684 16.4926336814856,56.325802246583 16.4890377009626,56.3266142507978 16.4798164934246,56.3287239418118 16.4709652781124,56.3307218247034 16.469119934465,56.3311382418372 16.4659583842224,56.3318756858939 16.4600058046351,56.3332288636297 16.4554711137305,56.3342594783065 16.4554722815759,56.3342612617021 16.4557851412447,56.3347388533547 16.4563968241193,56.3357117930751 16.4608524907889,56.3427965536021 16.4608529708036,56.3427964131597</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

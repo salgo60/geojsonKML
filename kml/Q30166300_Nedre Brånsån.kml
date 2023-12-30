@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30166300_Nedre_Brånsån" id="Q30166300_Nedre_Brånsån">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30166300_Nedre_Brånsån</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30166300_Nedre_Brånsån">
+		<SimpleData name="NVRID">2044371</SimpleData>
+		<SimpleData name="NAMN">Nedre brånsån</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/12/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/01/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/01/12</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Härnösand</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">6.6</SimpleData>
+		<SimpleData name="LAND_HA">6.6</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">6.602</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6229-13</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7252543791739,62.6223727261914 17.7257330021777,62.622329506757 17.726101595523,62.6224901871695 17.7262847468297,62.622421204888 17.7265517899323,62.6223993643186 17.725998659689,62.6219427298392 17.7247532723958,62.6219211145571 17.7242366792574,62.6217481281407 17.723649086601,62.6213721971876 17.7226229827208,62.6207055552267 17.7217996149779,62.6205547862086 17.7212739867929,62.6197739237797 17.7208071576521,62.6190752726598 17.7200016531199,62.6189886211637 17.7197973324522,62.6186953451875 17.7200318287392,62.6184527359546 17.7193165810842,62.6178087289639 17.7190488562133,62.6179085101311 17.7173237435634,62.6183913713414 17.7162488675393,62.6186513023623 17.7170719268867,62.619191693107 17.7183246689243,62.6195764538318 17.7185311019889,62.6194964474777 17.7197267925528,62.6198403292557 17.7200861235982,62.6200230838018 17.7199824151989,62.6203798680257 17.7196217786869,62.6204217668597 17.7193550206146,62.6205965537776 17.7202885819302,62.620986942387 17.7210227017846,62.6211671803176 17.722179127898,62.6216273469499 17.7225319542803,62.6219315675015 17.7226934271046,62.6221836034248 17.7245270052813,62.6226208731875 17.7252048684354,62.6227795124907 17.7250001466292,62.622430661813 17.7252543791739,62.6223727261914</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

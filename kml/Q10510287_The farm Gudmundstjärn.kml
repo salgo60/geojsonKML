@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10510287_The_farm_Gudmundstjärn" id="Q10510287_The_farm_Gudmundstjärn">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10510287_The_farm_Gudmundstjärn</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10510287_The_farm_Gudmundstjärn">
+		<SimpleData name="NVRID">2000646</SimpleData>
+		<SimpleData name="NAMN">Gudmundstjärn</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1983/03/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1983/04/15</SimpleData>
+		<SimpleData name="SENGALLDAT">1983/04/15</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sundsvall</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Sundsvalls kommun</SimpleData>
+		<SimpleData name="AREA_HA">67.96</SimpleData>
+		<SimpleData name="LAND_HA">58.58</SimpleData>
+		<SimpleData name="VATTEN_HA">9.368</SimpleData>
+		<SimpleData name="SKOG_HA">44.019</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-1137-81</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0244827780328,62.6655152542453 17.0274471783126,62.6634891618794 17.0289572329208,62.6624569481421 17.0319131528933,62.6604361295163 17.029212213335,62.6593406596557 17.0219015974288,62.6564185992905 17.0219009198467,62.6564189682226 17.0117898824149,62.6573861195462 17.0134709921281,62.6634398355427 17.0149860110855,62.6636843121726 17.0161894248465,62.6640119455729 17.0176721304573,62.6643210757356 17.019216279266,62.6644203926188 17.0242665007428,62.6654554435443 17.0244827780328,62.6655152542453</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

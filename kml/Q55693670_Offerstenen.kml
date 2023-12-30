@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693670_Offerstenen" id="Q55693670_Offerstenen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693670_Offerstenen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693670_Offerstenen">
+		<SimpleData name="NVRID">2047521</SimpleData>
+		<SimpleData name="NAMN">Offerstenen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/12/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/05</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falköping, Skara, Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">32.88</SimpleData>
+		<SimpleData name="LAND_HA">32.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">32.144</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-43473-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6917002720736,58.3433770114349 13.6911896770452,58.3432083795041 13.6909564314898,58.3431313486384 13.6910201502992,58.3429651660919 13.6909468640513,58.3428921513899 13.6906446669904,58.3426739893881 13.6896713313589,58.3416079512857 13.6895949729003,58.3415978473553 13.6878710065732,58.341722642436 13.6845007530208,58.3431669150059 13.6841805880164,58.3429902133846 13.6837088127306,58.3427302422251 13.6840786966285,58.351021918157 13.6850116468433,58.3510785553257 13.6854714926209,58.3511087260066 13.6858795092727,58.3511355002199 13.6865995961607,58.351180913785 13.6878310176098,58.3494343930705 13.6888495626189,58.3479896190352 13.6893731486069,58.3472468907575 13.6900731037854,58.3462539311481 13.6904881273598,58.3461556923616 13.6907139926565,58.3458132042347 13.6907708131243,58.3455139196111 13.6914937641323,58.3441867180766 13.6916170462055,58.3439216913139 13.6917002720736,58.3433770114349</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

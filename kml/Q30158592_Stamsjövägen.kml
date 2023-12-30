@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158592_Stamsjövägen" id="Q30158592_Stamsjövägen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158592_Stamsjövägen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158592_Stamsjövägen">
+		<SimpleData name="NVRID">2022669</SimpleData>
+		<SimpleData name="NAMN">Stamsjövägen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/12/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/12/07</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Oskarshamn</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">45.25</SimpleData>
+		<SimpleData name="LAND_HA">42.21</SimpleData>
+		<SimpleData name="VATTEN_HA">3.039</SimpleData>
+		<SimpleData name="SKOG_HA">37.128</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3758-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4510203072973,57.3984313742583 16.4470012583082,57.3975421655302 16.4469268925138,57.3975929625426 16.4467407555902,57.3977006101362 16.4465247226956,57.3977270070542 16.4462515490739,57.3977649844008 16.4461038845773,57.3977860226352 16.4459134980475,57.3978124834118 16.4457141905838,57.3978444187931 16.4454037093667,57.3978930823555 16.4451674266267,57.3979365185804 16.4449266355134,57.3980070662223 16.4446736009651,57.3980972134112 16.4445283487389,57.3981516969126 16.4444046277649,57.3982035705138 16.444164834642,57.3982944901767 16.443926677024,57.3983144790448 16.4437111732821,57.3983142720652 16.443421520699,57.3982901273038 16.4431668429464,57.398285283304 16.4430350802613,57.398263461198 16.442915324461,57.3982592001023 16.4427587531822,57.3982696632989 16.4426339290821,57.3982981980793 16.4425277703459,57.3983295286454 16.4423559194884,57.3983750965374 16.4421615845858,57.3984143003414 16.4419285245683,57.3984247218673 16.441701088763,57.3984160592336 16.4415366347675,57.3984300789938 16.441289040691,57.3984301902043 16.4409860004654,57.3984444114193 16.440201325817,57.3982079401829 16.4345131665422,57.3997105932559 16.4327810014391,57.4012659676584 16.432961310323,57.4016649033682 16.4336416770992,57.403031044301 16.4335607975895,57.4032950727293 16.437888084688,57.4037059530846 16.4413236403343,57.4031089124656 16.4411710455108,57.4028159619613 16.4456821608606,57.4023917076359 16.4510203072973,57.3984313742583</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

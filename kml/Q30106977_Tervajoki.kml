@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30106977_Tervajoki" id="Q30106977_Tervajoki">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30106977_Tervajoki</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30106977_Tervajoki">
+		<SimpleData name="NVRID">2001013</SimpleData>
+		<SimpleData name="NAMN">Tervajoki</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/12/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/12/29</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/12/29</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Pajala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">75.82</SimpleData>
+		<SimpleData name="LAND_HA">916.13</SimpleData>
+		<SimpleData name="VATTEN_HA">28.92</SimpleData>
+		<SimpleData name="SKOG_HA">352.749</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-14012-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.1528940504293,67.3432657512863 23.1486883703613,67.3436793051812 23.148658307724,67.3436908561861 23.1443914260137,67.3453307370231 23.1376473193741,67.3468896783705 23.1349802875537,67.3469219717855 23.132758155817,67.3469488377516 23.1283592134246,67.3479594336352 23.1278711559769,67.349268552154 23.1070545110399,67.3479240304767 23.0927637959844,67.3469993592081 23.092838355541,67.3470940176046 23.0941307078454,67.3487344552742 23.105647008097,67.3503483819755 23.1081556186446,67.350979607665 23.1097614346995,67.3516533764371 23.1119280464814,67.3529220328496 23.1119301568927,67.3529232719048 23.1299957544753,67.3492173952099 23.1326196110364,67.3486788881653 23.1328222696331,67.3487139458287 23.1355856976,67.3491918948104 23.1355867528699,67.3491917598322 23.1449351192054,67.3479886798988 23.1455416624224,67.3479105975619 23.1563913129055,67.3465134443692 23.155787631059,67.3453172974986 23.1552965604807,67.3443442197258 23.1533583824764,67.3443155789973 23.1531415290437,67.3443123773801 23.1530426019533,67.3438940325641 23.1528940504293,67.3432657512863</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

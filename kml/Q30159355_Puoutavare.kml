@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30159355_Puoutavare" id="Q30159355_Puoutavare">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30159355_Puoutavare</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30159355_Puoutavare">
+		<SimpleData name="NVRID">2014696</SimpleData>
+		<SimpleData name="NAMN">Puoutavare</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/19</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Gällivare, Överkalix</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">167.72</SimpleData>
+		<SimpleData name="LAND_HA">167.71</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">141.537</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11517-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.1233954914458,66.4586449631748 22.1239742340889,66.4547316851971 22.1260208116956,66.4535867068257 22.1235265067584,66.452925172677 22.1215313636999,66.4533880349036 22.1193514140821,66.4524226512352 22.1138586520963,66.4527631837117 22.1117462325139,66.4515174961422 22.1068086546149,66.4520113664981 22.102633973395,66.4554667391602 22.0937471911918,66.4541716274445 22.0941716866405,66.4558648277916 22.0918724242496,66.4563288544036 22.0916068967673,66.4576289570311 22.0903437101359,66.4580476214379 22.0886727915609,66.4585705426716 22.0854105840074,66.4585244395725 22.0850955693434,66.4592133765181 22.0855309473725,66.4594522165794 22.0855130077946,66.4600313137648 22.0835393835192,66.4606797511213 22.081955255237,66.4607675971562 22.0815751157116,66.4610584261789 22.0826118481896,66.4624348235807 22.0838977166212,66.4641747146821 22.0883314861228,66.4639014566063 22.0927580486868,66.4636287083626 22.0971904499329,66.4633550771562 22.101661477802,66.4630793358488 22.1056939531742,66.4628266112377 22.1101837333559,66.4625524577335 22.1188486608932,66.4620094327282 22.1233047459159,66.461264504657 22.121701200134,66.4601669855781 22.1219297081763,66.459178052335 22.1233954914458,66.4586449631748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

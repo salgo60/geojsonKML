@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30173705_Dalby_fälad_no_5" id="Q30173705_Dalby_fälad_no_5">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30173705_Dalby_fälad_no_5</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30173705_Dalby_fälad_no_5">
+		<SimpleData name="NVRID">2014603</SimpleData>
+		<SimpleData name="NAMN">Dalby fälad no 5</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/07/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/07/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/07/15</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Lund</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Lunds kommun</SimpleData>
+		<SimpleData name="AREA_HA">13.88</SimpleData>
+		<SimpleData name="LAND_HA">13.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.643</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-19321-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3839086229758,55.67194866465 13.3836222172584,55.6718240665494 13.383551261234,55.6721306937919 13.3831661737206,55.6739270376561 13.3831237056641,55.6740143593939 13.3829211897912,55.6751540568256 13.3826441066473,55.6762158808665 13.3824057881497,55.6772964311754 13.3824073795357,55.6772964072141 13.3828104273399,55.677291554212 13.3840003710384,55.677266264963 13.3854716070569,55.6772544600699 13.3855561584829,55.6772531547797 13.3862731247602,55.6740008808186 13.3862767405423,55.6739130562125 13.3865094255552,55.6729824489857 13.3858764944746,55.6727764099538 13.3855697342265,55.6726735213483 13.3850343898242,55.6724577797125 13.3843477193698,55.6721411807978 13.3839086229758,55.67194866465</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3870081856286,55.670781164954 13.3838418516272,55.6707395109674 13.3836488817591,55.6716486642926 13.3841069583688,55.671852413082 13.3847750889172,55.6721468058624 13.3856930787705,55.6725103811585 13.3857883950607,55.6725555708808 13.3861344505214,55.6726479938747 13.3865573070645,55.6727633980394 13.3866797518999,55.6721498845116 13.3870081856286,55.670781164954</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

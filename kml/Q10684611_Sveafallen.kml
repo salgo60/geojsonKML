@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10684611_Sveafallen" id="Q10684611_Sveafallen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10684611_Sveafallen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10684611_Sveafallen">
+		<SimpleData name="NVRID">2000204</SimpleData>
+		<SimpleData name="NAMN">Sveafallen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/10/17</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/10/17</SimpleData>
+		<SimpleData name="SENGALLDAT">1975/10/17</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Degerfors</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Naturvårdsverket</SimpleData>
+		<SimpleData name="AREA_HA">84.86</SimpleData>
+		<SimpleData name="LAND_HA">84.55</SimpleData>
+		<SimpleData name="VATTEN_HA">0.31</SimpleData>
+		<SimpleData name="SKOG_HA">82.068</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-149-75, RrT 116</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.428782866522,59.2173657279756 14.4293228236366,59.2176550536382 14.4300260396254,59.218631027103 14.4314750856101,59.2206328015483 14.4320277957069,59.2214000532302 14.4322991140615,59.221617031092 14.4338845895139,59.2223204085483 14.4367864427049,59.2230430776334 14.4391284370893,59.2233156610521 14.441423622225,59.2227078995384 14.4429320656981,59.2219442595473 14.4429321186904,59.2219442328326 14.4429320842402,59.2219441967629 14.4334463676042,59.2155452985899 14.4338851134581,59.2126510694383 14.4347792999877,59.2126481240976 14.4368488970602,59.2126412685813 14.437345285323,59.2112904601419 14.4261920508854,59.2094294187601 14.4187918825219,59.2119252817792 14.420067295305,59.2126958767974 14.4200673481485,59.2126958590718 14.4214501592339,59.213436816225 14.423093424995,59.2143180048541 14.4233000390061,59.2144287982815 14.428782866522,59.2173657279756</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

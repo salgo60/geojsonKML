@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30163191_Kalix_yttre_skärgård" id="Q30163191_Kalix_yttre_skärgård">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30163191_Kalix_yttre_skärgård</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30163191_Kalix_yttre_skärgård">
+		<SimpleData name="NVRID">2000997</SimpleData>
+		<SimpleData name="NAMN">Kalix yttre skärgård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/12/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/12/29</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/12/29</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Kalix</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">9296.38</SimpleData>
+		<SimpleData name="LAND_HA">81.08</SimpleData>
+		<SimpleData name="VATTEN_HA">9215.243</SimpleData>
+		<SimpleData name="SKOG_HA">10.47</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-11167-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.0325349842977,65.6993459735761 23.0617086985448,65.6931057278836 23.0831188508362,65.6885206725169 23.0990438862668,65.685107299067 23.1172466493483,65.6867010495923 23.1327988015631,65.6880608291428 23.2393432297288,65.712278478776 23.2543004878877,65.7042594752414 23.2775276450798,65.7074524104541 23.3277585791199,65.6944994905573 23.3964094531544,65.7149848269896 23.4540906364992,65.7203911681548 23.4542723134709,65.7202451951245 23.4958266841181,65.7040226178366 23.5607460647143,65.7045305054718 23.5742560286359,65.6573687429285 23.5637085679936,65.6518341476808 23.3384194669886,65.6551892132219 23.2326744375849,65.6875994780622 23.1221814545638,65.6821147080093 23.1001680685347,65.6810120878171 23.0826553020726,65.6854403973331 23.0629995155829,65.6904064333546 23.0579960768686,65.690226047904 23.055453461543,65.688630181863 23.0514713835091,65.6885550505786 23.0505295033718,65.6885372603943 23.0334880013807,65.6949854353133 23.0325349842977,65.6993459735761</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

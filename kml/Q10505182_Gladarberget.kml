@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10505182_Gladarberget" id="Q10505182_Gladarberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10505182_Gladarberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10505182_Gladarberget">
+		<SimpleData name="NVRID">2023974</SimpleData>
+		<SimpleData name="NAMN">Gladarberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/05/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/07/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/07/15</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Örebro</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Örebro kommun</SimpleData>
+		<SimpleData name="AREA_HA">33.45</SimpleData>
+		<SimpleData name="LAND_HA">33.45</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">32.776</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Sam 195/2009 (kommunens dnr)</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2265758989108,59.3394486757748 15.2273151375638,59.3389751379364 15.2289072409114,59.3391999199616 15.2291625227323,59.3392468151889 15.2297727918971,59.3383037621767 15.2323992493086,59.3382950929839 15.2324022234071,59.3380201854847 15.2340650837367,59.337454834125 15.234420167961,59.3371214882999 15.234193364443,59.3356279925017 15.2335125009537,59.3357594717565 15.2330734448397,59.3353856028618 15.233022727495,59.335035384329 15.2331208169193,59.3348906634339 15.2319829252967,59.3348975873351 15.2308815034711,59.3348861350478 15.2308271590981,59.3354307824716 15.2294268836439,59.3355743961153 15.2297797376175,59.3348730755846 15.2288451027363,59.3348641408002 15.2214322164407,59.3347928780765 15.2214121176781,59.3349914826495 15.2213255541581,59.3362242623097 15.2211912491933,59.3381368615177 15.2211084631105,59.3388009445252 15.2210603578159,59.3390916794368 15.2219567322779,59.3391060964686 15.2218592023271,59.339955062481 15.2218580803951,59.3400094664697 15.2231381953491,59.3400119517358 15.2233139393942,59.3400123333534 15.2246996903764,59.3400149635717 15.2263378125735,59.3398141975416 15.2264167787644,59.3397428474049 15.2264963479405,59.3395957571103 15.2265758989108,59.3394486757748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

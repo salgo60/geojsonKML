@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693566_Mariebäck" id="Q55693566_Mariebäck">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693566_Mariebäck</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693566_Mariebäck">
+		<SimpleData name="NVRID">2044810</SimpleData>
+		<SimpleData name="NAMN">Mariebäck</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/03/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/04/25</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/04/25</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Bjurholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">19.17</SimpleData>
+		<SimpleData name="LAND_HA">19.17</SimpleData>
+		<SimpleData name="VATTEN_HA">0.001</SimpleData>
+		<SimpleData name="SKOG_HA">19.005</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8753-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.1763100252879,63.9717743237873 19.1764546079898,63.9718782182618 19.1765065358975,63.9719820963273 19.1765216086724,63.9720952167222 19.1841996008559,63.9737844176513 19.1847391001843,63.9736511798269 19.1847231123315,63.9727679244403 19.1859585155049,63.9723727508041 19.187848142574,63.9724104509457 19.1883931338912,63.9720214331048 19.1886506268804,63.971815235638 19.1887886961804,63.9712899173343 19.1884605000431,63.9712572945335 19.1883501833119,63.9709575243438 19.1885460182604,63.970571490049 19.1811799040361,63.9691013964354 19.1785812648369,63.9694661551538 19.1780616687557,63.9696538083899 19.1777744071333,63.9701119275574 19.1785746501257,63.9705591559149 19.1763100252879,63.9717743237873</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

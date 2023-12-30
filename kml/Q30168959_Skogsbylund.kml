@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30168959_Skogsbylund" id="Q30168959_Skogsbylund">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30168959_Skogsbylund</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30168959_Skogsbylund">
+		<SimpleData name="NVRID">2002687</SimpleData>
+		<SimpleData name="NAMN">Skogsbylund</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1937/03/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1937/03/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1937/03/30</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Mörbylånga</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">2.57</SimpleData>
+		<SimpleData name="LAND_HA">2.57</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.558</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-135-71</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4967972713955,56.6232314012109 16.4965421957329,56.623422314691 16.4963199462459,56.6236219169776 16.4961444508005,56.6237492454966 16.4958541257664,56.6238506749981 16.4956126642572,56.6239516602851 16.4954374382643,56.62408796079 16.4958345071543,56.6242908911112 16.4961990084298,56.62449411294 16.4964759573385,56.624491582348 16.4966727072482,56.6245346724146 16.4966727894199,56.6245346893967 16.4968592872595,56.6245106659149 16.497181622606,56.6244564527738 16.4975866113053,56.6244157642426 16.4978970313516,56.6244035638689 16.4982711604085,56.6244084673011 16.4986397159768,56.6244553439138 16.4988979854415,56.6245034041734 16.4990212686754,56.624519620041 16.4994477044368,56.6246667192888 16.5001985858827,56.6243686315791 16.4997634073734,56.6241663001384 16.4992745069732,56.6239355292435 16.4987939206639,56.6237136864911 16.4983307899456,56.623554609315 16.4980108435042,56.6234306642658 16.4977402500599,56.6233333766315 16.4971749930124,56.6231569069715 16.4969236408721,56.6230955426952 16.4967972713955,56.6232314012109</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

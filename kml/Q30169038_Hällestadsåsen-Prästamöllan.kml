@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30169038_Hällestadsåsen_Prästamöllan" id="Q30169038_Hällestadsåsen_Prästamöllan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30169038_Hällestadsåsen_Prästamöllan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30169038_Hällestadsåsen_Prästamöllan">
+		<SimpleData name="NVRID">2001545</SimpleData>
+		<SimpleData name="NAMN">Hällestadsåsen-Prästamöllan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/09/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1979/03/01</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Lund</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">5.97</SimpleData>
+		<SimpleData name="LAND_HA">5.83</SimpleData>
+		<SimpleData name="VATTEN_HA">0.14</SimpleData>
+		<SimpleData name="SKOG_HA">4.132</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-6159-73</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4000014693613,55.674381255574 13.3998864676585,55.6745606675839 13.3998897398522,55.6745634871319 13.4005863422547,55.6751672611123 13.4005888003574,55.6751693780568 13.4006299653656,55.6751758097376 13.4006087096055,55.6751865594369 13.4006086604556,55.6751865947433 13.40324148829,55.6774683012982 13.4032405025129,55.6774694657305 13.4035808227125,55.677561440736 13.405431452899,55.6780682428436 13.4055192942233,55.6779860953654 13.4064664444164,55.6782377825823 13.4071103961769,55.6777603209623 13.4068665425893,55.6776800234834 13.4063148503686,55.6775641677664 13.4057423711609,55.6774929729749 13.4053642996099,55.6774265749368 13.4048860189174,55.6774078419513 13.4047959341241,55.6772297862949 13.4047587670779,55.6771563223834 13.4024867607048,55.6745541979935 13.4024323012024,55.674491975249 13.4024322217307,55.6744919742146 13.4024312381119,55.6744919164784 13.401533799628,55.6744388124881 13.4006336611598,55.6740797416162 13.4002188973681,55.6740421369178 13.4000014693613,55.674381255574</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

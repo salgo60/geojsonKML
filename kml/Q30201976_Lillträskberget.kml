@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30201976_Lillträskberget" id="Q30201976_Lillträskberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30201976_Lillträskberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30201976_Lillträskberget">
+		<SimpleData name="NVRID">2042795</SimpleData>
+		<SimpleData name="NAMN">Lillträskberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/08/27</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/09/29</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Arvidsjaur</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">92.5</SimpleData>
+		<SimpleData name="LAND_HA">76.55</SimpleData>
+		<SimpleData name="VATTEN_HA">15.95</SimpleData>
+		<SimpleData name="SKOG_HA">55.775</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7990-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.4010389318424,65.1880965180861 19.4079816837074,65.1846421062223 19.4089628492809,65.1844866347637 19.4090887248862,65.1842034087425 19.4093848080301,65.1835328599309 19.4101849223596,65.1821487534427 19.4121415843409,65.1792701835301 19.4110729796889,65.1791059883623 19.4100833633321,65.1778812761627 19.4058618494213,65.1791602716686 19.4042922130751,65.1801779206199 19.403520057824,65.1802976955991 19.4022565689003,65.1797071828258 19.4013658327858,65.1791886007337 19.4006277586992,65.1785618365917 19.3953330849277,65.1805918329171 19.3930304628422,65.1811896042558 19.3910502676233,65.1817763401649 19.388594230036,65.1830261504673 19.3866038777881,65.1834269805994 19.3845581964412,65.184192780981 19.3871122547644,65.1858249033725 19.3825417886315,65.188385928894 19.3840127779735,65.1886885700699 19.3857527654507,65.1876948679335 19.3897029392122,65.1883210493092 19.3929781851838,65.1885953598836 19.3950748890494,65.1886306271836 19.3956855736308,65.1889865263872 19.3989199389195,65.1884148769049 19.4008908424149,65.1881697935511 19.4010389318424,65.1880965180861</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

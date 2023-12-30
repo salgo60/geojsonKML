@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693504_Kråkmyren" id="Q55693504_Kråkmyren">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693504_Kråkmyren</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693504_Kråkmyren">
+		<SimpleData name="NVRID">2045420</SimpleData>
+		<SimpleData name="NAMN">Kråkmyren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/11/27</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/12/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/12/28</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">40.31</SimpleData>
+		<SimpleData name="LAND_HA">40.31</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">30.317</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">5112-24779-2012 (fd 511-2006-76884)</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7656314138412,59.9707347840057 18.7662738661585,59.9689920070547 18.7659545668602,59.9690309367996 18.7656866294987,59.9689014637732 18.7652605261267,59.9688713779631 18.764694167333,59.9687677482934 18.7641656167132,59.9685445527026 18.7637968838188,59.9682722336262 18.7620965065603,59.9686062533603 18.7599405370481,59.9683805853503 18.7515587042213,59.9675028670581 18.7506302070832,59.970591545687 18.7555868833048,59.9714318534592 18.7560434190167,59.9715115769184 18.7564246695256,59.9718271658287 18.7558861790746,59.9725289047635 18.7552936254865,59.973325000863 18.7606140792532,59.9743149413773 18.7632974199251,59.9732863132831 18.7631639697138,59.9730328847843 18.7633352945435,59.9727846893209 18.7637513325643,59.9722920631986 18.7641719947969,59.9718141982323 18.7648363626241,59.9713013174008 18.7656314138412,59.9707347840057</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

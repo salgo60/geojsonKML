@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10671840_Slättö_sand" id="Q10671840_Slättö_sand">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10671840_Slättö_sand</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10671840_Slättö_sand">
+		<SimpleData name="NVRID">2002342</SimpleData>
+		<SimpleData name="NAMN">Slättö sand</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/02/13</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/02/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/08/05</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Värnamo</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">53.57</SimpleData>
+		<SimpleData name="LAND_HA">53.57</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">49.366</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1383-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7473934946897,57.1075091319294 13.7471564850347,57.1075227736883 13.7469045001503,57.1086853820757 13.747082059859,57.1088023700797 13.7472303638298,57.1089917298105 13.7483595099981,57.1103276655161 13.7495054303521,57.1100770481195 13.7507905651737,57.1097336080383 13.7523553771595,57.1113646650923 13.7568772599307,57.1124852289251 13.7583441711827,57.1133573674605 13.761073815236,57.1140327743345 13.7615840243621,57.1138910847226 13.761620141455,57.1138816217129 13.7625691096468,57.1136190660195 13.7630018577362,57.1134373004335 13.7633982716166,57.1132743922141 13.763570099418,57.1132037819753 13.7645881177275,57.1127797724631 13.7650450076967,57.1126118038881 13.7652735746042,57.1125255965992 13.7657631196895,57.1123670928912 13.7663878859033,57.112161322294 13.7669030042534,57.1119897512249 13.7671724018513,57.1118944996761 13.7696105573365,57.1100543663545 13.7586533514412,57.1082016064684 13.7560655586181,57.1079800223085 13.7536187933178,57.1077880868153 13.7509108604086,57.1076145517804 13.748584171354,57.1075202403025 13.7477285489391,57.1074968373837 13.7477047129116,57.1074961860335 13.7473934946897,57.1075091319294</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10681055_Stora_Lund" id="Q10681055_Stora_Lund">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10681055_Stora_Lund</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10681055_Stora_Lund">
+		<SimpleData name="NVRID">2001113</SimpleData>
+		<SimpleData name="NAMN">Stora Lund</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2003/09/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2003/10/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2003/10/09</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ödeshög</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">93.34</SimpleData>
+		<SimpleData name="LAND_HA">35.29</SimpleData>
+		<SimpleData name="VATTEN_HA">58.05</SimpleData>
+		<SimpleData name="SKOG_HA">8.754</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6060606926843,58.2557571940447 14.6065965340234,58.2579188469456 14.6068980040913,58.2585805192961 14.6068190191805,58.2591391587715 14.6066533660849,58.2596494071048 14.6071519408864,58.2614586043131 14.6074584292692,58.2618549865809 14.6077168266966,58.2622794053217 14.6078830171729,58.2638389628419 14.6081756645321,58.2652680878755 14.6090851680504,58.2666126410718 14.6101299328628,58.2678543545241 14.6114416314034,58.2689944425612 14.6129844244862,58.2701193277997 14.6153828717882,58.271455336429 14.6196748674411,58.2689733214775 14.6196753135104,58.2689730533516 14.6196896481395,58.2689811077257 14.6224976028412,58.2682119146917 14.623211228216,58.2679830000177 14.6225938082803,58.267423159921 14.6210033001452,58.2670477234152 14.620078405752,58.2675281072455 14.6191536368199,58.2679309092776 14.617844175739,58.2662311725744 14.6193028722103,58.264260883246 14.6193855259585,58.2621711343606 14.61460627588,58.260810132559 14.6138981216059,58.2595598519277 14.6144374290765,58.2588242374889 14.6147428078463,58.2588460947805 14.6144744364414,58.2543733374209 14.6144743921507,58.2543727085624 14.6125853155281,58.2551454927986 14.6123770847851,58.255230664461 14.6121919885432,58.2553099690202 14.61208109238,58.2552837559796 14.611156862867,58.2549251521607 14.6072035408482,58.255056521215 14.6060606926843,58.2557571940447</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30201855_Brandbärsberget" id="Q30201855_Brandbärsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30201855_Brandbärsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30201855_Brandbärsberget">
+		<SimpleData name="NVRID">2003067</SimpleData>
+		<SimpleData name="NAMN">Brandbärsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/01/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/01/20</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Åsele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">103.67</SimpleData>
+		<SimpleData name="LAND_HA">100.37</SimpleData>
+		<SimpleData name="VATTEN_HA">3.291</SimpleData>
+		<SimpleData name="SKOG_HA">71.244</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-956-2002</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2037856196621,64.2235041197058 17.2042609348869,64.2224504679001 17.2029908782544,64.2214768662286 17.2029115532526,64.2209127619887 17.2022310739953,64.2206181001079 17.199275698971,64.2194528858309 17.195058989759,64.217782209823 17.1950227513563,64.2177679320975 17.1933367611347,64.2171033890284 17.193091528821,64.2170067267937 17.1908123654949,64.2161088318854 17.1857447076901,64.2169530130208 17.1804977809455,64.2151736776381 17.1751240395151,64.2131522945307 17.1729523000298,64.2147354134328 17.1707754510026,64.2163332604737 17.1795521565381,64.219613612061 17.1851459775432,64.2215871788382 17.189200744898,64.2230561066371 17.1939883760786,64.2247619956123 17.1985165403508,64.2263770759149 17.1990833709589,64.2265888777763 17.2001139293288,64.2269691388661 17.2008917890603,64.227254381359 17.2025437393503,64.2268172900447 17.203288288278,64.2266214943198 17.2054286793165,64.2260523880557 17.2065014041733,64.22576569271 17.2067569780725,64.2256973884876 17.2085685505429,64.2252015506769 17.2082440715857,64.2250849858045 17.2063618517706,64.2244113954266 17.205998834864,64.2242819141591 17.2055768330949,64.2241351425364 17.2045086424003,64.2237596719133 17.203823891712,64.2235178888733 17.2037856196621,64.2235041197058</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

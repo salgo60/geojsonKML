@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30165291_Trässö" id="Q30165291_Trässö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30165291_Trässö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30165291_Trässö">
+		<SimpleData name="NVRID">2002236</SimpleData>
+		<SimpleData name="NAMN">Trässö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/01/03</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/01/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/09/19</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Västervik</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">69.23</SimpleData>
+		<SimpleData name="LAND_HA">53.08</SimpleData>
+		<SimpleData name="VATTEN_HA">16.153</SimpleData>
+		<SimpleData name="SKOG_HA">24.904</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-8999-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7885981047259,57.9536467738214 16.7947030592772,57.9555532590302 16.7966708828158,57.9537720979762 16.7941586092388,57.9530077336029 16.7944999603444,57.9527614777314 16.7950702311339,57.9523500238221 16.795098202458,57.9522395023415 16.7951294020368,57.9521049837873 16.795155738302,57.9519959048583 16.7959946238828,57.952065728433 16.796963250855,57.950549446502 16.7970690861907,57.9495775375087 16.7977530741548,57.9488454209507 16.798374063305,57.9467076202513 16.8008745487872,57.9444128559613 16.8010196102016,57.9439782802427 16.8014737354397,57.9419345345846 16.8019849388954,57.9417260348292 16.8032391368233,57.941093024183 16.8029560984237,57.9394213024285 16.8010885948879,57.9397967973833 16.7956911963475,57.9397867967771 16.7954686386052,57.943545027822 16.7917544762301,57.9455074817287 16.7909306948225,57.9482674469773 16.7888528694323,57.9505625632845 16.7885981047259,57.9536467738214</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

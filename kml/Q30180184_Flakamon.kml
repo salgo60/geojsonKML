@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30180184_Flakamon" id="Q30180184_Flakamon">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30180184_Flakamon</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30180184_Flakamon">
+		<SimpleData name="NVRID">2014123</SimpleData>
+		<SimpleData name="NAMN">Flakamon</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/12/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/12/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/28</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sundsvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">14.92</SimpleData>
+		<SimpleData name="LAND_HA">14.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.759</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4178-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9234408651609,62.6168456069489 16.9238320675202,62.616755034399 16.9243668385433,62.6167719113411 16.9248261409357,62.6167092128027 16.9263451985277,62.6161878432539 16.925368146948,62.6158637526993 16.9249847543626,62.6154530401962 16.9244962019698,62.6151722033316 16.9244827249729,62.6145705102773 16.9239581459275,62.6142113248472 16.9239279529329,62.6136125819984 16.9237021547609,62.6131653843786 16.9230372940491,62.6121746397427 16.9236585391898,62.6113352442068 16.9243024956137,62.6104642694922 16.9230014472396,62.609743753584 16.9221059278417,62.6092469037983 16.921977151136,62.6091755580281 16.9216261295602,62.6094409199847 16.9209713825494,62.6103523622822 16.9206485381157,62.610710273409 16.9195670795709,62.6115150129785 16.9200341551106,62.6120976830106 16.9198427573842,62.6123963347866 16.919222669874,62.6126412441331 16.9188859890775,62.6129147790017 16.9198098443673,62.6136378384427 16.9208885739589,62.613646685697 16.9210506933116,62.6137794563214 16.9205968327399,62.614299981452 16.9196156569168,62.6144736689686 16.9192182931694,62.6145271246661 16.9203045368043,62.6151279554292 16.9215640781876,62.6158146787846 16.9227969379298,62.616495445666 16.9234408651609,62.6168456069489</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

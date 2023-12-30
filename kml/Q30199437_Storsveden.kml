@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30199437_Storsveden" id="Q30199437_Storsveden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30199437_Storsveden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30199437_Storsveden">
+		<SimpleData name="NVRID">2014966</SimpleData>
+		<SimpleData name="NAMN">Storsveden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/04/12</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/06/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/06/09</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Rättvik</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">15.63</SimpleData>
+		<SimpleData name="LAND_HA">15.63</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">15.03</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">Lst dnr: 511-3149-06</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1557487328693,61.068480090921 15.1536246586073,61.0680297616413 15.1532229660205,61.0683966300501 15.1530760366157,61.0685283577442 15.1530192345264,61.0685799727967 15.1528384961376,61.0687442292854 15.1528180791255,61.0687639138304 15.1526144937167,61.0689477854798 15.1524118339691,61.0691319789733 15.1521473117142,61.0693723442944 15.1517838368582,61.0696863127986 15.1512495635736,61.0701478067626 15.1505886338154,61.0707605007287 15.1533662433892,61.0715030031962 15.1522832843436,61.0726070732886 15.1523068729225,61.0726220935396 15.1524141043153,61.0727163475404 15.1525675072266,61.0731359865421 15.1525761141457,61.0731954638966 15.1527329593205,61.0733900157415 15.1544534759999,61.0738414313175 15.158637821116,61.0701137027234 15.1595649414082,61.069455891625 15.158767501744,61.0692341628148 15.1571084383524,61.0688590152101 15.1557487328693,61.068480090921</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

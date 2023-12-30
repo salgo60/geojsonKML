@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18289667_Domneån_nature_reserve" id="Q18289667_Domneån_nature_reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18289667_Domneån_nature_reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18289667_Domneån_nature_reserve">
+		<SimpleData name="NVRID">2001383</SimpleData>
+		<SimpleData name="NAMN">Domneån</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1985/10/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1985/12/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/01/26</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Habo, Jönköping</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Jönköpings kommun</SimpleData>
+		<SimpleData name="AREA_HA">20.7</SimpleData>
+		<SimpleData name="LAND_HA">20.03</SimpleData>
+		<SimpleData name="VATTEN_HA">0.671</SimpleData>
+		<SimpleData name="SKOG_HA">18.854</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-8469-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.1190694072149,57.8728122561742 14.1189750993191,57.8723680092856 14.1183346858821,57.8715608788931 14.1140288877457,57.8720305957239 14.1138930025833,57.871995126919 14.1128987106015,57.871643247955 14.1121212813269,57.871367524116 14.1120061375235,57.8713278955978 14.1099442191517,57.8729636799189 14.109941158215,57.8729661107403 14.1099410550822,57.8729661908617 14.1089640941561,57.8737577933549 14.1088745097757,57.8738304904787 14.1143047249616,57.876692088964 14.1152006464952,57.8768284943371 14.1155468220518,57.8768887366679 14.1155469061214,57.8768887462362 14.1155468573106,57.8768886740346 14.1155448766757,57.8768855612089 14.1151801390969,57.876312924369 14.1157487490194,57.875734878583 14.1157488701065,57.8757347536685 14.1157512388525,57.8757323538192 14.1157943297227,57.8756885398753 14.1168989949915,57.8754851072787 14.1176940297995,57.8754069604283 14.1178429759142,57.8749225705054 14.1171364582803,57.8746335282868 14.1171137562337,57.8739311481231 14.1177462257563,57.8737354368632 14.1177219830551,57.873274608756 14.1181587976979,57.8730564444 14.1190694072149,57.8728122561742</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>14.1149706203622,57.8721393418553 14.1153940624965,57.8719915181274 14.1153941305806,57.8719914916537 14.1153941802661,57.8719915279307 14.1158647624523,57.8723671566287 14.1152083818201,57.8726000419448 14.1148647669304,57.8724639933433 14.1146119805702,57.8722637939626 14.1149706203622,57.8721393418553</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30170326_Lill_Sundsjön" id="Q30170326_Lill_Sundsjön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30170326_Lill_Sundsjön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30170326_Lill_Sundsjön">
+		<SimpleData name="NVRID">2000647</SimpleData>
+		<SimpleData name="NAMN">Lill-Sundsjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/02/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/02/18</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sundsvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Sundsvalls kommun</SimpleData>
+		<SimpleData name="AREA_HA">15.46</SimpleData>
+		<SimpleData name="LAND_HA">15.41</SimpleData>
+		<SimpleData name="VATTEN_HA">0.057</SimpleData>
+		<SimpleData name="SKOG_HA">13.67</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Kommunens 67/96 252</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8103015406127,62.642209390761 16.8103014442358,62.6422094099627 16.8155182482216,62.6469270908694 16.8155226998445,62.6469213948035 16.8173053975619,62.6446321099714 16.817800752912,62.6439798367451 16.8178018898971,62.6439783315903 16.818503024454,62.6430507225134 16.8185029827159,62.6430506781633 16.8148618251498,62.6402156879169 16.8148134615559,62.6402966884663 16.8147377964817,62.6403778630029 16.8145657372851,62.6404972945183 16.8144346700204,62.6405501233802 16.814178026989,62.6405768079214 16.8139720043033,62.6405995955295 16.8139067403257,62.6406358599344 16.8138332990019,62.6406596245594 16.8136153710475,62.6406753202133 16.8132398685876,62.6406363653438 16.8130561550188,62.6406213424217 16.8128573826945,62.6406261497128 16.8126782328933,62.6406344199222 16.8125854302982,62.6406618909982 16.8124573021093,62.6406824117942 16.8123498668879,62.640744054991 16.812203702417,62.6408148989797 16.8121276914385,62.6408835157972 16.8122839833574,62.6408951326678 16.8124983272807,62.6408884368705 16.8126579770616,62.6408802844775 16.8127863609597,62.6408687295607 16.8128386726203,62.6408749392072 16.8129549713014,62.6409727799685 16.8128146791868,62.6410407473781 16.812626752028,62.6411513045672 16.8123675662252,62.641224634159 16.8121940147065,62.6412920614139 16.8119661123136,62.6413687924904 16.8118354743563,62.6414377383791 16.8117141724837,62.6414950442292 16.8123973680739,62.6417094651378 16.8124569934838,62.6419948246651 16.8111404328624,62.6420526890899 16.8109891703012,62.6421191084334 16.8108542394576,62.6421737434906 16.8106746534407,62.6421676693019 16.8104796683238,62.6421688508059 16.8103015406127,62.642209390761</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

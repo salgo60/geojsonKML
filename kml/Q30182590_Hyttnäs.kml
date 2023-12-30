@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30182590_Hyttnäs" id="Q30182590_Hyttnäs">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30182590_Hyttnäs</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30182590_Hyttnäs">
+		<SimpleData name="NVRID">2002518</SimpleData>
+		<SimpleData name="NAMN">Hyttnäs</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/12/15</SimpleData>
+		<SimpleData name="SENGALLDAT">1970/12/15</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Falun</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Falu kommun</SimpleData>
+		<SimpleData name="AREA_HA">9.2</SimpleData>
+		<SimpleData name="LAND_HA">7.19</SimpleData>
+		<SimpleData name="VATTEN_HA">2.009</SimpleData>
+		<SimpleData name="SKOG_HA">1.839</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III R 11-6-70</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.7754221409666,60.6494560467005 15.7750948254765,60.6491529769083 15.7743544560246,60.6486396868796 15.7741501088634,60.6483327429776 15.7741831817878,60.6482232976238 15.7737090849543,60.6481769422179 15.7733165990758,60.6481385628174 15.7733617735194,60.6472916005023 15.7741869581998,60.6473340417314 15.7745940491305,60.6473549780139 15.7748028037669,60.6471379464267 15.775013531604,60.6455768650952 15.7742719086849,60.6451099754367 15.7720707325806,60.6450246217583 15.7713836614851,60.6447874297187 15.7713771272061,60.644782582899 15.771377089566,60.6447825382218 15.7708510321954,60.6448812555376 15.7708485199803,60.6448817279225 15.7708458984917,60.6448822188942 15.7708473845001,60.644883952226 15.7705897193477,60.6449370458318 15.7704472753587,60.6449664003408 15.7705857687663,60.6452518026611 15.7719179524101,60.6468512802268 15.772169420933,60.647407683207 15.7720116775636,60.6477198342073 15.77187549568,60.6483119544573 15.7716702793682,60.6485702544537 15.7714281514136,60.6488705361899 15.7715639609544,60.6492238954905 15.7717411602457,60.6494020910612 15.7718619139808,60.6495638933012 15.7722619391248,60.6498203645427 15.7724308375644,60.6499609230625 15.7729145942607,60.6503545812422 15.7730333860812,60.650328736811 15.7748826868029,60.6504603246445 15.7748827784527,60.6504603330929 15.774882738214,60.6504601806861 15.774881943574,60.6504575544957 15.7748619644096,60.6503909935296 15.7747678500618,60.6496773551232 15.7748920531905,60.649641681834 15.7754221409666,60.6494560467005</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>15.7724025477622,60.6455828506012 15.7724026389678,60.6455828410962 15.7728114859455,60.6460370269812 15.7721237796755,60.646185652675 15.7718610156856,60.6458607344364 15.7720369247945,60.6456095884985 15.7724025477622,60.6455828506012</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

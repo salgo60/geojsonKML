@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19977985_Källenäs_naturreservat" id="Q19977985_Källenäs_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19977985_Källenäs_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19977985_Källenäs_naturreservat">
+		<SimpleData name="NVRID">2002312</SimpleData>
+		<SimpleData name="NAMN">Källenäs domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/12/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/09</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/09</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Jönköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">7.81</SimpleData>
+		<SimpleData name="LAND_HA">7.81</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">7.806</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-11656-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.886859455387,57.6458310814348 13.8882939372007,57.645637774272 13.8893081726969,57.6457897706112 13.8896681276893,57.6456473210757 13.8896462532856,57.6455093973922 13.8892959867983,57.645307827372 13.8887659378397,57.6449330692869 13.8881462115779,57.6445596226757 13.8879029042978,57.644457598413 13.8873158640996,57.6446541190135 13.8868772188717,57.644783400551 13.8865611520403,57.6448750956878 13.8861943545719,57.6449886308345 13.8856143336105,57.6451840376003 13.8853464730768,57.6452950103773 13.8842945303418,57.6457613733903 13.8840152980666,57.6458708416761 13.8837240124996,57.6459744806204 13.8831028173837,57.6461943154533 13.8829385432522,57.6462558914624 13.8826162639541,57.646381622534 13.8823731526215,57.6464886394833 13.8819810502159,57.6466896697306 13.8816491808864,57.6468709381221 13.8813631205312,57.6470329823207 13.8816419327258,57.6472329724312 13.8831075975632,57.647929218972 13.8839903557613,57.6478773528936 13.884747403558,57.6476363162409 13.8858104869905,57.6471010468815 13.8865875564962,57.6467638749163 13.8874864869362,57.6464665420102 13.886859455387,57.6458310814348</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

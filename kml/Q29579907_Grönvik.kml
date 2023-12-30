@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q29579907_Grönvik" id="Q29579907_Grönvik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q29579907_Grönvik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q29579907_Grönvik">
+		<SimpleData name="NVRID">2002350</SimpleData>
+		<SimpleData name="NAMN">Grönvik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1974/03/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1974/04/13</SimpleData>
+		<SimpleData name="SENGALLDAT">1974/04/13</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Tingsryd</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">88.58</SimpleData>
+		<SimpleData name="LAND_HA">34.99</SimpleData>
+		<SimpleData name="VATTEN_HA">53.59</SimpleData>
+		<SimpleData name="SKOG_HA">28.011</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-210-73  11.085-41-71  11.111-1938-72 / 511-</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0501499742108,56.4867071700113 15.0519589201454,56.4871710371551 15.0655848345382,56.4875686467478 15.0662157236454,56.4871151741838 15.0687762084157,56.4808436998807 15.0691823327005,56.479832459257 15.0675370726103,56.4774253799027 15.0666266353407,56.4768508707242 15.0653514481639,56.4771665091417 15.065151968548,56.476944900642 15.064922613347,56.4769190562719 15.0632873781138,56.4765722548087 15.0626082700602,56.4764854697707 15.0625100581634,56.476449070141 15.0619187829574,56.4763635398069 15.0614813758402,56.476347297975 15.0609982647095,56.4763277798397 15.0607786217678,56.4760363485996 15.0605713652002,56.4760485696137 15.0597535189288,56.4763429574419 15.0596619641711,56.47642950182 15.0595609962152,56.4766113106456 15.0595583487761,56.4768074919907 15.0598042883887,56.4773374804368 15.0596816551205,56.4788186914855 15.059220859453,56.4792515394616 15.0592367835478,56.4794373440388 15.0592674871117,56.4796471654286 15.0589223064233,56.4807288710008 15.0588224443776,56.4807850788453 15.0576576223615,56.4810748997368 15.0574213765373,56.4810363679572 15.0572548658385,56.4812892793972 15.0569676801119,56.4816586907786 15.0565564632352,56.4818899983434 15.0560657796225,56.4821325168312 15.0556814668265,56.4823376831572 15.0553618981274,56.4824731017338 15.0551764380225,56.4825041259896 15.0548965013943,56.482505364083 15.0533110938227,56.4835946660961 15.051230892576,56.4850541326076 15.0519981730594,56.4853809118508 15.0510661488198,56.486049788593 15.050967287786,56.4861207777069 15.0505014804857,56.4864549389477 15.0501499742108,56.4867071700113</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

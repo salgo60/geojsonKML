@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19978353_Pagelsborg" id="Q19978353_Pagelsborg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19978353_Pagelsborg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19978353_Pagelsborg">
+		<SimpleData name="NVRID">2000051</SimpleData>
+		<SimpleData name="NAMN">Pagelsborg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1987/03/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1987/03/24</SimpleData>
+		<SimpleData name="SENGALLDAT">1987/03/24</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Ronneby</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">1.49</SimpleData>
+		<SimpleData name="LAND_HA">1.49</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.583</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-638-82</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0838536379141,56.1953567624774 15.0837077164969,56.1952099620996 15.0834731582269,56.195075943684 15.0831425693441,56.1949409112565 15.0829643628561,56.194901076134 15.0827483249375,56.1948792084439 15.0823384349485,56.1948480177215 15.0819512482678,56.1948151843751 15.0815508127236,56.1947429787766 15.0812475310887,56.1946836460097 15.0807838114267,56.1945715516426 15.0807471358379,56.1945955646434 15.0807470875497,56.1945955916289 15.080526646915,56.1947399661491 15.0803062045871,56.194884322304 15.0803061562982,56.1948843492894 15.0802389675646,56.1949283458672 15.080430977511,56.1949814283165 15.0807900396023,56.1951350476422 15.0810314749949,56.1952484558216 15.0813274096259,56.195298962023 15.0816418592582,56.1953332289959 15.0819463775128,56.1953651926921 15.0825396846855,56.1952704322485 15.0827207665987,56.1952529708674 15.0829396983893,56.1952930934979 15.0830885192358,56.1954032084564 15.0831809515859,56.1956168195518 15.0832354781376,56.1958215253342 15.0833510659757,56.1959736296821 15.0836890672438,56.1962741360017 15.0841810661771,56.1960106144306 15.0841143950352,56.1959291419606 15.0840811240871,56.1958589584402 15.0839734672112,56.195576212405 15.0838536379141,56.1953567624774</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

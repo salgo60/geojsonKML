@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q29579949_Simris_strandängar" id="Q29579949_Simris_strandängar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q29579949_Simris_strandängar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q29579949_Simris_strandängar">
+		<SimpleData name="NVRID">2003038</SimpleData>
+		<SimpleData name="NAMN">Simris strandängar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/04/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/04/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/04/04</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Simrishamn</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">33.7</SimpleData>
+		<SimpleData name="LAND_HA">12.72</SimpleData>
+		<SimpleData name="VATTEN_HA">20.978</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-49240-04, 1291-206</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3492255768914,55.5261794766849 14.3497187334978,55.5264314614874 14.3497924484645,55.5264944750993 14.3499139198449,55.5266932396837 14.3499970473117,55.5269694204725 14.3501922884989,55.527267546234 14.3502432404895,55.5272998689762 14.3503120909121,55.5273169657391 14.3504274433606,55.5273259342064 14.3505010252151,55.5273395065381 14.3505542834035,55.5273741776954 14.3506231410437,55.5274793266355 14.3506536818688,55.5275053947003 14.3507042241392,55.5275299333329 14.3508927725295,55.5275779104101 14.3509805660379,55.5276145075956 14.3510241588777,55.5276676292025 14.3510034732491,55.527824259748 14.3510245472118,55.5279125135406 14.351074694331,55.5279745748162 14.3512639306518,55.5281252991143 14.3515280313185,55.5284025267231 14.3517872537075,55.5286539026138 14.351818565205,55.5287083517525 14.3518354207109,55.5289453886482 14.3519228007422,55.5293224655542 14.3519002112911,55.5296027582901 14.3519194300449,55.5296662370987 14.3511307805686,55.5296574443163 14.3510581977377,55.5296618224015 14.3510182307087,55.5296779739314 14.3509927197818,55.5296994227985 14.350971354221,55.5297394763432 14.3510046256947,55.5298259346513 14.3514716414907,55.5305898138694 14.3532187916357,55.5330610342211 14.3532743260313,55.5331285054702 14.3533513479934,55.5333116659281 14.3535500504893,55.5338079058806 14.353598725342,55.5338821790009 14.3545420833847,55.5339228437341 14.3547703327279,55.5345510055195 14.3548812529745,55.535076011787 14.3544138278343,55.5350775666227 14.354018980947,55.5350611083222 14.3542003494301,55.5356067226569 14.3544228792301,55.5361480516266 14.354821538819,55.5368652887043 14.3594028766637,55.5361303818703 14.3585386212054,55.5342110429531 14.3543599335113,55.5277582360737 14.3504299182639,55.5250414120511 14.3492255768914,55.5261794766849</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3482627896372,55.5297066596889 14.3492997490777,55.5311975131384 14.3516401288114,55.5311571550289 14.3516630590284,55.5311404548706 14.3511033639493,55.5303643771266 14.3508751195804,55.5299814045852 14.3506955109762,55.5296064171602 14.3500592739946,55.5296365789773 14.3482627896372,55.5297066596889</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

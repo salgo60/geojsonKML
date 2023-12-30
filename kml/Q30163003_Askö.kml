@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30163003_Askö" id="Q30163003_Askö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30163003_Askö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30163003_Askö">
+		<SimpleData name="NVRID">2001318</SimpleData>
+		<SimpleData name="NAMN">Askö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/05/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2004/04/02</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/07/27</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Trosa</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">5845.74</SimpleData>
+		<SimpleData name="LAND_HA">627.74</SimpleData>
+		<SimpleData name="VATTEN_HA">5217.969</SimpleData>
+		<SimpleData name="SKOG_HA">458.276</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-15846-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7866962473224,58.7778888644486 17.7886661351552,58.7535929189029 17.7886638652599,58.7535917818857 17.7450674061697,58.7336237659471 17.7279635697211,58.7429539388291 17.705756463714,58.7558680578162 17.6770260874717,58.7713687561881 17.6442255389722,58.7890725617573 17.621718037736,58.8012054368191 17.5982105052091,58.8143431794631 17.6006344325365,58.8190487866869 17.6027666088119,58.8231547986551 17.6050170572034,58.8274874070149 17.6071177207615,58.8315306644149 17.6132504788704,58.8307077055595 17.6139328716583,58.831819905104 17.6143755704191,58.8325621834969 17.613872301717,58.833377102576 17.6134934615991,58.8339904771607 17.6133135856373,58.8342817452535 17.61323577032,58.8344069125041 17.6129141427856,58.8349244224423 17.6214171808472,58.8373772085606 17.6266847898947,58.8388633463358 17.6574149810549,58.8418360776991 17.6614083774923,58.8422213915271 17.6630454502248,58.8391719821259 17.6696262531647,58.8262366020823 17.7091127105768,58.8172799906112 17.7178546902911,58.8152948144899 17.7252053130942,58.7979448993142 17.7575313756513,58.7874078567092 17.7866962473224,58.7778888644486</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

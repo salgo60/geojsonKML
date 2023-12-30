@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18816528_Ulön_Dannemark" id="Q18816528_Ulön_Dannemark">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18816528_Ulön_Dannemark</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18816528_Ulön_Dannemark">
+		<SimpleData name="NVRID">2000733</SimpleData>
+		<SimpleData name="NAMN">Ulön-Dannemark</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1983/03/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1983/05/09</SimpleData>
+		<SimpleData name="SENGALLDAT">1983/05/09</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tanum</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">309.34</SimpleData>
+		<SimpleData name="LAND_HA">86.88</SimpleData>
+		<SimpleData name="VATTEN_HA">222.453</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-3008-81 1435-229</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.2772257715614,58.507243000484 11.2780215541206,58.5068028972754 11.2797460935347,58.5058490783095 11.2828100827932,58.5038316358099 11.2820971559564,58.5026994816427 11.2687732030554,58.4976074097003 11.2578069296741,58.4972216731538 11.2539829806334,58.4971143576811 11.2539354511114,58.4971758273221 11.250039964302,58.5022828253706 11.2487053713779,58.5040321256359 11.2486993271611,58.5040374147532 11.2486993927806,58.5040374436437 11.2514348406618,58.505488527304 11.2466427900528,58.5097779617072 11.2474900741976,58.510443856043 11.2541830054885,58.5156332535629 11.257359790024,58.5163045532215 11.2633351929678,58.5165731977452 11.2653212826898,58.5163811987994 11.2693343998406,58.5150567786131 11.2732029615175,58.5143176713266 11.2758252118014,58.5118536722025 11.275499678493,58.5114534045939 11.2738717449535,58.5093304636689 11.2738717154571,58.5093304178618 11.2733266260947,58.5083619249303 11.2768479287126,58.5073826824131 11.2771252816906,58.507305547461 11.2771253368663,58.5073055131033 11.2772257715614,58.507243000484</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

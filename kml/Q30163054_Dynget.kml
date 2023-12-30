@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30163054_Dynget" id="Q30163054_Dynget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30163054_Dynget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30163054_Dynget">
+		<SimpleData name="NVRID">2000987</SimpleData>
+		<SimpleData name="NAMN">Dynget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1967/03/03</SimpleData>
+		<SimpleData name="URSGALLDAT">1967/03/03</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/03/29</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Åstorp</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">3.57</SimpleData>
+		<SimpleData name="LAND_HA">3.56</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.133</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-10710-94</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.0131464091732,56.1827537606412 13.013969177689,56.1834109362944 13.0146170192374,56.1841736226037 13.0146173813412,56.1841734756454 13.0146210170891,56.1841720332594 13.0149861478279,56.1840263452886 13.01499503239,56.1840228034082 13.0154976728546,56.183822283395 13.0157843549521,56.1833518654389 13.0158667045265,56.1832290177703 13.0159559777144,56.1830903387334 13.0159930264951,56.1830328252499 13.0160150828424,56.1829985444394 13.0160456327233,56.1829511175732 13.0160824727357,56.1828938972752 13.0160831023933,56.1828929368152 13.0164866666675,56.1822661819673 13.016671751385,56.1819787099842 13.0153364593691,56.181334622447 13.0150827523129,56.1815048460651 13.0150790966528,56.1815073036435 13.0145201007739,56.181882310527 13.0143836793746,56.1819738416774 13.0143439198177,56.1820005136298 13.0143130403135,56.1820212262381 13.0142565718193,56.1820591147744 13.0141310819903,56.1821433173546 13.0141338762459,56.18214506074 13.014030890444,56.1822300022201 13.0133920131843,56.1826527432738 13.0131463627284,56.1827537239477 13.0131464091732,56.1827537606412</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

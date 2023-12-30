@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19979005_Uppebo" id="Q19979005_Uppebo">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19979005_Uppebo</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19979005_Uppebo">
+		<SimpleData name="NVRID">2013308</SimpleData>
+		<SimpleData name="NAMN">Uppebo</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/06/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/07/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/07/10</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Gnosjö</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">34.54</SimpleData>
+		<SimpleData name="LAND_HA">34.53</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.758</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-15771-04</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.965190071518,57.3369428702033 13.9649835081387,57.3316195458335 13.9649834409539,57.3316195722318 13.963508522127,57.3321296050381 13.9623090357985,57.3325443571449 13.9621603961383,57.332595748395 13.9620117392036,57.3326471483122 13.9596099542164,57.3334775688827 13.959805453114,57.3358462081121 13.9556535409084,57.3363819662401 13.9553402057154,57.3364223881279 13.9547955669499,57.3350374594598 13.9487303214038,57.3369332140088 13.9525029540123,57.3420255535109 13.952612717688,57.3421725407226 13.9526366649088,57.3421647984925 13.9533799011793,57.3418273580195 13.9534796789159,57.340615156251 13.9535831651039,57.3400487189324 13.9530462225437,57.3397169348873 13.9529336690715,57.3389938318322 13.9532923435831,57.3386108610071 13.9557417115252,57.3376620828924 13.9558244011742,57.3376226840884 13.9564245088289,57.3373368081268 13.9593956737781,57.3370046630285 13.9599310715881,57.3369861449175 13.9622587851344,57.3369670102372 13.9625543831999,57.3369645783388 13.9637146081253,57.3369550295929 13.965190071518,57.3369428702033</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

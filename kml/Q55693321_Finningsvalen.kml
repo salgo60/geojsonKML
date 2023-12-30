@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693321_Finningsvalen" id="Q55693321_Finningsvalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693321_Finningsvalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693321_Finningsvalen">
+		<SimpleData name="NVRID">2048558</SimpleData>
+		<SimpleData name="NAMN">Finningsvalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/06/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/06/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/06/29</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Åre</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">110.63</SimpleData>
+		<SimpleData name="LAND_HA">110.62</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">105.35</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4006-15</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.2569060505277,63.6964323574913 13.2516438119458,63.6941043707709 13.2440107257902,63.6965553944982 13.2363010230663,63.6990299349354 13.2345121991726,63.6996039383508 13.2277736221918,63.699939463602 13.2285885593384,63.7015044083679 13.230807824138,63.7059055304433 13.2322617944406,63.7074373330751 13.2351466107744,63.7086504426556 13.236363772305,63.7079730518267 13.2380935670353,63.707007881275 13.2384647919663,63.7068119705552 13.2390295013376,63.7065562456251 13.2406978256143,63.7058988156851 13.2419546828633,63.7053940560743 13.2431338632476,63.7048967794289 13.2444134309104,63.7043683615299 13.245828609465,63.7037755921736 13.2470525642889,63.7032419454494 13.248551467385,63.7026418009972 13.2493199888734,63.7023894653872 13.2499371134476,63.7022115138309 13.2505919680833,63.7020544961988 13.2529532946294,63.7016114205395 13.2567671512096,63.7009483310059 13.2569620457186,63.7009191262317 13.2529931352304,63.6978629278797 13.2569060505277,63.6964323574913</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

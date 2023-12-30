@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18169850_Kalvö_skärgård" id="Q18169850_Kalvö_skärgård">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18169850_Kalvö_skärgård</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18169850_Kalvö_skärgård">
+		<SimpleData name="NVRID">2000383</SimpleData>
+		<SimpleData name="NAMN">Kalvö skärgård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1986/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1987/01/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/11/01</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Mariestad</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">2414.16</SimpleData>
+		<SimpleData name="LAND_HA">407.92</SimpleData>
+		<SimpleData name="VATTEN_HA">2006.211</SimpleData>
+		<SimpleData name="SKOG_HA">335.71</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-38544-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8118896106628,58.8642971969378 13.8128803547672,58.8648240194055 13.8350104278927,58.8765857795786 13.849581561433,58.8843236974768 13.8646080081292,58.89229810431 13.9192731179871,58.9210235118134 13.9254156603915,58.9263397458052 13.9346557954377,58.9254046979274 13.9323581351296,58.9222111517908 13.9250742181995,58.9120829244614 13.9247011022366,58.9115639608301 13.9127896045072,58.8949871072956 13.9108356097735,58.892266216784 13.9042622182472,58.8799852253295 13.8977458933374,58.8678020853874 13.8962283618994,58.8649636167412 13.8960909322101,58.8647065117224 13.8948527244976,58.8623901404919 13.8936308788452,58.8601040111749 13.8869675302276,58.8476313002547 13.8805328916213,58.8473617147475 13.8794484587197,58.8481918540835 13.8773766470555,58.8486750680332 13.8728584975055,58.8488590062046 13.8687605945502,58.8482502335669 13.8640248646585,58.8525896460461 13.8591032200174,58.8525076695577 13.8489401888183,58.8566068238322 13.8383951077834,58.8518336874253 13.828466054748,58.8481282019057 13.821619880873,58.8512270588358 13.8213189318235,58.8513632695891 13.8124228741268,58.8553885504387 13.8121823617023,58.8594074291903 13.8121554626804,58.8598566191175 13.8118896106628,58.8642971969378</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

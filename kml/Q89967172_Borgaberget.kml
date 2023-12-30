@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89967172_Borgaberget" id="Q89967172_Borgaberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89967172_Borgaberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89967172_Borgaberget">
+		<SimpleData name="NVRID">2052461</SimpleData>
+		<SimpleData name="NAMN">Borgaberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Överklagat</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/11/18</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">31.64</SimpleData>
+		<SimpleData name="LAND_HA">29.39</SimpleData>
+		<SimpleData name="VATTEN_HA">2.255</SimpleData>
+		<SimpleData name="SKOG_HA">29.351</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-4182-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8289477065546,58.8770671145015 14.8363846317551,58.8750264390123 14.8365983898929,58.8749677744772 14.8355776434269,58.8744420466518 14.8349821703863,58.8741353420159 14.8328639302667,58.8753890098758 14.8284335343944,58.8747496768255 14.82535317583,58.8743050589874 14.8251746308097,58.874064590886 14.8250706100203,58.8739244927115 14.826612212059,58.8733730600675 14.8269368576608,58.8732569301395 14.8262687186133,58.8726120615521 14.8170421776483,58.8741056868543 14.8170455726953,58.8747592922327 14.8189990006679,58.8750091620906 14.8201761404476,58.8745355749827 14.8207257043256,58.8747406875852 14.8207286123286,58.8759525294003 14.8194140911245,58.8763641495121 14.8216005425014,58.8777215922389 14.8213922620196,58.8791396264693 14.8266826818296,58.8776884988212 14.8289477065546,58.8770671145015</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

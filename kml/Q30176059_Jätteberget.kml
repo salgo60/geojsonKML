@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30176059_Jätteberget" id="Q30176059_Jätteberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30176059_Jätteberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30176059_Jätteberget">
+		<SimpleData name="NVRID">2005678</SimpleData>
+		<SimpleData name="NAMN">Jätteberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/08/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/09/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/09/01</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Degerfors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">164.03</SimpleData>
+		<SimpleData name="LAND_HA">159.75</SimpleData>
+		<SimpleData name="VATTEN_HA">4.283</SimpleData>
+		<SimpleData name="SKOG_HA">143.304</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-03954-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5161109584334,59.1968759385554 14.5170162712261,59.197902625937 14.516140730968,59.1984968989021 14.5195498750905,59.2003129175541 14.5208663104892,59.2031967926926 14.5290612802337,59.2087099982803 14.5366740980205,59.2088970054991 14.5400751795626,59.2081245592611 14.5433334583586,59.2036572348057 14.5433865390061,59.2035253539964 14.5435122456797,59.2033700375641 14.5438514806852,59.2030437271208 14.5440343945046,59.2028759303674 14.5443678708106,59.2026565471359 14.5445016839109,59.2025296005984 14.5447003086085,59.2024227816379 14.5452049203375,59.2022050191005 14.5460338458959,59.2019721773702 14.5465676780906,59.2018009227809 14.5467308055179,59.2016991497202 14.546816140681,59.2016291926981 14.547002293375,59.2014531230512 14.5355869466885,59.1965350574699 14.5319250216115,59.1981726798652 14.5292777694284,59.1972723195361 14.5285398807493,59.1968314060417 14.527457825421,59.1965264153815 14.5218547734529,59.1947546049232 14.5192548762904,59.1950913790173 14.5162979970067,59.1951108747624 14.5161109584334,59.1968759385554</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

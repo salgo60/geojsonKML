@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18290353_Gäddevik" id="Q18290353_Gäddevik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18290353_Gäddevik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18290353_Gäddevik">
+		<SimpleData name="NVRID">2014125</SimpleData>
+		<SimpleData name="NAMN">Gäddevik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/10/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/11/12</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Mark</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">22.15</SimpleData>
+		<SimpleData name="LAND_HA">16.7</SimpleData>
+		<SimpleData name="VATTEN_HA">5.442</SimpleData>
+		<SimpleData name="SKOG_HA">13.753</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-31776-2007</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.6336951875659,57.4274431033558 12.6344900759217,57.4277885588115 12.6338788235558,57.4286577251145 12.6349308553977,57.4289046759516 12.6365169276576,57.4291306543861 12.6370691338249,57.4300799330913 12.6379104106021,57.4300220960636 12.6394426125513,57.4299183791008 12.6399927501599,57.4298770883909 12.6406671838212,57.4298265132117 12.6416269134254,57.4296089768444 12.6424918655168,57.4296015780552 12.6424333608071,57.4292684390388 12.643060179627,57.4290249099141 12.6432251113859,57.4289603575025 12.6435085345307,57.428714786605 12.6436616673872,57.4269407375101 12.6393765663626,57.4250692426756 12.6353597529695,57.4264497305944 12.6342230767558,57.4267198341741 12.6336951875659,57.4274431033558</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>12.6375746467539,57.4273777023284 12.6376865581433,57.4269233260238 12.6383955904292,57.4271010657455 12.6385765688737,57.4276353111177 12.6380091911143,57.4276442366648 12.6375746467539,57.4273777023284</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

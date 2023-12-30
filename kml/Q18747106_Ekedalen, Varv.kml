@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18747106_Ekedalen__Varv" id="Q18747106_Ekedalen__Varv">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18747106_Ekedalen__Varv</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18747106_Ekedalen__Varv">
+		<SimpleData name="NVRID">2000810</SimpleData>
+		<SimpleData name="NAMN">Ekedalen, Varv</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1954/10/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1954/11/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/06/07</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tidaholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">4.17</SimpleData>
+		<SimpleData name="LAND_HA">4.17</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.168</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-16602-2007</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8341611871478,58.195218074128 13.834013925839,58.1961509020295 13.8339680508922,58.1964409444803 13.833999812656,58.196445645022 13.8356689597613,58.1967264489753 13.8356792774803,58.1967282856954 13.835892048062,58.196765994651 13.8361137654015,58.1967803671766 13.8365931480821,58.1967898745566 13.8367406384333,58.196792808415 13.8376248685293,58.1968103476058 13.8379655843048,58.1967931575252 13.8379656696368,58.1967931493193 13.8379655851844,58.1967931305854 13.8379567091724,58.1967909029563 13.8376479962529,58.196713231737 13.837245816764,58.1964876634272 13.8372480057906,58.1964857521054 13.8373192095794,58.196423603238 13.8374928931823,58.196271986657 13.83790580765,58.1961380067036 13.8382326072446,58.196016374378 13.8375873320962,58.1960010511147 13.837698094111,58.1956172899733 13.8367726353372,58.1954947102273 13.8369266751779,58.1949987381307 13.8367141883722,58.1948948586052 13.8364909466893,58.194837437521 13.8351462601679,58.1946419392065 13.8342772583509,58.1945158680027 13.834272703853,58.1945152066152 13.8342722637386,58.1945151397182 13.8342278208573,58.1947963924348 13.8341833787165,58.1950776002217 13.8341833772459,58.1950776451213 13.8341643206771,58.19519356227 13.8341648143096,58.1951951117856 13.8341611871478,58.195218074128</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

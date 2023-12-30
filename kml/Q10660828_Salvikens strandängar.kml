@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10660828_Salvikens_strandängar" id="Q10660828_Salvikens_strandängar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10660828_Salvikens_strandängar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10660828_Salvikens_strandängar">
+		<SimpleData name="NVRID">2001524</SimpleData>
+		<SimpleData name="NAMN">Salvikens strandängar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1990/03/13</SimpleData>
+		<SimpleData name="URSGALLDAT">1990/05/17</SimpleData>
+		<SimpleData name="SENGALLDAT">1990/05/17</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Kävlinge</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">135.3</SimpleData>
+		<SimpleData name="LAND_HA">40.4</SimpleData>
+		<SimpleData name="VATTEN_HA">94.886</SimpleData>
+		<SimpleData name="SKOG_HA">0.013</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-757/90, (1261-204)</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.9439942008689,55.740533734228 12.9439257656979,55.7405418188028 12.9439210047835,55.7405423772174 12.9439207800548,55.7405424094054 12.9527412781226,55.7484098350166 12.9564269850398,55.7516652197443 12.9564270309267,55.7516652564572 12.9564271311534,55.7516651682504 12.9564298859794,55.7516627695027 12.9587896903058,55.7496103820249 12.9589357455282,55.7495823684618 12.9591486070439,55.7495563363794 12.9592224996804,55.7494470368955 12.9591973807267,55.7493287588397 12.9582563424434,55.747923687499 12.9582001523733,55.7477493595793 12.9581749364464,55.7475741534164 12.9604245278415,55.7456251468205 12.9619440625337,55.744121960823 12.9632245732657,55.7422033683703 12.9638646207686,55.7384181952686 12.9639495802175,55.7383364521611 12.9649272547267,55.7382447699224 12.9638704706143,55.7343912417523 12.9615472995267,55.7332532665544 12.9596189896188,55.7322637718737 12.9579407189612,55.733193749621 12.9540215111023,55.7353652613572 12.9526252323331,55.7360230975442 12.9525931748025,55.7360950378045 12.9525546209133,55.7362593953623 12.9523042098825,55.7368242330099 12.9522464226324,55.736921457259 12.9516121617631,55.7377686594959 12.9512742699939,55.7383243788862 12.9507650207914,55.7390004472996 12.9506164003566,55.739348801007 12.9505459503041,55.7397728028948 12.9504538987259,55.7400448263442 12.9503603602698,55.7402190866132 12.9503414531598,55.7402409071525 12.9502090709581,55.7403936503086 12.9499418066177,55.7405362242727 12.9495399867493,55.7406903202995 12.9491185868308,55.7408228058754 12.9483329781408,55.7410548723816 12.947987578713,55.7411218019922 12.947814831047,55.7411552611419 12.9476417895413,55.7411670014999 12.9475643009555,55.7411348079382 12.9475064036,55.741124241915 12.9472168704916,55.7410713926359 12.9467720380171,55.7409324355417 12.9466175660233,55.7409006351508 12.9463466053417,55.7408042355741 12.9460964019202,55.7408055164342 12.9458082015064,55.7408395586594 12.9456349987317,55.7408404366593 12.9454420445204,55.7408088179938 12.9452681300831,55.7407662562622 12.9448817047726,55.7406704563009 12.9443985470007,55.7405425508925 12.9439942008689,55.740533734228</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

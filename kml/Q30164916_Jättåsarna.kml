@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30164916_Jättåsarna" id="Q30164916_Jättåsarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30164916_Jättåsarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30164916_Jättåsarna">
+		<SimpleData name="NVRID">2032789</SimpleData>
+		<SimpleData name="NAMN">Jättåsarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/11/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/12/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/20</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Fagersta</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">65.7</SimpleData>
+		<SimpleData name="LAND_HA">65.65</SimpleData>
+		<SimpleData name="VATTEN_HA">0.05</SimpleData>
+		<SimpleData name="SKOG_HA">64.199</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4154-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.7471178701625,59.9810515679316 15.7459432450924,59.9810073213607 15.7458929572183,59.9810515878644 15.7450565643118,59.9817902451533 15.7434167303883,59.981880924551 15.743378264932,59.9820682773174 15.7433097640438,59.9825584946298 15.7432618797766,59.9827286324669 15.7431894149904,59.9828934400165 15.742913069548,59.9833483333525 15.7428526025135,59.9834201067502 15.7427878628745,59.9834835530678 15.7427099910322,59.9835351572063 15.7425625910201,59.9836132741459 15.7423726493368,59.9836802618471 15.7421233010384,59.9837360353189 15.7419901713803,59.9837592595585 15.7416877931253,59.9838021031382 15.7414514911388,59.983841153763 15.7412269975988,59.9838865940526 15.7410448710422,59.9839362141929 15.7408735300814,59.9839985785588 15.7407088816727,59.9840725697346 15.7406206976142,59.9841216173841 15.7404826204069,59.9842114879275 15.7403334409166,59.984333873053 15.7401836888976,59.984473205827 15.7400512453039,59.9846301223662 15.7399451826101,59.9847702965329 15.739875487955,59.9849019696383 15.7398214599224,59.9850763968701 15.7397820756284,59.9852637984554 15.7397853856474,59.9854041049973 15.7398092076689,59.9855263911862 15.739845311927,59.9856481416134 15.7399113527251,59.9857862917564 15.7400469552682,59.9859850149249 15.7409556575784,59.9871409886947 15.7413844973208,59.9876851015445 15.7415852409588,59.9879788931783 15.7416961110268,59.9882641108787 15.741704769899,59.988442838177 15.7416632492512,59.9887243051428 15.7466043528696,59.9920413846138 15.7542839558603,59.9920208875566 15.7542847746139,59.9914984281726 15.7525358396787,59.9884104756907 15.7537399430111,59.9857830002394 15.7471178701625,59.9810515679316</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

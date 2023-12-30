@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18290823_Hästtumla_tallskog" id="Q18290823_Hästtumla_tallskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18290823_Hästtumla_tallskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18290823_Hästtumla_tallskog">
+		<SimpleData name="NVRID">2014715</SimpleData>
+		<SimpleData name="NAMN">Hästtumla tallskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/11/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/06/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/06/03</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Motala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">33.28</SimpleData>
+		<SimpleData name="LAND_HA">33.27</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">30.582</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-16440-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2309812361321,58.6672494756438 15.2311276960998,58.6674253420651 15.2312069688287,58.6675978981808 15.2341753788441,58.6676291409296 15.2354237305304,58.6683056415343 15.2379142562038,58.6685780873033 15.239571612533,58.6683793600804 15.239703414378,58.667301107709 15.2400190537007,58.6668135708423 15.2400435330443,58.6656564657717 15.2401885085351,58.6651867865926 15.2429923643981,58.6654108682341 15.2450018756052,58.6640845584004 15.2454825712445,58.6632267328623 15.2438753563867,58.6630047374597 15.2437529852811,58.6633457052265 15.2412921096824,58.6627863780906 15.2365135112676,58.663349481019 15.2351730953848,58.6629676418496 15.2341357690286,58.6633795579523 15.2316037665279,58.6633636246073 15.2310290390789,58.6636347922226 15.2319858965126,58.6643013231577 15.2314475431496,58.6662195875512 15.2315796357134,58.6671152912296 15.2309812361321,58.6672494756438</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

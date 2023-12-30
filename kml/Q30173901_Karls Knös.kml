@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30173901_Karls_Knös" id="Q30173901_Karls_Knös">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30173901_Karls_Knös</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30173901_Karls_Knös">
+		<SimpleData name="NVRID">2002060</SimpleData>
+		<SimpleData name="NAMN">Karls knös</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/08/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/08/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/08/28</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Gagnefs kommun</SimpleData>
+		<SimpleData name="AREA_HA">58.08</SimpleData>
+		<SimpleData name="LAND_HA">58.07</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">54.873</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Gagnefs Kommun 98-08-19 § 137</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0866283774993,60.5082543671716 15.0887873480248,60.5091024116226 15.0894638275224,60.5040235058199 15.0898478749974,60.5011395065169 15.0867321760429,60.5005308351815 15.0854071701126,60.5002714363476 15.0854071338231,60.5002714812638 15.0807783596359,60.5057133631912 15.0807023855257,60.5058025933586 15.0804825129598,60.5056976677703 15.0786889554105,60.505985081914 15.0761226849778,60.5064032927327 15.0751728132765,60.507521115994 15.0744467054682,60.5083732573947 15.0744423471732,60.5083783686336 15.0772178973325,60.5099039304915 15.0785567330132,60.5104453563144 15.0802637481194,60.511135628016 15.0825663075263,60.5120666482955 15.0837777758916,60.5125384805417 15.0851738840832,60.5099363076281 15.0860907995365,60.5092929164742 15.0866283774993,60.5082543671716</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

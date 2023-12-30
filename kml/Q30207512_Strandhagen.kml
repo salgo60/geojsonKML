@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30207512_Strandhagen" id="Q30207512_Strandhagen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30207512_Strandhagen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30207512_Strandhagen">
+		<SimpleData name="NVRID">2029049</SimpleData>
+		<SimpleData name="NAMN">Strandhagen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/12/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/01/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/01/20</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Katrineholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">32.81</SimpleData>
+		<SimpleData name="LAND_HA">32.81</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">31.231</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-5335-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.067602028452,59.1174529595559 16.0689175512813,59.1165982320907 16.0710838047132,59.1151770429204 16.07007751892,59.1150086809397 16.0688026642949,59.1148561382105 16.0682469634977,59.1147729117978 16.0668302941235,59.1148048054626 16.0671179784886,59.1136562573291 16.0661222054869,59.1127248955548 16.0658555517396,59.1122329653345 16.065598094303,59.1120443897144 16.0652683569442,59.1121096503194 16.0633176786491,59.1122763576105 16.0623919849139,59.1123194218046 16.0614849458835,59.1122784961598 16.0589183662317,59.1128805338649 16.0584599393672,59.1131964326088 16.0577898837107,59.1151191491469 16.0576580138035,59.1155531806939 16.0574620004802,59.1159660629169 16.0573147502978,59.1161578794144 16.057215795704,59.1164087849607 16.0572427783415,59.1165737206133 16.057356062046,59.1167148357621 16.057629067298,59.1169021333224 16.0581437879899,59.1169895113415 16.0606978294934,59.1172306955697 16.0607067404023,59.1171867046485 16.0608952720897,59.117186071216 16.060887590929,59.1172432814243 16.0622864910679,59.1173822056831 16.0626257352323,59.1174715765621 16.0670839547273,59.1178807013248 16.067602028452,59.1174529595559</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

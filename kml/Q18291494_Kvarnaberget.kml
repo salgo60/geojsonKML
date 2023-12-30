@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18291494_Kvarnaberget" id="Q18291494_Kvarnaberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18291494_Kvarnaberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18291494_Kvarnaberget">
+		<SimpleData name="NVRID">2014406</SimpleData>
+		<SimpleData name="NAMN">Kvarnaberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/11/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/01/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/01/26</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Halmstad</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">45.26</SimpleData>
+		<SimpleData name="LAND_HA">45.26</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">45.004</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-12622-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.1034332836061,56.6416150975243 13.1062891363841,56.6427027350098 13.1069356596743,56.6442247343098 13.1065797911946,56.646608260106 13.1061430795014,56.6468491693355 13.10718212729,56.6476226427905 13.1073904429473,56.6482052687152 13.107414906665,56.6484449451485 13.1077003482939,56.6485871114453 13.1073816326705,56.6491773949155 13.107715141805,56.6495212893671 13.1080080101437,56.6496264199211 13.1058223624667,56.6520401911731 13.1066224277521,56.6525838187541 13.1094015788703,56.6524711086195 13.1122403360396,56.6501413354144 13.1123013504319,56.6497603051342 13.1107650922317,56.6470100817362 13.1100618167571,56.6442828851001 13.1129658409028,56.6440458882246 13.1109199021587,56.6402359858659 13.109146176643,56.6387624199605 13.1090257950795,56.6385463838711 13.1084107839199,56.6383505877967 13.107827421924,56.6382464861986 13.1034332836061,56.6416150975243</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

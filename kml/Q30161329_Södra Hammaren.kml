@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30161329_Södra_Hammaren" id="Q30161329_Södra_Hammaren">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30161329_Södra_Hammaren</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30161329_Södra_Hammaren">
+		<SimpleData name="NVRID">2001361</SimpleData>
+		<SimpleData name="NAMN">Södra Hammaren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1920/07/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1920/08/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1920/08/28</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Arboga</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.46</SimpleData>
+		<SimpleData name="LAND_HA">11.46</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.426</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">(T-län)Ed 505/1919,IIIÖ 26 57</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8325168304735,59.2869667767174 15.8323237686465,59.2869129499348 15.8319904320485,59.2869219858159 15.8315869166476,59.2869849040877 15.8310080569544,59.2871555767629 15.830674764958,59.2872364365926 15.8304642895038,59.2873172669126 15.8302712960402,59.2873930550462 15.8298441371076,59.2875400072686 15.8303418726769,59.2878469385298 15.8292375157956,59.2891847063809 15.8294307502882,59.2894898972526 15.8281689081275,59.2915907323528 15.8283687286307,59.2917704486666 15.8290817614782,59.2920843234434 15.8308542681539,59.292281498375 15.8312578962166,59.292290409531 15.8316439269895,59.2922544295466 15.8319246258195,59.2921645994015 15.832292920598,59.2919221479018 15.8329592571808,59.2913474798874 15.8332924348726,59.2910960627749 15.8337659129885,59.2907638096278 15.8341342962106,59.290620103919 15.8340638426574,59.2903328494984 15.8339232167513,59.290054584957 15.8335017424101,59.2896686699908 15.8326944369716,59.2894803174845 15.8322199672381,59.2886455407535 15.8316400624714,59.287604313717 15.832941085401,59.2873283106299 15.8326748125433,59.2870654885045 15.8325168304735,59.2869667767174</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

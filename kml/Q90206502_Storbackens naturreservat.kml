@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q90206502_Storbackens_naturreservat" id="Q90206502_Storbackens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q90206502_Storbackens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q90206502_Storbackens_naturreservat">
+		<SimpleData name="NVRID">2049973</SimpleData>
+		<SimpleData name="NAMN">Storbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/03/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/04/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/04/05</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Lycksele</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">24.69</SimpleData>
+		<SimpleData name="LAND_HA">24.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">21.997</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-9267-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.6899066256625,64.5121154091432 18.6888705685582,64.511635732394 18.6882494201118,64.5123038731212 18.6870541013458,64.5128569628693 18.6842879729018,64.5148710922468 18.6787612405774,64.5164537830876 18.6764137043185,64.5171259298767 18.6759525130151,64.5172579698146 18.680353545868,64.5199149365496 18.6814649200995,64.5194508367359 18.6814593849123,64.519412077957 18.6815150022535,64.5193685608497 18.6817424561482,64.519059231082 18.6839180483056,64.5180460611941 18.6847454874656,64.5173297902935 18.6847680775638,64.5173262576914 18.6851237836136,64.5170144895893 18.6875998135013,64.5165116468467 18.6877404040534,64.5164423934725 18.6893124178641,64.5159182960388 18.6893975869118,64.5157672948801 18.6892491116793,64.5156991908742 18.6892652113465,64.5156912585434 18.6901665948718,64.5154350259358 18.6900963955235,64.5152329077754 18.6902375024932,64.5150266506368 18.6908817364425,64.5146491444176 18.6914927181816,64.5144196432094 18.6915100471029,64.514395790445 18.6919053835244,64.5140281208307 18.6921648517202,64.5136380059206 18.6918603614636,64.513224678052 18.6911754749638,64.5129055873487 18.6906354409237,64.5125031492827 18.6899066256625,64.5121154091432</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

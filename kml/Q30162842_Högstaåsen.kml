@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30162842_Högstaåsen" id="Q30162842_Högstaåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30162842_Högstaåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30162842_Högstaåsen">
+		<SimpleData name="NVRID">2002612</SimpleData>
+		<SimpleData name="NAMN">Högstaåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1968/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1968/12/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/18</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">33.68</SimpleData>
+		<SimpleData name="LAND_HA">33.67</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">23.347</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3090-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.5867411160174,59.9677294209875 17.5863292297254,59.9676554847655 17.5860673305876,59.9680600681543 17.584940610508,59.969903299145 17.5840570106755,59.9707894656451 17.5824937597921,59.9724171346351 17.5825289701946,59.9732505343704 17.5830101608956,59.9736098686232 17.5829077041677,59.9739671248419 17.5822974841527,59.9746045155182 17.5811156238959,59.9751254975713 17.5794032930166,59.9756876276577 17.5785575926553,59.9760035254986 17.5778667561397,59.9762557530294 17.5773497918689,59.9764473418661 17.5776481365828,59.9769935146495 17.5779942997924,59.9775766975956 17.5781611066893,59.9778919530632 17.5783473461309,59.9781521584024 17.5788425413606,59.9787866427944 17.5785874675802,59.9794096418514 17.5832546580243,59.9804633488459 17.5835735927366,59.9800748993731 17.5840267031476,59.9796187658438 17.5843050510354,59.9793385524562 17.5843672175305,59.9792692220043 17.585425756504,59.9780886485958 17.5854976213072,59.978012330319 17.5854773735918,59.9775239179341 17.5854349999425,59.9768332452095 17.5854146487217,59.9766075085252 17.5860416095892,59.9757540438378 17.5872765023367,59.9739559737327 17.5872483133104,59.973848653587 17.5870313827139,59.9730531380768 17.5867628767333,59.9720603244374 17.5864883589413,59.9710543967585 17.5862976066012,59.9703686880486 17.5867411160174,59.9677294209875</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q15992284_Vrångöskärgårdens_naturreservat" id="Q15992284_Vrångöskärgårdens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q15992284_Vrångöskärgårdens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q15992284_Vrångöskärgårdens_naturreservat">
+		<SimpleData name="NVRID">2000807</SimpleData>
+		<SimpleData name="NAMN">Vrångöskärgården</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1979/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1979/07/12</SimpleData>
+		<SimpleData name="SENGALLDAT">1979/07/12</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Göteborg</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">5082.35</SimpleData>
+		<SimpleData name="LAND_HA">395.75</SimpleData>
+		<SimpleData name="VATTEN_HA">4686.557</SimpleData>
+		<SimpleData name="SKOG_HA">21.033</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-1331-75 1480-212</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.8316414930876,57.5832163643227 11.8554507813317,57.5581249808924 11.8180345612841,57.556420852852 11.8001694703294,57.5303997553591 11.7817097878523,57.5034697203188 11.7202143438577,57.5024592677494 11.7221415787097,57.5862212970661 11.7747102129577,57.588076340039 11.7831280558521,57.5899617296802 11.7948555603669,57.5880782826328 11.7961230585278,57.5859376811328 11.8032923969749,57.5848008934523 11.8316414930876,57.5832163643227</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>11.7829895474215,57.56934402729 11.7874749981635,57.5674163723624 11.7886258229783,57.5678558244674 11.7905940443881,57.5684716131209 11.7907434285299,57.5685219462837 11.7951953929297,57.5699235560844 11.7937592161555,57.5790919006131 11.7820938132474,57.579030863455 11.7709758894074,57.5756555758486 11.7712545196602,57.5699593177136 11.7793940509433,57.5699998516726 11.7796728082143,57.5696646482003 11.7829895474215,57.56934402729</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q14405582_Stor_Räbben" id="Q14405582_Stor_Räbben">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q14405582_Stor_Räbben</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q14405582_Stor_Räbben">
+		<SimpleData name="NVRID">2000849</SimpleData>
+		<SimpleData name="NAMN">Stor-Räbben</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1969/11/04</SimpleData>
+		<SimpleData name="URSGALLDAT">1969/11/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/09/12</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Piteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">10140.7</SimpleData>
+		<SimpleData name="LAND_HA">713.63</SimpleData>
+		<SimpleData name="VATTEN_HA">9427.028</SimpleData>
+		<SimpleData name="SKOG_HA">318.849</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-15079-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.7576778133198,65.1750580600667 21.7744328780581,65.1805367961735 21.7973876444061,65.2081244246775 21.8027148510188,65.2108260969003 21.8070760497173,65.2130373088164 21.8257389834823,65.2195367621116 21.8289550352781,65.2170555304618 21.8364201176815,65.2149387526274 21.8396357351502,65.2153119608023 21.8418458586098,65.2160393579773 21.8465513640313,65.2175877843497 21.9059670035463,65.2281960056015 21.9653826419691,65.238804228486 22.0097360897726,65.2149423426406 22.0540895198614,65.1910804629082 22.0121800737766,65.1733463337615 21.9702706477078,65.1556122024555 21.928361196182,65.13787807711 21.8886183681348,65.1210616341731 21.8864517537313,65.1201439441042 21.8832702513417,65.1213869020218 21.8288256217081,65.1426293362399 21.7711994899502,65.1651147239571 21.7576778133198,65.1750580600667</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

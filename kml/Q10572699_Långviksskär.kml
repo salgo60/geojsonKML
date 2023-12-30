@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10572699_Långviksskär" id="Q10572699_Långviksskär">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10572699_Långviksskär</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10572699_Långviksskär">
+		<SimpleData name="NVRID">2000876</SimpleData>
+		<SimpleData name="NAMN">Långviksskär</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1983/12/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1984/02/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1984/02/16</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Värmdö</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Skärgårdsstiftelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">3897.14</SimpleData>
+		<SimpleData name="LAND_HA">318.31</SimpleData>
+		<SimpleData name="VATTEN_HA">3578.799</SimpleData>
+		<SimpleData name="SKOG_HA">10.6</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">0120-02-041</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8294818607265,59.1795118483674 18.8462722845957,59.170589106386 18.8474873982063,59.1700713459321 18.8474874649932,59.1700713169818 18.8656741315521,59.169529724621 18.8658747822861,59.1695236393434 18.8652519529991,59.1624987374732 18.8647949144443,59.157341387492 18.864466606318,59.1560153227457 18.8605320934642,59.1401145435947 18.8587147327208,59.1327645677743 18.8500474367692,59.1255663896667 18.8500158809581,59.1255401765886 18.8025048806297,59.0855176988493 18.8025018552881,59.0855151446099 18.8025017593001,59.085515066518 18.7817255974489,59.1043807198771 18.7732194973497,59.1121378195595 18.7631705381002,59.1212967634567 18.7446321720058,59.1253558715465 18.7473782193246,59.1279335653404 18.7543179291912,59.1343608852905 18.7761908552024,59.1464528138703 18.7847710803341,59.1511928099351 18.786786453361,59.1665018538533 18.7999482308929,59.1716446852383 18.8004645946707,59.1718703119944 18.8174110994851,59.178417935608 18.8192590739876,59.182122083014 18.8192590964518,59.1821221273025 18.8192594715489,59.1821220353568 18.8192638988719,59.1821208982216 18.8294817754445,59.1795118688635 18.8294818607265,59.1795118483674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

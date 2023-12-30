@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89109458_Marstads_naturreservat" id="Q89109458_Marstads_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89109458_Marstads_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89109458_Marstads_naturreservat">
+		<SimpleData name="NVRID">2049019</SimpleData>
+		<SimpleData name="NAMN">Marstad</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/07</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Mjölby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">2.08</SimpleData>
+		<SimpleData name="LAND_HA">2.04</SimpleData>
+		<SimpleData name="VATTEN_HA">0.033</SimpleData>
+		<SimpleData name="SKOG_HA">0.162</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-6889-18</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0101863638545,58.3907760448546 15.0101564243046,58.3907711612947 15.0103854468682,58.3916117862548 15.0104157649006,58.3916215152491 15.0109090640005,58.3918146213546 15.0111772660048,58.3919588141798 15.0113334497381,58.3920548037088 15.0115354002918,58.3921273202758 15.0118722731899,58.3922363069429 15.0122072610973,58.3924284256574 15.0123629106433,58.3925481610585 15.0126079717228,58.3927159654635 15.012808581762,58.3928478658163 15.0131400097444,58.3929594902433 15.0131432260084,58.3929605766747 15.0131433628702,58.3929606215681 15.0131433628535,58.3929605766606 15.0131805138584,58.3922755611199 15.0131758904287,58.3922713358 15.01319901919,58.3916368263926 15.0129624045321,58.3916334465607 15.0124694322051,58.3915669335884 15.0123496967769,58.3914671068281 15.0123919037586,58.3913469302769 15.0123496088762,58.391215669729 15.0123914191458,58.3911356944093 15.0101936644326,58.390777235221 15.0101863638545,58.3907760448546</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

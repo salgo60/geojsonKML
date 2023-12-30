@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160900_Norra_Lien" id="Q30160900_Norra_Lien">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160900_Norra_Lien</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160900_Norra_Lien">
+		<SimpleData name="NVRID">2005598</SimpleData>
+		<SimpleData name="NAMN">Norra Lien</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/11/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/02/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/01/28</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Eda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">109.02</SimpleData>
+		<SimpleData name="LAND_HA">107.08</SimpleData>
+		<SimpleData name="VATTEN_HA">1.94</SimpleData>
+		<SimpleData name="SKOG_HA">83.579</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-12438-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.0340324013979,59.6373115553712 12.0331944695257,59.6383955198136 12.0330990148059,59.6385206402218 12.0323228398041,59.6395246061001 12.0474570412448,59.6431358149223 12.0474578926788,59.6431360228035 12.0485669943159,59.6421605792574 12.0485670328953,59.642160544184 12.0487170026201,59.6420277093857 12.0497187597423,59.6411466320419 12.0497210294827,59.6411446344316 12.0497214144648,59.6411442926617 12.0493310705352,59.6410488465747 12.0493308442052,59.6410487965504 12.0474505162148,59.6405889804306 12.0474510777445,59.6405870342239 12.0485889060357,59.6366994695087 12.0485891091755,59.6366987732083 12.0560828320581,59.6386214651308 12.0560840298109,59.6386217705935 12.0566295672499,59.6373530358435 12.0574565260375,59.6354294443146 12.0578212255277,59.634581005124 12.0416435420213,59.6300706725101 12.0399487755677,59.6295979896886 12.0399487063203,59.6295979701527 12.0382376429191,59.629120690943 12.0380237368694,59.6294251495769 12.0379388339022,59.6295460007694 12.0371759048655,59.6306376670847 12.037415665843,59.6322104816997 12.035916749939,59.6334735935446 12.0403483017908,59.6346053447969 12.0389353081199,59.6369071578448 12.0389339317517,59.6369072705101 12.0340354047735,59.6373092960736 12.0340338838121,59.6373096390418 12.0340324013979,59.6373115553712</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

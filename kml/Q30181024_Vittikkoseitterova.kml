@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30181024_Vittikkoseitterova" id="Q30181024_Vittikkoseitterova">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30181024_Vittikkoseitterova</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30181024_Vittikkoseitterova">
+		<SimpleData name="NVRID">2014607</SimpleData>
+		<SimpleData name="NAMN">Vittikkoseitterova</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/11/12</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/12/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/12/15</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Övertorneå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">93.71</SimpleData>
+		<SimpleData name="LAND_HA">93.7</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">71.31</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3773-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.6301031581972,66.5793472203942 23.6336629655977,66.5801628749095 23.6327279753334,66.582027861106 23.6368215910785,66.5825610771665 23.6376220930449,66.5828742484272 23.6409089909465,66.5840202487332 23.6451013156703,66.5820472347538 23.6404757291098,66.5801529856279 23.6412081437726,66.5767142359009 23.6416077687696,66.5751886389205 23.6485312889598,66.5765648671137 23.6511548819551,66.577624306679 23.6505509059545,66.5785288290761 23.653659002126,66.5803646498122 23.6583876884629,66.5725289573747 23.6548222420534,66.571811746739 23.6524326412502,66.5715590909867 23.6498722852365,66.5712418817322 23.6485455946265,66.571358072553 23.6445747394213,66.5696549857503 23.6382225438987,66.5716344722962 23.6361468655745,66.5722804638513 23.6377715312732,66.5728303669687 23.6362280812312,66.5750432513147 23.6298171347412,66.5772993255704 23.6301031581972,66.5793472203942</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

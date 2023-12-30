@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q90099426_Vårvsbergets_naturreservat" id="Q90099426_Vårvsbergets_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q90099426_Vårvsbergets_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q90099426_Vårvsbergets_naturreservat">
+		<SimpleData name="NVRID">2047238</SimpleData>
+		<SimpleData name="NAMN">Vårvsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/09/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/10/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/10/19</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ragunda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">116.7</SimpleData>
+		<SimpleData name="LAND_HA">116.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">114.699</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7216-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.0342480258809,63.2026545031364 16.0355507716046,63.202428198162 16.0394889646289,63.2031379949313 16.0449880145902,63.2035456873225 16.0452585054732,63.2034642441286 16.0465821319634,63.2030709118147 16.0486459551174,63.2048370015563 16.0496408100976,63.2049124990555 16.0526010658321,63.2038461841418 16.0533112790133,63.2041970170286 16.0577090120041,63.2044507089126 16.0574828360626,63.2032047906822 16.0653286707253,63.2027978587967 16.0642877842657,63.2018055998541 16.0634431336813,63.2010007196301 16.0617586125624,63.1993954687215 16.0600581314147,63.1977715668094 16.0592119565655,63.196965820959 16.0583633284665,63.196158006091 16.0575206552643,63.1953551954805 16.0545663319997,63.1959593241044 16.0501097909902,63.19477629449 16.0479597977029,63.1954691714672 16.0498870705768,63.196533945646 16.0524424529068,63.1971026399919 16.0521880218058,63.1995592697829 16.04903206848,63.1996114066659 16.0413799346495,63.1980705671945 16.0376341094876,63.1973434715387 16.0370278230848,63.1968476417801 16.0360684671103,63.1960626665004 16.0341112285255,63.1966620581115 16.0325282944974,63.1972802281292 16.0308562559839,63.1959965403947 16.0287769901328,63.19627857444 16.027926485799,63.1960400177144 16.0275089905999,63.196126781316 16.0265129484538,63.1970480464389 16.0303034972827,63.1983606876104 16.0323208439031,63.2011293061174 16.0295960818897,63.2034348204314 16.0350218949267,63.204711513773 16.0357605407441,63.2051272476301 16.0364131361047,63.2052424637793 16.037315232069,63.2049414397234 16.0351557197315,63.2035235672893 16.0340385726209,63.2027900457858 16.0342480258809,63.2026545031364</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

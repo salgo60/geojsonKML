@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160557_Dyvik" id="Q30160557_Dyvik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160557_Dyvik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160557_Dyvik">
+		<SimpleData name="NVRID">2002729</SimpleData>
+		<SimpleData name="NAMN">Dyvik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1962/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1962/07/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1962/07/19</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Tyresö</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Enskild markägare</SimpleData>
+		<SimpleData name="AREA_HA">7.2</SimpleData>
+		<SimpleData name="LAND_HA">6.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0.401</SimpleData>
+		<SimpleData name="SKOG_HA">3.83</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">III R-2-6     0138-02-002</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3973805985694,59.1990938217841 18.398486263811,59.1983536871008 18.3995269733596,59.1977078868705 18.3997115955986,59.1975927369463 18.3999206113256,59.1975176274222 18.4003208060403,59.1974861281178 18.400494435732,59.1974248327021 18.4006264723,59.1972376449698 18.4003595822241,59.1969437356208 18.4001036084069,59.1966740949628 18.4001169659118,59.1965899780293 18.3999833529706,59.1964504513631 18.3998174812156,59.1962772285162 18.3972397690702,59.1969057217075 18.3970923744185,59.1967888966236 18.3964638722576,59.1967693914865 18.395550864608,59.1970626400365 18.3952696276922,59.1972166385583 18.3954256052847,59.1972906297114 18.3956770953911,59.1974137140324 18.3965457067832,59.197834436984 18.3965982722842,59.1978587946478 18.396718491159,59.1979183205303 18.3968730746818,59.1978561917095 18.3972785835679,59.1979815633469 18.3970906893393,59.198221663927 18.396365916722,59.198483551851 18.3962380401245,59.1986323016422 18.3957689945257,59.1984570153979 18.3948881500323,59.1991842779147 18.3940720132633,59.1996176112348 18.3934108633526,59.1999446080542 18.3927605700453,59.2002199430593 18.3940032048844,59.2008890153106 18.3943611250799,59.2006983392657 18.3956899500774,59.199986762707 18.3960980540825,59.1997683343939 18.3973805985694,59.1990938217841</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

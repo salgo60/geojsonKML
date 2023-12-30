@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18291821_Lindsta" id="Q18291821_Lindsta">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18291821_Lindsta</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18291821_Lindsta">
+		<SimpleData name="NVRID">2001947</SimpleData>
+		<SimpleData name="NAMN">Lindsta</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/04/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/06/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/06/13</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Heby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">25.48</SimpleData>
+		<SimpleData name="LAND_HA">25.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">24.308</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5150-01</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2942366970054,60.1060179427242 17.2953764905315,60.1085963784383 17.2975384402906,60.1090042838787 17.2974979066255,60.1090738763752 17.2974047919137,60.1092196572306 17.2970789177545,60.109609363153 17.2970450154786,60.1096971921127 17.297035958971,60.1100223180916 17.2968724893097,60.1104645556469 17.2969882785551,60.1106405387817 17.2970582749329,60.1109971423175 17.2968954698291,60.1113048427029 17.2969495745685,60.1120160733336 17.2969690017779,60.1125707707477 17.2970229657096,60.1132388506326 17.2990278502485,60.114487955991 17.299638209563,60.1138192297568 17.3002173893262,60.1137947821958 17.3004406627949,60.1133158122715 17.3012662159167,60.1131116885116 17.3010384595363,60.1124693578996 17.3010030521576,60.1122039223662 17.3017351835122,60.1113292489747 17.3019361092481,60.111323310486 17.3022097013975,60.110979999523 17.3018504993745,60.1101004855992 17.302115761944,60.1096284708446 17.3044851104412,60.1095236114661 17.3048580250419,60.1081440997117 17.3031285402516,60.1086228771336 17.2983676465574,60.1062960727593 17.2969939951036,60.1065574131186 17.2961027065395,60.1061150057614 17.2958624809058,60.1059705638408 17.2954877439384,60.1056493572878 17.2947071201466,60.1057476235314 17.2942366970054,60.1060179427242</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

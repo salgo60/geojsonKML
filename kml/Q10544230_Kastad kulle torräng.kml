@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10544230_Kastad_kulle_torräng" id="Q10544230_Kastad_kulle_torräng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10544230_Kastad_kulle_torräng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10544230_Kastad_kulle_torräng">
+		<SimpleData name="NVRID">2001751</SimpleData>
+		<SimpleData name="NAMN">Kastad kulle torräng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/07/31</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/07/31</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Vadstena</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">3.39</SimpleData>
+		<SimpleData name="LAND_HA">3.39</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.27</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">2310-5212-95 / 2310-5212-95, 0584-202</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8438090397312,58.4209490101055 14.8438031449086,58.4209580562485 14.8435837233656,58.4212949981262 14.8435450439987,58.4213544082778 14.8427601524908,58.4211853596653 14.8424336581748,58.4211150380011 14.8424165318044,58.4211396172058 14.8423738706699,58.4212008812771 14.8423309163524,58.4212625940469 14.8419341575971,58.422248504689 14.8418064624428,58.4226375502825 14.841772318229,58.4227955910255 14.8417745936677,58.4228837379946 14.8418465483583,58.4229680729848 14.8419465530367,58.4230853147033 14.8419579188659,58.4231430975372 14.8420620568263,58.4231518211447 14.8426071106173,58.4231453242764 14.8431415413113,58.4231830548177 14.8431604974379,58.4231398052847 14.8434642585508,58.4231870777943 14.8438536145338,58.4232476835739 14.8452471324367,58.4211617020973 14.8438996440899,58.420962368141 14.8438091597242,58.4209489743258 14.8438090741682,58.4209489652401 14.8438090397312,58.4209490101055</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

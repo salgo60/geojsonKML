@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30169366_Kusmyran" id="Q30169366_Kusmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30169366_Kusmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30169366_Kusmyran">
+		<SimpleData name="NVRID">2002067</SimpleData>
+		<SimpleData name="NAMN">Kusmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/06/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/09/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/09/01</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Vansbro</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">5.2</SimpleData>
+		<SimpleData name="LAND_HA">5.2</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.196</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">2311-4465-89</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.524429096732,60.4644196439807 14.5242561134998,60.4644269552927 14.5239870819267,60.4646801937985 14.5237586899308,60.465054988057 14.5237150492266,60.4652969272619 14.5236794864276,60.4655075234132 14.5236387983051,60.465789886644 14.5236274996585,60.4660186616862 14.5237196831968,60.4661586828748 14.5236673901359,60.4662748701677 14.5235523681529,60.4663680092897 14.5232212416451,60.4663513645068 14.5229890352423,60.4663042485596 14.5227276128034,60.4663062224307 14.5224796320182,60.4663711492972 14.5222309317708,60.4664540307008 14.522128844585,60.4665069091652 14.5232613115449,60.4668903157082 14.52458671886,60.4673384012033 14.5282367530695,60.4655378183648 14.52764589145,60.4653077466852 14.5270335190961,60.4651043977516 14.5263408046139,60.4648643696456 14.5257497612793,60.4646971313645 14.5246716235751,60.4644354403177 14.524429096732,60.4644196439807</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

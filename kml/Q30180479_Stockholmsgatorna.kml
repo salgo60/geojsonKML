@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30180479_Stockholmsgatorna" id="Q30180479_Stockholmsgatorna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30180479_Stockholmsgatorna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30180479_Stockholmsgatorna">
+		<SimpleData name="NVRID">2000484</SimpleData>
+		<SimpleData name="NAMN">Stockholmsgatorna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1982/05/14</SimpleData>
+		<SimpleData name="URSGALLDAT">1982/06/04</SimpleData>
+		<SimpleData name="SENGALLDAT">1982/06/04</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Åsele, Örnsköldsvik</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">29.06</SimpleData>
+		<SimpleData name="LAND_HA">28.95</SimpleData>
+		<SimpleData name="VATTEN_HA">0.11</SimpleData>
+		<SimpleData name="SKOG_HA">24.533</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-516-82,  Y 60</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8329036729626,63.8994127258693 17.8404249675995,63.9008537756157 17.8406500086811,63.9001453178064 17.8407892421323,63.8997685116751 17.8415444457234,63.8977143426876 17.8420529790712,63.8963278408863 17.8437804549029,63.8950154478771 17.8449153695839,63.8939500472712 17.8439744539711,63.8924788315526 17.8437065363449,63.8915848902917 17.8436846466703,63.8915234777984 17.8434874768332,63.8915655488766 17.8430702380243,63.8916453713006 17.8424544281589,63.8917502438349 17.8419444271987,63.8918324780347 17.8405909979697,63.8920370940517 17.8401439609267,63.8921366132023 17.8397312103195,63.892261610422 17.8391638364552,63.8924698671423 17.8387584132516,63.8926727078978 17.8361844345672,63.8938043156907 17.8364105846966,63.8942637730276 17.8377640757988,63.8948820365294 17.8372811864286,63.8960058294466 17.8370034061943,63.8966473840202 17.8359198216696,63.8973785909168 17.8329036729626,63.8994127258693</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

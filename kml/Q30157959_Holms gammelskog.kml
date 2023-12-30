@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30157959_Holms_gammelskog" id="Q30157959_Holms_gammelskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30157959_Holms_gammelskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30157959_Holms_gammelskog">
+		<SimpleData name="NVRID">2014539</SimpleData>
+		<SimpleData name="NAMN">Holms gammelskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/10/31</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/05/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/05/03</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hudiksvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">15.04</SimpleData>
+		<SimpleData name="LAND_HA">15.04</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.776</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2023-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2277885980333,61.6759241052764 17.2267020315727,61.6745604727591 17.228419222218,61.674221187849 17.2282896110622,61.6738459267214 17.2289606133276,61.6735996988919 17.2279770620617,61.6728467151564 17.2321079501608,61.6722104207357 17.2322909015763,61.672349728686 17.2339084162386,61.672169969664 17.2331977574273,61.671437670163 17.2314303997797,61.671713200786 17.2306028214767,61.6718568102882 17.2301235588664,61.6719483821728 17.2288343047979,61.6722327574046 17.2280141027909,61.672385193632 17.2278000813108,61.6724249678872 17.227575049376,61.6724501566231 17.2271045483511,61.6724668464108 17.2259098133422,61.6724268252721 17.2248046678262,61.6724119117743 17.22458804196,61.6724147585894 17.2243074538043,61.6724371266851 17.2240476027184,61.672482444338 17.2233600556118,61.6726433303167 17.2227594548589,61.67278114854 17.2220448510871,61.6729367642977 17.220975359418,61.6731731950592 17.2209983683043,61.6732183180977 17.2212060625272,61.6736763328664 17.2212701617032,61.6738417235402 17.2212922408795,61.6739049308285 17.2213660759546,61.6740437871211 17.2215016312363,61.6741749691907 17.2217801600808,61.6744127041843 17.2219520453154,61.6746030898835 17.2222393016505,61.6749836913753 17.2237003559374,61.6749361418746 17.2237934079256,61.67539213557 17.222628770779,61.6757398951421 17.2224233481981,61.6760148338762 17.2223800309386,61.676092663465 17.2223728258178,61.6761346665032 17.222379846052,61.6761899905344 17.2224037764193,61.6762323592914 17.2224532115177,61.6762743230075 17.2225458934234,61.6763321091832 17.2226560195197,61.6763662263049 17.2229780276424,61.6764233873548 17.2233637899643,61.6764824310643 17.2237937919011,61.6765245628895 17.2241508897467,61.6765503024702 17.224761352889,61.6765948071109 17.2251242224777,61.676589377058 17.2252905049347,61.6765786007777 17.2254760807919,61.676557012206 17.2258351672144,61.6764935364237 17.2269613875233,61.6761908200736 17.2278092936025,61.6759500730964 17.2277885980333,61.6759241052764</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

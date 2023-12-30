@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160210_Pipmossens_domänreservat" id="Q30160210_Pipmossens_domänreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160210_Pipmossens_domänreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160210_Pipmossens_domänreservat">
+		<SimpleData name="NVRID">2001438</SimpleData>
+		<SimpleData name="NAMN">Pipmossens domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/03/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/03/10</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Finspång</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">33.39</SimpleData>
+		<SimpleData name="LAND_HA">33.39</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.946</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">2310-10289-95</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.0054057580033,58.8543098387153 16.0064191109191,58.8535057838419 16.0068642109996,58.8532661740867 16.0089786317365,58.853024861282 16.0102719526157,58.8528113944316 16.0108148735985,58.8524954534395 16.0119182745051,58.8520196870699 16.0126698603419,58.8516945320016 16.0124861514688,58.8509611232125 16.014226052541,58.8495417606554 16.0151227956837,58.8493645351361 16.0154088787941,58.848760965463 16.0138863950911,58.8484952519398 16.0142640784292,58.8471421591357 16.0144495925222,58.8460792400765 16.0128013055479,58.8460066527228 16.0117096000167,58.8458175070719 16.0107726797234,58.8457801680756 16.0087645654782,58.8460913490848 16.0070779462435,58.846318072221 16.0071228568085,58.8470801619666 16.0072448391605,58.8476434917612 16.0074199463438,58.848541704554 16.0077706755131,58.8487547942816 16.0076517563573,58.8501184223034 16.0066450408754,58.8506439468525 16.0055756423447,58.8513214511956 16.0051702140684,58.8512685440064 16.0046949805005,58.8515228965241 16.004583962362,58.851807637997 16.0050808490137,58.8524362139223 16.004991815501,58.8527702188009 16.0044909323261,58.853672452267 16.0041057266898,58.853564561364 16.003784448187,58.8538932748237 16.0034007135474,58.85448514518 16.0023733349129,58.8549386383675 16.0041624228251,58.8552367256145 16.0054057580033,58.8543098387153</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

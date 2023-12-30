@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q29579928_Sör_Stormyrliden" id="Q29579928_Sör_Stormyrliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q29579928_Sör_Stormyrliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q29579928_Sör_Stormyrliden">
+		<SimpleData name="NVRID">2042246</SimpleData>
+		<SimpleData name="NAMN">Sör-Stormyrliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/09/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/10/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/10/15</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Örnsköldsvik</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">21.45</SimpleData>
+		<SimpleData name="LAND_HA">21.45</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">21.423</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4086-13</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.5240984325756,63.7688981849304 18.5253484602728,63.7687007162811 18.5265596942593,63.7688394096718 18.5281394047935,63.7687216384954 18.5287990941902,63.7687525415547 18.5295739448322,63.7685375944099 18.5307798320756,63.7678489067959 18.5322714362608,63.767829419671 18.532839816497,63.7676518120485 18.5327421288009,63.7665960933523 18.53294399079,63.7664253152376 18.5280492016208,63.7627947749816 18.526166476575,63.763295880554 18.5262465006808,63.7637829196691 18.5267430371635,63.7641802957144 18.5266964631195,63.7648427419028 18.5260150977164,63.7652064367928 18.5254103836291,63.7657794651422 18.5246570466642,63.7663189500604 18.5233626794827,63.7667606524377 18.5232429882344,63.7675704976572 18.5230928149925,63.7684069203631 18.5228350100023,63.7688056599895 18.5217333298371,63.7687975616803 18.5207232666078,63.7694320501695 18.5212664522247,63.769863724286 18.5228852111017,63.7699416885541 18.5224778320118,63.7704640602135 18.5228094346406,63.7706008036882 18.5237085951349,63.7701737642011 18.5240506450719,63.7698760400955 18.5237123557165,63.7696508462844 18.5240984325756,63.7688981849304</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18292145_Lövsjö_ängar" id="Q18292145_Lövsjö_ängar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18292145_Lövsjö_ängar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18292145_Lövsjö_ängar">
+		<SimpleData name="NVRID">2002384</SimpleData>
+		<SimpleData name="NAMN">Lövsjö ängar Domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/20</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/20</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Lessebo</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">17.91</SimpleData>
+		<SimpleData name="LAND_HA">17.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">9.403</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-3418-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4679199705309,56.8331284946412 15.4641876738068,56.8330370786519 15.4647748691029,56.8334580442915 15.4638216136616,56.8337850928739 15.464424105791,56.8352400969799 15.465269469361,56.8359927193825 15.4660424496412,56.8362862209431 15.467885889392,56.8386912958411 15.4675731389583,56.8387905861471 15.4677740893815,56.839160842829 15.4679404069428,56.8391509214055 15.4686469136414,56.8390946338159 15.4691465404983,56.8390684617833 15.4697418517314,56.8390413169366 15.470334848377,56.8390123946751 15.4704826288931,56.8390050228166 15.4707045349489,56.8389944363639 15.4711694009248,56.8389809646396 15.4711626113654,56.8389725795841 15.4707327569031,56.838441784974 15.471940503447,56.8378897273 15.4713336814692,56.8370361921328 15.4711486333068,56.8368961333914 15.4710694767585,56.8368061425896 15.4710559947287,56.836712583568 15.4711433347973,56.8366040885342 15.4712985087251,56.8365186756569 15.4693143322885,56.835560798811 15.468999019548,56.834894481879 15.4684977083166,56.8334603037095 15.4679199705309,56.8331284946412</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

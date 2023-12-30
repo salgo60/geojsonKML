@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30160723_Möckelkullen" id="Q30160723_Möckelkullen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30160723_Möckelkullen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30160723_Möckelkullen">
+		<SimpleData name="NVRID">2002240</SimpleData>
+		<SimpleData name="NAMN">Möckelkullen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1972/10/13</SimpleData>
+		<SimpleData name="URSGALLDAT">1972/10/13</SimpleData>
+		<SimpleData name="SENGALLDAT">1972/10/13</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Västervik</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Västerviks kommun</SimpleData>
+		<SimpleData name="AREA_HA">6.12</SimpleData>
+		<SimpleData name="LAND_HA">6.11</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.866</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-2039-71, Rr 310</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.167649575866,57.8891681667003 16.1657281288189,57.8883479902548 16.1659074196588,57.8881175288173 16.1658130246841,57.8878358434257 16.1652704562183,57.8875735153267 16.1649131163302,57.8877579722889 16.1639402340052,57.8882601504473 16.1632513255683,57.8887328609166 16.1625605532205,57.8887637369549 16.1615159748227,57.8896649850464 16.1628688781673,57.8897416348753 16.1639790847259,57.8898226059656 16.1643976797421,57.8898661990353 16.1646887111515,57.8899568998256 16.1649640409373,57.8901446258392 16.1653651919257,57.8904199759381 16.1656030441049,57.890573693425 16.1658431060053,57.8906304185043 16.1665622751662,57.8907143813587 16.1665700040433,57.8907004226163 16.1669417777216,57.8900288949496 16.1674346978705,57.8900933004237 16.1675057079075,57.8901025738806 16.167649575866,57.8891681667003</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

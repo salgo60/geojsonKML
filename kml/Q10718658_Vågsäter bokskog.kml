@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10718658_Vågsäter_bokskog" id="Q10718658_Vågsäter_bokskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10718658_Vågsäter_bokskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10718658_Vågsäter_bokskog">
+		<SimpleData name="NVRID">2000739</SimpleData>
+		<SimpleData name="NAMN">Vågsäter bokskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1985/06/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1985/07/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/05/04</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Munkedal</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">2.92</SimpleData>
+		<SimpleData name="LAND_HA">2.92</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.922</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">512-4290-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.7847994850392,58.4567915862073 11.7830172956488,58.4570052469015 11.783309027608,58.4574907586789 11.7840031113185,58.4585821077272 11.7833277042837,58.4593518232536 11.7838871127153,58.4595538803776 11.7839055126984,58.4595606606036 11.7839151439415,58.4595509797707 11.7839262491365,58.4595398080001 11.7839268686995,58.4595392213656 11.7839280409236,58.459538217186 11.7839291821064,58.4595373650203 11.7840602280901,58.4594453829663 11.7841340967904,58.4593492515844 11.7841341546779,58.4593491811346 11.7841350759624,58.4593481077412 11.7841361145647,58.4593470642553 11.7841365441667,58.4593466795724 11.7845445821013,58.4589924269975 11.7845446937773,58.4589923309337 11.7849089172296,58.4586805687823 11.7849095473182,58.45868005431 11.7849108522737,58.4586790983916 11.7849111277724,58.458678898584 11.78531943148,58.4584047408263 11.7853203785545,58.4584041354384 11.7855585036928,58.4582578284942 11.7855586854429,58.4582577162118 11.7855594099867,58.4582572939841 11.7857673591367,58.458139431112 11.7857681537545,58.4581389926653 11.7857697877698,58.4581381887975 11.7857706108757,58.4581378139801 11.785838335523,58.458108316028 11.7857492926975,58.457333714951 11.7854811138759,58.4568669195232 11.7847994850392,58.4567915862073</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

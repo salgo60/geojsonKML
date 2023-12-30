@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10430459_Bjära" id="Q10430459_Bjära">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10430459_Bjära</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10430459_Bjära">
+		<SimpleData name="NVRID">2001502</SimpleData>
+		<SimpleData name="NAMN">Bjära</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/07/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/07/20</SimpleData>
+		<SimpleData name="SENGALLDAT">1993/07/27</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristianstad</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">12.96</SimpleData>
+		<SimpleData name="LAND_HA">12.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.878</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-5890-92</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8355306919476,55.9139157139002 13.8355534568338,55.9139376836563 13.8356128566216,55.9139950262497 13.8356128875347,55.913995062485 13.837442177545,55.9151406484435 13.837743906885,55.9151107160433 13.8379617628207,55.9154552187749 13.8382395778502,55.9157450871668 13.8384691799273,55.915969928611 13.8386198340398,55.9159594251664 13.8387506916435,55.9159629683271 13.8388961873303,55.9159971020601 13.8392970614959,55.91610798164 13.8396643568749,55.9161844426404 13.8400381746252,55.9162573966198 13.8401587240735,55.9163087981524 13.840228080842,55.9163561501943 13.8407811835518,55.9166769725383 13.8409851145594,55.9167734397474 13.8413364051669,55.9168213860753 13.8419632390193,55.9168223479886 13.8420394307859,55.9168224802466 13.8423607600554,55.9168218884965 13.8423652246287,55.9168218765435 13.8423656405324,55.9168218804524 13.8423656258747,55.9168218353859 13.8423080535669,55.9166576008953 13.8422504508155,55.9164933301419 13.8422351426794,55.9164496952265 13.842235128022,55.91644965016 13.8410604146165,55.9130986073293 13.8406133458872,55.9118060758991 13.839033215568,55.9120861215624 13.8390331353279,55.9120861297918 13.8371213709536,55.9125516715154 13.8359940915829,55.912813983169 13.8364033811298,55.912948611474 13.8365870192253,55.9130090053306 13.8366221277496,55.9130205511951 13.8366909027921,55.9130431799855 13.8371963981343,55.9132094365907 13.8376372264613,55.9136409873614 13.8373689197317,55.913852010433 13.8370474287083,55.9136813728669 13.8366617398328,55.9135885737556 13.8362022172557,55.9135005211462 13.8361978583361,55.9134996892108 13.8361975403219,55.9134996233055 13.8361527810809,55.9137706871095 13.8355306919476,55.9139157139002</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

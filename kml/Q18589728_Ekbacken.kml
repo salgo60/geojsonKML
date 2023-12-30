@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18589728_Ekbacken" id="Q18589728_Ekbacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18589728_Ekbacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18589728_Ekbacken">
+		<SimpleData name="NVRID">2024071</SimpleData>
+		<SimpleData name="NAMN">Ekbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/11/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/02/09</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Eskilstuna</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Eskilstuna kommun</SimpleData>
+		<SimpleData name="AREA_HA">5.97</SimpleData>
+		<SimpleData name="LAND_HA">5.97</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.566</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">SBN/2009:401</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4630497359614,59.4111733144672 16.4634388978384,59.4110106266079 16.4639555450213,59.4110479626332 16.4640199500644,59.4105668385665 16.4640831776399,59.4096355574827 16.4641041669264,59.409318922183 16.4639369779981,59.4092831379365 16.4632721142178,59.4091856260678 16.4623576982091,59.4091829670315 16.4608084120028,59.4091748069941 16.4605143182098,59.4092301096512 16.4599494591287,59.4093441075033 16.4596406792204,59.4094557426012 16.4594071515317,59.4096297921943 16.4592387054299,59.4099042362919 16.459134172106,59.4101748940727 16.4590338942175,59.4102803168457 16.4588928758777,59.4103819196795 16.4587181201369,59.4104696637244 16.4592362785369,59.4109049258142 16.4595858743292,59.4111867091647 16.4603635067868,59.4112734940309 16.4609297566865,59.4112573502671 16.4630497359614,59.4111733144672</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18449082_Storrisbergsgrottorna" id="Q18449082_Storrisbergsgrottorna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18449082_Storrisbergsgrottorna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18449082_Storrisbergsgrottorna">
+		<SimpleData name="NVRID">2001678</SimpleData>
+		<SimpleData name="NAMN">Storrisbergsgrottorna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/09/16</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/10/25</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/04/05</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Nordmaling</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">21.63</SimpleData>
+		<SimpleData name="LAND_HA">21.63</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.037</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-8431-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.386233614723,63.5979886487046 19.3859877035213,63.5975630822405 19.3855059679041,63.5967294141539 19.3849136377163,63.5958216386605 19.3847381502872,63.5955505578586 19.3846875828573,63.5954724578279 19.3840825795568,63.5948767577892 19.3825096273415,63.5933740584307 19.3796071072853,63.5928930316002 19.3781029291044,63.5926440257812 19.3763547928396,63.5923546141966 19.375562496971,63.5928786819221 19.375547409564,63.5928849322099 19.3753986020005,63.5929573242915 19.3744096064371,63.5934457442446 19.3737508816081,63.593771038157 19.3730008586054,63.5941414131692 19.3723366079758,63.5944721996602 19.3730295644642,63.5946920253122 19.3747208129659,63.5952285005457 19.3760115263414,63.5956379033904 19.3784356395502,63.5963890270519 19.3807966773758,63.5971205526889 19.3815850214998,63.5974089623966 19.3829105648384,63.5975726581376 19.3851972203579,63.5978521106673 19.386233614723,63.5979886487046</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

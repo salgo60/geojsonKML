@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19978931_Tjärö" id="Q19978931_Tjärö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19978931_Tjärö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19978931_Tjärö">
+		<SimpleData name="NVRID">2000054</SimpleData>
+		<SimpleData name="NAMN">Tjärö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/04/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/04/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/04/27</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlshamn</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">306.26</SimpleData>
+		<SimpleData name="LAND_HA">84.14</SimpleData>
+		<SimpleData name="VATTEN_HA">222.117</SimpleData>
+		<SimpleData name="SKOG_HA">20.04</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-4148-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0554396954744,56.1566228625432 15.0519145932922,56.15328077509 15.0403086629567,56.1562032875889 15.0403547765536,56.1585745723931 15.0392156409787,56.1598513611451 15.0392156571249,56.1598514060635 15.0410315557055,56.1638799551836 15.0410315396417,56.1638799911277 15.0410231772227,56.1639202274136 15.0403322819126,56.1672382180097 15.0353481329507,56.1712218782305 15.04149240154,56.1755475623081 15.042864943503,56.1790315169765 15.0468555550738,56.1795064909664 15.0510444544747,56.1763168327133 15.0535320658714,56.1753419572782 15.058273988637,56.1745116674325 15.0605435977874,56.1738978658658 15.0627826007317,56.1704236257151 15.0657303359508,56.169574414385 15.065559632858,56.1672801181034 15.0581809461104,56.1642577267602 15.0584391240001,56.1625039249456 15.0561965273699,56.1615403304818 15.0554396954744,56.1566228625432</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693479_Björknäset" id="Q55693479_Björknäset">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693479_Björknäset</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693479_Björknäset">
+		<SimpleData name="NVRID">2047258</SimpleData>
+		<SimpleData name="NAMN">Björknäset</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/07/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/07/12</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Flen</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">81.19</SimpleData>
+		<SimpleData name="LAND_HA">34.23</SimpleData>
+		<SimpleData name="VATTEN_HA">46.958</SimpleData>
+		<SimpleData name="SKOG_HA">30.426</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3348-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6647470463395,59.1004655904921 16.6658323613948,59.1003509190956 16.6788658857118,59.1007501743205 16.6809390606798,59.0977518079811 16.6816693912271,59.0961772054285 16.6775331576423,59.0956305349141 16.6768762682602,59.0955563350562 16.676628174308,59.0954797332636 16.6760873822126,59.0953303920266 16.6742128292605,59.0947906841092 16.6736468715509,59.094640337192 16.6724539358953,59.0947130551133 16.6703701382887,59.0948516742958 16.6688612426502,59.0949513214311 16.6684635426114,59.0949781734681 16.6631634211493,59.0953247901819 16.659020163561,59.0955950577901 16.6543502238659,59.0959051192199 16.656586013929,59.09797599198 16.6604953459054,59.0987572338987 16.6605993427365,59.0987780173891 16.6605735954502,59.0987979821837 16.6585926525384,59.1003340490232 16.6577830658682,59.1008056707815 16.6575933802987,59.1009055607422 16.6565383272269,59.1013247634615 16.6564171864153,59.1013703769439 16.6562090252549,59.1014254725029 16.6555847262255,59.1015997370621 16.6535244027312,59.1019727609206 16.654229033587,59.1027649798727 16.6582301391049,59.1013380813994 16.6612688752206,59.1009375417328 16.6647470463395,59.1004655904921</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

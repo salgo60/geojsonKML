@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19977615_Djupadal" id="Q19977615_Djupadal">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19977615_Djupadal</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19977615_Djupadal">
+		<SimpleData name="NVRID">2010884</SimpleData>
+		<SimpleData name="NAMN">Djupadal</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/07/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/08/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/08/19</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Bromölla</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">12</SimpleData>
+		<SimpleData name="LAND_HA">12</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.001</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-12803-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5756367478111,56.1871345323483 14.5757152327333,56.1871619805703 14.5757194860025,56.1871634686647 14.5757201684317,56.1871629498898 14.5757201850388,56.187162905023 14.5760485602692,56.1860745027389 14.5761856573105,56.1857642435519 14.5769391772191,56.1840342732524 14.577222175797,56.1833090382569 14.5774243132636,56.1827929073116 14.5773736587414,56.1827566244028 14.5770532382289,56.1825212240034 14.5768406061749,56.182413883236 14.576266409319,56.1829259266228 14.5762435442715,56.1832407105381 14.575982225476,56.1832400034102 14.5758628461844,56.1835264507263 14.5749258777851,56.1834897740588 14.5745531858188,56.1835137934376 14.5741311350271,56.183352654277 14.5737766375688,56.1829764534557 14.5729683106243,56.182951220604 14.5716336682113,56.1829095690181 14.5708912981811,56.1840005944634 14.5706189454465,56.1841579876557 14.5700834275781,56.1844674582463 14.5714177144274,56.1847929361245 14.5720701892899,56.1851612532822 14.5720960028859,56.1854331588083 14.572446591628,56.1856716681936 14.5737380715539,56.1864706047935 14.5756367478111,56.1871345323483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

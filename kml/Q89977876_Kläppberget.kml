@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89977876_Kläppberget" id="Q89977876_Kläppberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89977876_Kläppberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89977876_Kläppberget">
+		<SimpleData name="NVRID">2047686</SimpleData>
+		<SimpleData name="NAMN">Kläppberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/03/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/03/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/03/29</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Berg</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">81.73</SimpleData>
+		<SimpleData name="LAND_HA">81.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0.035</SimpleData>
+		<SimpleData name="SKOG_HA">80.387</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8021-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5730806230584,62.6840360783019 14.5716118621354,62.6819461290795 14.5610819972126,62.6871631121728 14.5554175633489,62.6899685471038 14.5553460681886,62.6900039519939 14.5553809689076,62.6900247814964 14.5554343508111,62.6900566622442 14.5555676073523,62.6901641965757 14.5555865872875,62.6901795120148 14.5556627604513,62.6902210241111 14.5557964333593,62.6902882544301 14.5559399260717,62.6903820482699 14.5560673928844,62.6904346011452 14.5561790316507,62.690478307529 14.5563103434659,62.6906068169076 14.5563441858462,62.6906560127513 14.5563875244933,62.6907442475946 14.5564414339384,62.690818037805 14.5565581318537,62.6909036949829 14.5570601534408,62.6911196681427 14.5572320635571,62.6911975643487 14.5574890180272,62.6913826845736 14.5576000802546,62.69149154179 14.5576171979277,62.691508319524 14.5579823597325,62.6918213085241 14.5581929196612,62.6919975208844 14.5582396273397,62.6920503022028 14.558353498254,62.6921349257063 14.5584390888713,62.6922451579597 14.5584849012632,62.6924123342836 14.5585813086433,62.6924216393884 14.5630247061332,62.6928504246767 14.5686115798954,62.6933887272869 14.5735138316035,62.6923693080351 14.5782458299785,62.691384445724 14.5765008153489,62.6889023660154 14.5747741135422,62.6864453342142 14.5730806230584,62.6840360783019</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89653695_Kofallets_naturreservat" id="Q89653695_Kofallets_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89653695_Kofallets_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89653695_Kofallets_naturreservat">
+		<SimpleData name="NVRID">2046614</SimpleData>
+		<SimpleData name="NAMN">Kofallet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/09</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">40.33</SimpleData>
+		<SimpleData name="LAND_HA">40.33</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">40.115</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1681-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.5542741719567,59.3905778959991 15.5547539259093,59.3904566234199 15.5550914362612,59.3905322609156 15.5555997477909,59.3897685680219 15.5605311351191,59.3892539195587 15.5622286434634,59.3887400688044 15.5622835211728,59.3874409862677 15.5620690953649,59.3867924868264 15.5612717011784,59.3863023579658 15.5569727643877,59.3865415800254 15.5562840222944,59.384907972539 15.5550344642156,59.3847834082507 15.5541672031972,59.3846831864566 15.5544101209872,59.3839677896083 15.5546339330388,59.3836421274531 15.5548072526025,59.3833426560299 15.5545206207243,59.3833970126869 15.5522377397131,59.383786884186 15.5504786024513,59.3842394349148 15.5502108757272,59.3842802210659 15.5497000707608,59.3843600265296 15.5485850146622,59.3845990887356 15.5485648214557,59.384602949843 15.5483882948747,59.3847075993418 15.5467216708828,59.3855588417864 15.5460847935289,59.3855355310975 15.5458792476744,59.3854194953307 15.5449996692886,59.386137536028 15.5478844806197,59.3866190176202 15.5495823913974,59.3889348253091 15.5521774308028,59.3899418383136 15.5539556535424,59.3900334038879 15.5540253720293,59.3900350297298 15.5540261353438,59.3900370326895 15.5542741719567,59.3905778959991</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

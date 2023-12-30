@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30161275_Gärahovs_storäng" id="Q30161275_Gärahovs_storäng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30161275_Gärahovs_storäng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30161275_Gärahovs_storäng">
+		<SimpleData name="NVRID">2002184</SimpleData>
+		<SimpleData name="NAMN">Gärahovs storäng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/01/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2004/02/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2004/02/09</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Vaggeryd</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">10.74</SimpleData>
+		<SimpleData name="LAND_HA">10.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.797</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-11181-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.1426815193852,57.5330815559948 14.1426730606005,57.5332697224294 14.1430755814794,57.5342468479698 14.1433192170835,57.5342226927921 14.1438918224357,57.5341293612574 14.1443868915444,57.5340753060109 14.1446732727985,57.5340173468756 14.1448776677079,57.5339241928193 14.1453049763788,57.5336486986789 14.1455962836997,57.5334534993987 14.1458254812488,57.5332758275765 14.1459424763546,57.5331223335791 14.1459864031015,57.532970150843 14.1460277356757,57.5327353235835 14.1461031697889,57.5324298768955 14.1462078920547,57.5322082253691 14.1464733970698,57.5317442625416 14.1465762329435,57.5315459810766 14.1466649603614,57.531147324935 14.1468039450762,57.5306833146237 14.1469254666795,57.5302718273779 14.1469253833999,57.530271817832 14.1428963624252,57.5299098341402 14.1414970182169,57.5303037143791 14.1415237830084,57.5305562331176 14.1416059682733,57.5308482502971 14.1423411656208,57.5324039362093 14.1424877470382,57.5329135936573 14.1426815193852,57.5330815559948</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

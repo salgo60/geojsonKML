@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30185278_Vällingudden" id="Q30185278_Vällingudden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30185278_Vällingudden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30185278_Vällingudden">
+		<SimpleData name="NVRID">2001168</SimpleData>
+		<SimpleData name="NAMN">Vällingudden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1984/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1984/02/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/07/07</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Sandviken</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">1.99</SimpleData>
+		<SimpleData name="LAND_HA">1.83</SimpleData>
+		<SimpleData name="VATTEN_HA">0.16</SimpleData>
+		<SimpleData name="SKOG_HA">1.732</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7554-06, 81-205 / 511-1452-09, 80-205</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7160431963615,60.7223018213895 16.7174967029967,60.7235962387037 16.7175255813489,60.7235567861134 16.7175964504245,60.7234940841576 16.7175906132877,60.7234369628817 16.7176682939868,60.7233631187623 16.7179994770004,60.7232940008187 16.7181082007966,60.7232748173528 16.7182028612541,60.7232429182067 16.7184089474486,60.7230739241065 16.7184958275967,60.7230048558711 16.7185699555245,60.7229102132628 16.718532398487,60.7226650362436 16.71853341655,60.722574626623 16.7185900141133,60.7222846967071 16.7186565025493,60.7221099032181 16.7186348108217,60.7217608801521 16.7185870149374,60.7216483130615 16.718380009026,60.72153634099 16.7182726000721,60.7215196222541 16.7181875943035,60.7215204064455 16.7181823498703,60.7215718684163 16.7181605748508,60.7216172649616 16.7180887186644,60.7216538380233 16.7179854773104,60.7216743073055 16.7178917457253,60.7216840398282 16.7177740748421,60.7217055200474 16.7176734184,60.7217702831463 16.7176059231144,60.7218023637547 16.7175171098592,60.7218218126349 16.7174116010128,60.7218077270556 16.7173073580994,60.7218029288557 16.7171912067516,60.7217938198624 16.7169877781604,60.7217505087709 16.7168935313849,60.7217234635384 16.7168312188435,60.7217262552079 16.7167613431263,60.7217676785271 16.7167024747374,60.7218360367078 16.7166046276629,60.7219029901398 16.7164837947304,60.7219834299884 16.7163991924828,60.7220179112414 16.7163179595254,60.7220461348792 16.7162909973433,60.7220977939645 16.7162439964684,60.7221686941078 16.7161458791049,60.7222285561438 16.7160584410125,60.7222834409779 16.7160431963615,60.7223018213895</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

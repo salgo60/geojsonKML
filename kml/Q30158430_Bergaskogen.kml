@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30158430_Bergaskogen" id="Q30158430_Bergaskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30158430_Bergaskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30158430_Bergaskogen">
+		<SimpleData name="NVRID">2005496</SimpleData>
+		<SimpleData name="NAMN">Bergaskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/04/27</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/05/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/05/27</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lekeberg</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Lekebergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">22.37</SimpleData>
+		<SimpleData name="LAND_HA">22.37</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">22.01</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">26/2006-265</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8708307533218,59.1810704530137 14.8710358375582,59.1824287450307 14.8712409038074,59.1837868208806 14.8712409036385,59.1837868657824 14.8712543739689,59.1838763418696 14.8712543738001,59.1838763867714 14.8713782534904,59.184700003048 14.8715096354577,59.1855685554426 14.8715096352891,59.1855686003444 14.8724496316874,59.1856482930634 14.8724497191539,59.1856483021296 14.8757761499403,59.1859561921483 14.8758105262053,59.1859594040516 14.8758318130863,59.1851180240482 14.8761563786467,59.1846979522387 14.878815657644,59.184972097409 14.8792917266974,59.1829549680329 14.8806719351277,59.1828293582164 14.8805159681877,59.1825591024789 14.8801960641188,59.1818781026414 14.8799981374576,59.1815600946858 14.879927703583,59.1815663877715 14.8798337094857,59.1815749400642 14.8781605284534,59.1817098128814 14.8781481363024,59.1817108070711 14.8781317183679,59.1817121477212 14.8742432943965,59.1820194894349 14.8742298616555,59.1810270251795 14.8743512629903,59.1810120824437 14.8743818627722,59.1810083133066 14.8743384915871,59.1807254874543 14.8743002005953,59.1804746008051 14.8743002007601,59.1804745559032 14.8741662811221,59.1804397170732 14.8741661936025,59.1804397259689 14.8721987231722,59.1806255149535 14.8721161311624,59.1804110355478 14.8719415003989,59.1799918020091 14.8719149825336,59.1799335738753 14.8717278683831,59.1795178031314 14.8715669430884,59.1791602150801 14.8715668554029,59.1791602688759 14.8715628034988,59.1791629769552 14.8715429650008,59.1791762214124 14.8713657096856,59.1793241420077 14.8712291735333,59.1794985410186 14.8707400688734,59.1800351556922 14.8707055205033,59.1800606885478 14.8708307534912,59.1810704081119 14.8708307533218,59.1810704530137</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

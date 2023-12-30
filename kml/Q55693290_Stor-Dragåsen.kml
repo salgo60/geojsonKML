@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693290_Stor_Dragåsen" id="Q55693290_Stor_Dragåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693290_Stor_Dragåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693290_Stor_Dragåsen">
+		<SimpleData name="NVRID">2046660</SimpleData>
+		<SimpleData name="NAMN">Stor-Dragåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/11/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/12/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/12/09</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hudiksvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">96.78</SimpleData>
+		<SimpleData name="LAND_HA">96.68</SimpleData>
+		<SimpleData name="VATTEN_HA">0.09</SimpleData>
+		<SimpleData name="SKOG_HA">86.32</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">1749-17</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.5909287565767,62.0097363087941 16.5938942099559,62.0080920179356 16.595273857816,62.0067247079446 16.5966959325037,62.0059483952645 16.5982968537705,62.006155617293 16.5969006993445,62.0041396968839 16.5954453879615,62.0039137223389 16.5945432024153,62.0051798794802 16.5921103942544,62.0062537083456 16.5891765392316,62.0055550851511 16.5880895731472,62.0028398354292 16.5867103046376,62.0034108346642 16.5864111119686,62.0052754985987 16.5852610237873,62.006150576835 16.5823579858019,62.0061358834316 16.5796306802658,62.0052776301031 16.576296516053,62.0030993571909 16.576017845036,62.0022618657267 16.577830575634,62.0019415723593 16.5782256478223,62.001538147556 16.5769912157022,62.0010338855589 16.5751634746104,62.0014822039221 16.5741589663061,62.0008592516642 16.5744589977869,62.0004901774598 16.5763495874297,61.999928534704 16.5796382175433,61.9999331088462 16.5796986700989,61.999749067055 16.5775597810496,61.9988578348067 16.5767356515695,61.9990997194822 16.5756879388352,61.9988682832545 16.5761778433593,61.9982838271361 16.5742213226143,61.9975415097206 16.5746290164698,61.9967365931025 16.5739168199548,61.9959027526233 16.575010530652,61.9952576386929 16.5740853252608,61.9945869580556 16.5723244155298,61.9951050305725 16.5710852407656,61.9959080074256 16.568826867423,61.9960169798554 16.5687045685814,61.996867360706 16.5663983519485,61.9970554152535 16.5656632258219,61.9962859175535 16.5629397873657,61.9968629746146 16.5634407991795,61.9976198104289 16.5615287015405,61.9978714242106 16.5623030605899,61.9994467923296 16.5630722980671,61.9997198439103 16.5608718718901,62.0005547242875 16.5638986146918,62.0016848274824 16.566658613575,62.000571234748 16.5726582006864,62.0044433409526 16.5737339534547,62.0041994120109 16.5763261042481,62.0056752533251 16.5764391710902,62.0072876051384 16.5783460406457,62.0084757043101 16.5844935832995,62.0096970187953 16.5872697600849,62.0094581964428 16.5884763487751,62.0091503789562 16.5909287565767,62.0097363087941</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

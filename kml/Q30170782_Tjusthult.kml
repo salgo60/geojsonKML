@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30170782_Tjusthult" id="Q30170782_Tjusthult">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30170782_Tjusthult</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30170782_Tjusthult">
+		<SimpleData name="NVRID">2002320</SimpleData>
+		<SimpleData name="NAMN">Tjusthult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/09/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/10/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/06/06</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Vetlanda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">115.08</SimpleData>
+		<SimpleData name="LAND_HA">115.07</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">112.212</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1343-06</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3415448743613,57.462405825615 15.3402402766752,57.4633524655146 15.3400342367939,57.4638274793687 15.338837536455,57.4664333384306 15.3408284418867,57.4678344778227 15.3435619103844,57.4697586594968 15.3439788059109,57.472360950045 15.3463602772859,57.4723281042451 15.3468017364314,57.4725478340929 15.3477464077898,57.4723582725707 15.3485825396965,57.4721684021056 15.3489246028775,57.4720941829708 15.351199512373,57.4701217321984 15.3516566093359,57.4697422073638 15.3526885228819,57.4693737496416 15.3546376055241,57.4677144451794 15.3561678892821,57.4662908275433 15.3574821226091,57.4650682117333 15.3584375676764,57.4648669779758 15.3575082415084,57.4647434420559 15.3567404878273,57.4646885028502 15.355200959961,57.4629551164751 15.3548587239336,57.4622788235398 15.3548578913428,57.4622771909956 15.3552569743574,57.4596098266714 15.3552301939497,57.4592785858256 15.3551612883638,57.4584257277514 15.3528834249243,57.4582901747539 15.3500080789783,57.4581191410147 15.3490398210692,57.4584471044866 15.3471253688035,57.4590957619419 15.3438095229177,57.4588468748788 15.3428335040345,57.4614058659848 15.3421738359082,57.4613685999566 15.3416855476652,57.4619310401582 15.3415448743613,57.462405825615</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

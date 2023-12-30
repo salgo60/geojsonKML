@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q89641455_Bergvikskullen" id="Q89641455_Bergvikskullen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q89641455_Bergvikskullen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q89641455_Bergvikskullen">
+		<SimpleData name="NVRID">2046753</SimpleData>
+		<SimpleData name="NAMN">Bergvikskullen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/11/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/12/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/14</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hällefors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">11.02</SimpleData>
+		<SimpleData name="LAND_HA">10.94</SimpleData>
+		<SimpleData name="VATTEN_HA">0.079</SimpleData>
+		<SimpleData name="SKOG_HA">10.931</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-149-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.57593647078,59.8074839654535 14.5739983660635,59.8047423112659 14.5738041486372,59.8047468096924 14.5730457665677,59.8048684138869 14.5722197977066,59.8050006414223 14.5717107003948,59.8050629293894 14.571746597667,59.8051351977488 14.5708122166011,59.8054529064851 14.5706446852767,59.8053755299994 14.5703812406,59.805521496407 14.5700833920347,59.8056507869116 14.5696480762448,59.8064959494305 14.5699510869509,59.8066084790749 14.570664632112,59.8069850362232 14.570156004122,59.8071467604238 14.5702128397909,59.80718117651 14.5702932748321,59.8072007095415 14.5704885700243,59.8072973306609 14.5706287657145,59.8074330307374 14.57084783655,59.807643806379 14.5709772607716,59.8077676357607 14.5710885519857,59.8079141064617 14.571121249777,59.808187041745 14.5712383302861,59.8086782688916 14.5713699459162,59.8088637143666 14.5716321872986,59.8090925615991 14.5717534103045,59.8091609976572 14.5717769692739,59.8092278460916 14.5719608755882,59.809399686326 14.5731124256053,59.8093667703958 14.5732262921726,59.8092166588155 14.5733904411118,59.8091728675508 14.5732245837692,59.8088395826126 14.5732949209219,59.8087423546004 14.5735602234468,59.8085274193406 14.5741708821364,59.8083205617416 14.5746830360763,59.8082526070142 14.5754057324722,59.8079277675016 14.57593647078,59.8074839654535</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

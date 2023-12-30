@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10711524_Utnäset" id="Q10711524_Utnäset">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10711524_Utnäset</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10711524_Utnäset">
+		<SimpleData name="NVRID">2001322</SimpleData>
+		<SimpleData name="NAMN">Utnäset</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/09/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/10/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/01/20</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gnesta</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">80.64</SimpleData>
+		<SimpleData name="LAND_HA">32.96</SimpleData>
+		<SimpleData name="VATTEN_HA">47.676</SimpleData>
+		<SimpleData name="SKOG_HA">32.121</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-10816-2001</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.1965166417198,58.9849158296091 17.1954580789005,58.9860435774614 17.195385059416,58.9861265949467 17.1934642470411,58.9883103502707 17.1928114444525,58.9926287016026 17.192656941116,58.9936505147625 17.1872368877794,58.9972468315255 17.1867275684404,58.9976110995233 17.1869381252101,58.9977795277576 17.1881479741016,58.9987473603781 17.1940758043071,58.9965172669209 17.1940836555199,58.9965150676186 17.1941316494132,58.9965015782744 17.1950628436078,58.9962399639271 17.1949854983157,58.9958572290576 17.1956601555674,58.9956428832079 17.1968504247022,58.9953813448429 17.1976057935528,58.9951430429639 17.1981633346883,58.9950754536832 17.1987936318559,58.9949751832851 17.1998411856731,58.9945960084437 17.1999215385339,58.9945669732002 17.2000594614575,58.9945190909743 17.200109250516,58.9944080411446 17.202978150017,58.9947087186876 17.2033353720592,58.9934352008549 17.2020702271351,58.9913667767761 17.2037493179306,58.9890720221062 17.2034145221766,58.9845288110966 17.199669481995,58.9815564723124 17.1965166417198,58.9849158296091</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

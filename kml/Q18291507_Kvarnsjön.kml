@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18291507_Kvarnsjön" id="Q18291507_Kvarnsjön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18291507_Kvarnsjön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18291507_Kvarnsjön">
+		<SimpleData name="NVRID">2000392</SimpleData>
+		<SimpleData name="NAMN">Kvarnsjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/10/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/10/06</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Alingsås</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Alingsås kommun</SimpleData>
+		<SimpleData name="AREA_HA">40.29</SimpleData>
+		<SimpleData name="LAND_HA">32.09</SimpleData>
+		<SimpleData name="VATTEN_HA">8.2</SimpleData>
+		<SimpleData name="SKOG_HA">31.529</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">KF §99 2000.66</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.5113955116944,57.9520519460952 12.5113215717624,57.9521218454446 12.5126188916694,57.9526945553889 12.5126286172608,57.9526988522843 12.5140931835257,57.9529455260659 12.5151857747617,57.9531298894039 12.5161068319771,57.9532849033786 12.5167142952233,57.9533874068922 12.5189146278686,57.953758189215 12.5217028339171,57.9542278400684 12.5225923756816,57.9543776269066 12.5231009534208,57.9544632641362 12.5231014548872,57.9544633457969 12.5245499675957,57.9534034826935 12.5206482218905,57.9527226796771 12.5203183108507,57.9521827643536 12.5203182507677,57.9521826553516 12.5241767443403,57.9515782251844 12.5241775813216,57.9515780977196 12.5241889093951,57.9515554855489 12.5246332599687,57.9506689783747 12.5238512461709,57.9504662083286 12.5233443200678,57.9497539544411 12.5235488132074,57.9496810486709 12.5239196424537,57.9495488519138 12.5259910482954,57.9495713361718 12.5259223068393,57.9494668858473 12.524810117468,57.9477769149321 12.5247958900102,57.9477552965241 12.5247958206452,57.9477553221302 12.5245106523924,57.9478555563321 12.5242252337241,57.9479557221314 12.523940010438,57.9480559719864 12.5236547573823,57.9481561397661 12.5233196179337,57.9482738812318 12.5230585891066,57.9483655790175 12.522748392294,57.9484764368927 12.5226933775356,57.9484960945266 12.5216746056937,57.9485116766822 12.5211850763782,57.9485186255141 12.520695519982,57.9485254730892 12.5204549967153,57.9485288309366 12.517921059966,57.9483782850588 12.5172371521937,57.9485489079977 12.5171670565336,57.9485663995486 12.5171825252036,57.9488494673362 12.5167346598577,57.9490599061695 12.5166883866508,57.9490816460689 12.5154151186814,57.9491778479667 12.5153769429949,57.9491807317487 12.5152141510255,57.949302684872 12.5151891432119,57.9493214164942 12.5142685590577,57.9493356966307 12.5121761475543,57.9493680252539 12.5104568331477,57.9493945556534 12.5104339412128,57.9494219811809 12.5101181331181,57.949800314864 12.5099802692166,57.9499692786241 12.5095967478459,57.9504189795352 12.5091898477322,57.9508958884806 12.5111597691129,57.9517069278933 12.5115781911202,57.9518792307676 12.5113955116944,57.9520519460952</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

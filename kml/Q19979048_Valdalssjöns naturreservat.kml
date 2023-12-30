@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19979048_Valdalssjöns_naturreservat" id="Q19979048_Valdalssjöns_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19979048_Valdalssjöns_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19979048_Valdalssjöns_naturreservat">
+		<SimpleData name="NVRID">2010865</SimpleData>
+		<SimpleData name="NAMN">Valdalssjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/12/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/01/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/01/22</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Lilla Edet</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">11.05</SimpleData>
+		<SimpleData name="LAND_HA">10.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0.51</SimpleData>
+		<SimpleData name="SKOG_HA">9.653</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-33743-2001</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.0702754810164,58.2252039884886 12.0691456827676,58.2259078831061 12.0685485359241,58.2268520917637 12.0680654512975,58.2273931470715 12.0676754357183,58.2276514875932 12.0663233086531,58.2283862261237 12.0655995932195,58.2295461666928 12.0654976887949,58.2298842329575 12.0655651124105,58.2301060268772 12.0657778100685,58.2302494954664 12.0664817907316,58.2302556550522 12.0670233354869,58.2300072521201 12.0674889332688,58.2299334896153 12.0682266378897,58.2300457776548 12.0688947747237,58.2299488380116 12.0696702964618,58.2297275270369 12.0698021659842,58.2294784248343 12.0699082477415,58.2292552511114 12.070567482964,58.2289567636803 12.0710426934898,58.2290756559217 12.0716374234254,58.2286111317477 12.0720946064456,58.2279965312373 12.0722914045786,58.2278438183428 12.072098549757,58.227571286836 12.0712486368377,58.2275042387432 12.0708872541689,58.2269627498046 12.0710434885413,58.2262741049422 12.0711447297191,58.2258548674811 12.0716116775913,58.2254928199535 12.0702756185166,58.2252039736708 12.0702755349832,58.2252039537795 12.0702754810164,58.2252039884886</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

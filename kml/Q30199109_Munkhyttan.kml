@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30199109_Munkhyttan" id="Q30199109_Munkhyttan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30199109_Munkhyttan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30199109_Munkhyttan">
+		<SimpleData name="NVRID">2000264</SimpleData>
+		<SimpleData name="NAMN">Munkhyttan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/04/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/05/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/05/08</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Lindesbergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">42.37</SimpleData>
+		<SimpleData name="LAND_HA">42.37</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">38.503</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">2000.0084</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1235149518906,59.6067147580975 15.1310876481272,59.6065560570295 15.131144641036,59.6071636909977 15.1330895568191,59.6071200910782 15.1330896454121,59.6071200909883 15.1335790086537,59.607095509291 15.1338946801359,59.6068850595198 15.1351387179554,59.6070616908126 15.135479586019,59.6071093000987 15.1354543403878,59.6093383134194 15.135941878708,59.6095826432371 15.1366674395386,59.6099140070358 15.1369299658021,59.6099929619151 15.13729287321,59.6100576051012 15.1375054331179,59.6100893863292 15.1379018407755,59.6101210816733 15.1383154247177,59.6101452685322 15.1387210584903,59.6101622247728 15.1390278014826,59.6101548326616 15.1396603300368,59.6101257121771 15.1403625865313,59.6100838075546 15.1411527220744,59.6084672212953 15.1422864586427,59.6084580752346 15.1422811114806,59.6083835844995 15.1422573910321,59.6080537098179 15.143021608719,59.6073965254592 15.1430549781759,59.6072225589853 15.1425150932929,59.6069600654689 15.1366486796105,59.6067988305572 15.1354114052386,59.6066821917707 15.1342045861638,59.6066027404408 15.1332015269091,59.6068170432832 15.1332014383879,59.6068170613328 15.1324104907121,59.6066296458693 15.1326382009916,59.6052787884415 15.1323772273464,59.6041949368769 15.1261847300666,59.6040853494461 15.1261846414815,59.6040853495314 15.1143900217688,59.6076082605894 15.1125348081218,59.6094137666004 15.1136945261657,59.610144485384 15.1146082414924,59.6098494033829 15.1147030864155,59.6090350224301 15.1160941295598,59.6086790772871 15.1192145231701,59.6082761808257 15.1235149518906,59.6067147580975</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1399715752219,59.6112778041844 15.1403939166487,59.6101901937477 15.1395694995621,59.6102505115676 15.1386961407544,59.6102690031374 15.1378975756359,59.6102348693469 15.1372370153107,59.6101827254263 15.1367129328291,59.6100768264271 15.1360729014533,59.609828419416 15.135745033123,59.6096719179987 15.1353918105167,59.6095109879655 15.1353695209685,59.6102032825831 15.1364388693873,59.6112303620771 15.1399715752219,59.6112778041844</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

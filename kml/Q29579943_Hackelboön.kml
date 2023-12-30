@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q29579943_Hackelboön" id="Q29579943_Hackelboön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q29579943_Hackelboön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q29579943_Hackelboön">
+		<SimpleData name="NVRID">2001703</SimpleData>
+		<SimpleData name="NAMN">Hackelboön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1978/10/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1978/10/27</SimpleData>
+		<SimpleData name="SENGALLDAT">1978/10/27</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kinda</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">32.68</SimpleData>
+		<SimpleData name="LAND_HA">12.73</SimpleData>
+		<SimpleData name="VATTEN_HA">19.948</SimpleData>
+		<SimpleData name="SKOG_HA">8.03</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-3392-76, Rr 151</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6788530269284,58.1644809617735 15.6788535736654,58.1644811115607 15.6788536419861,58.1644811291615 15.6788540739247,58.1644806059018 15.6788556512932,58.1644786483947 15.6788602841671,58.1644729201147 15.6788604170449,58.16447275773 15.6788828842119,58.1644449913005 15.6797570461047,58.1638045666218 15.6800976512248,58.1635545134167 15.6810886177451,58.1627728419498 15.6811249001431,58.162744219927 15.6818820709786,58.1621660219232 15.6808011872394,58.1617691075113 15.6802744099069,58.1615679782164 15.6796481885248,58.161363496196 15.6768481040566,58.160586265725 15.6768036555802,58.1605930135159 15.6761447226301,58.1603535588818 15.6757864006665,58.1602372885359 15.6756812994203,58.1602018897587 15.6747813296248,58.1599360932701 15.6746614111188,58.1599006821931 15.6726958014304,58.1593201183789 15.6662967347141,58.1632658720495 15.6662803698214,58.1632759815121 15.6662803873192,58.163276008367 15.6676708231046,58.164405218074 15.6680169948495,58.1646876357007 15.6680780103556,58.1647374094058 15.6722326270185,58.1644480145082 15.6766987913215,58.1641275507396 15.6774095457159,58.1640814380719 15.6788521895716,58.1644807237113 15.6788530269284,58.1644809617735</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

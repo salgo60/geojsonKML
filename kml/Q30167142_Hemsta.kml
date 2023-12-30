@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30167142_Hemsta" id="Q30167142_Hemsta">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30167142_Hemsta</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30167142_Hemsta">
+		<SimpleData name="NVRID">2002051</SimpleData>
+		<SimpleData name="NAMN">Hemsta</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1988/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1988/08/02</SimpleData>
+		<SimpleData name="SENGALLDAT">1988/08/02</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Enköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Naturskyddsföreningen i Enköping</SimpleData>
+		<SimpleData name="AREA_HA">24.47</SimpleData>
+		<SimpleData name="LAND_HA">24.47</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.09</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-791-88,Dosnr0381-02-045</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.1389808464389,59.6014010853779 17.1421348444928,59.6014545454236 17.143016239139,59.6010577455867 17.1441015347943,59.6007321959649 17.145075070506,59.6005405516649 17.1458344023353,59.6004092619545 17.1465389681353,59.6003437935677 17.1471986568613,59.6002188087812 17.1479242158076,59.6000714240864 17.1485610190477,59.5999500863534 17.14940585993,59.5997832200273 17.1494105148815,59.5997822992495 17.1494109174505,59.5997822207804 17.1494108620513,59.5997821857579 17.1491469062184,59.5995784281314 17.1488803250991,59.5994295356762 17.1485929763482,59.5993566822094 17.1485714876873,59.5993512317465 17.1481836061679,59.599252475895 17.1479290706431,59.5991303416765 17.1474523924959,59.598894595489 17.1471188540133,59.5987520073938 17.1465058605389,59.5985817588242 17.1471386117215,59.5978791843191 17.1481317365589,59.5956953008196 17.1470897889929,59.5954833578975 17.1474911396233,59.5943610572817 17.1430990813001,59.5938141945663 17.1430144105262,59.5938036507574 17.1428682341078,59.5937854716983 17.141641791166,59.5945752214672 17.1420088716836,59.5947286107309 17.1412101437916,59.5952371128237 17.140803211775,59.5950692185886 17.1404654783442,59.5952684003172 17.1405261087207,59.5952878724321 17.1416058435506,59.5956347379672 17.1424125236863,59.595727498323 17.144555479966,59.596420643222 17.1439555042741,59.5969730407224 17.1444578055781,59.5970994801219 17.137890373769,59.6013825877958 17.1389808464389,59.6014010853779</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

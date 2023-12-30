@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q10684431_Svarta_klippan" id="Q10684431_Svarta_klippan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q10684431_Svarta_klippan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q10684431_Svarta_klippan">
+		<SimpleData name="NVRID">2001406</SimpleData>
+		<SimpleData name="NAMN">Svarta klippan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/12/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/01/01</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Halmstad</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">16.07</SimpleData>
+		<SimpleData name="LAND_HA">16.06</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.063</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-5315-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.207529880482,56.7806042135441 13.2073194084764,56.7808613744249 13.2073338259704,56.7808926716996 13.2074139391837,56.7810665616163 13.2077273131167,56.781747327548 13.2075326576518,56.7820389600406 13.2074482504762,56.7821654227745 13.207207049149,56.782526787668 13.20788444713,56.7828810021629 13.2087892134227,56.7833540955017 13.2090753493151,56.7836699043568 13.209941454321,56.7840834616859 13.2100496099139,56.7843024103234 13.210331001306,56.7848722054951 13.2105929460416,56.7854026068307 13.2110813514677,56.785718167432 13.2113172040605,56.7858705302608 13.2150590945885,56.7851797180462 13.2140077605082,56.7831334950744 13.2125290325447,56.7822138467142 13.209081446507,56.7800914217797 13.208685685117,56.7800490321694 13.2083226641146,56.7800409153195 13.2081186927487,56.7800729837284 13.2079418996982,56.7801007788202 13.2076530791285,56.780453678808 13.207529880482,56.7806042135441</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

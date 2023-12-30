@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30162154_Inre_Kilsviken" id="Q30162154_Inre_Kilsviken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30162154_Inre_Kilsviken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30162154_Inre_Kilsviken">
+		<SimpleData name="NVRID">2002209</SimpleData>
+		<SimpleData name="NAMN">Inre Kilsviken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1991/06/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1991/07/11</SimpleData>
+		<SimpleData name="SENGALLDAT">1991/07/11</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristinehamn</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">127.83</SimpleData>
+		<SimpleData name="LAND_HA">84.69</SimpleData>
+		<SimpleData name="VATTEN_HA">43.141</SimpleData>
+		<SimpleData name="SKOG_HA">5.193</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">231-3-90</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.0870548855509,59.1215761967317 14.0866490832579,59.1204292599985 14.0862554432499,59.1193165980137 14.0860698449562,59.1187919424806 14.0874961383117,59.1185511369484 14.0873326542929,59.1176406568762 14.0907407658291,59.1170123424462 14.0928194078706,59.1165990374765 14.0929215610264,59.1163612693832 14.0930695240327,59.1160204138262 14.0948285700551,59.1155354925464 14.094813107652,59.1154529120812 14.0947945661586,59.115353973678 14.0946917513348,59.1148055136183 14.0946409009119,59.1140873782488 14.0954725175562,59.1137795941917 14.0955296464791,59.1127208618639 14.095709027398,59.1122742910939 14.0955479326189,59.1119939327821 14.0951340196974,59.1112984554033 14.095016716163,59.1109736213318 14.0878606546518,59.1049013951132 14.0878572226586,59.1048984791009 14.0878571545014,59.1048984157547 14.0877987322444,59.1049832621591 14.0833503903918,59.1111043102943 14.0757316995558,59.114912717837 14.0751892493225,59.115183836078 14.0709824016165,59.1172861320008 14.0709823482558,59.1172861675432 14.0727521752092,59.1185421540713 14.0732392987661,59.1188808763348 14.0733743954993,59.1191879591985 14.0735543325622,59.119558489563 14.074131911646,59.1198355613152 14.0749881820956,59.1201702178914 14.0755227495295,59.1204781410565 14.0759932337811,59.1207582586745 14.076389173196,59.1209824941897 14.0772274375368,59.120947914334 14.0782253355145,59.120924593108 14.0787402135438,59.1209497481016 14.0793590722088,59.1210311950263 14.0798333275278,59.1211564654683 14.0804644435051,59.1213478767821 14.0812505913187,59.121642002388 14.0821070035671,59.1219553543273 14.0832138076591,59.1222445765163 14.0838322291439,59.1223351505189 14.0843640199536,59.1223788045332 14.085363315076,59.1223280011302 14.0862029983943,59.122265918254 14.0873074526879,59.1221440367736 14.0871800524163,59.1218334308701 14.0870548855509,59.1215761967317</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

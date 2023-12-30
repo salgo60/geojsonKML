@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30164663_Prästbuan" id="Q30164663_Prästbuan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30164663_Prästbuan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30164663_Prästbuan">
+		<SimpleData name="NVRID">2002074</SimpleData>
+		<SimpleData name="NAMN">Prästbuan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Stiftelsen Gagnefs naturvårdsfond</SimpleData>
+		<SimpleData name="AREA_HA">119.48</SimpleData>
+		<SimpleData name="LAND_HA">119.47</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">97.157</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Gagnefs kommun 98-02-11 §32, 230-4570-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0941079324375,60.414272817436 15.0941078778665,60.4142727815597 15.094050324,60.4142350487956 15.0879580610018,60.4103741738671 15.0875349780237,60.4101058634645 15.0860256412781,60.4091491147497 15.085679868646,60.4089299248654 15.0802968453817,60.4055170223206 15.0801000550272,60.4053922379155 15.0793794425087,60.4049352846222 15.0744583846956,60.4018143232985 15.067972333666,60.3976996473159 15.0681029541581,60.4013144673809 15.0681842952217,60.4035701038534 15.0682736021243,60.4060617588273 15.0685667084596,60.4063294432412 15.0687264587379,60.4067082445686 15.0687764070268,60.4068263696448 15.0688208468317,60.4069316939049 15.0690775497535,60.4070780038024 15.0692920188132,60.4072002183628 15.0693286782184,60.407222367724 15.0697328626367,60.4074669074114 15.0697773662968,60.4074984622299 15.0697866378899,60.4075050297886 15.0699084413556,60.4075912333661 15.0699348748404,60.4076100478456 15.0699357656594,60.4076106848663 15.0701724482671,60.4077781839277 15.0713561822426,60.4078252948992 15.0729505873127,60.4077956724803 15.0733067050386,60.4078961283184 15.0730250536603,60.4080819357938 15.073023603627,60.4080828973106 15.0723417463394,60.4085323753963 15.0722850841738,60.4085697306473 15.0713625201479,60.4091778621433 15.0709629480096,60.409441232535 15.0705427626449,60.4096613622008 15.0703619356559,60.4096685150969 15.0700171588824,60.4098241002147 15.0697282613242,60.4098384111644 15.0695444055754,60.4098474410852 15.069317730507,60.4098585850785 15.0691360810033,60.4096583645258 15.0682670852305,60.409666570286 15.0683345035357,60.4097864463488 15.0699567136994,60.4127694613954 15.0775856124827,60.412771144968 15.0815240604596,60.4127718458766 15.0817151596881,60.4127718904163 15.0822815766333,60.4127720176619 15.0822878152866,60.4127693830483 15.0848716089154,60.4127964580108 15.087340737375,60.4149493289171 15.0836698670153,60.4172257560379 15.0864341641665,60.418399069524 15.086461488768,60.418384129201 15.0941079324375,60.414272817436</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

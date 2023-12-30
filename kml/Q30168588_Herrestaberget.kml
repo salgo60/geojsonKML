@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30168588_Herrestaberget" id="Q30168588_Herrestaberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30168588_Herrestaberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30168588_Herrestaberget">
+		<SimpleData name="NVRID">2000507</SimpleData>
+		<SimpleData name="NAMN">Herrestaberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1971/09/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/09/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/01/25</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kramfors</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">8.78</SimpleData>
+		<SimpleData name="LAND_HA">8.77</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">7.715</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">512-17523-07</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3185903403353,63.0629335731794 18.3143397129666,63.0638565152357 18.3143400677579,63.0638568483212 18.3143399710351,63.0638568685546 18.3145796188806,63.0641669920575 18.3149463655892,63.0646309282063 18.3152322135181,63.0650729149595 18.3153523208278,63.0652808318029 18.3153807443142,63.065432886231 18.3155959073096,63.0657378860607 18.3158609240399,63.0661192052662 18.3162145110461,63.0666623183604 18.3164926556143,63.0671062265724 18.3166297413386,63.0673442726404 18.3189112757383,63.0679064507718 18.3189113738417,63.0679062687895 18.3189127711294,63.0679037564143 18.3189708207047,63.0677992577845 18.3190564959997,63.0676755950642 18.3191616682091,63.0675455635104 18.3192724793853,63.0674090568424 18.3194015712745,63.0672176417725 18.319520976076,63.0669784517373 18.3195681310001,63.0668350646081 18.3195833067148,63.0667888807883 18.3196186497733,63.0666814016035 18.3196305492676,63.0665175310871 18.3196039383478,63.0663588223143 18.3195523908222,63.0661987219352 18.3195132532763,63.0660856227495 18.3194760725079,63.0659782184985 18.3194224735756,63.0657538939845 18.3194213247567,63.0657354765809 18.3194157021839,63.0656460190524 18.3194380623376,63.0654927649684 18.3194640845554,63.0654185479169 18.3193766780714,63.0654101944359 18.319374114906,63.0654099490944 18.3192603421979,63.0654163279599 18.3192362923683,63.065417673631 18.3190855945076,63.0654130503855 18.3189776036945,63.0653987378163 18.318917994358,63.0653477135577 18.3188928936346,63.0652835358709 18.3188336433127,63.0651894334212 18.3187701694669,63.0650918094064 18.3187435623057,63.0650097168102 18.3186956641107,63.0648615872965 18.3186386816444,63.0646992603123 18.3186232054288,63.0645128888614 18.3185747101504,63.0643575950362 18.3185378564501,63.064151861043 18.3185232345265,63.063927790271 18.3185459112222,63.0637246223033 18.3185981149288,63.0635909546344 18.3186831569021,63.0635195223074 18.3188226725711,63.0634848510845 18.3189942289278,63.06345501638 18.3191846438755,63.0634141019765 18.3192886187218,63.063380039255 18.3193429609821,63.0633199008352 18.3193751006466,63.0632025872957 18.319375018575,63.0632025622685 18.3193755941178,63.0632022253411 18.3185903403353,63.0629335731794</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30161733_Tataremossens_naturreservat" id="Q30161733_Tataremossens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30161733_Tataremossens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30161733_Tataremossens_naturreservat">
+		<SimpleData name="NVRID">2001720</SimpleData>
+		<SimpleData name="NAMN">Tataremossens naturreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/12/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/17</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/17</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ydre</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">20.3</SimpleData>
+		<SimpleData name="LAND_HA">19.53</SimpleData>
+		<SimpleData name="VATTEN_HA">0.765</SimpleData>
+		<SimpleData name="SKOG_HA">18.289</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">2310-10285-95</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4175305322237,57.821771294349 15.415394186604,57.8222044687553 15.4153941026404,57.8222044869951 15.4153944091653,57.8222047913934 15.4153965206552,57.8222068773814 15.4154021570795,57.8222124549678 15.4174121869707,57.8242054947218 15.4145796268848,57.825278721355 15.4145482584589,57.8262303659101 15.4144166026271,57.8272153392617 15.4143872978651,57.8274346954171 15.4143863979323,57.8274413722811 15.4143860415119,57.8274440591834 15.4143860421303,57.8274441130758 15.4143860261184,57.8274441849873 15.4143860266338,57.8274442298977 15.4143860938766,57.8274442206957 15.4153445573615,57.8272973233817 15.4162470279792,57.8271590010627 15.4168222284785,57.8273062206127 15.421733693313,57.8285630307374 15.4223637407945,57.8287242440886 15.4223639556839,57.8287239020419 15.4223642695995,57.8287233889999 15.422364353995,57.8287234066838 15.4223645528878,57.8287231365496 15.4223646353921,57.8287229925565 15.4223653776156,57.8287216696723 15.4223688593173,57.8287155949594 15.4224829032785,57.8285157430157 15.4231725697117,57.8273072153986 15.4213295042509,57.826533954687 15.4196876085908,57.8244638494691 15.4203087347376,57.8230336259755 15.4182769872613,57.8216199250686 15.4175305322237,57.821771294349</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

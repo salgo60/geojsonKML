@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30159193_Storåsen" id="Q30159193_Storåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30159193_Storåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30159193_Storåsen">
+		<SimpleData name="NVRID">2000919</SimpleData>
+		<SimpleData name="NAMN">Storåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2003/02/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2003/04/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2003/04/01</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Härjedalen</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">1053.52</SimpleData>
+		<SimpleData name="LAND_HA">1052.82</SimpleData>
+		<SimpleData name="VATTEN_HA">0.68</SimpleData>
+		<SimpleData name="SKOG_HA">412.311</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-419-03</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.345117133179,62.3413972728385 13.3303977295372,62.3551625634259 13.330789108082,62.3551540695112 13.3364863494703,62.3550093722332 13.3377619424665,62.3549798404664 13.3400166709703,62.3549227274655 13.3409802531405,62.3548993469948 13.3411096104508,62.3560192748903 13.3419939395052,62.3559571438763 13.343552704564,62.3558476050915 13.3440808461912,62.3558111631484 13.3448131282971,62.3557585893925 13.3907016786718,62.3527026306343 13.397598090478,62.3454041123285 13.4131706100103,62.3289091007149 13.4101730275682,62.3278480744577 13.4007181433853,62.3245005038663 13.3910800658862,62.3210866400894 13.3813151817466,62.3176263943695 13.3734673753321,62.3148444177411 13.3734672996514,62.314844389921 13.3609536111683,62.3265713070765 13.3595713257182,62.3278660472526 13.345117133179,62.3413972728385</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

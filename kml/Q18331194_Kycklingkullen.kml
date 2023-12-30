@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18331194_Kycklingkullen" id="Q18331194_Kycklingkullen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18331194_Kycklingkullen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18331194_Kycklingkullen">
+		<SimpleData name="NVRID">2027491</SimpleData>
+		<SimpleData name="NAMN">Kycklingkullen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1964/10/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1964/11/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/05/19</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ulricehamn</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">0.83</SimpleData>
+		<SimpleData name="LAND_HA">0.83</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">512-5353-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4509389323076,57.8952254104302 13.4511083133346,57.8952267397241 13.4512988676813,57.8952767128348 13.4514123172701,57.895320094761 13.4514770279698,57.8953677424409 13.4515383758186,57.8954669151189 13.451663148339,57.8955345918527 13.4518153217573,57.8955786970629 13.4519680884534,57.8955831106631 13.4521934197479,57.8955423763884 13.4524445331542,57.8954407234858 13.4524945408059,57.8953676850764 13.4524138377813,57.8952681512436 13.4522665212163,57.8951836796062 13.4519981236006,57.8950465522045 13.4516149511017,57.8948886921069 13.4512737117008,57.8947722896055 13.4508143414999,57.8946347620273 13.450739218733,57.894668396645 13.4501029750951,57.8950094946803 13.4502752887028,57.8950238062984 13.4503373503529,57.8950627889789 13.450389643115,57.8952013617638 13.4503853942949,57.8954145633815 13.45030363627,57.8957359972769 13.4503229400159,57.8957841515237 13.4503892414801,57.8957999182947 13.450486720101,57.8957945496352 13.4506742628632,57.8956400913427 13.450721037534,57.8955669961965 13.4507134669455,57.89537122238 13.4508173619644,57.8952798236446 13.4509389323076,57.8952254104302</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

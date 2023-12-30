@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693564_Hundtjärnliden" id="Q55693564_Hundtjärnliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693564_Hundtjärnliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693564_Hundtjärnliden">
+		<SimpleData name="NVRID">2042996</SimpleData>
+		<SimpleData name="NAMN">Hundtjärnliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/02/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/04/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/04/20</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Bjurholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">70.88</SimpleData>
+		<SimpleData name="LAND_HA">70.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">70.012</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8754-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.3225113934831,63.8219330689175 19.3232770992002,63.8218983506628 19.3238324448057,63.8218914123826 19.324165134732,63.8218866128472 19.324264879984,63.8218924734067 19.3246953670151,63.8219146575793 19.3250457034393,63.8219456318128 19.3253696365926,63.8219742711075 19.3264191207175,63.821213735933 19.3278821712599,63.8202218389715 19.3007325416769,63.8128293701929 19.2966368582622,63.8164491957492 19.2982536624765,63.8169240464339 19.3001101882173,63.8175057100369 19.3031839023804,63.818468639567 19.3059355656173,63.8193305651483 19.3096388175005,63.8204903960002 19.3130884958723,63.8215706369511 19.3157706991574,63.8224104335443 19.3171547165454,63.8228764286933 19.3171840955352,63.8228883537233 19.3176554344058,63.8227545268307 19.3184181755693,63.8225352172479 19.3191759306845,63.8223173876396 19.3197065049384,63.8221761415809 19.3200010242341,63.8221143150151 19.320204113753,63.8220826334302 19.3205803621159,63.8220423600243 19.3210993564591,63.8220117414021 19.3214731650998,63.8219914072297 19.3225113934831,63.8219330689175</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

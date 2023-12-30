@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30171554_Östra_Njaltaheden" id="Q30171554_Östra_Njaltaheden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30171554_Östra_Njaltaheden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30171554_Östra_Njaltaheden">
+		<SimpleData name="NVRID">2040470</SimpleData>
+		<SimpleData name="NAMN">Östra Njaltaheden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Arjeplog</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">83.62</SimpleData>
+		<SimpleData name="LAND_HA">70.24</SimpleData>
+		<SimpleData name="VATTEN_HA">13.378</SimpleData>
+		<SimpleData name="SKOG_HA">58.175</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8970-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4737062766826,65.7660243298909 18.4708112433261,65.7646795285631 18.4711008092975,65.7642800477849 18.4779709578392,65.7631914735301 18.4755608022623,65.7619150732502 18.4743308216949,65.7611657883702 18.47609484884,65.7600595019271 18.4788408440358,65.7601945668236 18.4822758489928,65.7602167565978 18.4827539130794,65.7595628666425 18.4853232187284,65.7595605167643 18.4870625789046,65.7588720113219 18.487970918286,65.7587050750799 18.4901442463979,65.7577410008407 18.4881570902969,65.7573497180768 18.4877928249386,65.7566777542699 18.4858841256922,65.7567981597795 18.4830610631449,65.7559292147774 18.4831172576755,65.75467216887 18.4797950197783,65.754378808168 18.479410725179,65.7536731775112 18.4778188472254,65.7533300065911 18.4770361448541,65.7531201656152 18.4763176905804,65.7532903056828 18.475447684688,65.7539286291763 18.4744153522807,65.7541706713745 18.4748792058417,65.7545691834865 18.4764389924119,65.7548930128626 18.4762762529384,65.7550663957591 18.4778825063401,65.7560805011465 18.4766053502944,65.7566022726487 18.4753416288276,65.7566571936641 18.473756116205,65.7571844136376 18.472188083476,65.7574259957792 18.4731353750342,65.7577166206417 18.4729415019399,65.7581198773734 18.4721567152439,65.7579865726543 18.4696601357219,65.7579771879688 18.4681775942909,65.758404866356 18.4654680532158,65.7590895254664 18.4638290381649,65.759767350431 18.4618181865855,65.7598351330941 18.4607525911271,65.7601312777019 18.4587779913122,65.7612057288003 18.4568696985684,65.7619677401759 18.4596007620547,65.7626750538009 18.460594070585,65.763278832396 18.461229876771,65.7636314576418 18.4612352504797,65.7638285072199 18.462768252412,65.7650912495492 18.4638346189505,65.7648553152259 18.4660973782508,65.7658231693708 18.4692209433908,65.7660342229116 18.4703289742585,65.7660329693152 18.4722967606766,65.7664655966707 18.4737062766826,65.7660243298909</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

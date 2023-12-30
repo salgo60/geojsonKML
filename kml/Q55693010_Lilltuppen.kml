@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693010_Lilltuppen" id="Q55693010_Lilltuppen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693010_Lilltuppen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693010_Lilltuppen">
+		<SimpleData name="NVRID">2045893</SimpleData>
+		<SimpleData name="NAMN">Lilltuppen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/01/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/02/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/02/08</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Falun</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">33.39</SimpleData>
+		<SimpleData name="LAND_HA">33.28</SimpleData>
+		<SimpleData name="VATTEN_HA">0.112</SimpleData>
+		<SimpleData name="SKOG_HA">31.554</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1431-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6576851401779,60.8805449470187 15.6567396501672,60.8793320701508 15.6558729541274,60.8793553498372 15.6545139084901,60.878316076536 15.6507163476323,60.8789228583296 15.6497056764169,60.8804915952557 15.6486751413039,60.8820912423939 15.6483150797267,60.8839170136017 15.6481923967362,60.8845388984686 15.6485418074402,60.8846052529684 15.6518589903063,60.8852194522975 15.6556295464761,60.8859191436334 15.6561877995566,60.885493613224 15.6561935640367,60.8853302057077 15.6562082519283,60.8849472873735 15.6561005862775,60.884383674352 15.6581394308051,60.8831126873842 15.6589911684915,60.8822312595863 15.6590562955263,60.8821638604632 15.6590615676004,60.8821446433589 15.6591147168953,60.8820234774976 15.6591790906451,60.8818948413827 15.6592070109408,60.8818043075981 15.6592012373141,60.8817079996817 15.6591486175418,60.8816024454758 15.6590666658067,60.8814885701074 15.6589491874475,60.8813639599459 15.6588472443337,60.8812715167683 15.6587414275253,60.8811955929426 15.658605740457,60.8811209537022 15.6583978986407,60.8810132840041 15.658227022671,60.8809228467244 15.6581080083431,60.8808711792063 15.6577866697368,60.8807444144598 15.6577067245652,60.8806818785014 15.6576752793187,60.8805924737795 15.6576851401779,60.8805449470187</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

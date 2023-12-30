@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18332329_Råbäcks_sjöskog" id="Q18332329_Råbäcks_sjöskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18332329_Råbäcks_sjöskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18332329_Råbäcks_sjöskog">
+		<SimpleData name="NVRID">2010882</SimpleData>
+		<SimpleData name="NAMN">Råbäcks sjöskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/08/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/09/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/11/29</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Götene</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">28.73</SimpleData>
+		<SimpleData name="LAND_HA">11.31</SimpleData>
+		<SimpleData name="VATTEN_HA">17.418</SimpleData>
+		<SimpleData name="SKOG_HA">8.446</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-06610-2007</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3454942562731,58.6056287989459 13.346270960379,58.6054917315807 13.3466358010607,58.605289690786 13.3475349997572,58.6050985058935 13.3457725631714,58.6039100414114 13.3452775435619,58.6032395559702 13.3447935295048,58.6027462992758 13.3441047539385,58.6020123832924 13.3436543425386,58.6014224942818 13.3426306034348,58.6006412618582 13.3424879900648,58.6005247204312 13.3416200683428,58.5997918310806 13.3408818949731,58.5986984003179 13.3404040943532,58.597763111038 13.3402714035687,58.5974273677917 13.3402055359122,58.5972321806847 13.3400818311212,58.596865580049 13.3398926961973,58.596345523308 13.3390944287279,58.5963938083506 13.3388345301011,58.5964051464437 13.338773004306,58.5964078278263 13.3387653481358,58.596408160075 13.338661402552,58.5964126916957 13.3386454173722,58.5964133923989 13.3381782628256,58.6034780182702 13.3379994765276,58.6054915120852 13.3389085583938,58.6055089725906 13.3422703076499,58.6055590143449 13.3443172694015,58.6055924580835 13.3443178714771,58.6055924658361 13.3443931874359,58.6055936961304 13.3444514418251,58.6055946438244 13.3446095042572,58.6055972178408 13.3446434399513,58.6055991997958 13.345102560759,58.6056795241487 13.3454942562731,58.6056287989459</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

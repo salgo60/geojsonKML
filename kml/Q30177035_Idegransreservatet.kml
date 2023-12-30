@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30177035_Idegransreservatet" id="Q30177035_Idegransreservatet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30177035_Idegransreservatet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30177035_Idegransreservatet">
+		<SimpleData name="NVRID">2002287</SimpleData>
+		<SimpleData name="NAMN">Idegransreservatet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/04/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/05/14</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/05/14</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Borgholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">20.1</SimpleData>
+		<SimpleData name="LAND_HA">20.1</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.1</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1252-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9791858114921,57.250579301552 16.9790244520344,57.2506541665197 16.9789845383979,57.2507667886259 16.9789777460611,57.2508791046437 16.9789802433857,57.251022767973 16.9790764737485,57.2511835185193 16.9791620023111,57.2512680261879 16.9792888575521,57.2512848071122 16.9794734054718,57.2512920619806 16.9796933042209,57.25130347685 16.9799801535332,57.2513367219108 16.9802081958649,57.2513435687782 16.9804126571562,57.2513910503036 16.9806149065508,57.2514340647101 16.9816364940115,57.2511385288761 16.9844098063132,57.2519777728504 16.9853769923367,57.2523168751147 16.9856294138952,57.2522686060984 16.9861233025485,57.2521644673606 16.9872391016237,57.2519337083702 16.9880716112214,57.2517821088421 16.989116935948,57.2515812552133 16.9903128447961,57.2513595872803 16.9917063763625,57.2511167323745 16.9930056246942,57.2508841901708 16.994113606249,57.2506912409126 16.9947364996609,57.2505741298731 16.9933236500321,57.2499238100423 16.9928667265906,57.2493460028546 16.9902905976818,57.2491700512925 16.9895626634953,57.2485732446749 16.9894724188799,57.2485907127251 16.9883088348116,57.24882590607 16.9873581029682,57.2490036745328 16.9862906117687,57.2492189896473 16.9854194361798,57.2493858081493 16.9791858114921,57.250579301552</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

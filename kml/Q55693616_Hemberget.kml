@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q55693616_Hemberget" id="Q55693616_Hemberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q55693616_Hemberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q55693616_Hemberget">
+		<SimpleData name="NVRID">2045162</SimpleData>
+		<SimpleData name="NAMN">Hemberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/07/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/10/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/10/26</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Storuman</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">907.28</SimpleData>
+		<SimpleData name="LAND_HA">905.56</SimpleData>
+		<SimpleData name="VATTEN_HA">1.706</SimpleData>
+		<SimpleData name="SKOG_HA">675.401</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3283-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6344209720763,64.8528948172431 17.6319948429959,64.8511963728262 17.6281876121711,64.8512764823116 17.6250159884525,64.8490038189256 17.6230596082152,64.8461071706855 17.6236682608029,64.8458279427254 17.6233430249835,64.8443370891148 17.6300359940926,64.8417221126317 17.6303678552643,64.84073826234 17.6318909907399,64.8405096532127 17.6324138996621,64.839727122028 17.6372780318536,64.837956028553 17.6450313031014,64.8377142493357 17.645995265281,64.8368301998998 17.6371571510005,64.8328096268826 17.6358000366886,64.8306087311248 17.6343699877604,64.8303536364297 17.6336195431554,64.8280671763618 17.6321184024598,64.8279815978638 17.6315167200893,64.8254127868474 17.6354547009811,64.824287895382 17.6356696513176,64.8223433810668 17.6387126981155,64.8218425518642 17.6387529971423,64.8216558431239 17.6369118311254,64.8201595395498 17.6336082485112,64.8182551437274 17.6316224393242,64.8158688008273 17.5675370187568,64.8293009934215 17.619821974408,64.8618164814548 17.6233304015725,64.8608136402318 17.6252065880723,64.8607211326813 17.6342142323149,64.8578741391212 17.6353598358572,64.8572747218397 17.6351724441309,64.8565006544331 17.6354065507358,64.8560812352306 17.6340054946017,64.8536510333818 17.6344209720763,64.8528948172431</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30162445_Millumträsk" id="Q30162445_Millumträsk">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30162445_Millumträsk</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30162445_Millumträsk">
+		<SimpleData name="NVRID">2000125</SimpleData>
+		<SimpleData name="NAMN">Millumträsk</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/08/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/09/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/09/18</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">22.83</SimpleData>
+		<SimpleData name="LAND_HA">22.83</SimpleData>
+		<SimpleData name="VATTEN_HA">0.007</SimpleData>
+		<SimpleData name="SKOG_HA">14.93</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-671-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.6132059043624,57.773236189938 18.6130185709941,57.7731895224969 18.6118404011447,57.7735609987721 18.6104823836062,57.7786940514047 18.6106143211597,57.7787251820882 18.6122646485381,57.7791148961936 18.6123291992474,57.7791301320646 18.6178412607703,57.7768851416624 18.6199459173531,57.7760388630041 18.6200410522552,57.7759961709006 18.6201252759676,57.7759559474518 18.620184545066,57.7759217605731 18.6202380265547,57.7758867115929 18.6202834937299,57.7758523412699 18.6203285427344,57.7758160149495 18.6203788635034,57.775770264546 18.6204169108921,57.7757347991865 18.6204536094384,57.7756955794546 18.620549013434,57.7755841920096 18.6209190912625,57.7751580637301 18.620862185856,57.7751440790264 18.6160761206214,57.7739511744752 18.6132059043624,57.773236189938</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

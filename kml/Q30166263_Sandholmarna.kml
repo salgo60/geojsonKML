@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30166263_Sandholmarna" id="Q30166263_Sandholmarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30166263_Sandholmarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30166263_Sandholmarna">
+		<SimpleData name="NVRID">2000624</SimpleData>
+		<SimpleData name="NAMN">Sandholmarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1995/05/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/09/27</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/09/27</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Tyresö</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Tyresö kommun</SimpleData>
+		<SimpleData name="AREA_HA">75.32</SimpleData>
+		<SimpleData name="LAND_HA">30.8</SimpleData>
+		<SimpleData name="VATTEN_HA">44.514</SimpleData>
+		<SimpleData name="SKOG_HA">9.997</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Tyresö kommun 1994.0099  265</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4100413189105,59.196821803949 18.410040798177,59.1968222041028 18.4100397732904,59.1968229949873 18.4100375097609,59.1968247171877 18.4025480815778,59.2025571442976 18.4029423215532,59.2028722867468 18.4031642121384,59.2030477865989 18.4039732786987,59.2036932024631 18.4079104698931,59.2068311487654 18.4125168551536,59.2051989161613 18.4201338902819,59.1997837314913 18.4204937954074,59.1965186596733 18.4205560590037,59.1959265266674 18.412651117874,59.1948367352518 18.4126510287156,59.1948367196187 18.4100413189105,59.196821803949</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>18.40636459474,59.2019244990666 18.4063646803398,59.201924478846 18.4063647686205,59.2019244855187 18.4067412114424,59.2019500881972 18.407151334972,59.202263399714 18.4072723033724,59.2024884031194 18.4075526626318,59.2030099882275 18.407642190476,59.2031765677146 18.4073995503033,59.2032258862159 18.4069927977254,59.2033085847898 18.4065319064461,59.203402300974 18.4063516967802,59.2029881986453 18.40564830091,59.2029855929623 18.4052370316369,59.2027998274395 18.4048428972937,59.2023480724958 18.4055253055938,59.2021472517108 18.40636459474,59.2019244990666</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

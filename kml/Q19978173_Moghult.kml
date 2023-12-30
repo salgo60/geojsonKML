@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q19978173_Moghult" id="Q19978173_Moghult">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q19978173_Moghult</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q19978173_Moghult">
+		<SimpleData name="NVRID">2000510</SimpleData>
+		<SimpleData name="NAMN">Moghult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1955/01/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1955/01/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1955/01/25</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tranemo</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">3.86</SimpleData>
+		<SimpleData name="LAND_HA">3.86</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.802</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Nr 8/7 Rr P38,39</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4851514740877,57.4897173613994 13.48379213379,57.4893729478341 13.4837888037392,57.4893780197662 13.4834290720483,57.4899732050349 13.4833293218671,57.4901779574876 13.4831988971132,57.4904315919169 13.4825554504465,57.4909900678215 13.4826889616588,57.4911991169357 13.4830191167719,57.4913848452538 13.4842215863131,57.4910207546653 13.4855739737012,57.4899498133117 13.4851517023367,57.489717489918 13.4851514740877,57.4897173613994</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4861274373147,57.4987087045877 13.4850811822921,57.498500831338 13.4840160588847,57.4993255524832 13.4851476243611,57.4996877094812 13.4868837462324,57.4996208407548 13.4861274373147,57.4987087045877</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4891497778401,57.5116471621565 13.4891497834083,57.5116470274621 13.4891496992388,57.5116470444225 13.4879226040253,57.5118688161313 13.4879111160649,57.5118708975393 13.4879117474475,57.5118717765602 13.4879129319865,57.5118734078877 13.4879196273194,57.5118826608562 13.4883383172499,57.5124652183589 13.4891074615943,57.5124434168662 13.4891480625297,57.5116716950878 13.4891495808222,57.5116499089236 13.4891497778401,57.5116471621565</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

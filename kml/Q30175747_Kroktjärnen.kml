@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q30175747_Kroktjärnen" id="Q30175747_Kroktjärnen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q30175747_Kroktjärnen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q30175747_Kroktjärnen">
+		<SimpleData name="NVRID">2043931</SimpleData>
+		<SimpleData name="NAMN">Kroktjärnen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/06/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/07/02</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/07/02</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Bräcke</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">52.29</SimpleData>
+		<SimpleData name="LAND_HA">48.11</SimpleData>
+		<SimpleData name="VATTEN_HA">4.175</SimpleData>
+		<SimpleData name="SKOG_HA">42.431</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8205-14</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.1882011825451,62.7068950218472 16.1876583381337,62.7038661098702 16.1858567789489,62.7033282093617 16.1838036371956,62.702951395689 16.1835413943244,62.702628486149 16.1836347916736,62.7023626503361 16.1864321249916,62.7017904904635 16.1872438332395,62.701335111273 16.1871078243476,62.700539212862 16.1794957980717,62.6992862492029 16.1743586824589,62.7013062765209 16.1745703235776,62.7026519443279 16.1758938584642,62.7034438615374 16.1763289939366,62.7048254018028 16.1778501817517,62.7056819920918 16.1785727790386,62.7055493550534 16.1798266969072,62.7053169345012 16.1805472035521,62.7061313087634 16.1810268491941,62.7066747763742 16.181063365765,62.7067159148957 16.1831805357469,62.7066445766602 16.1860048828148,62.7092477075733 16.1905293228718,62.7110635585893 16.1940564961189,62.7109468538656 16.1926773361621,62.7098887143388 16.1882011825451,62.7068950218472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

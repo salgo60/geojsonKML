@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Q18649192_Trättestad" id="Q18649192_Trättestad">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Q18649192_Trättestad</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Q18649192_Trättestad">
+		<SimpleData name="NVRID">2000727</SimpleData>
+		<SimpleData name="NAMN">Trättestad</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1959/01/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1959/02/21</SimpleData>
+		<SimpleData name="SENGALLDAT">1959/02/21</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tanum</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">2.45</SimpleData>
+		<SimpleData name="LAND_HA">2.45</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.158</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">IIIÖ-8358 1435-228</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.4023994112048,58.6353581239504 11.4023377512455,58.6356077202464 11.4023404770274,58.6358595324271 11.4024174343507,58.6360075647813 11.4025802760792,58.6361114456468 11.4028274431893,58.6362444296501 11.402589195833,58.6364394175497 11.402821377413,58.6365915517178 11.4030443278029,58.6367171514084 11.4033198216021,58.6368248941922 11.4037803847825,58.636860345471 11.4041455937268,58.63675489915 11.4043805442944,58.6365860199792 11.4045045181594,58.6364002192317 11.4045177249681,58.6362308262986 11.4044562599499,58.6361028703601 11.404346699945,58.6358574363754 11.4036577562942,58.635599044601 11.4039339983366,58.6350437941045 11.4041527677372,58.634681085439 11.4043848969003,58.6343580423726 11.4040029788315,58.6342624256996 11.4037466199561,58.6342446448331 11.4034638521623,58.6342871525999 11.4032153894454,58.6343638262723 11.4028522016863,58.6346528243582 11.4026934503856,58.634837820924 11.4024700966185,58.6352077253179 11.4023994112048,58.6353581239504</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
