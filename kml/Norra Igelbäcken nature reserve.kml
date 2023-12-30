@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Norra_Igelbäcken_nature_reserve" id="Norra_Igelbäcken_nature_reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Norra_Igelbäcken_nature_reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Norra_Igelbäcken_nature_reserve">
+		<SimpleData name="NVRID">2049442</SimpleData>
+		<SimpleData name="NAMN">Norra Igelbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/04/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/06/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/06/13</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Järfälla</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Järfälla kommun</SimpleData>
+		<SimpleData name="AREA_HA">44.09</SimpleData>
+		<SimpleData name="LAND_HA">44.09</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.859</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Kst 2018/169</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8934423503256,59.4194420011014 17.8935398724943,59.4193856642902 17.8941118561075,59.4195841307267 17.8955560846887,59.4198524048282 17.8967302491685,59.417984526515 17.8981467655917,59.4164711141392 17.898531445308,59.4162599366786 17.8988993372261,59.4157195261023 17.898382525919,59.4154485716724 17.8973701799855,59.4148008605624 17.8969849125953,59.4143148679342 17.8969269587665,59.4134276443053 17.8961845917231,59.4119098153411 17.8958376832505,59.4118776454056 17.8956471691486,59.4118389913186 17.8927446989824,59.4112500562011 17.8874497844835,59.4161805526309 17.8874776165532,59.4164642428086 17.8877113588684,59.4165380275482 17.8872091699879,59.4169409834328 17.8870047779849,59.4172265550967 17.8870725947279,59.4175138047844 17.8869684058351,59.4177282361018 17.8869470034335,59.417760762087 17.8867078263407,59.4180917251496 17.88646962544,59.4188816397271 17.8859376460897,59.4190082393424 17.8853738591959,59.4190919035576 17.8844799401979,59.4199099320689 17.8858091802227,59.4198372347839 17.8876834161587,59.4192989114265 17.8894313167234,59.4188997051808 17.8922458867836,59.4199719008376 17.892635105842,59.419723213674 17.8934423503256,59.4194420011014</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8952112707483,59.4110745470096 17.8934456110565,59.409852865792 17.8931153144344,59.4101227020574 17.8928562738649,59.4103748793636 17.8927019747898,59.4105932399716 17.8927755588215,59.4108855684843 17.8953533022831,59.4114282060202 17.8955810845997,59.411300960527 17.8952112707483,59.4110745470096</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
