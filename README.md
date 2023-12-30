@@ -11,4 +11,5 @@ exempel
  
 ## SPARQL
 * [Nature reserves in Stockholms län](https://w.wiki/8g9N) 
-   * [same with link commons geoshape](https://w.wiki/8gAn) 
+   * [same with link commons geoshape](https://w.wiki/8gAn)
+   * [same with Raw geojson link](https://w.wiki/8gBH) 
