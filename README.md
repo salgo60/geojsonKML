@@ -7,7 +7,7 @@ Python kod att konvertera geojson till KML som kan användas på iNaturlist för
    * [Q10593846_Nabbens naturreservat.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/Q10593846_Nabbens%20naturreservat.kml)
    * ...
 
-Exempel hur ett natirreservat finns i olika informationsmängder 
+Exempel hur ett naturreservat finns i olika informationsmängder 
 * Östra Järvafältets naturreservat
   * [json](https://commons.wikimedia.org/wiki/Data:/Sweden/Nature_reserves/2020/%C3%96stra_J%C3%A4rvaf%C3%A4ltet/2002740.map)
   * iNaturalist [197743](https://www.inaturalist.org/observations?place_id=197743)
