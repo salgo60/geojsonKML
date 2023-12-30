@@ -10,4 +10,4 @@ exempel
   * Open street Map [10627921](https://www.openstreetmap.org/relation/10627921)
  
 ## SPARQL
-* [Nature reserves in STockholms län](https://w.wiki/8g9L)https://w.wiki/8g9L
+* [Nature reserves in Stockholms län](https://w.wiki/8g9N) 
