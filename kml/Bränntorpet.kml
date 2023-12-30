@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Bränntorpet" id="Bränntorpet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Bränntorpet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Bränntorpet">
+		<SimpleData name="NVRID">2014207</SimpleData>
+		<SimpleData name="NAMN">Bränntorpet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/05/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/07/02</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/07/02</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">29.08</SimpleData>
+		<SimpleData name="LAND_HA">29.08</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">28.237</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2007-75559</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4253428626582,59.8720989329612 18.4344275275185,59.8743142665283 18.4344642938699,59.8716526524425 18.4341837721187,59.8686030165321 18.4328949831744,59.8675902718671 18.4325951053868,59.8678261783651 18.4313038386812,59.8680974840845 18.4304115622329,59.8688778229685 18.4296404729706,59.8695533217789 18.4280968410704,59.8694091488392 18.4275959304496,59.8692445426867 18.4269179933087,59.8701628377587 18.4257473979249,59.8716012580786 18.4253428626582,59.8720989329612</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4253834881805,59.8656576112779 18.4258890614221,59.8659171004199 18.4260506966609,59.8663179100615 18.4270702989144,59.8666071228563 18.4282682867116,59.8668338824175 18.4299540674483,59.8671153949356 18.4303750647745,59.8671168500285 18.430983908542,59.867117657026 18.4317206158611,59.8672115439265 18.4322817606535,59.8671591699168 18.4277598021945,59.8640397891973 18.4268756562251,59.8650834942079 18.4258611295669,59.8648444960739 18.425475704096,59.8652879667906 18.4253834881805,59.8656576112779</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

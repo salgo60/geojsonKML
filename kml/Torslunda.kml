@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Torslunda" id="Torslunda">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Torslunda</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Torslunda">
+		<SimpleData name="NVRID">2014890</SimpleData>
+		<SimpleData name="NAMN">Torslunda</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/03/12</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/06/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/06/29</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Sigtuna</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">33.74</SimpleData>
+		<SimpleData name="LAND_HA">33.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">33.69</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2005-73860</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6455296686742,59.6831281631599 17.6461913296766,59.683218190954 17.6463837249233,59.6838453195853 17.6466559196123,59.6842330208994 17.6468319236582,59.6844888401097 17.6473547815927,59.6852617013073 17.6474903131837,59.6859498212799 17.6464817214187,59.6862390315955 17.6465429675547,59.6863922826081 17.6469070157291,59.686692796595 17.6472551453961,59.6868964826133 17.6500638264215,59.6883898780425 17.6511080639855,59.6889324785022 17.6513827106979,59.6890261067103 17.6523532896794,59.6891968841386 17.6534564683829,59.6893260789512 17.6541872930681,59.6893533865315 17.6559075453956,59.6893838509575 17.6552679012384,59.687994375888 17.6545798682889,59.6864995916831 17.6539211972444,59.6850685388246 17.6553536689877,59.6850215620561 17.6541849689725,59.6843966744341 17.6535647810306,59.6844300839946 17.652776020139,59.6835984659156 17.6529391686712,59.6833399278825 17.652454452859,59.6818989893653 17.6532406014709,59.6809910797363 17.6520802418985,59.6806230510016 17.6507666304286,59.6816152415443 17.6485477579255,59.6812414636031 17.6463455236275,59.6814080211784 17.6455617648557,59.6823417046814 17.6455296686742,59.6831281631599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

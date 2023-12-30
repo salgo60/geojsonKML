@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Stensholmen" id="Stensholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Stensholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Stensholmen">
+		<SimpleData name="NVRID">2000630</SimpleData>
+		<SimpleData name="NAMN">Stensholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1971/01/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/02/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/08/15</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Skärgårdsstiftelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">46.48</SimpleData>
+		<SimpleData name="LAND_HA">16.83</SimpleData>
+		<SimpleData name="VATTEN_HA">29.645</SimpleData>
+		<SimpleData name="SKOG_HA">15.754</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1996-93, 0188-02-014</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7920752072748,59.6618902010385 18.7969721520016,59.6631154093742 18.7969722693304,59.6631151902282 18.7969735391941,59.6631127532562 18.7975636388413,59.6619871397765 18.7975636691861,59.6619870939499 18.7986249690888,59.6602685737051 18.799337782821,59.6588744735602 18.7996417849729,59.6583074048089 18.8002924024518,59.6582123744147 18.8008279378715,59.6581429104917 18.8013575100221,59.6580197437207 18.8018082493973,59.6579222170746 18.8021699085924,59.657949395725 18.8029776556321,59.6580605575409 18.8034589149117,59.6582692184264 18.8038103416474,59.6584277917386 18.8043223258385,59.6585296079356 18.8045494779639,59.6585607040996 18.8049016378935,59.6585342774876 18.8054035946052,59.6573020587053 18.8053445078417,59.6551305482492 18.805344417285,59.6551305329009 18.8024017333915,59.6546856955791 18.796829795575,59.6559759692249 18.791726050609,59.6546101080191 18.7902941810817,59.6558401392 18.7918350560257,59.658070489805 18.7904576107521,59.6602771949064 18.7920752072748,59.6618902010385</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

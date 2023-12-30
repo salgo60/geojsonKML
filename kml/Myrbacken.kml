@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Myrbacken" id="Myrbacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Myrbacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Myrbacken">
+		<SimpleData name="NVRID">2046794</SimpleData>
+		<SimpleData name="NAMN">Myrbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/10/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/11/23</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/11/23</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">43.09</SimpleData>
+		<SimpleData name="LAND_HA">43.09</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">42.571</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-22803-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.5139411614399,59.7962927237981 18.5149820547496,59.7960793896958 18.5153000183543,59.7963800372929 18.5155167505612,59.796302102576 18.5160568677604,59.7965761932889 18.5165621468837,59.7962605515034 18.5168301441976,59.7960027102405 18.5170170577063,59.7958130855717 18.5178302604552,59.795622595209 18.5184986997483,59.7964593020191 18.5207077731729,59.7956890706913 18.5203539933135,59.7950493251659 18.51956156271,59.7936734584636 18.5188254722803,59.792342200508 18.5181175790158,59.7909951743894 18.5172000231488,59.7893535442371 18.5095404643778,59.7898356874176 18.5091642600099,59.7898560413563 18.5083348368567,59.7914960942847 18.5094905316966,59.7914033965312 18.5097700775328,59.7929932205482 18.5097948712613,59.7945898488135 18.5086679652662,59.7945684216531 18.5084497804422,59.794728825028 18.5084494789654,59.7952131723409 18.5089592633539,59.7951995587323 18.5094949102098,59.7959169138905 18.5087555412864,59.7960809320703 18.5091883791722,59.7965021872189 18.5094665654997,59.7965253357668 18.5105440001279,59.7968568144691 18.5114681993341,59.797147341673 18.5121109938091,59.7972831111598 18.5131537216913,59.7973124406106 18.513662255845,59.7972719383474 18.5140041113925,59.7971846231002 18.5142916937729,59.7970868729521 18.5141863790618,59.7968735577488 18.5143838081872,59.796806445904 18.5139411614399,59.7962927237981</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

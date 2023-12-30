@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="Östra_Järvafältet_nature_reserve" id="Östra_Järvafältet_nature_reserve">
+<Schema name="Östra_Järvafältet_nature_reserve" id="Östra_Järvafältet_nature_reserve">
 	<SimpleField name="NVRID" type="string"></SimpleField>
 	<SimpleField name="NAMN" type="string"></SimpleField>
 	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
@@ -22,10 +22,10 @@
 	<SimpleField name="LAGRUM" type="string"></SimpleField>
 	<SimpleField name="BESLMYND" type="string"></SimpleField>
 </Schema>
-<Folder><name>Östra_Järvafältet_nature_reserve</name>
+<Folder><name>Östra_Järvafältet_nature_reserve</name>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#Östra_Järvafältet_nature_reserve">
+	<ExtendedData><SchemaData schemaUrl="#Östra_Järvafältet_nature_reserve">
 		<SimpleData name="NVRID">2002740</SimpleData>
 		<SimpleData name="NAMN">Östra Järvafältet</SimpleData>
 		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>

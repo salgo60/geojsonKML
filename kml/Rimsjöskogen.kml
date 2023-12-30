@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rimsjöskogen" id="Rimsjöskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Rimsjöskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rimsjöskogen">
+		<SimpleData name="NVRID">2000629</SimpleData>
+		<SimpleData name="NAMN">Rimsjöskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/08/16</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/11/11</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/11/11</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">29.47</SimpleData>
+		<SimpleData name="LAND_HA">29.47</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">29.165</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-1993-38674, 0188-02-041</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.5085915362559,59.7706517793967 18.5090197863937,59.7709877822287 18.5177864111492,59.7695810471211 18.5213333057176,59.7697465829615 18.5215375214536,59.7692741286628 18.5225639181511,59.7687244807813 18.5221530005597,59.7685157022801 18.522134195562,59.7685040010094 18.5220189839049,59.7684323292577 18.521890358805,59.7682809254675 18.5217445518676,59.7681604155857 18.5215523892371,59.7680359626451 18.5213380384666,59.767958644069 18.5210749053294,59.7679131922437 18.5207777534807,59.7678777118512 18.5203717373599,59.7678456076893 18.5201032406395,59.7678413996352 18.5198194714064,59.7678001476194 18.5195905064302,59.767691131034 18.5192573387108,59.7675388884565 18.5188742039135,59.7674096270344 18.5185170104745,59.767290275236 18.5181271090034,59.7672183653297 18.5176679728869,59.7671843056625 18.517262756797,59.7671307434099 18.5168826042839,59.7670799600447 18.5166548880527,59.7670083938143 18.5164539362753,59.7669252980044 18.5163309184567,59.7668451482579 18.5162395435875,59.766704507181 18.5162394537961,59.7667045005975 18.5100897825005,59.7663501740178 18.5089810022887,59.7668745374587 18.5085850664235,59.7670569295905 18.505699632324,59.7684083934056 18.5077614436699,59.7699952697586 18.5085915362559,59.7706517793967</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

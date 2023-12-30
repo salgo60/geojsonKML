@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Marum" id="Marum">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Marum</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Marum">
+		<SimpleData name="NVRID">2000847</SimpleData>
+		<SimpleData name="NAMN">Marum</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1974/11/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1974/12/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1993/09/18</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Norrtälje Naturvårdsstiftelse</SimpleData>
+		<SimpleData name="AREA_HA">38.26</SimpleData>
+		<SimpleData name="LAND_HA">25.18</SimpleData>
+		<SimpleData name="VATTEN_HA">13.079</SimpleData>
+		<SimpleData name="SKOG_HA">23.733</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1991-2395, 0188-02-028</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0217755679625,59.8235815744423 19.0213018603809,59.823523221299 19.0207436746424,59.8235713361063 19.0203198175305,59.8236730578253 19.0200074019374,59.8237824003938 19.0195021110576,59.8241143388381 19.0180516207168,59.8285931377532 19.0186209802167,59.8292876385844 19.019414204189,59.8299739966441 19.0197914887846,59.8302235137731 19.0205958391208,59.8306242309463 19.0209296309566,59.8307708940973 19.023770684037,59.8318424496983 19.0237884540956,59.8318183506202 19.0250320007072,59.8276359199735 19.0253906366663,59.8264294969896 19.0253906490455,59.826429451658 19.0254295025015,59.8261276644637 19.0251006913042,59.8258685964377 19.0241496697336,59.8255276907727 19.0239081214341,59.8252797213494 19.023016403949,59.8243808410713 19.0226021547058,59.8240552192634 19.0220170188494,59.8236680543273 19.0217755679625,59.8235815744423</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0111958333806,59.8410025065663 19.0109857568222,59.8406118463232 19.0100437918517,59.8406564877732 19.0099514494711,59.8403660468162 19.0099559030414,59.8403285648543 19.0100556180645,59.840073279522 19.01071335512,59.8400016807466 19.0105646110021,59.8397202701276 19.008733082542,59.8397534254866 19.0082933086748,59.8393643179159 19.0084066839093,59.8392135173566 19.0084067151922,59.8392134804412 19.0085708265287,59.8388680459963 19.0079880001542,59.8385146943126 19.0034307548609,59.8391088461047 19.0031988641474,59.8398053339373 19.0040494729262,59.8403712186936 19.0042789988087,59.840504081553 19.005155906181,59.8411489752943 19.0043835798019,59.8414649778848 19.0056514467934,59.8424171626724 19.0089718591568,59.8417397901454 19.0113823452986,59.8416306479173 19.0112501964324,59.8414089491825 19.011269666075,59.8412105302539 19.0111958333806,59.8410025065663</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0140995534457,59.8308600358407 19.0134285953203,59.8308609808637 19.0127599536069,59.831356252872 19.0127182362242,59.8314293509849 19.0127655704037,59.8315322846101 19.0128681795365,59.8316822047435 19.0130561706322,59.8318297066958 19.0132993814954,59.8319918489204 19.0135299228909,59.8320734368415 19.0138854285644,59.8320921770442 19.0141848292188,59.8320567633083 19.0143906407847,59.8319826446364 19.0146096871402,59.8318362339041 19.0147198367831,59.8317054839866 19.0148919123188,59.8315226487543 19.0147286624336,59.8312467923883 19.0145425876995,59.8310848495193 19.0143593597053,59.8309479926715 19.0140995534457,59.8308600358407</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

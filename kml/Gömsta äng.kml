@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Gömsta_äng" id="Gömsta_äng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Gömsta_äng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Gömsta_äng">
+		<SimpleData name="NVRID">2000018</SimpleData>
+		<SimpleData name="NAMN">Gömsta äng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/04/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/05/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1966/05/26</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Huddinge</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Huddinge kommun</SimpleData>
+		<SimpleData name="AREA_HA">3.63</SimpleData>
+		<SimpleData name="LAND_HA">3.59</SimpleData>
+		<SimpleData name="VATTEN_HA">0.04</SimpleData>
+		<SimpleData name="SKOG_HA">3.1</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">III R-50-63 0127-02-002</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8796201944152,59.2393765808552 17.8795720213568,59.2394491830494 17.8795768951702,59.2396017515552 17.8796053278365,59.239709058407 17.8796708883591,59.2399953383649 17.8797058242746,59.2402102759501 17.8796981275552,59.2403720366784 17.8796450016764,59.2405075587678 17.8795409798592,59.2407426824695 17.8793498565895,59.2412754998491 17.8793120595721,59.2413748742166 17.8792064197218,59.2415112443705 17.879075581062,59.2416659820529 17.8789902128652,59.2417750897761 17.8790677214718,59.2417572353308 17.8802044437959,59.2414953333006 17.8813479293545,59.2417105571815 17.8831440081857,59.2403350075629 17.8798753357881,59.2392410145635 17.8796870076636,59.2391779723431 17.8796754854253,59.2392769267262 17.8796201944152,59.2393765808552</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Eldgarnsö_Nature_Reserve" id="Eldgarnsö_Nature_Reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Eldgarnsö_Nature_Reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Eldgarnsö_Nature_Reserve">
+		<SimpleData name="NVRID">2000154</SimpleData>
+		<SimpleData name="NAMN">Eldgarnsö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1979/06/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1979/07/03</SimpleData>
+		<SimpleData name="SENGALLDAT">1979/07/03</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Ekerö</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">510.28</SimpleData>
+		<SimpleData name="LAND_HA">203.67</SimpleData>
+		<SimpleData name="VATTEN_HA">306.594</SimpleData>
+		<SimpleData name="SKOG_HA">109.92</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-1030-75  0125-02-006</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6778339339718,59.4312629801179 17.6778053564068,59.4312528475754 17.6681048766545,59.4277087338212 17.6663014780731,59.4263158096726 17.6597154237726,59.4276844441985 17.657957678234,59.429217798381 17.6572699566061,59.4290531946547 17.6558328000205,59.4287091946678 17.6554383339554,59.4287202127774 17.6554073832753,59.4287210850674 17.6552035111561,59.4287136604358 17.6504434458119,59.4288482811664 17.6480033754041,59.4305492560481 17.6468608217738,59.4313339538484 17.6460145357642,59.4314701325659 17.6431082484867,59.4319415563343 17.6366662995606,59.433971420691 17.6302604642398,59.434094736314 17.6254343145315,59.4366782824818 17.6310155417986,59.44735513104 17.6330269731774,59.4488317421988 17.6365607782988,59.4514066719513 17.6367839193932,59.4515678065322 17.6373726378718,59.45140886571 17.647955144202,59.4484837497126 17.6480063321847,59.4484702229184 17.649620975128,59.4480512430188 17.6502414692134,59.4478874736819 17.6509826385952,59.4476918533565 17.65617671295,59.4463085594837 17.6764125927577,59.4402230422302 17.6821312716251,59.4327874518647 17.6778520062921,59.4312693928502 17.6778339339718,59.4312629801179</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

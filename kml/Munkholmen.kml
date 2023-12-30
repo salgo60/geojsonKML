@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Munkholmen" id="Munkholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Munkholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Munkholmen">
+		<SimpleData name="NVRID">2000145</SimpleData>
+		<SimpleData name="NAMN">Munkholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1965/09/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1965/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/01</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Sigtuna</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Sigtuna kommun</SimpleData>
+		<SimpleData name="AREA_HA">4.33</SimpleData>
+		<SimpleData name="LAND_HA">4.21</SimpleData>
+		<SimpleData name="VATTEN_HA">0.123</SimpleData>
+		<SimpleData name="SKOG_HA">3.753</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Ks/2009:31</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7452661771525,59.6168792167903 17.7450954318528,59.6167214546018 17.7450926304137,59.6167188538017 17.7448963578485,59.6165251209888 17.7445631911334,59.6162108766618 17.7443423889649,59.6160272258876 17.7442054934928,59.6159269032237 17.7439964532413,59.6158099783687 17.7436405222021,59.6156409991648 17.743138919416,59.6154194268001 17.7426073949334,59.6152157389432 17.7420632114309,59.6150198253241 17.742050328295,59.615016015913 17.7416982266711,59.6149109593236 17.741373416513,59.6150714788074 17.7402493145539,59.6151665101321 17.7400962681458,59.6153143402668 17.7397707897475,59.615431320224 17.7397806893029,59.615601357299 17.7401441387495,59.6163052617507 17.7404806501311,59.616503731431 17.7407003708726,59.6165005000841 17.7409473820228,59.6164037045266 17.7413136820078,59.6165435428679 17.7414473817946,59.6167202433593 17.7416640592638,59.6168142987704 17.7419883530533,59.6168816894414 17.742170529194,59.6169512458727 17.7429049090198,59.6168743781491 17.7439021557787,59.6168029885858 17.7449911373366,59.6171934567315 17.7451765098019,59.6169579971147 17.7451920761551,59.6169418755645 17.7452661771525,59.6168792167903</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

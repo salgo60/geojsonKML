@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rösaringsåsen" id="Rösaringsåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>Rösaringsåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rösaringsåsen">
+		<SimpleData name="NVRID">2043863</SimpleData>
+		<SimpleData name="NAMN">Rösaringsåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/07/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/08/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/08/05</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Upplands-Bro</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">99.09</SimpleData>
+		<SimpleData name="LAND_HA">99.09</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">96.671</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">5112-11890-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.5530819740379,59.5175828802856 17.5531641049627,59.5164614339342 17.5557131620295,59.5165589651871 17.5578460072744,59.5160890036456 17.5584898731914,59.5145483960259 17.5578243485415,59.5131225144312 17.5566804289972,59.5111095914244 17.5566797470463,59.5108688432689 17.5555390371418,59.5100551440533 17.5549326423031,59.5097136362268 17.5545430184565,59.509432406068 17.5544534444451,59.5091917967419 17.5543596446875,59.5088974002551 17.5541027602925,59.5086266832309 17.5540741307641,59.5086005682899 17.5539827003253,59.5084444920018 17.5538756432071,59.5082079703398 17.5538303042665,59.5080863915196 17.5537689649766,59.5079570367236 17.5535230067306,59.5075788896759 17.5527296913877,59.5078400691248 17.5526308452191,59.5078735592289 17.5502112636437,59.5086785693095 17.5404896486178,59.5118057671074 17.5398416199072,59.5118720810634 17.5397856330204,59.5121363640354 17.5380958622041,59.5176620262637 17.5444499051341,59.5198251802297 17.5487657280039,59.5191208199114 17.5530819740379,59.5175828802856</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
