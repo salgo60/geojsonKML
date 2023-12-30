@@ -7,4 +7,4 @@ exempel
   * iNaturalist [197743](https://www.inaturalist.org/observations?place_id=197743)
   * wikidata [Q30158554](https://www.wikidata.org/wiki/Q30158554)
   * Naturvårdsregistret [2002740](http://skyddadnatur.naturvardsverket.se/sknat/?nvrid=2002740)
-  * Open street Map [10627921](https://www.openstreetmap.org/relation/10627921)https://www.openstreetmap.org/relation/10627921
+  * Open street Map [10627921](https://www.openstreetmap.org/relation/10627921) 
