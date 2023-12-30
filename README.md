@@ -1,5 +1,5 @@
 # geojsonKML
-Pytho kod att konvertera geojson till KML som kan användas på iNaturlist för naturreservat
+Python kod att konvertera geojson till KML som kan användas på iNaturlist för naturreservat
 
 exempel
 * Östra Järvafältets naturreservat
