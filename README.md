@@ -20,7 +20,9 @@ Exempel hur ett naturreservat finns i olika informationsmängder
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH) 
 
-## check iNaturlist for swedish nature reserves
+# iNaturalist
+* discussion iNatForum [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220/3)
+## Check iNaturalist for swedish nature reserves
 see if some nature reserves already exists  
 * [Notebook](https://github.com/salgo60/geojsonKML/blob/main/notebook/Find%20iNaturalist%20places.ipynb) 
 
