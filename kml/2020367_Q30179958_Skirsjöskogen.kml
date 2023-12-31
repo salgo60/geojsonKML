@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020367_Q30179958_Skirsjöskogen" id="2020367_Q30179958_Skirsjöskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2020367_Q30179958_Skirsjöskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2020367_Q30179958_Skirsjöskogen">
+		<SimpleData name="NVRID">2020367</SimpleData>
+		<SimpleData name="NAMN">Skirsjöskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/06</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ydre</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">56.59</SimpleData>
+		<SimpleData name="LAND_HA">28.77</SimpleData>
+		<SimpleData name="VATTEN_HA">27.815</SimpleData>
+		<SimpleData name="SKOG_HA">28.77</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-16721-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.5167479736888,57.852776565777 15.5185876580152,57.8527089436152 15.5197227440901,57.8525266376976 15.520333660872,57.8519898691203 15.5213519352922,57.8515602021709 15.5216874879099,57.8508598378701 15.5228784343006,57.8504623512957 15.5243386568766,57.8499749500135 15.5248358081364,57.8499465587881 15.5258913080749,57.8506613324114 15.5268942164315,57.8518041577634 15.5271769181987,57.8526123547755 15.530462427917,57.8519186517306 15.5349215544651,57.8465115882683 15.5325890995073,57.843374622821 15.5317597636324,57.8417051916323 15.5298621424201,57.841973251363 15.5298876985634,57.8425023813855 15.5291781988255,57.8436291174126 15.528251579403,57.8438324687671 15.5257919846963,57.8426087555352 15.5220693346646,57.8433905775996 15.5220748383574,57.843981770106 15.5232626330012,57.8442738827338 15.5255523999177,57.845246552373 15.52427187654,57.8458464499432 15.5252900640895,57.8465622900496 15.524983750613,57.8484183674687 15.5230040135929,57.848845310703 15.5224087462096,57.8492754876036 15.5208090527276,57.8495603822992 15.5198145523087,57.8508321582052 15.52085193743,57.8509473448497 15.5189897536201,57.8523700550654 15.5180664464529,57.8523097283004 15.5170082716994,57.8524612916766 15.5167479736888,57.852776565777</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

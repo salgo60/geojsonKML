@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2042586_Q30200893_Tre_backar" id="2042586_Q30200893_Tre_backar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2042586_Q30200893_Tre_backar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2042586_Q30200893_Tre_backar">
+		<SimpleData name="NVRID">2042586</SimpleData>
+		<SimpleData name="NAMN">Tre backar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/11/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/12/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/12/28</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">121.51</SimpleData>
+		<SimpleData name="LAND_HA">121.5</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">120.536</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-24486-2012 (fd18510-1997-17035)</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.5078647003717,59.8279484172874 18.5085037242108,59.8280328477873 18.5089784755719,59.8280552484578 18.5097128640181,59.8281562091236 18.5105497469351,59.8284979639138 18.5116685388365,59.8288962498104 18.5134366725153,59.829692748052 18.5145448532125,59.8294187499871 18.5146465258434,59.8296716202056 18.5151777442246,59.8298561856162 18.5159330631688,59.8296644110197 18.5161786759627,59.8303034869108 18.5166300680254,59.8312396357755 18.532272564182,59.8268539892053 18.532817711489,59.8257683180361 18.5363892430438,59.8248036151549 18.5359588888988,59.8243916954945 18.5371167310886,59.8240806082655 18.5345793914419,59.8218226493488 18.5362675565025,59.8214174495738 18.5374810889488,59.8211418445792 18.5413652437479,59.8202303919385 18.5393062664188,59.8182191363598 18.533430729392,59.8183546121313 18.5324019468798,59.8202346371199 18.5123002764138,59.8237868795232 18.5117508658243,59.8241418013573 18.5111159461766,59.8243276778857 18.5098623097247,59.8246766899131 18.5079681740634,59.8251453868032 18.5083584878795,59.8257141930341 18.5088103028218,59.826464825808 18.5096357046335,59.8269508054064 18.5100278620197,59.8274512056446 18.5078647003717,59.8279484172874</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

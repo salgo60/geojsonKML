@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001875_Q30158695_Henaredalen" id="2001875_Q30158695_Henaredalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001875_Q30158695_Henaredalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001875_Q30158695_Henaredalen">
+		<SimpleData name="NVRID">2001875</SimpleData>
+		<SimpleData name="NAMN">Henaredalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/12/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/12/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/10/01</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Flen</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">13.53</SimpleData>
+		<SimpleData name="LAND_HA">13.16</SimpleData>
+		<SimpleData name="VATTEN_HA">0.364</SimpleData>
+		<SimpleData name="SKOG_HA">11.117</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7918133285461,59.1267640143287 16.7930488925235,59.1272034746155 16.7944229220865,59.1275928361086 16.795685790644,59.1279504585491 16.7959880894474,59.1279368630517 16.7975792799283,59.127775143312 16.7975288907001,59.1276809133445 16.7974921202597,59.1276121399983 16.7974868384735,59.1275046739317 16.7973977313896,59.1272547912612 16.7973771818101,59.1271874281237 16.7979964863914,59.126773334443 16.798406742226,59.1264990101645 16.7984831676575,59.1264479095281 16.798214288619,59.1260404036184 16.7976239275905,59.1251224868485 16.7974717097656,59.1247027914684 16.7973550360244,59.1243294658136 16.7971529231301,59.1238760756609 16.7968976310995,59.1233393086412 16.7966663623615,59.1225104280371 16.7967189195821,59.1218982304889 16.7962912802033,59.1216732073034 16.7959835442459,59.1216299387715 16.7943938484349,59.1217157092816 16.7944315506153,59.121871026512 16.7944385000464,59.1220065760688 16.7947089495254,59.1230605064648 16.7949799780954,59.1241412052862 16.7950450722336,59.1244001705635 16.7935025957918,59.125473886822 16.7921826772081,59.1263843885025 16.7918977677168,59.1265817876183 16.7918133285461,59.1267640143287</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

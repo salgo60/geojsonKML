@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049698_Q89640912_Stocksätterskogen" id="2049698_Q89640912_Stocksätterskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049698_Q89640912_Stocksätterskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049698_Q89640912_Stocksätterskogen">
+		<SimpleData name="NVRID">2049698</SimpleData>
+		<SimpleData name="NAMN">Stocksätterskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/06/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/07/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/07/10</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Hallsbergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">9.12</SimpleData>
+		<SimpleData name="LAND_HA">9.12</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">8.226</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2738-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0902079546284,59.0685124862324 15.0907771602677,59.0676545717822 15.0907918897724,59.0676584231127 15.0910257549826,59.0672908323026 15.0905212382687,59.0671996573189 15.0903461082124,59.0673470012788 15.0902801568318,59.0674024482525 15.0902522449179,59.0674259248903 15.0884550792302,59.0670981871046 15.0884057541561,59.0670892132324 15.0861491267192,59.0666777247528 15.0845396040139,59.0688744837947 15.0868053102118,59.070614738757 15.0868318714846,59.0706152912456 15.0868583412781,59.0706134612495 15.0869466425147,59.0705901173204 15.0870113008433,59.0705712426474 15.0875878145891,59.0702050327675 15.0878953721233,59.0700064263682 15.0882833103226,59.0697596117241 15.0885703913903,59.0695773433896 15.088858744872,59.0693959545341 15.0891444617848,59.0692145758235 15.0894784183126,59.0690003401825 15.0897751558925,59.0688141110493 15.0900598498546,59.0686320664488 15.0902079546284,59.0685124862324</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0846563997954,59.0691053273034 15.0844755838322,59.0689706488624 15.0842025002851,59.0693433370865 15.0844471705649,59.0693908710625 15.0846563997954,59.0691053273034</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

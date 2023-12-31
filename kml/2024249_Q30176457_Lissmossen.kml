@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2024249_Q30176457_Lissmossen" id="2024249_Q30176457_Lissmossen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2024249_Q30176457_Lissmossen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2024249_Q30176457_Lissmossen">
+		<SimpleData name="NVRID">2024249</SimpleData>
+		<SimpleData name="NAMN">Lissmossen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/09/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/11/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/11/08</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Tierp</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">33.72</SimpleData>
+		<SimpleData name="LAND_HA">33.72</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">33.718</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-703-10</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3420635168006,60.3138931525522 17.3367628104642,60.3079029103101 17.3359781912747,60.3070601860183 17.3390292992633,60.3062252199524 17.3389175746206,60.3058777616347 17.3375968216685,60.3054936170383 17.3371250536009,60.3051908210336 17.3348734730616,60.3051518225316 17.3317053362663,60.3051392506592 17.3322697989384,60.3069227971485 17.3335266372903,60.3082597645823 17.3310429897267,60.3089635416221 17.3294396622258,60.3091789945081 17.3296349722724,60.3105478360492 17.3293652840792,60.3109049525134 17.3293671139795,60.3109105615171 17.330634332667,60.3118405960617 17.3309922565584,60.3119052800822 17.331932966164,60.3123054416476 17.3349858631721,60.3117350832803 17.336040024805,60.3111209329323 17.3380588865176,60.3134176587537 17.3392733515858,60.3147995885385 17.3420635168006,60.3138931525522</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

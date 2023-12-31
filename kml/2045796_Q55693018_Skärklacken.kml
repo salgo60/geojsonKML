@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045796_Q55693018_Skärklacken" id="2045796_Q55693018_Skärklacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045796_Q55693018_Skärklacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045796_Q55693018_Skärklacken">
+		<SimpleData name="NVRID">2045796</SimpleData>
+		<SimpleData name="NAMN">Skärklacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/01/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/03/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/03/16</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">24.31</SimpleData>
+		<SimpleData name="LAND_HA">24.31</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.234</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-6413-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.7887557467385,60.4252334796643 14.7869426998632,60.4249325358358 14.7859934500114,60.4247620084008 14.7856640753776,60.4247059097585 14.7812944929575,60.4239611992887 14.778985868487,60.4235600190813 14.776248969103,60.4230993235912 14.7750831665085,60.4250018730321 14.775562370998,60.4249274483111 14.7764627988891,60.4252975740823 14.7779737917439,60.4255446085809 14.7784937506017,60.4261007895119 14.7789519030773,60.4264345887746 14.7792056433126,60.4264815999779 14.7818926114124,60.4269504577393 14.7827076008792,60.4270864159406 14.7841288275696,60.4273536606099 14.784585055134,60.4274324328473 14.7859623153914,60.427686657495 14.7866391933638,60.4281103079768 14.7882717522895,60.4279623297789 14.7907157063859,60.4264017487082 14.7919646697469,60.4257798409985 14.7887557467385,60.4252334796643</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

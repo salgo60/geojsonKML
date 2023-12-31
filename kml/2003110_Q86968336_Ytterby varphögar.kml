@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003110_Q86968336_Ytterby_varphögar" id="2003110_Q86968336_Ytterby_varphögar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003110_Q86968336_Ytterby_varphögar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003110_Q86968336_Ytterby_varphögar">
+		<SimpleData name="NVRID">2003110</SimpleData>
+		<SimpleData name="NAMN">Ytterby varphögar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/09/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/09/27</SimpleData>
+		<SimpleData name="SENGALLDAT">1976/09/27</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Vaxholm</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">0.38</SimpleData>
+		<SimpleData name="LAND_HA">0.38</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.122-236-76     RrAB 302</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3531626336385,59.4258835647544 18.3530566960031,59.4259147330879 18.3524025231993,59.4261013370545 18.3526484107937,59.4263859698182 18.3537321281997,59.4263372902955 18.3534610726857,59.4259241472354 18.3532423086435,59.4259724881099 18.3531626336385,59.4258835647544</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>18.358648333003,59.4280227567339 18.3581670500896,59.4280702156114 18.3582172225335,59.4284071958207 18.3585702913367,59.4283896676295 18.3585774873237,59.4283823642707 18.3586034581082,59.4283552005054 18.3586131490988,59.4283461971861 18.3586256988237,59.4283375606572 18.3586378933993,59.4283317463599 18.3586595204783,59.4283196586074 18.3586828571105,59.4283043542488 18.3586984700093,59.4282904979972 18.3587129500575,59.4282726894432 18.3587200803669,59.4282572540724 18.3587261707986,59.4282418274981 18.3587224242753,59.4282294852433 18.3587204789634,59.4282200085683 18.3587079332755,59.4282078748745 18.3586890031469,59.4281914836938 18.3586767384981,59.4281763139721 18.3586673306209,59.428161313365 18.3586599637625,59.428142880909 18.3586564982107,59.4281257231031 18.358657244213,59.4281086995341 18.3586648765478,59.4280810731693 18.3586801413487,59.4280480555269 18.3586830226043,59.4280328194243 18.358686467455,59.4280257564308 18.358648333003,59.4280227567339</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

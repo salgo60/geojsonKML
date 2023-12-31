@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2026469_Q10700136_Tornberget" id="2026469_Q10700136_Tornberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2026469_Q10700136_Tornberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2026469_Q10700136_Tornberget">
+		<SimpleData name="NVRID">2026469</SimpleData>
+		<SimpleData name="NAMN">Tornberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/06/07</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/02/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/05/22</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Haninge</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Haninge kommun</SimpleData>
+		<SimpleData name="AREA_HA">358.96</SimpleData>
+		<SimpleData name="LAND_HA">358.95</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">312.935</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">KS 197/2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.0000478177691,59.1439823076388 18.0037829696308,59.1427910559859 18.010893648876,59.1476308031082 18.0249353292216,59.1411994942463 17.9950266561485,59.129224542391 17.9938678335671,59.1297539162157 17.9909056485621,59.1333273509385 17.9870184171213,59.1344085338682 17.9873987946305,59.1375852926138 17.9822004242279,59.1408166888207 17.9799137463139,59.1407136908962 17.9799504955939,59.1423078002548 17.9785393977346,59.1480163352897 17.9986655938436,59.1532861094936 18.005659856726,59.1500883062842 18.0039124134131,59.1484823442814 18.003397010836,59.1471918880725 18.0010139043611,59.1459676434487 18.0003698341128,59.1454051296385 18.0000478224091,59.1449418898756 17.9997902092452,59.1442470222448 18.0000478177691,59.1439823076388</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>18.0002883751957,59.1331947704761 18.0004564898349,59.1330495646457 18.0023302822975,59.1331368737991 18.002448132894,59.1332700557651 18.0014887715138,59.1340468036063 18.0010928789994,59.1340372690114 18.0002883751957,59.1331947704761</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

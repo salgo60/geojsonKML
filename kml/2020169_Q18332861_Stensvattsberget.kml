@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020169_Q18332861_Stensvattsberget" id="2020169_Q18332861_Stensvattsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2020169_Q18332861_Stensvattsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2020169_Q18332861_Stensvattsberget">
+		<SimpleData name="NVRID">2020169</SimpleData>
+		<SimpleData name="NAMN">Stensvattsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/09</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Bjurholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">65.45</SimpleData>
+		<SimpleData name="LAND_HA">65.32</SimpleData>
+		<SimpleData name="VATTEN_HA">0.132</SimpleData>
+		<SimpleData name="SKOG_HA">61.126</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-12712-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0704740216825,63.8617354977839 19.0709710118179,63.8601556042756 19.0709861836726,63.8589871023302 19.0711488512073,63.8570182773429 19.0672735936598,63.8568431096214 19.0655728989993,63.8574361475858 19.066275979878,63.8582292252336 19.0637961576797,63.858901049626 19.0632419776181,63.860572669294 19.0602719838093,63.8600636897898 19.0602063676447,63.8597575419474 19.0619442549851,63.8583028419976 19.0608161831587,63.8579363942829 19.0601468414345,63.8581704753822 19.0595014419428,63.8592179514819 19.0572974535827,63.8589544975155 19.0575650027716,63.8582114035267 19.0565870802596,63.8579841450678 19.0552650749764,63.8580463648788 19.0541054379313,63.8592449036488 19.0495226865896,63.859206827312 19.0495977253298,63.8593308692245 19.0498131936125,63.8595534182828 19.049647999973,63.8598773917371 19.0495606949709,63.8601900584297 19.0493887051825,63.860762621746 19.0494422626935,63.860996056088 19.0493142527168,63.8612638184184 19.0492652170107,63.8615645454649 19.049221419297,63.8617627529821 19.0490700599789,63.8620585647523 19.0491655735634,63.8620739260895 19.0501063027245,63.8622506795628 19.070715179555,63.8661807613571 19.0704740216825,63.8617354977839</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

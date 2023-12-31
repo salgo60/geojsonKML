@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2028349_Q30172530_Gräddö_Asken" id="2028349_Q30172530_Gräddö_Asken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2028349_Q30172530_Gräddö_Asken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2028349_Q30172530_Gräddö_Asken">
+		<SimpleData name="NVRID">2028349</SimpleData>
+		<SimpleData name="NAMN">Gräddö-Asken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/01/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/02/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/02/13</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">11.09</SimpleData>
+		<SimpleData name="LAND_HA">6.16</SimpleData>
+		<SimpleData name="VATTEN_HA">4.923</SimpleData>
+		<SimpleData name="SKOG_HA">5.675</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-29829-2012 (fd 511-2010-12605)</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0512288573552,59.7740825917847 19.0536532136761,59.7731785347623 19.0549436272498,59.7722672862676 19.0547503471123,59.7707601410392 19.0529126824805,59.7709893232564 19.0508928716403,59.7712389527387 19.0491855719615,59.7714508244453 19.0457493441966,59.7714357398208 19.0458054691278,59.7715172724091 19.046567299443,59.7726307388383 19.0482973540149,59.7736684415181 19.048287299128,59.7735875839592 19.0482540381751,59.7733690219024 19.0484547637118,59.7732003348019 19.0497493767446,59.7736120767364 19.0512288573552,59.7740825917847</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>19.0519966549012,59.773252881599 19.0508395967636,59.7728851250011 19.0494245925025,59.7724353642086 19.0496039610878,59.7722920582189 19.0506825412667,59.7721636241448 19.0510069419796,59.7724325134013 19.0519966549012,59.773252881599</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

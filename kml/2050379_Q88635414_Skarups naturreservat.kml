@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2050379_Q88635414_Skarups_naturreservat" id="2050379_Q88635414_Skarups_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2050379_Q88635414_Skarups_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2050379_Q88635414_Skarups_naturreservat">
+		<SimpleData name="NVRID">2050379</SimpleData>
+		<SimpleData name="NAMN">Skarup</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/03</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Ronneby</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">12.36</SimpleData>
+		<SimpleData name="LAND_HA">12.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">9.909</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-4381-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2336334126951,56.2616484299256 15.2338075282146,56.2614037643718 15.2340856650172,56.2614195278161 15.2343337883803,56.2613131794803 15.2341993510142,56.2608654846373 15.2341536109516,56.2605642225691 15.234385303364,56.2601647020041 15.2335343515918,56.2597998053509 15.2336064247861,56.2596204896274 15.233751216119,56.2593677348628 15.2291729038282,56.259669499329 15.2292937652818,56.2603045499306 15.2295903287679,56.2609555636813 15.2296656418915,56.2613137833344 15.2302093816011,56.261695567217 15.2309742565268,56.2623457057888 15.2316513048831,56.2629878594364 15.2321642892084,56.2631172109374 15.2324149465321,56.2634262326994 15.2321962208648,56.2635569564813 15.235795578594,56.2634361289485 15.2363189020152,56.2628650140197 15.236228085287,56.2623765146356 15.2359786571587,56.2622711114425 15.2356114090747,56.262043763179 15.2345133751733,56.2619644027968 15.2344105903467,56.2619075857492 15.2336334126951,56.2616484299256</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

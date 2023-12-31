@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000479_Q30158456_Stubb_Lisamon" id="2000479_Q30158456_Stubb_Lisamon">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000479_Q30158456_Stubb_Lisamon</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000479_Q30158456_Stubb_Lisamon">
+		<SimpleData name="NVRID">2000479</SimpleData>
+		<SimpleData name="NAMN">Stubb-Lisamon</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/06/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/07/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/07/30</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Timrå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">17.51</SimpleData>
+		<SimpleData name="LAND_HA">17.51</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.111</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-4137-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3342943128993,62.6696019296424 17.3342990938361,62.6696011316383 17.3342998460871,62.6696010113531 17.3311012739601,62.6666769086534 17.3296327177582,62.6661071495122 17.3267963604357,62.6665642194098 17.3261290074949,62.6684209431818 17.325036683216,62.6686081740269 17.3236486796143,62.6696562240979 17.3244360159155,62.6712436031735 17.3342444201961,62.6696102407012 17.3342943128993,62.6696019296424</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

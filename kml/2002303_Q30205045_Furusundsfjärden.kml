@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002303_Q30205045_Furusundsfjärden" id="2002303_Q30205045_Furusundsfjärden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002303_Q30205045_Furusundsfjärden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002303_Q30205045_Furusundsfjärden">
+		<SimpleData name="NVRID">2002303</SimpleData>
+		<SimpleData name="NAMN">Furusundsfjärden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1974/03/13</SimpleData>
+		<SimpleData name="URSGALLDAT">1974/04/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1974/04/10</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">372.85</SimpleData>
+		<SimpleData name="LAND_HA">24.57</SimpleData>
+		<SimpleData name="VATTEN_HA">348.269</SimpleData>
+		<SimpleData name="SKOG_HA">23.95</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-40-74    0188-02-023</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.9163869777323,59.6867704693213 18.9151564809005,59.6877516672186 18.912919631036,59.6885907225714 18.9113194384379,59.6893374275391 18.9074895965396,59.6923568052478 18.913365508107,59.6934011051849 18.9190311421118,59.6944077079585 18.9208041653622,59.6945300119296 18.9284209763978,59.6950450164379 18.9476118810105,59.6999462407289 18.950973621246,59.6999408937206 18.9524132071282,59.6999427115079 18.9541954707577,59.6999089694194 18.9577049741576,59.6986814026308 18.9678573281143,59.6951596039458 18.9699042331044,59.689653803132 18.9525071187166,59.688549639348 18.9439966220035,59.6832862236102 18.9439965646354,59.683286189376 18.9163869777323,59.6867704693213</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

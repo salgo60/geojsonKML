@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002070_Q30169199_Stormyrberget" id="2002070_Q30169199_Stormyrberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002070_Q30169199_Stormyrberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002070_Q30169199_Stormyrberget">
+		<SimpleData name="NVRID">2002070</SimpleData>
+		<SimpleData name="NAMN">Stormyrberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Stiftelsen Gagnefs naturvårdsfond</SimpleData>
+		<SimpleData name="AREA_HA">50.73</SimpleData>
+		<SimpleData name="LAND_HA">50.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">36.335</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Gagnefs kommun 98-02-11 §33, 230-4570-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9925545519862,60.4393575589706 14.9932168741181,60.4365799544605 14.9932390042816,60.4364863978734 14.992987477639,60.4363475387668 14.9928136155314,60.4362353949284 14.9927953955935,60.4362236408691 14.9927473117315,60.4361926259436 14.9927472572354,60.4361925900259 14.9927471845594,60.4361926079793 14.9926494899049,60.4362158932912 14.9878446795326,60.4373451926896 14.9875996532878,60.4374027772412 14.9873883394991,60.4414197126092 14.9872673846458,60.4437190458976 14.9872252743793,60.4445194173033 14.9876641772201,60.444527970405 14.9929454402274,60.4446307021882 14.9935439746894,60.4446423329411 14.9941754626706,60.4469561343658 14.9983683171825,60.4477025033327 15.0014366001519,60.4440371494831 14.9925545519862,60.4393575589706</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

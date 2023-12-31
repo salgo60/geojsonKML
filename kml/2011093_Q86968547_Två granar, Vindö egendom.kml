@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011093_Q86968547_Två_granar__Vindö_egendom" id="2011093_Q86968547_Två_granar__Vindö_egendom">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011093_Q86968547_Två_granar__Vindö_egendom</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011093_Q86968547_Två_granar__Vindö_egendom">
+		<SimpleData name="NVRID">2011093</SimpleData>
+		<SimpleData name="NAMN">Två granar, Vindö egendom</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1933/06/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1933/06/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1933/06/26</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Valdemarsvik</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.04</SimpleData>
+		<SimpleData name="LAND_HA">0.04</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">nr 210 priv./1933, Rr 119</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6620519163702,58.0304463094218 16.6619784298058,58.0305217705517 16.6619524479721,58.0306060172814 16.6620414310404,58.0306809291273 16.6622380811245,58.0307071089404 16.6623351780153,58.0306244039198 16.6622972130618,58.0305690302827 16.662205398134,58.0305371065255 16.6621709487141,58.03048887388 16.6621401058371,58.0304603312553 16.6620519163702,58.0304463094218</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

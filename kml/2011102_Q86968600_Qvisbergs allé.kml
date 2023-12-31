@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011102_Q86968600_Qvisbergs_allé" id="2011102_Q86968600_Qvisbergs_allé">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011102_Q86968600_Qvisbergs_allé</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011102_Q86968600_Qvisbergs_allé">
+		<SimpleData name="NVRID">2011102</SimpleData>
+		<SimpleData name="NAMN">Qvisbergs allé</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/10/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/10/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1973/10/01</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Vadstena</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">1.2</SimpleData>
+		<SimpleData name="LAND_HA">1.2</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.122-379-71, Rr 135</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9133129935792,58.443265329039 14.9129882785345,58.4433685662462 14.9153567906681,58.445871964548 14.9154837033448,58.4460060960564 14.9166050825766,58.4471529949223 14.9167441492014,58.4472952253198 14.9169894608457,58.447383177767 14.9177653678881,58.4475535433199 14.9178906617754,58.4473962600419 14.917101013794,58.447213006996 14.9147298941896,58.4447785004093 14.9144174677789,58.4444448746807 14.9133129935792,58.443265329039</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

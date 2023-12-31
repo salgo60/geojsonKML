@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001285_Q30163184_Stenåkern" id="2001285_Q30163184_Stenåkern">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001285_Q30163184_Stenåkern</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001285_Q30163184_Stenåkern">
+		<SimpleData name="NVRID">2001285</SimpleData>
+		<SimpleData name="NAMN">Stenåkern</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/02/17</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/02/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/06/21</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Luleå</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">44.45</SimpleData>
+		<SimpleData name="LAND_HA">44.45</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">30.086</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.2173126761713,65.5318368652674 22.2179273195899,65.5318581840767 22.2183744057887,65.5317923022873 22.223189256891,65.5314597789287 22.2253924986383,65.5304257205441 22.2283972905878,65.5288357702216 22.2318902892841,65.527371869055 22.2343666299752,65.5262161296905 22.2340806629401,65.5260961360463 22.237262470273,65.5244170244299 22.2339832407925,65.5230538556618 22.2320984350584,65.5227221059226 22.2268004134954,65.5217906141266 22.2244097226889,65.5244856227318 22.2230298402569,65.5260420208278 22.2220449960204,65.5271527621443 22.2215495677714,65.5276352567689 22.2210900749859,65.5280128850595 22.2197878505365,65.5293496744517 22.2190125356865,65.5300484661923 22.2182519112682,65.5309064176027 22.2173126761713,65.5318368652674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

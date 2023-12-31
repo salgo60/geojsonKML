@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000461_Q30161185_Klosteränge" id="2000461_Q30161185_Klosteränge">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000461_Q30161185_Klosteränge</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000461_Q30161185_Klosteränge">
+		<SimpleData name="NVRID">2000461</SimpleData>
+		<SimpleData name="NAMN">Klosteränge</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1985/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1985/11/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/10/12</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">28.74</SimpleData>
+		<SimpleData name="LAND_HA">28.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0.37</SimpleData>
+		<SimpleData name="SKOG_HA">28.101</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-706-18</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4942652619768,57.4979872825137 18.4930511394434,57.4968058902806 18.4930376378376,57.4967036275218 18.4927915093277,57.4964019448062 18.4929374974934,57.4959990915886 18.4929383536262,57.4959966945432 18.4929384602757,57.4959964129024 18.4907677147707,57.4959576697744 18.4897044349777,57.4956555627668 18.4876217025931,57.4946689415546 18.485953464816,57.4943647733906 18.4855697224801,57.4944509557939 18.484761529336,57.4946324525656 18.4847743222905,57.4946564701865 18.4849524794426,57.4949910258225 18.484565849728,57.4950610312909 18.4847071167067,57.4952908332036 18.4846240350962,57.4952999536905 18.4854976030437,57.4969262173318 18.4861811124273,57.4993174888403 18.487302446169,57.5001502622378 18.4894780119223,57.5017468443386 18.493176352091,57.5014975052928 18.4938516488147,57.5000054701493 18.4920970745175,57.4997893192353 18.4919377139644,57.4985820762293 18.494267610308,57.4979896626422 18.4942676918625,57.4979896424013 18.4942670655929,57.497989030476 18.4942652619768,57.4979872825137</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

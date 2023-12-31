@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013550_Q30159484_Torslundagropen" id="2013550_Q30159484_Torslundagropen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013550_Q30159484_Torslundagropen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013550_Q30159484_Torslundagropen">
+		<SimpleData name="NVRID">2013550</SimpleData>
+		<SimpleData name="NAMN">Torslundagropen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/09/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/10/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/29</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Enköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Upplandsstiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">9.69</SimpleData>
+		<SimpleData name="LAND_HA">9.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.002</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8544-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0788965167347,59.751778538926 17.0762099252958,59.7510972923572 17.0757133777702,59.7520655568108 17.0756274502289,59.7526671701931 17.0755693997772,59.7531004061764 17.0744712015624,59.7535189806249 17.0732418290622,59.7542164650047 17.0738176992031,59.7553674213632 17.0754871327548,59.7561875542251 17.0775120631175,59.7544941487594 17.0786606515882,59.7535630180238 17.0786931757139,59.7534810859757 17.0793489916441,59.7518932622888 17.0788965167347,59.751778538926</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

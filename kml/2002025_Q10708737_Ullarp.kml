@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002025_Q10708737_Ullarp" id="2002025_Q10708737_Ullarp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002025_Q10708737_Ullarp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002025_Q10708737_Ullarp">
+		<SimpleData name="NVRID">2002025</SimpleData>
+		<SimpleData name="NAMN">Ullarp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1977/01/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1977/01/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1977/01/31</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falkenberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Naturvårdsverket</SimpleData>
+		<SimpleData name="AREA_HA">5.36</SimpleData>
+		<SimpleData name="LAND_HA">5.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.191</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-198-74</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.6411196276919,56.8273340834599 12.6376113153698,56.8282706388555 12.6369963014617,56.8285331361793 12.637721003188,56.828982268224 12.6368809830268,56.8293805286217 12.6373287531804,56.8296859853488 12.6369241766264,56.8298771843484 12.6373936420966,56.8301066278612 12.6365562626487,56.8303699186255 12.6365256415238,56.8303610707997 12.6354104413283,56.8306964051672 12.6351257139067,56.8307819649489 12.6351631376284,56.830799398617 12.635231662721,56.8308313242502 12.6365794258959,56.8303998250557 12.6382578164971,56.8298703228227 12.6422527578473,56.8286015805392 12.6424493146136,56.8285621577131 12.6411196745493,56.8273341202929 12.6411196276919,56.8273340834599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003099_Q10670113_Skevik_caves" id="2003099_Q10670113_Skevik_caves">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003099_Q10670113_Skevik_caves</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003099_Q10670113_Skevik_caves">
+		<SimpleData name="NVRID">2003099</SimpleData>
+		<SimpleData name="NAMN">Skeviks grotta</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/10/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/10/20</SimpleData>
+		<SimpleData name="SENGALLDAT">1960/10/20</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Värmdö</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">0.15</SimpleData>
+		<SimpleData name="LAND_HA">0.15</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">IIIR-24-60     RrAB 151</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3790971508572,59.3426704634184 18.3789874297154,59.342672626972 18.3789199084528,59.342709889009 18.3788601792441,59.3427918962234 18.3787359742388,59.3428931379445 18.3786296549315,59.3429401423151 18.3785793673988,59.3430309370672 18.3785260682309,59.3431397582989 18.3786010415236,59.3432011496109 18.3786871438012,59.3432353700549 18.3787448807297,59.3432432104761 18.37883062846,59.3432145802334 18.3789558701298,59.3431851590186 18.3790520659973,59.3431203967415 18.3791344274275,59.3430469247519 18.3791641045839,59.3429744870581 18.3791441632715,59.3428850737469 18.3791620312492,59.3428308368992 18.3791974600808,59.3427762522803 18.3791795428769,59.3427137404982 18.3790971508572,59.3426704634184</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023969_Q19977648_Ekeby_dreve" id="2023969_Q19977648_Ekeby_dreve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2023969_Q19977648_Ekeby_dreve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2023969_Q19977648_Ekeby_dreve">
+		<SimpleData name="NVRID">2023969</SimpleData>
+		<SimpleData name="NAMN">Ekeby dreve</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/03/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/07/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/02/03</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Örebro</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Örebro kommun</SimpleData>
+		<SimpleData name="AREA_HA">38.71</SimpleData>
+		<SimpleData name="LAND_HA">17.22</SimpleData>
+		<SimpleData name="VATTEN_HA">21.484</SimpleData>
+		<SimpleData name="SKOG_HA">10.685</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-6894-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3365539598699,59.2709396763242 15.3365693260921,59.2706643217608 15.3344809845192,59.2704651145065 15.3342632361056,59.2704443417556 15.3341128545684,59.2707803446233 15.3331654679075,59.270718263574 15.3332905555398,59.2705882781139 15.3333694314812,59.2705278827694 15.3336193651261,59.2703551981674 15.333552062716,59.270341751 15.3325494584014,59.2701097291311 15.3324189647619,59.2700783976499 15.3323997661155,59.2701134268872 15.3319159405466,59.2700002506298 15.3314705702917,59.2698203154119 15.3314439927232,59.2698095384055 15.3318330875593,59.2694020199015 15.3313914150144,59.2693033830051 15.330807442005,59.269172961979 15.3307079930447,59.2691507520686 15.330740074612,59.2691070279167 15.3321697810538,59.2671648447411 15.3302975396539,59.2672382300233 15.3293971650954,59.2672827598629 15.3286123504275,59.2673156820281 15.3263400345025,59.2673447127431 15.3268216598429,59.2683741884877 15.3256467839608,59.2685201126235 15.3262657242236,59.2703810335897 15.3281655783634,59.2708782872795 15.3296185582156,59.271317037362 15.3351296049829,59.2797296958091 15.3369195581504,59.2798072762711 15.3365539598699,59.2709396763242</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

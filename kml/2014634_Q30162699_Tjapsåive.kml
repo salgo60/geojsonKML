@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014634_Q30162699_Tjapsåive" id="2014634_Q30162699_Tjapsåive">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014634_Q30162699_Tjapsåive</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014634_Q30162699_Tjapsåive">
+		<SimpleData name="NVRID">2014634</SimpleData>
+		<SimpleData name="NAMN">Tjapsåive</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/12/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/12/04</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Arvidsjaur</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">191.77</SimpleData>
+		<SimpleData name="LAND_HA">191.76</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">164.763</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4519-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7536738924975,65.7117133381122 18.7557167623446,65.7127514079572 18.7655494364792,65.7113084688033 18.7740362946292,65.7093410801647 18.7846132374035,65.7101790485086 18.7865362870454,65.7096216247014 18.7887065071596,65.7086286582624 18.7892026079319,65.7081272112738 18.7872081696258,65.7071386018712 18.7917784691736,65.7048697723783 18.7934900082538,65.7031605340548 18.7986986778278,65.7009344290549 18.7973293157058,65.6998842951487 18.8041468575162,65.6975299748708 18.8053520734906,65.698064597866 18.8060099199875,65.6979258700025 18.8065790800678,65.6961715376858 18.8020644579744,65.6948974119995 18.8048840716551,65.6933461781226 18.8038199351295,65.6930201793728 18.806099953498,65.6920657642961 18.805415832106,65.6912521590792 18.7941980962149,65.6925087081488 18.7911645357524,65.6942317740551 18.7906058524709,65.6945224134314 18.7906793575662,65.6949578110888 18.786154868909,65.6971272623437 18.7824504893828,65.6987084865763 18.7841334228622,65.699468512735 18.7845509474678,65.7002309720133 18.7790816290672,65.7013994416879 18.7791960915646,65.7029284361691 18.7753779740588,65.7033424638417 18.7736781228386,65.702753679032 18.7718229036297,65.7026949554286 18.7732734144295,65.7042639273065 18.7660145685392,65.7049783773838 18.7593254105887,65.7082475925217 18.7556465989609,65.7102773344435 18.7536738924975,65.7117133381122</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

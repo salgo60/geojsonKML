@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2052541_Q89909053_Karlstorps_tallskog" id="2052541_Q89909053_Karlstorps_tallskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2052541_Q89909053_Karlstorps_tallskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2052541_Q89909053_Karlstorps_tallskog">
+		<SimpleData name="NVRID">2052541</SimpleData>
+		<SimpleData name="NAMN">Karlstorps tallskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/11/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/12/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/12/20</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Vetlanda</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">30.25</SimpleData>
+		<SimpleData name="LAND_HA">29.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0.34</SimpleData>
+		<SimpleData name="SKOG_HA">29.758</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-97-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.5332630049943,57.5198808597067 15.5461312548327,57.513653141637 15.5422225795028,57.5122528212544 15.5410160941831,57.5121845857063 15.5398503589212,57.513065685852 15.5377106547401,57.514163189828 15.5377637019969,57.5142824087563 15.5369983405171,57.5142571851989 15.5363077698917,57.5145532230798 15.5360504745054,57.5149383805536 15.5348913976169,57.5153071479735 15.5340026440468,57.5148965258459 15.5317004134034,57.5154419139239 15.5314088359027,57.5156873952492 15.5317016962639,57.5162822857549 15.5322033077026,57.5168629074264 15.5331312568793,57.5174416642218 15.5325787839112,57.5178693362466 15.5328962166041,57.5181939943016 15.5315798590887,57.519061860584 15.5332630049943,57.5198808597067</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

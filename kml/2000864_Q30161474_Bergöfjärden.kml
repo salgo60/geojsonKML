@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000864_Q30161474_Bergöfjärden" id="2000864_Q30161474_Bergöfjärden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000864_Q30161474_Bergöfjärden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000864_Q30161474_Bergöfjärden">
+		<SimpleData name="NVRID">2000864</SimpleData>
+		<SimpleData name="NAMN">Bergöfjärden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/10/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/10/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/10/31</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Luleå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">751.22</SimpleData>
+		<SimpleData name="LAND_HA">16.7</SimpleData>
+		<SimpleData name="VATTEN_HA">734.507</SimpleData>
+		<SimpleData name="SKOG_HA">7.15</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-4302-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.6821899085654,65.704669383326 22.6921979998524,65.7338470686212 22.6922294283824,65.7339385973169 22.7107938762316,65.7308010559436 22.7169667124203,65.7103161886051 22.716988388089,65.7103172072607 22.7354728433647,65.711185393496 22.7354755688673,65.7111852725848 22.7390399311147,65.7110226310595 22.7454180119383,65.7091092282009 22.7472443136993,65.7065474509237 22.7477156474264,65.6981446214129 22.7477348352011,65.6981446069886 22.7477347381909,65.6981445758379 22.7475396554543,65.6980924294088 22.7214364016237,65.6911106982076 22.6821899085654,65.704669383326</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

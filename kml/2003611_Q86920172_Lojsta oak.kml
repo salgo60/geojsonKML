@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003611_Q86920172_Lojsta_oak" id="2003611_Q86920172_Lojsta_oak">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003611_Q86920172_Lojsta_oak</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2003611_Q86920172_Lojsta_oak">
+		<SimpleData name="NVRID">2003611</SimpleData>
+		<SimpleData name="NAMN">Lojstaeken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1913/09/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1913/09/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1913/09/26</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">0</SimpleData>
+		<SimpleData name="LAND_HA">0</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.131-976-87     RrI 5</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>18.3812220514181,57.3114883426515</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

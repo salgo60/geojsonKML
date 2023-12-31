@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000621_Q25292148_Strålsjön_Erstavik" id="2000621_Q25292148_Strålsjön_Erstavik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000621_Q25292148_Strålsjön_Erstavik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000621_Q25292148_Strålsjön_Erstavik">
+		<SimpleData name="NVRID">2000621</SimpleData>
+		<SimpleData name="NAMN">Strålsjön-Erstavik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1995/06/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/08/24</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/08/24</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Nacka</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Enskild markägare</SimpleData>
+		<SimpleData name="AREA_HA">47.68</SimpleData>
+		<SimpleData name="LAND_HA">44.84</SimpleData>
+		<SimpleData name="VATTEN_HA">2.838</SimpleData>
+		<SimpleData name="SKOG_HA">38.408</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Nacka kommun Ä94/177-34</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.2046662428949,59.267308543563 18.2052864680221,59.2664596903391 18.2094759337955,59.263349202395 18.2070472356277,59.2628048340193 18.2035270639361,59.2620157121063 18.2035223531537,59.2620146499458 18.2034940447504,59.2621469311582 18.2034443762206,59.262379415893 18.2033775120862,59.2626921528646 18.2033287275349,59.2629202930017 18.2045859020864,59.2630596338768 18.2043276176361,59.2634180127206 18.2025946793032,59.2658221708156 18.2017547593783,59.2662762327867 18.1987882959138,59.2667317136873 18.197871341319,59.2666112514516 18.1976786909315,59.2664116152645 18.1976676836957,59.2664002495517 18.1976657115481,59.2663982013773 18.1949455075008,59.2673297709247 18.1898016805733,59.2690910148014 18.1894287883284,59.2692186951845 18.188323855519,59.269972509446 18.1880331998478,59.2701711796024 18.1875948363832,59.2704666962863 18.1875199660521,59.2705172274606 18.1875766946314,59.2705575132815 18.1889392768128,59.2715247661469 18.1897759741293,59.2717269165535 18.1911426772903,59.2726713575855 18.2004847158028,59.2704292212042 18.2013277294683,59.2694241540796 18.2036177290294,59.2682703635543 18.2046662428949,59.267308543563</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

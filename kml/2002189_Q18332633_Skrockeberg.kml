@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002189_Q18332633_Skrockeberg" id="2002189_Q18332633_Skrockeberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002189_Q18332633_Skrockeberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002189_Q18332633_Skrockeberg">
+		<SimpleData name="NVRID">2002189</SimpleData>
+		<SimpleData name="NAMN">Skrockeberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/09/03</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/09/24</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/09/24</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Halmstad</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">50.78</SimpleData>
+		<SimpleData name="LAND_HA">50.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0.078</SimpleData>
+		<SimpleData name="SKOG_HA">49.264</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-707-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.9853891115949,56.8597129697607 12.987651424266,56.8615747696263 12.9959665382161,56.8741604550891 12.9960213355996,56.8742523793366 12.9960444183734,56.8742911374075 12.998582967802,56.8726779128566 12.9986031649614,56.8726650722186 12.9987463587175,56.8726140177488 12.9984576834429,56.8720463093847 12.9984490075442,56.872028108718 12.9976593663413,56.8703731637768 12.9932193629416,56.8610650372702 12.9867460273083,56.8572831187603 12.9867021969351,56.8572575120135 12.9869916841107,56.8570716780281 12.9870458951526,56.857036868934 12.9870273737675,56.8569593632688 12.9867816093331,56.8567234201002 12.9862108400274,56.8570748836229 12.9861796567868,56.8571750230381 12.9853891115949,56.8597129697607</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

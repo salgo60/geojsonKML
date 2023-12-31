@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003641_Q86968311_Bergspartiet_Borgamostad" id="2003641_Q86968311_Bergspartiet_Borgamostad">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003641_Q86968311_Bergspartiet_Borgamostad</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003641_Q86968311_Bergspartiet_Borgamostad">
+		<SimpleData name="NVRID">2003641</SimpleData>
+		<SimpleData name="NAMN">Bergspartiet Borgamostad</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1939/02/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1939/02/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1939/02/25</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Ronneby</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">2.41</SimpleData>
+		<SimpleData name="LAND_HA">2.41</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">EKD:M T48 1938  K45</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1997789426411,56.3257501029701 15.199852141315,56.3259660079808 15.1998436552903,56.32607189488 15.1999178994203,56.3262339361488 15.1999908031265,56.3262972130553 15.2002187344954,56.326345235427 15.2004208116549,56.3263966953361 15.2006847909325,56.3264144077693 15.2008981107525,56.3263833351525 15.2011475317342,56.3263201469161 15.2014228522944,56.3262499351311 15.2017069562361,56.3262264547298 15.2020203341964,56.3261887843683 15.2022284586573,56.3260930385927 15.2023661706392,56.3259717387928 15.202393749123,56.3258785245972 15.2024004545149,56.325697215633 15.2023903154205,56.3255534983287 15.2023451112028,56.3253898388112 15.2022867135981,56.325073464477 15.2022336526862,56.3249833737576 15.2021057836274,56.3249287590241 15.20175244616,56.3248656437814 15.2014188925984,56.3247792974191 15.2010482690752,56.3247771320977 15.2004198261249,56.324773442298 15.2003357511257,56.3247873245276 15.2002602789342,56.3248569056214 15.2001802410324,56.3249965011915 15.2001200253603,56.3251110698435 15.2000108752628,56.3252558694081 15.1998835294739,56.3255083054545 15.1997969354579,56.3256532391374 15.1997789426411,56.3257501029701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

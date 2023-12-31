@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002369_Q18331675_Nöttja_urskog" id="2002369_Q18331675_Nöttja_urskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002369_Q18331675_Nöttja_urskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002369_Q18331675_Nöttja_urskog">
+		<SimpleData name="NVRID">2002369</SimpleData>
+		<SimpleData name="NAMN">Nöttja Urskogs domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/08</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljungby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">4.75</SimpleData>
+		<SimpleData name="LAND_HA">4.75</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.751</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-3408-96 / 511-3076-06</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6516967515504,56.6756677377229 13.6519096277719,56.6757629465319 13.6521123757733,56.6759818219168 13.6519921299972,56.6761811631841 13.6522298816513,56.6768038680328 13.6527906931592,56.6767887223854 13.6528080070877,56.6767883705798 13.6564336864687,56.673410350552 13.6563970149414,56.6734016168841 13.6563144162875,56.6733837441632 13.6558942422544,56.6732655324471 13.6557031214543,56.6730737435093 13.6554288925455,56.6728899341031 13.655071885794,56.6728491419385 13.6546561921002,56.6728802322323 13.6546458769498,56.6728866618348 13.6533232690322,56.6743556279245 13.6533212292586,56.6743574477806 13.6533487501175,56.6746921829027 13.65246868528,56.6751757211411 13.6516967515504,56.6756677377229</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

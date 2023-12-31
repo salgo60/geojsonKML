@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2040973_Q49097438_Angerdshestra_prästskog" id="2040973_Q49097438_Angerdshestra_prästskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2040973_Q49097438_Angerdshestra_prästskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2040973_Q49097438_Angerdshestra_prästskog">
+		<SimpleData name="NVRID">2040973</SimpleData>
+		<SimpleData name="NAMN">Angerdshestra prästskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/06/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/07/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/07/26</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Jönköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">19.24</SimpleData>
+		<SimpleData name="LAND_HA">19.23</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.374</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-366-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8879409663027,57.6694256205421 13.8930240092624,57.6711905195295 13.8936608282299,57.6714111299066 13.893652041496,57.6706922232026 13.8942554501756,57.6700312646934 13.8948257705091,57.6699370185136 13.8953118903574,57.6697888359418 13.8951368413066,57.6696754212874 13.8951558084884,57.6693808557826 13.8952858691594,57.669198975836 13.8952677403026,57.6689207593074 13.8953653276265,57.6688319945012 13.8953993174449,57.6682527823517 13.8953704326228,57.6679770860212 13.8951351828835,57.6675943940286 13.8949686195066,57.6669956525653 13.8949784370628,57.6666816751138 13.8948597012141,57.6660577488441 13.8950554292011,57.6657937608755 13.8950851834543,57.6654663388733 13.8950270700866,57.665193890531 13.8948859698585,57.6650083488832 13.8943697936859,57.6647024512569 13.8941855544147,57.6647542105737 13.8939736816611,57.6651801498301 13.894258410339,57.665711410439 13.8938899532806,57.6660104400907 13.8925899301311,57.6661943190153 13.8920937804972,57.6661162858398 13.8910223351654,57.6664027534787 13.8905709708757,57.6662168047983 13.8896718478316,57.6666824067825 13.8894244737349,57.6668165116012 13.8888087373951,57.6664663551645 13.8882318540861,57.6667796269219 13.8891171386202,57.6672766756006 13.8880436848807,57.6678098076775 13.8883439031702,57.6681625050666 13.8885380639162,57.6687928316904 13.8882580092161,57.6692639951772 13.8879409663027,57.6694256205421</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002215_Q30170790_Gultberget" id="2002215_Q30170790_Gultberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002215_Q30170790_Gultberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002215_Q30170790_Gultberget">
+		<SimpleData name="NVRID">2002215</SimpleData>
+		<SimpleData name="NAMN">Gultberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/11/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/12/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2004/04/26</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Torsby</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">60.75</SimpleData>
+		<SimpleData name="LAND_HA">60.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">60.428</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-9774-92 / 511</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.024370331863,60.2343939773146 13.0244558237511,60.234887013491 13.0250669865156,60.2349124855805 13.0249762605791,60.2353988654235 13.0245399704515,60.235379032563 13.0250148279715,60.2384619016266 13.0251749774729,60.2393102480435 13.0286491616369,60.240917212043 13.0324523842766,60.2426827346134 13.0325999398384,60.2426937243035 13.0339369362021,60.2425606455587 13.034108103995,60.2422623872246 13.0346162506447,60.2421875079165 13.0352543448968,60.2421822541149 13.0354759752773,60.2424196589622 13.0363756480549,60.2424379955223 13.0370103003412,60.2421099822261 13.0357007388097,60.2409164201106 13.0381887508357,60.2395664849316 13.0408601714848,60.2399478472807 13.0408343112233,60.2394704348746 13.0407488341198,60.2378904053423 13.0406879360849,60.2367708747187 13.0392973894823,60.236707024517 13.0363330281987,60.2358179450527 13.033074879508,60.2347614531627 13.0326893200531,60.233595337681 13.027680246963,60.2339277565681 13.0275101400147,60.2339446639949 13.0252436202753,60.2336814406135 13.0247673747532,60.233979763281 13.024370331863,60.2343939773146</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

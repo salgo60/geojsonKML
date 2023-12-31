@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000900_Q30185042_Billtjärns_urskog" id="2000900_Q30185042_Billtjärns_urskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000900_Q30185042_Billtjärns_urskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000900_Q30185042_Billtjärns_urskog">
+		<SimpleData name="NVRID">2000900</SimpleData>
+		<SimpleData name="NAMN">Billtjärns urskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1991/01/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1991/02/21</SimpleData>
+		<SimpleData name="SENGALLDAT">1991/02/21</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ragunda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Naturvårdsverket</SimpleData>
+		<SimpleData name="AREA_HA">105.19</SimpleData>
+		<SimpleData name="LAND_HA">102.61</SimpleData>
+		<SimpleData name="VATTEN_HA">2.575</SimpleData>
+		<SimpleData name="SKOG_HA">93.634</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-9539-89</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.5829541160735,63.1006592545227 16.5819703041466,63.101120791169 16.5842648508001,63.1019587475062 16.5892144430813,63.103766004308 16.5972930775128,63.1067149165859 16.598060191336,63.1069914612198 16.598060252236,63.1069914874651 16.5980608059454,63.1069911041819 16.598063496742,63.1069892155738 16.6096933974562,63.0988466702442 16.5981842486903,63.0934766640582 16.598182500253,63.0934758488894 16.5981801010398,63.093474726855 16.5980870560196,63.093518094537 16.5972684995198,63.093913844071 16.5972134406609,63.0939404625182 16.5969494538551,63.0940680855828 16.5952866830405,63.0948719021849 16.5919881706811,63.0964201366576 16.5890141640545,63.097815857116 16.5857052660768,63.0993684993469 16.5829541160735,63.1006592545227</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

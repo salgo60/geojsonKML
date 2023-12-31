@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005628_Q30208792_Vorrberget" id="2005628_Q30208792_Vorrberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005628_Q30208792_Vorrberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005628_Q30208792_Vorrberget">
+		<SimpleData name="NVRID">2005628</SimpleData>
+		<SimpleData name="NAMN">Vorrberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/11/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/12/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/12/22</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Vindeln</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">54.7</SimpleData>
+		<SimpleData name="LAND_HA">54.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">53.163</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-10479-2000</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.6194191881516,64.1921262186763 19.6198598679516,64.1928635497809 19.6275336663553,64.1911654646463 19.6276295229873,64.1911442468489 19.6293853846009,64.1921175890268 19.6299696388351,64.1923804367776 19.630031854832,64.1924084389419 19.6319499282902,64.1919708173716 19.6319842395231,64.1919903362334 19.6348751581941,64.1936335822519 19.6374686224633,64.1930401927526 19.637395484773,64.1929793154086 19.6424790390992,64.1902932801846 19.645437196704,64.1887652485233 19.6416317173343,64.1852386835678 19.6376516023525,64.1859202328304 19.6359381689742,64.1869340263559 19.6313294398092,64.1879523231363 19.6243284601703,64.1894918186574 19.6239938361493,64.189558218053 19.6225494374892,64.1903695193186 19.6224596296246,64.1904199275973 19.6194191881516,64.1921262186763</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

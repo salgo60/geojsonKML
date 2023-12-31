@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001249_Q30174579_Kuolpajärvi_domänreservat" id="2001249_Q30174579_Kuolpajärvi_domänreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001249_Q30174579_Kuolpajärvi_domänreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001249_Q30174579_Kuolpajärvi_domänreservat">
+		<SimpleData name="NVRID">2001249</SimpleData>
+		<SimpleData name="NAMN">Kuolpajärvi domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Gällivare</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">76.41</SimpleData>
+		<SimpleData name="LAND_HA">76.41</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">71.864</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">2312-11538-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.6057060377123,67.0214588175204 20.6140092960187,67.0261218893869 20.6267795219329,67.0274711487222 20.6274737250778,67.026037638121 20.6280537464936,67.0251666693996 20.6288699305128,67.024347394475 20.6295465823874,67.0235730157943 20.6309279635338,67.0225781871469 20.6261630293524,67.0209572320437 20.624849300665,67.0204085603829 20.6240653213469,67.0198732340009 20.623811103118,67.0193512682721 20.6235815739285,67.0189170296828 20.6239762626231,67.0182869270444 20.6245968716204,67.0176207260911 20.6256432537555,67.0168239078714 20.6190699378938,67.0174645840341 20.6167779172603,67.0177002043082 20.6142001671702,67.0179651580459 20.6118748351366,67.0183886249395 20.6103093892009,67.0188479231267 20.6098491753676,67.0191855320548 20.6099075128084,67.01986055663 20.6057060377123,67.0214588175204</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

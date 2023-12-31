@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000503_Q22793343_Svartnäsudden" id="2000503_Q22793343_Svartnäsudden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000503_Q22793343_Svartnäsudden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000503_Q22793343_Svartnäsudden">
+		<SimpleData name="NVRID">2000503</SimpleData>
+		<SimpleData name="NAMN">Svartnäsudden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1984/04/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1984/05/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1984/05/18</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kramfors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">63.17</SimpleData>
+		<SimpleData name="LAND_HA">40.1</SimpleData>
+		<SimpleData name="VATTEN_HA">23.065</SimpleData>
+		<SimpleData name="SKOG_HA">39.967</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-242-84 / 511-1109-07</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.0683115803623,63.1714140728626 18.0615749903975,63.1739716509337 18.0614669733041,63.1740126510953 18.058548926014,63.1751697438894 18.064148746096,63.1779110699715 18.075316656178,63.1770952045572 18.0825179989303,63.1718142576895 18.0804920033949,63.1713713692049 18.0714812667568,63.1694010976434 18.071481185542,63.1694010814356 18.0683115803623,63.1714140728626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

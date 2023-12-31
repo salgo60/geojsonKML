@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000908_Q30175571_Valletjärnarna" id="2000908_Q30175571_Valletjärnarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000908_Q30175571_Valletjärnarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000908_Q30175571_Valletjärnarna">
+		<SimpleData name="NVRID">2000908</SimpleData>
+		<SimpleData name="NAMN">Valletjärnarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1946/10/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1946/10/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1946/10/19</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Bräcke</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">14.1</SimpleData>
+		<SimpleData name="LAND_HA">13.29</SimpleData>
+		<SimpleData name="VATTEN_HA">0.81</SimpleData>
+		<SimpleData name="SKOG_HA">11.554</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Resolution NR 1061/46, E.D. 45 Ö/ 62</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.3619699209467,62.7699185676472 16.3629783009732,62.7698329130121 16.3642871814091,62.7699298105929 16.3659610417473,62.7696917615159 16.3670048943216,62.769129535807 16.3676828981778,62.7688545995712 16.3677014645346,62.7682692308221 16.3638073807445,62.7673319251653 16.357547850746,62.7669550645371 16.35757735397,62.7693301510949 16.359065347731,62.7702702961619 16.3600034489708,62.7703959169602 16.3619699209467,62.7699185676472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000709_Q30158399_Högmossen" id="2000709_Q30158399_Högmossen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000709_Q30158399_Högmossen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000709_Q30158399_Högmossen">
+		<SimpleData name="NVRID">2000709</SimpleData>
+		<SimpleData name="NAMN">Högmossen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1991/07/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1991/08/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/07/02</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Sandviken</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">6.51</SimpleData>
+		<SimpleData name="LAND_HA">6.51</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">6.177</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-18477-08, 81-207</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6818225007937,60.2737196464638 16.6855009866834,60.2762544598937 16.6871093389456,60.2773567895648 16.6872429494679,60.2772372094261 16.6872325376074,60.2769932957426 16.6874995987811,60.2764622320445 16.686970750123,60.2759614960248 16.6860906375347,60.2757080156972 16.6859451092484,60.2758974554562 16.6855078302499,60.2756747393625 16.6852466183389,60.2749041735651 16.6854862714402,60.2746104756148 16.6863115490083,60.2743375331892 16.6868950790893,60.2738908591771 16.6868155499602,60.2734869131482 16.6865529007439,60.2733356434439 16.6863917376062,60.2730127983309 16.6831512507268,60.272785731884 16.6824243692635,60.2733907327674 16.6818225007937,60.2737196464638</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

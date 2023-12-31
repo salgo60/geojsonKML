@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2041511_Q30158553_Kolkonliika" id="2041511_Q30158553_Kolkonliika">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2041511_Q30158553_Kolkonliika</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2041511_Q30158553_Kolkonliika">
+		<SimpleData name="NVRID">2041511</SimpleData>
+		<SimpleData name="NAMN">Kolkonliika</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Pajala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">412.64</SimpleData>
+		<SimpleData name="LAND_HA">412.63</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">246.109</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-10430-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.9679844765678,67.5444370382287 22.9646890551698,67.542335454282 22.9650427968218,67.5410768838199 22.9687139004602,67.539485685827 22.9732241735703,67.5375502383267 22.9775253434077,67.5356934190969 22.9820659122877,67.5337453352442 22.986600417847,67.5317942596296 22.9876503584501,67.5299188580105 22.9922469592779,67.5291606963919 22.9967363507525,67.5284105074333 22.9951347799466,67.5268219014007 22.9877536433226,67.5280571639376 22.9813446467462,67.5291692663513 22.9748051966882,67.5269251955293 22.9736280286882,67.5245160911028 22.9722947668111,67.5242576041365 22.9698379569298,67.5250056912432 22.9646267345512,67.5258241873318 22.9560338683392,67.5271714473884 22.9534370032666,67.5283178187836 22.9533398612377,67.5286368092067 22.9515940962785,67.5291278537425 22.9459630902634,67.531609685995 22.9394242776726,67.5327423740468 22.935091378382,67.5334998558055 22.934169544032,67.5346819197278 22.933054523764,67.5358388189114 22.9316286837498,67.5377350778548 22.9300651907124,67.5391502317191 22.9285668935658,67.5398561907375 22.9258068013426,67.5407701264099 22.9206693944867,67.5418776903565 22.9193054682724,67.5420607207501 22.9163095928341,67.5423576416846 22.917352337537,67.5439120886879 22.917143888128,67.5449044791687 22.9176081172011,67.5456874558968 22.920727662599,67.5457235304535 22.9223211132327,67.5453011197643 22.925003948936,67.5450482616525 22.9284630342086,67.5456048141278 22.9316430378212,67.546133945476 22.9327232186525,67.5465124638653 22.9342161041128,67.5480747850182 22.9359067207876,67.5482068007374 22.9377411240859,67.5491874773962 22.9429679373474,67.5499482671193 22.9457087377427,67.5483832359325 22.9519514970201,67.5470604202969 22.9533364395017,67.5462968153858 22.9679844765678,67.5444370382287</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

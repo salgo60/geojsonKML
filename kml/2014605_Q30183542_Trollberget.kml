@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014605_Q30183542_Trollberget" id="2014605_Q30183542_Trollberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014605_Q30183542_Trollberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014605_Q30183542_Trollberget">
+		<SimpleData name="NVRID">2014605</SimpleData>
+		<SimpleData name="NAMN">Trollberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/12/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/12/04</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Piteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">55.3</SimpleData>
+		<SimpleData name="LAND_HA">55.3</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">47.923</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3670-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.9988665264576,65.5045184413967 19.9991151853406,65.5048782878143 20.0024308930396,65.5050678313581 20.0065899415922,65.504574284109 20.0117474573699,65.5035880197001 20.0107917652962,65.5027771159693 20.0141966207173,65.5002180629635 20.0114061256557,65.4972984542254 20.0130610253,65.4953037323507 20.0122052485435,65.4947607708548 20.0100605679052,65.4951000434735 20.0075815926337,65.4967076401375 20.0060396239722,65.4969191023636 20.0031346227303,65.4954200125905 19.9999965437898,65.4958441001722 20.0002785767258,65.4972510367038 20.0014541396181,65.4979619430256 20.0008884698588,65.4990936137623 19.9998685330365,65.4989890443925 19.9990980792969,65.4991273912984 19.9979881055551,65.4997362112609 20.0009501993884,65.5008796836344 20.0000346327702,65.5018026259066 20.0011540398795,65.502651206624 19.9992222512193,65.5035376992904 19.9994731429049,65.5042000524952 19.9988665264576,65.5045184413967</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

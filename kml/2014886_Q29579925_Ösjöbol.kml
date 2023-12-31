@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014886_Q29579925_Ösjöbol" id="2014886_Q29579925_Ösjöbol">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014886_Q29579925_Ösjöbol</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014886_Q29579925_Ösjöbol">
+		<SimpleData name="NVRID">2014886</SimpleData>
+		<SimpleData name="NAMN">Ösjöbol</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/09/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppvidinge</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">67.91</SimpleData>
+		<SimpleData name="LAND_HA">63.55</SimpleData>
+		<SimpleData name="VATTEN_HA">4.354</SimpleData>
+		<SimpleData name="SKOG_HA">50.361</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.231111065034,57.1874468984647 15.23355029893,57.1871190723513 15.2351652777018,57.1869013007191 15.2367700432499,57.1866851436327 15.2384481882721,57.1864590744507 15.2379506060824,57.1854385373519 15.2366154985752,57.1853372645021 15.235327870006,57.1852402714068 15.2350736385499,57.1852211174653 15.2350431087959,57.1849681460436 15.2350439724929,57.1849676431611 15.2358522929846,57.184497153871 15.2358524575248,57.1844970134232 15.2364818518323,57.1839586722188 15.2364821443803,57.1839586303448 15.2377821518754,57.1837720074336 15.2385117382468,57.1833603240952 15.2402786271577,57.1823632657044 15.2440336829846,57.1802402700834 15.2439777226812,57.1798805273317 15.2402679746353,57.1792948442981 15.2401148179677,57.1786247155318 15.239962044579,57.1786251864123 15.237531720501,57.1786323227771 15.234937907799,57.1790621218934 15.2324821037376,57.1801969737636 15.2324700270375,57.1802025540694 15.2301158013947,57.1811370951517 15.2301024829205,57.181116250559 15.2285242732559,57.1786459003039 15.2230452224782,57.1837080710462 15.2276573353083,57.1837208951765 15.2275643907567,57.1850643301903 15.227460786765,57.1865582841076 15.2274086055499,57.1873106879143 15.2296282725391,57.1872662638086 15.2302428260558,57.1875635771193 15.231111065034,57.1874468984647</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

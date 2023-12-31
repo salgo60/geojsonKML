@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004599_Q86968665_Thor_s_stones" id="2004599_Q86968665_Thor_s_stones">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004599_Q86968665_Thor_s_stones</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004599_Q86968665_Thor_s_stones">
+		<SimpleData name="NVRID">2004599</SimpleData>
+		<SimpleData name="NAMN">Flyttblock Tors stenar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1957/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1957/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1957/01/10</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Katrineholm</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.18</SimpleData>
+		<SimpleData name="LAND_HA">0.18</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III Ö 19-17-54</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4770572264019,58.8727001664305 16.4769912659849,58.87274860696 16.477046620475,58.8728114694858 16.4771297582948,58.8728474090781 16.4773273458954,58.872863653588 16.477694793989,58.8728889676223 16.4777919175968,58.872856697608 16.4778336019702,58.8728100523011 16.4778406640498,58.872754398578 16.4778060524321,58.8727130989874 16.477636232789,58.8726878788277 16.4774144010161,58.8726680316807 16.4772133158768,58.8726661449421 16.4770572264019,58.8727001664305</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4774204987851,58.8730970692042 16.4773893901756,58.8730468011343 16.4772750709935,58.8730036551654 16.477094863042,58.872965870168 16.4768868954181,58.8729478217446 16.4767550804193,58.8729800653794 16.476699448959,58.8730572295865 16.476699330877,58.8731236543862 16.4767477660397,58.8731682274893 16.4769488314414,58.8731830136543 16.4771256673954,58.8731795102517 16.4772574225142,58.8731670098292 16.4773164106447,58.873149080617 16.4774204987851,58.8730970692042</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

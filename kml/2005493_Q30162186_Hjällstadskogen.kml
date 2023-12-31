@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005493_Q30162186_Hjällstadskogen" id="2005493_Q30162186_Hjällstadskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005493_Q30162186_Hjällstadskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005493_Q30162186_Hjällstadskogen">
+		<SimpleData name="NVRID">2005493</SimpleData>
+		<SimpleData name="NAMN">Hjällstadskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/09/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/01/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/01/12</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Torsby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.6</SimpleData>
+		<SimpleData name="LAND_HA">10.75</SimpleData>
+		<SimpleData name="VATTEN_HA">0.845</SimpleData>
+		<SimpleData name="SKOG_HA">9.385</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11823-05 / dret</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.9106604681612,60.526017438264 12.9084126100575,60.5259677920947 12.90825235027,60.5265323361622 12.9104923378722,60.5267030055696 12.9121442943477,60.5269524159001 12.9142900597646,60.52727760279 12.9173248686763,60.5277340900042 12.922641457738,60.5285358108234 12.9260593777052,60.5290508608631 12.9279681373433,60.5293390364007 12.9295393469454,60.5295760086471 12.9300181466805,60.5296480742134 12.9312730842313,60.5287877119039 12.9303815319495,60.528667963877 12.9202808293833,60.5273106543406 12.9106604681612,60.526017438264</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

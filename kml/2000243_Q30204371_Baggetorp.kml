@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000243_Q30204371_Baggetorp" id="2000243_Q30204371_Baggetorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000243_Q30204371_Baggetorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000243_Q30204371_Baggetorp">
+		<SimpleData name="NVRID">2000243</SimpleData>
+		<SimpleData name="NAMN">Baggetorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/10/04</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/10/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/10/25</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lekeberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">12.25</SimpleData>
+		<SimpleData name="LAND_HA">12.25</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.149</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-09516-95</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6406607994123,59.1497862680343 14.6413799835377,59.1488757535523 14.6413798961331,59.148875753311 14.6358136623839,59.1489735758719 14.6355832309172,59.1489776265087 14.6333770575622,59.1490031115281 14.6305946718725,59.1490319061038 14.6300644334156,59.1490373841437 14.6299947542299,59.1491376149356 14.6298079084564,59.1493645324347 14.6295702679454,59.1494853705535 14.6294784775674,59.1495316997638 14.6294124435397,59.1495613087999 14.6293243238116,59.1496076483722 14.6291881744837,59.1496513811591 14.6291349966129,59.1496770663369 14.6291242834619,59.1496848488114 14.6290202528895,59.1497604192698 14.6289576424035,59.149853215851 14.6288584770423,59.1500929371427 14.6287878036244,59.1503167544313 14.628765611635,59.1504530243729 14.6287675832655,59.1505389466901 14.6287711678022,59.1506954874816 14.6288445200079,59.1509122175082 14.6288504325884,59.1509296566169 14.6288576336433,59.1509427348713 14.6341608077887,59.1504232648114 14.63528692736,59.1503129352048 14.6358464318579,59.1502581160006 14.6363695165312,59.1502068565095 14.6369583830259,59.1501491511299 14.6376066256066,59.1500856276976 14.6406607994123,59.1497862680343</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6412686431952,59.1442578400134 14.6395226467594,59.1440212191328 14.6384129409494,59.1452182209309 14.6391586289632,59.1453053130717 14.6413846124615,59.1455652489596 14.6412686431952,59.1442578400134</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001014_Q30203233_Storberget" id="2001014_Q30203233_Storberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001014_Q30203233_Storberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001014_Q30203233_Storberget">
+		<SimpleData name="NVRID">2001014</SimpleData>
+		<SimpleData name="NAMN">Storberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Älvsbyn</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">71.36</SimpleData>
+		<SimpleData name="LAND_HA">71.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">48.705</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9110-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.462835155768,65.8089156798297 20.4652351329835,65.8080260456785 20.4670374871505,65.8065059005862 20.467267756228,65.8052403729154 20.4633263573516,65.8039064936012 20.4576329023719,65.8036826803538 20.4491123496923,65.8021655755227 20.4450844790357,65.8007005849541 20.4449091416568,65.8006394215123 20.4444110463292,65.8024506997325 20.4439929072072,65.8040438338792 20.4432631355828,65.8069055684104 20.4430199210066,65.8077796328799 20.4470416235427,65.8083960979768 20.448914708278,65.8087733413667 20.448963664237,65.8088872926171 20.4480866322795,65.8093334641138 20.4495671715083,65.8095217951416 20.4503908252317,65.8095974866312 20.4532074311344,65.8089534371036 20.4547668789108,65.8088772095281 20.457806283456,65.8103746143726 20.4600189673578,65.8105526246175 20.4613331053556,65.8102351044056 20.462835155768,65.8089156798297</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

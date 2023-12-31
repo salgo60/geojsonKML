@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2048179_Q55693470_Kaninlandet" id="2048179_Q55693470_Kaninlandet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2048179_Q55693470_Kaninlandet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2048179_Q55693470_Kaninlandet">
+		<SimpleData name="NVRID">2048179</SimpleData>
+		<SimpleData name="NAMN">Kaninlandet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/03/22</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/05/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/05/15</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Lund</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Lunds kommun</SimpleData>
+		<SimpleData name="AREA_HA">8.15</SimpleData>
+		<SimpleData name="LAND_HA">8.15</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.014</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4127267380643,55.6751856495406 13.4126339820665,55.6749903341921 13.4124824922359,55.6746560026835 13.412030762504,55.6741644211393 13.411802301024,55.674269635997 13.4112436409216,55.6744788194931 13.4106153147214,55.6746539447188 13.4105033998292,55.6746504644667 13.4104574496669,55.6750863371636 13.4088724613474,55.6750336552689 13.4084942102898,55.6760009575141 13.4071704041273,55.6762310514317 13.4080932797076,55.6767239140471 13.4085990165217,55.6767805423034 13.4090489735591,55.6768163800241 13.4093044800275,55.677054403816 13.4099939115147,55.6773911310065 13.4102610488749,55.6776095794262 13.4103403672237,55.6775911451527 13.4105674646461,55.6775386930959 13.4108615252203,55.6774714905487 13.411184680327,55.6774059525982 13.4114936480221,55.6773370408258 13.4115530387824,55.6773244642102 13.4120092355793,55.6772078544201 13.4123902779589,55.6770888456157 13.4124466725681,55.6770715378761 13.4128274537834,55.6769536099423 13.4131072484279,55.6768657432571 13.4132095146194,55.6768339117314 13.4137182593732,55.6766756414492 13.4134615094318,55.6763648844796 13.4130561235237,55.6758456987066 13.4128987145903,55.6755378657705 13.4127267380643,55.6751856495406</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

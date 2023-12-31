@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014455_Q30165713_Listorp" id="2014455_Q30165713_Listorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014455_Q30165713_Listorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014455_Q30165713_Listorp">
+		<SimpleData name="NVRID">2014455</SimpleData>
+		<SimpleData name="NAMN">Listorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/12/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/01/23</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/01/23</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Söderköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">24.13</SimpleData>
+		<SimpleData name="LAND_HA">24.12</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.557</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">211-07744-2007</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.573195353314,58.3962577337185 16.577291832463,58.3983253874781 16.5803883601544,58.3998695316706 16.5812179598327,58.3996810986554 16.582302059219,58.3998726883354 16.5834114092788,58.3994327909007 16.5836883790571,58.3984523813544 16.5841551072381,58.3981324559732 16.5842987891042,58.3977381563123 16.5858940554433,58.3973720585133 16.5867820895297,58.3973344631553 16.5880768545545,58.3971959261538 16.5883847109431,58.3977919792862 16.5877956225982,58.3983415704482 16.588661135088,58.3985414566727 16.5895619027351,58.3991984691504 16.589188265554,58.3995043870031 16.589229567477,58.399781001609 16.5899739809689,58.4000985232456 16.5898463412982,58.4004355611831 16.5900469029021,58.4006184552237 16.590764653544,58.40096804044 16.5911213040512,58.4009716602875 16.591504178545,58.4014897988033 16.591958707972,58.4018741686189 16.5922651001028,58.4021098311456 16.5927114825969,58.4019411683873 16.5933507650057,58.4011482084747 16.5911621084085,58.3998844382169 16.5904475949139,58.3971885054412 16.5849946101224,58.3961720605813 16.5789909381282,58.3965114260482 16.5757907799257,58.3966803748911 16.573195353314,58.3962577337185</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

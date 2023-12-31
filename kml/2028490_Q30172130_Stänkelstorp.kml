@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2028490_Q30172130_Stänkelstorp" id="2028490_Q30172130_Stänkelstorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2028490_Q30172130_Stänkelstorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2028490_Q30172130_Stänkelstorp">
+		<SimpleData name="NVRID">2028490</SimpleData>
+		<SimpleData name="NAMN">Stänkelstorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/10/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/11/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/11/18</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Tranås</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">12.48</SimpleData>
+		<SimpleData name="LAND_HA">12.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.477</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3833-07</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6578918045381,58.0685099305038 14.6582805452394,58.0692320239917 14.6590017592081,58.0696823750501 14.6600338478475,58.0700642286038 14.6603107457969,58.0701657814162 14.6602808645347,58.0704581295157 14.6601922752555,58.0713112933089 14.6601249682336,58.071899184772 14.6605136657525,58.0723647263182 14.6611367502023,58.0728578542425 14.6614838849087,58.0725103464593 14.6616424206043,58.0717596550149 14.6623563054237,58.0715021390857 14.6640535722023,58.0708897673644 14.6635732489909,58.0699348246721 14.6651471944388,58.0695155854716 14.6656453175853,58.0695838456991 14.6664144822797,58.0689782639738 14.6660786026017,58.0687843963119 14.6654783098333,58.068551462546 14.664637148385,58.068328984916 14.6633046262776,58.068124820838 14.6621576658584,58.0680200001712 14.6610170189484,58.0679311290639 14.6609657417237,58.0680691900927 14.6604958116814,58.0682214505034 14.6593310250486,58.0683373081757 14.6578918045381,58.0685099305038</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

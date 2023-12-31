@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000581_Q18923395_Capri" id="2000581_Q18923395_Capri">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000581_Q18923395_Capri</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000581_Q18923395_Capri">
+		<SimpleData name="NVRID">2000581</SimpleData>
+		<SimpleData name="NAMN">Capri</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1978/10/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1978/11/13</SimpleData>
+		<SimpleData name="SENGALLDAT">1978/11/13</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strömstad</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Strömstads kommun</SimpleData>
+		<SimpleData name="AREA_HA">11.24</SimpleData>
+		<SimpleData name="LAND_HA">6.29</SimpleData>
+		<SimpleData name="VATTEN_HA">4.952</SimpleData>
+		<SimpleData name="SKOG_HA">0.61</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-5529-77 1486-214</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.1228687145702,58.9680793762701 11.1235125961292,58.9677658359286 11.1235986721607,58.9674548249075 11.1238213258263,58.9672666355226 11.1229286492868,58.9670165911116 11.1223477178599,58.9675549412865 11.1221594298337,58.967516110004 11.1216332407466,58.9674075804499 11.1209850090796,58.9675294416082 11.1197428307299,58.9677629255394 11.1190380497895,58.9678953966148 11.1184444762948,58.9678287759478 11.1181614950646,58.96779701191 11.1185263655311,58.9671789746075 11.1208396952005,58.9670331380031 11.121530708751,58.9666280436191 11.1215339716033,58.9666261186827 11.1215342326315,58.9666259646878 11.1175517609064,58.9655102328891 11.1171574081137,58.9654121796957 11.1170679986933,58.9655526028826 11.1152368433481,58.9684275075852 11.1181641910086,58.969390887229 11.11869480018,58.9695654895693 11.1214651783861,58.9690152275122 11.1216025041444,58.9686804381768 11.1218097314514,58.9683746628459 11.122216643415,58.9682306619028 11.1228687145702,58.9680793762701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

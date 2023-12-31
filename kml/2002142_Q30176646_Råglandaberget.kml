@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002142_Q30176646_Råglandaberget" id="2002142_Q30176646_Råglandaberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002142_Q30176646_Råglandaberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002142_Q30176646_Råglandaberget">
+		<SimpleData name="NVRID">2002142</SimpleData>
+		<SimpleData name="NAMN">Råglandaberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/03/29</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/04/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/04/22</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlstad</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">10.66</SimpleData>
+		<SimpleData name="LAND_HA">10.66</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.154</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-10147-98</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7117452302204,59.6488953249255 13.7117438031276,59.6488983015324 13.7114129922595,59.6495921725907 13.7112163724146,59.6504102196044 13.7111138100643,59.6513876937025 13.7110354040383,59.652632648217 13.7109013978846,59.6545120200914 13.7109012003297,59.6545148560982 13.7109011961958,59.6545149638277 13.7125689915219,59.654179088598 13.7167015051751,59.6507791058999 13.7145318334455,59.6502955606455 13.7117452687904,59.6488952444766 13.7117452302204,59.6488953249255</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000924_Q30160866_Nysätern" id="2000924_Q30160866_Nysätern">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000924_Q30160866_Nysätern</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000924_Q30160866_Nysätern">
+		<SimpleData name="NVRID">2000924</SimpleData>
+		<SimpleData name="NAMN">Nysätern</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/10/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/10/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/10/22</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Härjedalen</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Naturvårdsverket</SimpleData>
+		<SimpleData name="AREA_HA">430.98</SimpleData>
+		<SimpleData name="LAND_HA">430.97</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.777</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-146-89,231-11059-89, Reg M90/902/4</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4436274994189,62.2879030252623 13.4436275750976,62.2879030530443 13.4447970039877,62.2884076711121 13.4453390655098,62.2886415473947 13.4443052374543,62.289133295647 13.4437176982697,62.2888956379359 13.4436796267792,62.288880245023 13.4430300067685,62.2886174595365 13.4429438479523,62.2887204602123 13.43614083953,62.2968522417711 13.4496892995598,62.3026295363642 13.4555126169115,62.3050990292632 13.4555153919195,62.305100209287 13.4555169024317,62.3051008455559 13.4555169621078,62.3051008103069 13.4555186105384,62.3050998859304 13.4880338356674,62.2867891087542 13.4729276859768,62.283982147146 13.4657781207206,62.2826528952805 13.4505396108127,62.279788484149 13.4368783596695,62.2772081861529 13.4368783944682,62.2772082583694 13.4368803859994,62.2772114769894 13.4398275413435,62.2819765117153 13.439975433261,62.2822156343651 13.4399176986675,62.2822146448304 13.4436274994189,62.2879030252623</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002969_Q30200243_Gammelsäll" id="2002969_Q30200243_Gammelsäll">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002969_Q30200243_Gammelsäll</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002969_Q30200243_Gammelsäll">
+		<SimpleData name="NVRID">2002969</SimpleData>
+		<SimpleData name="NAMN">Gammelsäll</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/09/12</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/10/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/10/13</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Gävle</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">34.35</SimpleData>
+		<SimpleData name="LAND_HA">34.34</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">33.518</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2757-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0189370091023,60.4747616701963 17.0199452753644,60.4737152088824 17.0173109065068,60.4717922242361 17.0167455462147,60.4694352613594 17.0201146644803,60.4645890993771 17.0221993088752,60.4638800642634 17.0222037620339,60.4638785506912 17.0222040114198,60.4638784660748 17.015896663129,60.4614196309393 17.0155911946861,60.4618584061785 17.0112768713857,60.4680541061362 17.0113071690729,60.4680807012545 17.0157485892971,60.4719774742499 17.0162343528078,60.4724027404176 17.0187668231639,60.4746195731732 17.0189341545503,60.4747646323988 17.0189342228026,60.4747645595135 17.0189370091023,60.4747616701963</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

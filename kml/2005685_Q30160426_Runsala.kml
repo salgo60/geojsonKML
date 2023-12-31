@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005685_Q30160426_Runsala" id="2005685_Q30160426_Runsala">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005685_Q30160426_Runsala</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005685_Q30160426_Runsala">
+		<SimpleData name="NVRID">2005685</SimpleData>
+		<SimpleData name="NAMN">Runsala</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/03/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/03/01</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">65.86</SimpleData>
+		<SimpleData name="LAND_HA">65.86</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">34.989</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-11481-2009, 5112-22780-2010</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1485809899418,58.8728117296286 15.1485278854512,58.8720945180756 15.1506722328604,58.8721188617537 15.1508856480216,58.8721212800877 15.1511569448658,58.8717608224429 15.1516571814898,58.8709858994023 15.1520107447384,58.8704240736907 15.152025352927,58.8703624838579 15.1520231140282,58.8702117789864 15.152065835774,58.8701196301924 15.1521221154568,58.8700309589725 15.1522172282627,58.8698730715474 15.1523811871762,58.8696455283036 15.1525237331544,58.8696357326892 15.1525843970536,58.8695429159171 15.1524906818067,58.8694660427424 15.1526581243975,58.8694004106417 15.153030432221,58.8688852332802 15.1530462437271,58.8687668380522 15.1531132318765,58.8686971571629 15.1532439973181,58.8685416066222 15.1547111846851,58.8661217925917 15.1548087449715,58.8660899374402 15.1563903154466,58.8635501256913 15.1579402067751,58.8612386075179 15.1579318331432,58.861112921697 15.1580095511302,58.8610217518267 15.1581639108957,58.8609039945946 15.1583173653684,58.8605881654964 15.1580944998845,58.8605431658638 15.1541893009467,58.8597560786357 15.1521542471485,58.8601613542526 15.1512480090229,58.8600089623083 15.1500411664776,58.8598286147383 15.1499627250023,58.860181644448 15.1499443254797,58.860308439555 15.1499238559014,58.8603694612755 15.1498805874856,58.8604419690101 15.1498164090656,58.8605137914871 15.1497206772326,58.8605891440479 15.1496319995069,58.8606481611742 15.1500606512484,58.8607179751991 15.1497798889705,58.8616832488055 15.1497487121344,58.8617902109782 15.152024924812,58.8617947377713 15.1527866912177,58.8619065580112 15.1538082179709,58.8621989033012 15.1522676995093,58.8654854110785 15.1506109978518,58.8663669187769 15.1475732592229,58.8685398183184 15.1472880957062,58.8689370070827 15.1461218389608,58.8686881426653 15.1427574648759,58.8681061902462 15.1396764538821,58.8686466831338 15.1375881900451,58.8697693639246 15.1389721040776,58.8715643293515 15.1398724983723,58.8728328532051 15.1403932766081,58.87446891998 15.1408312542408,58.8744190578931 15.1445310786183,58.8739974545663 15.1469237784589,58.8728266014482 15.1485809899418,58.8728117296286</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

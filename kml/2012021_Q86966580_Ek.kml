@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2012021_Q86966580_Ek" id="2012021_Q86966580_Ek">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2012021_Q86966580_Ek</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2012021_Q86966580_Ek">
+		<SimpleData name="NVRID">2012021</SimpleData>
+		<SimpleData name="NAMN">Ek</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1941/10/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1941/10/20</SimpleData>
+		<SimpleData name="SENGALLDAT">1941/10/20</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Torsås</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">0</SimpleData>
+		<SimpleData name="LAND_HA">0</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">xxxxxx</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>15.9952373156643,56.418189649135</coordinates></Point><Point><coordinates>15.994909996768,56.414256590843</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

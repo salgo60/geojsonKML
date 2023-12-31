@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000397_Q18289823_Flenstorp" id="2000397_Q18289823_Flenstorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000397_Q18289823_Flenstorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000397_Q18289823_Flenstorp">
+		<SimpleData name="NVRID">2000397</SimpleData>
+		<SimpleData name="NAMN">Flenstorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/03/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/04/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/04/13</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Borås</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Borås kommun</SimpleData>
+		<SimpleData name="AREA_HA">6.82</SimpleData>
+		<SimpleData name="LAND_HA">6.82</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.687</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">97/KS 0367, 433</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.8592325241473,57.5755328087519 12.8592375947523,57.5757255490487 12.8592376508011,57.5757280119777 12.8592376684023,57.5757282818358 12.8592377357649,57.5757282739924 12.8599793951772,57.5756544768218 12.8600019728481,57.575652226704 12.8605114032644,57.5760686927383 12.8605400032913,57.5760920718424 12.8617127420527,57.5760412728205 12.8624924980612,57.5758945521012 12.8642344373758,57.5755667578249 12.8650613701379,57.575239307002 12.8662423165529,57.5742174369278 12.8662423520713,57.5742174015867 12.8662421197323,57.5742173707051 12.8662370995912,57.5742168456046 12.8619666390341,57.5737698597325 12.8614487357223,57.5740163275984 12.8610153984188,57.5742149861953 12.8608716449925,57.5742808846768 12.8601584581393,57.5745402579331 12.8595593621833,57.5748041397969 12.8595332542513,57.57478762255 12.8592325241473,57.5755328087519</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

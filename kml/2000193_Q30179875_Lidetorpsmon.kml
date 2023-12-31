@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000193_Q30179875_Lidetorpsmon" id="2000193_Q30179875_Lidetorpsmon">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000193_Q30179875_Lidetorpsmon</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000193_Q30179875_Lidetorpsmon">
+		<SimpleData name="NVRID">2000193</SimpleData>
+		<SimpleData name="NAMN">Lidetorpsmon</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/11/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/11/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/14</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Degerfors</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Degerfors kommun</SimpleData>
+		<SimpleData name="AREA_HA">81.23</SimpleData>
+		<SimpleData name="LAND_HA">81.23</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">80.209</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-184-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3450416424975,59.1650389870037 14.3450416769592,59.1650390141195 14.3458120011583,59.165494659155 14.3461709228191,59.1657446739 14.3466559677726,59.1659913433443 14.3472464104512,59.1661732507911 14.3476336022089,59.1662879746115 14.3478681587589,59.1663574679992 14.3485467172497,59.1665282355366 14.3490028921098,59.1666756584589 14.3493779089389,59.1668343393758 14.3498539170054,59.1671149703154 14.3519374556433,59.168260652625 14.3525912044923,59.1680719849034 14.3550874487366,59.167380544691 14.3588850985028,59.169287765415 14.359808001748,59.1697512095574 14.3611786255648,59.1704394525057 14.3651141153204,59.1686802146054 14.3640136629664,59.165067063093 14.3673462108484,59.1641578986275 14.3667564727994,59.163317030118 14.3665575634225,59.1630533847826 14.36634265442,59.1627963786503 14.3661504923276,59.1626136096304 14.3656453281794,59.1621866636705 14.3631452132734,59.1602145259132 14.3627276758913,59.1599542840628 14.3624062949153,59.159789645128 14.3620240897653,59.1596244193724 14.3615540897857,59.1594523758496 14.3610877527067,59.1593017226564 14.3608829594934,59.1593749588368 14.3457697358021,59.1647788557805 14.3450416424975,59.1650389870037</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

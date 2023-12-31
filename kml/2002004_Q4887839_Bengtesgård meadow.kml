@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002004_Q4887839_Bengtesgård_meadow" id="2002004_Q4887839_Bengtesgård_meadow">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002004_Q4887839_Bengtesgård_meadow</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002004_Q4887839_Bengtesgård_meadow">
+		<SimpleData name="NVRID">2002004</SimpleData>
+		<SimpleData name="NAMN">Bengtesgårds äng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1972/05/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1972/05/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1972/05/18</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falkenberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">4.11</SimpleData>
+		<SimpleData name="LAND_HA">4.11</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.06</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-86-72, 11.111-2657-80 / 11.121-86-72</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.4850187255535,56.9703612574663 12.4904574749711,56.9724134656641 12.4904620327941,56.9724151837823 12.4904621606391,56.97241524027 12.4904621800919,56.9724151957253 12.4904657524264,56.9723904722106 12.4904804043693,56.9722891229822 12.4904902539798,56.9720952817643 12.4904946802322,56.9720182439313 12.4905089048921,56.9719002511369 12.4905396735419,56.9717224851067 12.4905740803761,56.9714825659051 12.4905892738046,56.9714037310405 12.490606043064,56.9713467213362 12.490657147198,56.9712795442974 12.4903191044087,56.9705698669709 12.4901378366433,56.9701893577785 12.4892153234038,56.9708026266482 12.4854698993254,56.9697105200737 12.4850187255535,56.9703612574663</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

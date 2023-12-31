@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2044655_Q30159108_Julömossen" id="2044655_Q30159108_Julömossen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2044655_Q30159108_Julömossen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2044655_Q30159108_Julömossen">
+		<SimpleData name="NVRID">2044655</SimpleData>
+		<SimpleData name="NAMN">Julömossen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/10/31</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/11/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/11/29</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Degerfors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">134.79</SimpleData>
+		<SimpleData name="LAND_HA">134.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">40.161</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1485-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3999906801144,59.0403247628363 14.3837294567978,59.0350445521721 14.3834406705776,59.0360189831974 14.3825196409328,59.0391568869409 14.3834803129478,59.043056057365 14.3835042403571,59.0431148123711 14.386386146942,59.045094834967 14.3864783340183,59.0451060904223 14.3867006231219,59.0453108792783 14.3871840733113,59.0456430012137 14.3859710367281,59.0476891467844 14.3859632058383,59.047691949436 14.3853819155382,59.0487889597832 14.3835830677274,59.0501081228136 14.3837442903955,59.0506989792866 14.3835672163104,59.0509931826774 14.3835460796072,59.0521732614043 14.3845763408846,59.0522076597645 14.3864250972152,59.0545177685625 14.3898738513258,59.0538259341848 14.3941038236656,59.051042844082 14.3997747378067,59.0444012101254 14.3999217235701,59.041077278019 14.3999319019668,59.0410593185862 14.3999906801144,59.0403247628363</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

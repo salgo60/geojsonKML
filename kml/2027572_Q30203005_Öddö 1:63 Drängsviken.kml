@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2027572_Q30203005_Öddö_1_63_Drängsviken" id="2027572_Q30203005_Öddö_1_63_Drängsviken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2027572_Q30203005_Öddö_1_63_Drängsviken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2027572_Q30203005_Öddö_1_63_Drängsviken">
+		<SimpleData name="NVRID">2027572</SimpleData>
+		<SimpleData name="NAMN">Öddö 1:63 Drängsviken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/08/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/09/02</SimpleData>
+		<SimpleData name="SENGALLDAT">1976/09/02</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strömstad</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">0.42</SimpleData>
+		<SimpleData name="LAND_HA">0.42</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.412</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.122-650-75</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.115043751277,58.9180903218418 11.1152262176834,58.9180931490766 11.1154300040463,58.918104870493 11.1155627446813,58.9180903155851 11.1157873812719,58.9180489367803 11.1159484094912,58.9180109850433 11.1161330564507,58.9179641056336 11.1161675119624,58.9178703827651 11.1159734340119,58.9178273621232 11.115841796443,58.9178045954186 11.1155013522665,58.9177832354267 11.1146221975443,58.9177602700047 11.1143700114218,58.917697149354 11.1142372948923,58.9177462719286 11.1140290415094,58.9179994519584 11.1141294531194,58.9181559486274 11.1141826009439,58.9182339303179 11.1143877804069,58.9181612482248 11.1145522564517,58.9181300638219 11.114807975393,58.9181021364241 11.115043751277,58.9180903218418</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

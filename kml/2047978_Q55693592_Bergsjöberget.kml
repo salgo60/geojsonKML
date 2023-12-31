@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2047978_Q55693592_Bergsjöberget" id="2047978_Q55693592_Bergsjöberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2047978_Q55693592_Bergsjöberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2047978_Q55693592_Bergsjöberget">
+		<SimpleData name="NVRID">2047978</SimpleData>
+		<SimpleData name="NAMN">Bergsjöberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/02/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/03/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/03/19</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Nordmaling</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">78</SimpleData>
+		<SimpleData name="LAND_HA">69.63</SimpleData>
+		<SimpleData name="VATTEN_HA">8.366</SimpleData>
+		<SimpleData name="SKOG_HA">68.757</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8049-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.1467450565554,63.7786094197124 19.1642130246802,63.7711772163163 19.1618096264759,63.7695873045006 19.1644275978838,63.7651262563187 19.158049257249,63.7667135497093 19.1573579595079,63.7664612949659 19.1539350501668,63.7678362168792 19.152846137597,63.7683869509 19.1510916880579,63.7682259642721 19.1488820377711,63.7692330494194 19.1469023924432,63.7703150043795 19.1459608638997,63.771017706937 19.145765636651,63.7717783631148 19.1461179131687,63.7725016203611 19.145472809439,63.7730594746697 19.1463000383177,63.7736099130934 19.1468369746935,63.7742064995101 19.1455945067477,63.7747288075156 19.145647581048,63.7749556194214 19.1447574622765,63.7753569693675 19.1437315706026,63.7751933083958 19.1429193482651,63.775092664822 19.1427647040402,63.7752663400466 19.1430691685123,63.7756479269971 19.1439729931337,63.7758314537734 19.1421866887727,63.7765170333053 19.140563259972,63.7772148344797 19.1414693724245,63.7775302380289 19.1420266430486,63.777834495264 19.1430604958977,63.7781277192962 19.1441536865532,63.7783715092678 19.1446871984191,63.7784744834548 19.1450040797466,63.7785824644326 19.1456596408844,63.7786153366459 19.1465090271409,63.7786341077475 19.1467450565554,63.7786094197124</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

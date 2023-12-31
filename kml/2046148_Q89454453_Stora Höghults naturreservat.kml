@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046148_Q89454453_Stora_Höghults_naturreservat" id="2046148_Q89454453_Stora_Höghults_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046148_Q89454453_Stora_Höghults_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046148_Q89454453_Stora_Höghults_naturreservat">
+		<SimpleData name="NVRID">2046148</SimpleData>
+		<SimpleData name="NAMN">Stora Höghult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/02/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/06/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/06/19</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Färgelanda, Uddevalla</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">43.56</SimpleData>
+		<SimpleData name="LAND_HA">43.55</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">40.724</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-38823-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.0125385020043,58.4508691788953 12.0260053841201,58.4506902236674 12.0261690351808,58.4509008891297 12.026469198476,58.4510864960611 12.0267574404214,58.4512652670067 12.0269540752568,58.4514334013836 12.0271400106279,58.4515963336392 12.0260975156374,58.4497548030458 12.0204309885061,58.4493577061774 12.0153781321747,58.4496970998726 12.0149793347354,58.4486159834686 12.0123595737492,58.4489175701305 12.0052669311814,58.4494351133518 12.0029049322308,58.4496073808543 12.0002012361583,58.4479145763604 11.9963432515665,58.4466596459644 11.9947931186169,58.4496465096366 11.9944915005795,58.4502206212153 11.9862956222345,58.4508184444114 11.9839828727739,58.4509857811425 11.9846465208708,58.4512328248855 12.0125385020043,58.4508691788953</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

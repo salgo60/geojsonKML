@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2032229_Q22063538_Allejaure" id="2032229_Q22063538_Allejaure">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2032229_Q22063538_Allejaure</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2032229_Q22063538_Allejaure">
+		<SimpleData name="NVRID">2032229</SimpleData>
+		<SimpleData name="NAMN">Allejaure</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/11/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/12/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/27</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Arjeplog</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">228.53</SimpleData>
+		<SimpleData name="LAND_HA">133.98</SimpleData>
+		<SimpleData name="VATTEN_HA">94.542</SimpleData>
+		<SimpleData name="SKOG_HA">91.561</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9022-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3838136650809,65.8774928198588 18.374494222239,65.8721065972172 18.3665490664056,65.8717937942507 18.358341184662,65.871452766253 18.3587894531982,65.8702152229216 18.3594613268486,65.8702267659667 18.360174668079,65.8698307078557 18.3602638728083,65.8691769158003 18.3573159658319,65.8683198475446 18.3570986024533,65.8662893285389 18.3545491506875,65.8673219112037 18.3533257402189,65.8668769401071 18.352269756813,65.8686714240325 18.3514329146138,65.8690599776285 18.350680975248,65.8697922783006 18.3497053612771,65.8701388831568 18.34813822857,65.8710831696083 18.3447934503028,65.8720166612005 18.3431741768413,65.8728655187636 18.3444867661577,65.8734297657477 18.3478071026979,65.874859846932 18.3463505172194,65.8754321670242 18.3445966241629,65.8764714649146 18.3450560390748,65.8769966811235 18.3481930044507,65.8761481691565 18.3495361231543,65.8756035778941 18.3554159964573,65.8781333018451 18.3395339401595,65.8839490872193 18.3418400947793,65.8845210337247 18.3433882331876,65.8849945845536 18.3665647300293,65.885934628867 18.3838136650809,65.8774928198588</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

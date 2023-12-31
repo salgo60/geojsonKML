@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2044063_Q55693380_Miessaureape" id="2044063_Q55693380_Miessaureape">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2044063_Q55693380_Miessaureape</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2044063_Q55693380_Miessaureape">
+		<SimpleData name="NVRID">2044063</SimpleData>
+		<SimpleData name="NAMN">Miessaureape</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/06/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/07/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/07/14</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Jokkmokk</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">79.89</SimpleData>
+		<SimpleData name="LAND_HA">79.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">74.508</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-10922-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.2768860129162,66.6608355317358 20.2814749646962,66.6596860215406 20.2810567789848,66.6592293796573 20.2791989325111,66.6589100244533 20.2777126483119,66.6591302629388 20.2757775983928,66.6600603289433 20.2703244151584,66.6601026732317 20.2702478512575,66.6596805156007 20.2682496214209,66.6592040738681 20.2693021918641,66.6581649791864 20.2652537765986,66.6572459187424 20.2644408616143,66.656864217259 20.2636925586511,66.6564923552477 20.2651770233111,66.6556021372952 20.263141572349,66.6555057063685 20.262977817801,66.6550909366314 20.2611374688285,66.6544899754622 20.2601213071605,66.6548346158528 20.2592812374945,66.6554886407766 20.2576052916805,66.6554600320124 20.2575521853431,66.6546048793604 20.2569180164888,66.6543062494103 20.2524769284148,66.6560503987801 20.2457771654608,66.6587511106126 20.2615662896571,66.6647097582879 20.2768860129162,66.6608355317358</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

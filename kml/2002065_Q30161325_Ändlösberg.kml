@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002065_Q30161325_Ändlösberg" id="2002065_Q30161325_Ändlösberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002065_Q30161325_Ändlösberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002065_Q30161325_Ändlösberg">
+		<SimpleData name="NVRID">2002065</SimpleData>
+		<SimpleData name="NAMN">Ändlösberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/06/16</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Stiftelsen Gagnefs naturvårdsfond</SimpleData>
+		<SimpleData name="AREA_HA">33.9</SimpleData>
+		<SimpleData name="LAND_HA">33.9</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">31.797</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Gagnefs kommun 98-02-11 §36, 230-4570-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1558328394042,60.4901714881918 15.1609615228623,60.4906679960815 15.1598035942082,60.4932178315235 15.1594844148704,60.4939206008503 15.165248835946,60.4946454516975 15.1683816976417,60.4923118557562 15.1692305367265,60.4916794957868 15.1693752580196,60.4915717304415 15.1693264227085,60.4914655933867 15.1692657393008,60.4913872152554 15.1689629853573,60.4910554800443 15.1685376922376,60.4906648196815 15.1684224701754,60.490533554168 15.1683335919634,60.490432288787 15.1681150869979,60.490211349157 15.1677714237039,60.4898892878116 15.1672096457572,60.4893265399757 15.1668984405797,60.4889642473943 15.1665693388356,60.4885776353871 15.1665561945997,60.4885623163184 15.1663953211634,60.4882976658064 15.1662932741635,60.4881311409221 15.1660762067651,60.4881073395958 15.1623461440231,60.4877016072521 15.1623461260508,60.4877016521671 15.1619867824892,60.4885534950884 15.161987541923,60.4885634694077 15.1569498959518,60.4879068053027 15.1558328394042,60.4901714881918</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002254_Q30158497_Ljungåsen" id="2002254_Q30158497_Ljungåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002254_Q30158497_Ljungåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002254_Q30158497_Ljungåsen">
+		<SimpleData name="NVRID">2002254</SimpleData>
+		<SimpleData name="NAMN">Ljungåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/05/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/05/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1960/05/23</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Västervik</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Västerviks kommun</SimpleData>
+		<SimpleData name="AREA_HA">4.96</SimpleData>
+		<SimpleData name="LAND_HA">4.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.424</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">3 R 66-59, 259</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.5943559054486,57.7660480050178 16.5929950013511,57.7662616969235 16.5911093723104,57.7665470339883 16.5897765695658,57.7667453261136 16.5879052564071,57.7670381256815 16.5879963249197,57.7673036168419 16.5880862702229,57.7675159015528 16.5894971709002,57.7673601837897 16.5905551304868,57.7672269922278 16.5927272541608,57.767031100214 16.5946180095214,57.7667896957154 16.5964270787084,57.7664455819081 16.5973433988142,57.7660674019529 16.5978504361111,57.7658361875289 16.598243671534,57.7656056877151 16.5986932714214,57.7653520337624 16.5990143832855,57.7650763719607 16.5987272749581,57.7649565469347 16.5972274044406,57.7653155826985 16.5957002196629,57.765727976321 16.5943559054486,57.7660480050178</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

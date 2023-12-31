@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005174_Q86968483_Dalsjöberget" id="2005174_Q86968483_Dalsjöberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005174_Q86968483_Dalsjöberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005174_Q86968483_Dalsjöberget">
+		<SimpleData name="NVRID">2005174</SimpleData>
+		<SimpleData name="NAMN">Dalsjöberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/02/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/02/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/02/04</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Berg</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">12.92</SimpleData>
+		<SimpleData name="LAND_HA">12.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">521-1510-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.8830278670809,62.801372317313 12.8830597501013,62.8017218239887 12.8830901723735,62.8018016301601 12.8832161478053,62.8020814111845 12.8834771990232,62.8023463616072 12.8839957288833,62.802696427486 12.884517943752,62.8029423083346 12.8851647655759,62.8031263626728 12.8857091364387,62.8032433178663 12.8861267599006,62.8032997958219 12.886710010028,62.8033493325833 12.8872831344448,62.8033483062227 12.8880191947031,62.8032935415401 12.8886903822298,62.8031869149725 12.8893032650921,62.8030393996933 12.8899358782731,62.8027844646702 12.8902877072235,62.8025841203713 12.8906055619326,62.8023362423716 12.8908564905158,62.8020544519813 12.890987621224,62.8017914452819 12.8910546073869,62.8014694181291 12.8909169751333,62.8010815146361 12.8907868479424,62.8009094998014 12.8903650082375,62.8005365492525 12.8901464123656,62.8003840563986 12.8896840450357,62.8001647564536 12.8891327776274,62.7999685619913 12.8882953589155,62.7998052433408 12.8877145423416,62.7997341901243 12.8870663682754,62.7997047195696 12.8861894754518,62.7997561948331 12.8853429865761,62.7998874700453 12.8846611480734,62.8000908941398 12.8839627227969,62.8003730277767 12.8835846134024,62.8005979140408 12.8832392694821,62.800881090902 12.8830278670809,62.801372317313</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

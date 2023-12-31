@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001708_Q30199361_Tempelkullen" id="2001708_Q30199361_Tempelkullen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001708_Q30199361_Tempelkullen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001708_Q30199361_Tempelkullen">
+		<SimpleData name="NVRID">2001708</SimpleData>
+		<SimpleData name="NAMN">Tempelkullen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1961/02/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1961/02/27</SimpleData>
+		<SimpleData name="SENGALLDAT">1961/02/27</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kinda</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">1.32</SimpleData>
+		<SimpleData name="LAND_HA">1.26</SimpleData>
+		<SimpleData name="VATTEN_HA">0.068</SimpleData>
+		<SimpleData name="SKOG_HA">0.994</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">3 R-5/61, Rr 97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.7062060639919,58.1275221509544 15.7062060479035,58.1275221959544 15.7062188319431,58.127529867795 15.706658057373,58.1275067397706 15.7071290315832,58.1274981290309 15.707583120819,58.1274625738867 15.7079948382375,58.1274000363695 15.7084149332137,58.1273824067783 15.7088645205828,58.1274366219895 15.7089675704885,58.1269608200596 15.7087757516988,58.1269362691389 15.708777688597,58.1267208836977 15.7087776035358,58.1267208751883 15.7081693714835,58.1266816787226 15.7081610656916,58.1265283361872 15.7079608387219,58.1265128578293 15.7077457358157,58.1265066415037 15.7074693826226,58.1265222140684 15.7072929211021,58.1265416333102 15.7070121842569,58.1266384909536 15.706754550883,58.1267420733345 15.7066196875428,58.1268345107437 15.7065077637545,58.1269133386742 15.7064623359446,58.1269865884883 15.7064045526636,58.1271072787225 15.7063521558991,58.1272590892778 15.7062867959754,58.1273933395908 15.7062463497075,58.1274489656476 15.7062209676417,58.1274747682863 15.7062060639919,58.1275221509544</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

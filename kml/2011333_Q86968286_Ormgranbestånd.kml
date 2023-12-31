@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011333_Q86968286_Ormgranbestånd" id="2011333_Q86968286_Ormgranbestånd">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011333_Q86968286_Ormgranbestånd</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011333_Q86968286_Ormgranbestånd">
+		<SimpleData name="NVRID">2011333</SimpleData>
+		<SimpleData name="NAMN">Ormgranbestånd</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1948/09/09</SimpleData>
+		<SimpleData name="URSGALLDAT">1948/09/09</SimpleData>
+		<SimpleData name="SENGALLDAT">1948/09/09</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Nybro</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">0.78</SimpleData>
+		<SimpleData name="LAND_HA">0.78</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">xxxxxx</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.9276597411081,56.9041646182287 15.9266058537323,56.9043631951275 15.9267540385292,56.9045067315016 15.9271115738068,56.9046770149278 15.9269723146388,56.9047579613829 15.9268288740161,56.9048119863858 15.9266197346344,56.9048481078499 15.9263944351929,56.9049650618874 15.9261036795271,56.9051449400082 15.9262644245623,56.9053692856949 15.9268631740749,56.9052699301094 15.9272770036358,56.9050809526968 15.9275310617337,56.9049729474335 15.9278302406469,56.9048648942012 15.9281663885947,56.9047657834061 15.9281046849466,56.9047209437607 15.9276597411081,56.9041646182287</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

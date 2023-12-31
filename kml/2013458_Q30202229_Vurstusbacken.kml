@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013458_Q30202229_Vurstusbacken" id="2013458_Q30202229_Vurstusbacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013458_Q30202229_Vurstusbacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013458_Q30202229_Vurstusbacken">
+		<SimpleData name="NVRID">2013458</SimpleData>
+		<SimpleData name="NAMN">Vurstusbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/01/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/01/04</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Nyköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.05</SimpleData>
+		<SimpleData name="LAND_HA">11.05</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">7.801</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4108-2002</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9490707293282,58.9837174164788 16.9487144880562,58.9834959199473 16.9480620792576,58.9836024956593 16.9478132850833,58.9834743671882 16.9489532761282,58.9829863699495 16.9488231684749,58.9828081185107 16.9488657106006,58.9826041005866 16.9487303253324,58.9823810578998 16.9482582361448,58.9822066148075 16.9461655109945,58.982431381267 16.9444575484208,58.9829664771791 16.9437999312812,58.9837024291078 16.9438044142695,58.9837890935476 16.9428919422979,58.9837281860158 16.9430097519139,58.9838087659294 16.9440884892688,58.9842581650938 16.9450797723655,58.984698008894 16.946132577391,58.9850973410125 16.9477979278431,58.9856708046335 16.9485920674439,58.9859156454725 16.9490303079173,58.9857365014173 16.9491429980503,58.9857196324394 16.9496763812056,58.9854913085145 16.9501358898722,58.9850808936493 16.9500945099518,58.984809760031 16.9500455740117,58.9846724717092 16.9498056283414,58.9842380963649 16.9490707293282,58.9837174164788</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9460001365418,58.9870086435651 16.9463031495138,58.9864989963409 16.9466596777362,58.9862352823399 16.9469922429321,58.985549892781 16.9457761406455,58.9851302227018 16.9455370919973,58.9855016998609 16.9454805692122,58.9857365678036 16.945569737168,58.9859181955073 16.945837758845,58.986030983693 16.9457985716584,58.9863636596537 16.9456916948727,58.9865826926551 16.9447770946962,58.986584504702 16.9444903754899,58.9868846962459 16.9445183137431,58.9871181783226 16.9446251854419,58.9872721153634 16.9447957962692,58.9873004994548 16.9453318306217,58.9873092718431 16.9452511780385,58.9876508529455 16.9450569404702,58.9876652425336 16.9449931346515,58.9878139728985 16.9450790779542,58.9881019372717 16.9451726535364,58.9881570350785 16.9453674340798,58.9881599386169 16.9456906043178,58.9875704090131 16.9454792985205,58.9874528156563 16.9454354172302,58.9872882490283 16.9460001365418,58.9870086435651</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

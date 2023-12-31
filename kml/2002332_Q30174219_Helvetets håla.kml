@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002332_Q30174219_Helvetets_håla" id="2002332_Q30174219_Helvetets_håla">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002332_Q30174219_Helvetets_håla</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002332_Q30174219_Helvetets_håla">
+		<SimpleData name="NVRID">2002332</SimpleData>
+		<SimpleData name="NAMN">Helvetets håla</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/04/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/05/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/07/25</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Vetlanda</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">7.21</SimpleData>
+		<SimpleData name="LAND_HA">7.12</SimpleData>
+		<SimpleData name="VATTEN_HA">0.09</SimpleData>
+		<SimpleData name="SKOG_HA">7.122</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11424-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2977334660833,57.2836201819583 15.2977305413616,57.2835969315597 15.2977307866881,57.2835882802247 15.2976173665993,57.2834803738627 15.2975750016651,57.2834372742508 15.2975156009743,57.2833921038959 15.2974625483031,57.2833442235574 15.2974102253322,57.2832983626749 15.2973700974061,57.2832672591646 15.2972689971128,57.283203762897 15.2972465107379,57.2831840082504 15.2972115385467,57.2831607257917 15.2971671386077,57.2831325877633 15.2971342897054,57.2831093002652 15.2970986300819,57.2830706762124 15.2970683475411,57.2830303146856 15.2970481583243,57.2830115337377 15.2969947200438,57.2829815395244 15.2968783461855,57.2829245019529 15.2966939312702,57.2827954274099 15.296507551263,57.2826157103371 15.2964247018416,57.2825420643298 15.2961383900589,57.2827223745972 15.2957736887125,57.2828703945941 15.2947811925652,57.282802917249 15.2945022534527,57.2822438858824 15.2939814066416,57.281887531122 15.2943604654976,57.280992867637 15.2941408321478,57.2809336617325 15.2933369730319,57.2807169529987 15.2924222197941,57.2821898647607 15.2923137754038,57.2825335239908 15.2920539715603,57.2834391329907 15.291941465304,57.2836770967902 15.2918032502058,57.284018309323 15.292251855064,57.2841307244312 15.292335101877,57.2841483804063 15.2923765425971,57.2841571773569 15.2928773891562,57.2842760893249 15.2937684527579,57.2842875843512 15.2939768869455,57.2843170469977 15.2951278364727,57.283666811227 15.2964146484496,57.2844612258768 15.29719593228,57.2844269707091 15.2977524745456,57.2840247550754 15.2978393816286,57.2838832536219 15.2977971403259,57.2838576080146 15.2977485699915,57.283828788368 15.2976924737162,57.2837450995972 15.2977077612817,57.283705241191 15.2977206449653,57.2836717215807 15.2977286548866,57.2836447532267 15.2977334660833,57.2836201819583</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

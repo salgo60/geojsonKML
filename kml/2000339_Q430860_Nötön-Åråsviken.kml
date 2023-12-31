@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000339_Q430860_Nötön_Åråsviken" id="2000339_Q430860_Nötön_Åråsviken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000339_Q430860_Nötön_Åråsviken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000339_Q430860_Nötön_Åråsviken">
+		<SimpleData name="NVRID">2000339</SimpleData>
+		<SimpleData name="NAMN">Nötön-Åråsviken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1971/06/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/06/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/03/20</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gullspång</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">620.3</SimpleData>
+		<SimpleData name="LAND_HA">72.22</SimpleData>
+		<SimpleData name="VATTEN_HA">548.066</SimpleData>
+		<SimpleData name="SKOG_HA">36.111</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">R-län 231-5714-91</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.0330890306432,59.0373562822654 14.0345794432357,59.0389870678578 14.0362388339333,59.0408027209166 14.0362952782558,59.040864482027 14.0363172441447,59.0408885083267 14.037754031255,59.0424602542497 14.0378681491252,59.0425850864362 14.038197384003,59.0429452318962 14.0476250660563,59.0447955546021 14.0478598227013,59.0448416099152 14.0556620211189,59.0444016125548 14.0628913984838,59.0450999662701 14.0670071277638,59.0468458738976 14.0693119901431,59.0478234838491 14.069942374383,59.0480908402325 14.071023110071,59.0485491805636 14.0750064318737,59.0502383505322 14.0775917739403,59.0495720653894 14.0782401649824,59.0494049573643 14.0810402919181,59.0486832083544 14.0822403606051,59.0483738575304 14.0935552003762,59.0480098501096 14.0993487406574,59.047823091834 14.1031688872165,59.0482511526858 14.1031687329487,59.0482483764601 14.10277333845,59.0411386799426 14.0956232288511,59.0413976605513 14.090711983434,59.0411957548018 14.0906815726691,59.0411871621142 14.0862894452506,59.0399450050741 14.0862893760324,59.039944986624 14.0830185930969,59.0296810330114 14.0828333237637,59.0291238071967 14.0828238877296,59.0290954318525 14.0804151888738,59.0212546029064 14.0802424874422,59.0213507689919 14.0796706076124,59.0196093212222 14.0796695618394,59.0196060895578 14.0796695289312,59.0196060174748 14.0764582206912,59.021333905424 14.0733976150281,59.0240854237222 14.0725348087906,59.0269133836484 14.071797443884,59.0293298388365 14.0669601279205,59.0315245094045 14.0636038161716,59.0310294769595 14.0592100795192,59.0303815876898 14.0576682285151,59.0297372861271 14.0492263636012,59.0300984963257 14.047736756406,59.0305415866351 14.0441463737285,59.02865481243 14.0441285156277,59.0286454390791 14.0330890306432,59.0373562822654</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000614_Q16496167_Alebäckasjön" id="2000614_Q16496167_Alebäckasjön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000614_Q16496167_Alebäckasjön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000614_Q16496167_Alebäckasjön">
+		<SimpleData name="NVRID">2000614</SimpleData>
+		<SimpleData name="NAMN">Alebäckasjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/04/14</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/04/14</SimpleData>
+		<SimpleData name="SENGALLDAT">1970/04/14</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falköping</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">1.19</SimpleData>
+		<SimpleData name="LAND_HA">0.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0.4</SimpleData>
+		<SimpleData name="SKOG_HA">0.591</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">III R 11-3-69   R:Län  231-726-88</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8140382304983,58.2466451331274 13.8141405329657,58.2466375760948 13.814242894941,58.246397038809 13.8141998590126,58.2463557418334 13.8140465170976,58.2462086395147 13.8138377933139,58.2460084030497 13.8137646647188,58.2459382440495 13.813669003899,58.2458464613787 13.8130340062674,58.2458337375594 13.8128080340162,58.2458292039724 13.8127504215448,58.2458280488841 13.8127407637024,58.245836151248 13.8123058705896,58.2462006374151 13.8122792638168,58.2462229273628 13.8119918250917,58.2462850105895 13.8117793258686,58.2463309028333 13.8116062609288,58.2463682867088 13.8115179525102,58.2463873527829 13.8115775547912,58.2466636180227 13.8116074946355,58.246802452556 13.8120956971982,58.2468841163359 13.8123651891204,58.2467597067036 13.8124298635738,58.2467560590398 13.8128797681847,58.2467306779635 13.8140382304983,58.2466451331274</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

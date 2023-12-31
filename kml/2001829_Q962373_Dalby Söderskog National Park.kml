@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001829_Q962373_Dalby_Söderskog_National_Park" id="2001829_Q962373_Dalby_Söderskog_National_Park">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001829_Q962373_Dalby_Söderskog_National_Park</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001829_Q962373_Dalby_Söderskog_National_Park">
+		<SimpleData name="NVRID">2001829</SimpleData>
+		<SimpleData name="NAMN">Dalby Söderskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Nationalpark</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1918/06/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1918/07/05</SimpleData>
+		<SimpleData name="SENGALLDAT">1918/07/05</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Lund</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">36.56</SimpleData>
+		<SimpleData name="LAND_HA">36.56</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">35.766</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Riksdag/Regering</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3359250251471,55.675506917795 13.3359251070285,55.6755064875388 13.3359251491132,55.6755062454658 13.3359256142113,55.6755039062168 13.3359458289656,55.6753989897928 13.3360343808406,55.6751865471328 13.3366599887978,55.6741064199624 13.3368241218467,55.6738189636915 13.3369487013219,55.6735817646613 13.3369416462808,55.6735085434676 13.3369112871898,55.6734763367962 13.3366482882827,55.67338083783 13.3365659241431,55.6733344909954 13.3361889397751,55.6731501662913 13.3355441735313,55.6728090650376 13.3346481613529,55.6725690949363 13.3339850693703,55.6723989173381 13.3332501379274,55.6722074143919 13.3318488271278,55.6717741110503 13.3314286647735,55.6716531436752 13.3314183234097,55.6716577481178 13.3312038819156,55.6717531212866 13.3307721516137,55.6719800356638 13.330236766091,55.6722495198396 13.3298786029903,55.6724283100608 13.3300644510274,55.67258994145 13.3285897239283,55.6734578363298 13.327583474346,55.6742859509894 13.3261154783554,55.6755117635193 13.3254958054735,55.675965431016 13.3244388295513,55.6767240882991 13.3241592831557,55.6770328692602 13.3239722211468,55.6772083708715 13.3239020501867,55.6773887756257 13.3240263066785,55.677646938139 13.3242460524028,55.6779032947879 13.3244173105303,55.6780584176543 13.3247644664829,55.6783111923672 13.325059638638,55.6784931685386 13.3252061556544,55.6785917041652 13.3256543698163,55.6787937226355 13.3259088542009,55.6788199573977 13.3262145593065,55.6788195881764 13.3265797558943,55.6788201551 13.3271476219208,55.6788133820832 13.3275343412946,55.6788831773092 13.3279755388483,55.6790259673633 13.3284212529915,55.679232974131 13.3284745235405,55.6791985521762 13.3284905684806,55.6791881842158 13.32854828741,55.6791508931078 13.3298873444574,55.6782856004384 13.331008088997,55.6775465284298 13.3311179209943,55.6775562986829 13.3322474406026,55.6770573275074 13.3328575146793,55.6768162765952 13.3340503032144,55.6764845390697 13.334863345577,55.6762428809678 13.3355571994211,55.6759629531351 13.335748139428,55.6758651597426 13.3358906093218,55.6756856030362 13.3359250251471,55.675506917795</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

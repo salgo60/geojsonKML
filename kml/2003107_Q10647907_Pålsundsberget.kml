@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003107_Q10647907_Pålsundsberget" id="2003107_Q10647907_Pålsundsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003107_Q10647907_Pålsundsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003107_Q10647907_Pålsundsberget">
+		<SimpleData name="NVRID">2003107</SimpleData>
+		<SimpleData name="NAMN">Pålsundsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/11/06</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/12/04</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/12/04</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Stockholm</SimpleData>
+		<SimpleData name="FORVALTARE">Stockholms kommun</SimpleData>
+		<SimpleData name="AREA_HA">0.41</SimpleData>
+		<SimpleData name="LAND_HA">0.41</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1994-370003</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.0413405791549,59.3202177866633 18.0414063677168,59.3202101214427 18.0414074781954,59.320210940215 18.0415315725011,59.3201805437375 18.0416296706694,59.3201474653941 18.0416357051214,59.3201439725597 18.0416659385475,59.3201010398615 18.0418155049819,59.3196767728936 18.0405156283274,59.319557654002 18.040365725423,59.3199816754849 18.0404320616203,59.3200822375449 18.0404610952403,59.3200962881198 18.0406016198514,59.3201466459 18.0406471032771,59.3201555136564 18.0407196553704,59.3201409062171 18.0407436767573,59.320083731796 18.0407811169568,59.3200242490629 18.0409668349559,59.3199930970298 18.0411091797779,59.3199987140569 18.041172227576,59.3200300145179 18.0412163155981,59.3200667361553 18.0412781271037,59.3201278639123 18.041282688935,59.3201352339438 18.0412839491983,59.3201357616581 18.0413405791549,59.3202177866633</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

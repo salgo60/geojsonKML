@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2043737_Q55693385_Kallfjärden" id="2043737_Q55693385_Kallfjärden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2043737_Q55693385_Kallfjärden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2043737_Q55693385_Kallfjärden">
+		<SimpleData name="NVRID">2043737</SimpleData>
+		<SimpleData name="NAMN">Kallfjärden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/10/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/12/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/06</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Luleå, Piteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">16015.86</SimpleData>
+		<SimpleData name="LAND_HA">384.17</SimpleData>
+		<SimpleData name="VATTEN_HA">15631.633</SimpleData>
+		<SimpleData name="SKOG_HA">232.29</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-5399-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.7903539637758,65.3088733726366 21.830327079902,65.314719089676 21.8161024477548,65.3353816768247 21.8292851105251,65.3441043841123 21.850175608866,65.3758308012334 21.8382058621063,65.3858855724526 21.8638182144712,65.3945662374525 21.8900654909046,65.39277170497 21.9722853144019,65.3813810219266 21.9812936216751,65.3757739127877 22.0045970879599,65.367693586131 22.1070046198149,65.3418346458464 22.0600932269565,65.2384298470097 21.949072019168,65.2568175011136 21.8052784601857,65.2923143894724 21.7903539637758,65.3088733726366</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

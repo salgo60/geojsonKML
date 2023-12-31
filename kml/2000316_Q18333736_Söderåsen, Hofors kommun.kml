@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000316_Q18333736_Söderåsen__Hofors_kommun" id="2000316_Q18333736_Söderåsen__Hofors_kommun">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000316_Q18333736_Söderåsen__Hofors_kommun</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000316_Q18333736_Söderåsen__Hofors_kommun">
+		<SimpleData name="NVRID">2000316</SimpleData>
+		<SimpleData name="NAMN">Söderåsens domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hofors</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">28.26</SimpleData>
+		<SimpleData name="LAND_HA">28.26</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.89</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-6212-95, 00-001-050 / 511-8646-06</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.3878938370699,60.5055494604748 16.388926952794,60.5059076441042 16.3907599105833,60.5055298251431 16.3926913569129,60.5054295286297 16.3945414576593,60.505134452981 16.3963738514481,60.5049533934589 16.3979437278514,60.5046587414516 16.399087735708,60.5042629857323 16.4008791474634,60.503928915755 16.402444298637,60.503798350543 16.4028602766018,60.5037137065191 16.4038688445353,60.5031220699136 16.4042493648796,60.5027698861708 16.4049994337286,60.5023535644114 16.4064195805339,60.5016179173423 16.407158169897,60.5006381297923 16.407863283788,60.4998887129909 16.407194857711,60.4997393323424 16.4046937251153,60.499147018403 16.4041134670992,60.4994480994864 16.4033588438242,60.5000193242758 16.4016446201756,60.5010164175986 16.4004457291426,60.5012867117628 16.4000421317316,60.5014999462909 16.3989176932821,60.5017752284442 16.3984143408477,60.5021402411339 16.3964122852212,60.5025327603307 16.3941109756602,60.5028894206659 16.3924409446682,60.5032590498408 16.391262951614,60.5036547972963 16.388516924912,60.5042996178153 16.3883159599838,60.5050017481767 16.3878938370699,60.5055494604748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

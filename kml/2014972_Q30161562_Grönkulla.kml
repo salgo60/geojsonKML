@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014972_Q30161562_Grönkulla" id="2014972_Q30161562_Grönkulla">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014972_Q30161562_Grönkulla</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014972_Q30161562_Grönkulla">
+		<SimpleData name="NVRID">2014972</SimpleData>
+		<SimpleData name="NAMN">Grönkulla</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/11/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/12/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/12/14</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Linköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">21.49</SimpleData>
+		<SimpleData name="LAND_HA">21.49</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.805</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-16375-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4604235690939,58.5784576112329 15.4604563526825,58.5790815462347 15.4609298722895,58.5792302512762 15.4617190236553,58.5795617058582 15.4622528645557,58.579787366272 15.4628244809542,58.5800719499583 15.463257533777,58.5805024927406 15.4660661267589,58.5798465357527 15.466478765383,58.5794119933204 15.466703616075,58.5797559091727 15.4690753182179,58.5793719005864 15.4699433801308,58.5798098054172 15.4707961567333,58.5795854110804 15.4720573371007,58.5789695407221 15.4726609668243,58.5781910534162 15.4731786329709,58.5782848186136 15.4741348691031,58.5769765704824 15.4716341900655,58.5759156564187 15.4705434787454,58.5754726144919 15.4691370123715,58.5750794311239 15.4686980475763,58.5763748268126 15.4671807650795,58.5764685921067 15.4665414661253,58.5763371812661 15.4654198330574,58.5767735117648 15.4654218842149,58.5768891934173 15.4654727813399,58.5776197336742 15.4656379653406,58.5778580489416 15.4662589594831,58.5784758809998 15.4660919152563,58.5790878756822 15.4656213439255,58.5792339475245 15.4645692210213,58.5793692233285 15.4645961160223,58.5789460497019 15.4645624826107,58.5787411894267 15.4639018496343,58.578615267277 15.4634771761755,58.5782346597295 15.4626746355582,58.5780252041654 15.4618731242426,58.5780367804158 15.4604235690939,58.5784576112329</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

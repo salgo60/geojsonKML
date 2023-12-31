@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020185_Q30160125_Sköndalsskogen" id="2020185_Q30160125_Sköndalsskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2020185_Q30160125_Sköndalsskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2020185_Q30160125_Sköndalsskogen">
+		<SimpleData name="NVRID">2020185</SimpleData>
+		<SimpleData name="NAMN">Sköndalsskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/06/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/08/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/08/13</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Sigtuna</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Sigtuna kommun</SimpleData>
+		<SimpleData name="AREA_HA">36.64</SimpleData>
+		<SimpleData name="LAND_HA">36.64</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">28.406</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Ks/2009:29</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8710047929833,59.6232185915848 17.8713281637683,59.6227755375436 17.8714042183447,59.6220954267768 17.8714812498004,59.6218485115249 17.8715831573363,59.6216527882198 17.8698733189702,59.6214933288701 17.8705854280855,59.6198916595189 17.8642520331471,59.6192611077192 17.8640551986503,59.6191574087241 17.8632885347666,59.6160614029818 17.8629737631301,59.6147818715847 17.8624143369957,59.6148976359883 17.8617429282602,59.6149557872104 17.8609554604138,59.6148954565924 17.8603073726594,59.6159588919966 17.8604522299219,59.6161217581733 17.8599212844089,59.6170818630422 17.8598298503713,59.617747052168 17.859824204139,59.6187079507894 17.8598219420872,59.6190923084874 17.8599643693008,59.6196986955813 17.8600790477108,59.6200536969819 17.8608371421467,59.6201582455775 17.8629896442435,59.6213737095406 17.8648508901535,59.6225148314662 17.8653080656673,59.6241860753236 17.8671697074389,59.6252976330093 17.8680137814238,59.6255780159763 17.8712632308409,59.6262725090913 17.8724137176268,59.6264998023244 17.8726823624503,59.6259559531102 17.8716345909721,59.6254222677857 17.8711407923315,59.6250223914277 17.8706179104214,59.6245337829696 17.8703870132284,59.6241194720153 17.8705061565215,59.6236613970066 17.8710047929833,59.6232185915848</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>17.8681023283353,59.6230943339879 17.8676569671625,59.6230062074859 17.8669077950875,59.6230513943102 17.8668489358238,59.622943187863 17.8676390342637,59.6225207120392 17.8681296382565,59.6227339923162 17.8682445357718,59.6229579955842 17.8681023283353,59.6230943339879</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

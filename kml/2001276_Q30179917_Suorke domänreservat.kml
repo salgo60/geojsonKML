@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001276_Q30179917_Suorke_domänreservat" id="2001276_Q30179917_Suorke_domänreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001276_Q30179917_Suorke_domänreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001276_Q30179917_Suorke_domänreservat">
+		<SimpleData name="NVRID">2001276</SimpleData>
+		<SimpleData name="NAMN">Suorke domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Jokkmokk</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">4.75</SimpleData>
+		<SimpleData name="LAND_HA">4.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.708</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">2312-11581-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.8501891005059,66.0181789647734 19.8516157536994,66.0183817053549 19.8520114140667,66.0184309397573 19.8527019991627,66.0185274410423 19.8535087178965,66.0186372884526 19.8544570250799,66.0187723659528 19.8549946365625,66.0188623738366 19.8550263104401,66.0184902862591 19.8550275595185,66.0182194158769 19.8550188179095,66.0179520176042 19.8550082386128,66.0175524949582 19.8549656954701,66.0173242144346 19.8549537786411,66.017049083346 19.8549998508963,66.0168414947331 19.8544733470356,66.0167754368853 19.8539763421936,66.0167248675466 19.8532647368204,66.0166413393818 19.8523227086002,66.0165146290289 19.8517500891266,66.0164460966792 19.8508438186833,66.0163528189747 19.8503653875379,66.0163044132065 19.8502393979031,66.0164468740999 19.8502183946369,66.0168151240261 19.8501959963509,66.017146590862 19.8501758942075,66.0173911650706 19.8502276213097,66.0177967444526 19.8501891005059,66.0181789647734</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

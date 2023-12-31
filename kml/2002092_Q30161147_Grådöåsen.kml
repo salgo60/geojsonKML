@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002092_Q30161147_Grådöåsen" id="2002092_Q30161147_Grådöåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002092_Q30161147_Grådöåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002092_Q30161147_Grådöåsen">
+		<SimpleData name="NVRID">2002092</SimpleData>
+		<SimpleData name="NAMN">Grådöåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1974/02/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1974/02/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1974/02/18</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Hedemora</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">5.34</SimpleData>
+		<SimpleData name="LAND_HA">5.34</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.277</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-2791-72</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.0322003312385,60.2321650193674 16.0327043276665,60.2319711960452 16.0327870627491,60.2318633437485 16.0328408819302,60.2318183766841 16.032964712906,60.2317822663974 16.0330433247721,60.2317327690802 16.0331241455338,60.2316742927928 16.0334693828465,60.2313595606217 16.0336743898514,60.231318821511 16.0343141838066,60.2308689558849 16.0343881836878,60.2301552930497 16.0335512515114,60.2299186530273 16.0335511984897,60.229918689359 16.0310317224131,60.232139881902 16.0310317088732,60.232140025682 16.0309983214577,60.2324118845138 16.0307480515738,60.2344493603035 16.0305698907894,60.2359650766138 16.0313580349266,60.2359942894107 16.0313581251973,60.2359942887093 16.0313691948317,60.2359764678256 16.0326269397575,60.234161305314 16.0322003312385,60.2321650193674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

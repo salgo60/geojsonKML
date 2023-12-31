@@ -1,3 +1,4 @@
+
 import os
 import fiona
 from fiona import collection
@@ -14,8 +15,21 @@ output_directory = 'kml'
 from SPARQLWrapper import SPARQLWrapper, JSON
 
 endpoint_url = "https://query.wikidata.org/sparql"
+query2 =  """#title: Sweden nature reserve - geoshapeRaw for all objects with P3613 Naturvårdsregistret ID
+SELECT ?wd ?wdLabel ?inatPid ?inatP  ?geoshapeRaw ?Natid WHERE {
+?wd wdt:P3613 ?Natid
+#  wdt:P131/wdt:P131 wd:Q104231.
+#   wdt:P17 wd:Q34.
+OPTIONAL {?wd wdt:P7471 ?inatPid}
+BIND(URI(CONCAT("https://www.inaturalist.org/places/",?inatPid)) as ?inatP)
+OPTIONAL {?wd wdt:P3896 ?geoshape}
+BIND(URI(CONCAT(REPLACE(REPLACE(str(?geoshape),"data/main/","w/index.php?title="),"\\\\+", "_"),"&action=raw")) AS ?geoshapeRaw)
 
-query = """#title: Sweden nature reserve - geoshapeRaw
+SERVICE wikibase:label { bd:serviceParam wikibase:language "en,sv". }
+}
+ORDER BY (?wdLabel)"""
+
+query  = """#title: Sweden nature reserve - geoshapeRaw
 SELECT ?wd ?wdLabel ?inatPid ?inatP  ?geoshapeRaw    WHERE {
   ?wd wdt:P31 wd:Q179049;
   #  wdt:P131/wdt:P131 wd:Q104231.
@@ -31,7 +45,7 @@ ORDER BY (?wdLabel)"""
 
 
 def get_results(endpoint_url, query):
-    user_agent = "WDQS-example Python/%s.%s" % (sys.version_info[0], sys.version_info[1])
+    user_agent = "WDQS salgo60 /%s.%s" % (sys.version_info[0], sys.version_info[1])
     # TODO adjust user agent; see https://w.wiki/CX6
     sparql = SPARQLWrapper(endpoint_url, agent=user_agent)
     sparql.setQuery(query)
@@ -53,15 +67,18 @@ def saveUrlToFile(filename  , url):
         print(f"An error occurred: {str(e)}")
 
 def extractgeojsonFromWD():
+    if not os.path.exists(input_directory):
+        os.makedirs(input_directory)
 
-    results = get_results(endpoint_url, query)
+    results = get_results(endpoint_url, query2)
     for result in results["results"]["bindings"]:
         try:
             geojsonUrl = result["geoshapeRaw"]["value"]
             name = result["wdLabel"]["value"]
+            Natid = result["Natid"]["value"]
             wd = result["wd"]["value"].replace ("http://www.wikidata.org/entity/","")
             print(wd, name )
-            filenameGeoJson = wd + "_" + name + ".json"
+            filenameGeoJson = Natid + "_" + wd + "_" + name + ".json"
 
             saveUrlToFile(input_directory + "/" + filenameGeoJson,geojsonUrl)
         except Exception as e:
@@ -80,7 +97,6 @@ geojson_files = [f for f in os.listdir(input_directory) if f.endswith('.json')]
 
 print(geojson_files)
 # Loopa igenom alla GeoJSON-filer och konvertera dem till KML
-# Loopa igenom alla GeoJSON-filer och konvertera dem till KML
 for file in geojson_files:
     input_file = os.path.join(input_directory, file)
     output_file = os.path.splitext(file)[0] + '.kml'
@@ -95,4 +111,4 @@ for file in geojson_files:
                 sink.write(feature)
 
 
-print("Konvertering klar.")
+print("Conversion done.")

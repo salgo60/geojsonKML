@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2047558_Q55693348_Långstrandberget" id="2047558_Q55693348_Långstrandberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2047558_Q55693348_Långstrandberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2047558_Q55693348_Långstrandberget">
+		<SimpleData name="NVRID">2047558</SimpleData>
+		<SimpleData name="NAMN">Långstrandberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/12</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ragunda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">73.89</SimpleData>
+		<SimpleData name="LAND_HA">73.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">73.624</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8076-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8158072328175,63.2848610406815 15.8150792600503,63.2835087093817 15.8193817159084,63.2832664288511 15.8201989935957,63.2827204154518 15.8224645575127,63.2822720529132 15.8230729557162,63.2818244955541 15.8230314189263,63.2812051044481 15.8222215573908,63.2810503853366 15.8198106264797,63.2807892261743 15.8157836149901,63.2806759518414 15.8136091751869,63.2760648535009 15.8128380239387,63.2755441640559 15.8087575547059,63.2769810621461 15.803550006762,63.2790903527256 15.8029613339608,63.2794079475466 15.8022811343513,63.2796252699908 15.8007472349079,63.2798867206819 15.7991765465875,63.2802849764047 15.7971509650779,63.2811638287627 15.7969125059323,63.2813606390358 15.7977180701793,63.2816560540686 15.7963153211595,63.2823332003693 15.7962492555312,63.283393946129 15.7965985803928,63.283511339821 15.7976118497467,63.2841395343891 15.798107172666,63.2841876962087 15.7981823359537,63.2842648229581 15.7979824934047,63.284404487294 15.8003216770765,63.2848703592246 15.8038093258854,63.2839726037895 15.8083874756383,63.2843842187588 15.8098237941857,63.2841903598336 15.8135617972505,63.2854436871951 15.8158072328175,63.2848610406815</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

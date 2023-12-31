@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011943_Q86919426_Lundalm" id="2011943_Q86919426_Lundalm">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011943_Q86919426_Lundalm</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2011943_Q86919426_Lundalm">
+		<SimpleData name="NVRID">2011943</SimpleData>
+		<SimpleData name="NAMN">Lundalm</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1929/12/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1929/12/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/04/26</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Mörbylånga</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">0</SimpleData>
+		<SimpleData name="LAND_HA">0</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">xxxxxx</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>16.5316117802955,56.6905401843806</coordinates></Point><Point><coordinates>16.5310213900244,56.6903909471481</coordinates></Point><Point><coordinates>16.5310198405516,56.6903101352564</coordinates></Point><Point><coordinates>16.5309674305192,56.6901308236812</coordinates></Point><Point><coordinates>16.5309346293776,56.6901220349697</coordinates></Point><Point><coordinates>16.5308868682317,56.6901851770069</coordinates></Point><Point><coordinates>16.5307898291315,56.6902306487277</coordinates></Point><Point><coordinates>16.530789138605,56.6901947253655</coordinates></Point><Point><coordinates>16.5307412251778,56.6902488929922</coordinates></Point><Point><coordinates>16.5307058311852,56.6901054028851</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

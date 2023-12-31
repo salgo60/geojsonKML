@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001376_Q30158141_Habomossens_naturreservat" id="2001376_Q30158141_Habomossens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001376_Q30158141_Habomossens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001376_Q30158141_Habomossens_naturreservat">
+		<SimpleData name="NVRID">2001376</SimpleData>
+		<SimpleData name="NAMN">Habomossens domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/06/06</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/06/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/06/30</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Habo</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">8.74</SimpleData>
+		<SimpleData name="LAND_HA">8.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.318</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">R län 231-2872-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.0430365049138,57.9887098382435 14.0429436654955,57.9887314347083 14.0429059637327,57.9888367507446 14.0432660159055,57.9889136823839 14.0443332139693,57.9891855590954 14.0451937947091,57.9894121668228 14.045915586139,57.9895912159162 14.0463510229535,57.9897037093229 14.0466887937371,57.9897604419204 14.0470241440728,57.9897542322796 14.0474594278593,57.9896726334061 14.0479801588311,57.9895782884128 14.0483418474491,57.9894845122817 14.048656101185,57.989391620021 14.048815304257,57.9891430489191 14.0489125267998,57.9890083180042 14.0489831642352,57.9889161994112 14.0491387870865,57.9888670330971 14.0494145914048,57.9888902393009 14.0496937132747,57.9889638172229 14.0499070953369,57.9890091922306 14.0500529882763,57.9890029698605 14.0502034631395,57.9889303551256 14.0503279305213,57.9888913745852 14.0504491837841,57.9888990615435 14.0505391678567,57.9889187403527 14.0509971479553,57.9889004645453 14.0483169111311,57.987232294675 14.0478851118704,57.9872914838752 14.0474866259542,57.987279446376 14.0472578350956,57.9872492671968 14.0469532390337,57.987157401995 14.0466586467076,57.9870576434422 14.0464303070164,57.9869507366246 14.0461023539707,57.9868609758632 14.0457098931416,57.9868368963291 14.0453625074554,57.986805096434 14.0450733974021,57.9868021181241 14.0447766270218,57.9872692678738 14.0445225866201,57.9875681520794 14.044309299885,57.9878157008699 14.0440365153956,57.9879938246945 14.0438133185244,57.9881890642649 14.0436233823329,57.9883921258445 14.0434305502996,57.9885394102539 14.0432680858423,57.9886387669357 14.0430365049138,57.9887098382435</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

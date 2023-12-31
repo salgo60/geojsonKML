@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2050845_Q89958339_Prästanäset" id="2050845_Q89958339_Prästanäset">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2050845_Q89958339_Prästanäset</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2050845_Q89958339_Prästanäset">
+		<SimpleData name="NVRID">2050845</SimpleData>
+		<SimpleData name="NAMN">Prästanäset</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/11/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/12/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/12/27</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Växjö</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">174.15</SimpleData>
+		<SimpleData name="LAND_HA">66.89</SimpleData>
+		<SimpleData name="VATTEN_HA">107.25</SimpleData>
+		<SimpleData name="SKOG_HA">65.712</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0670411534269,56.7659364008873 15.0660784527199,56.7653807166933 15.0569590480604,56.7654796704391 15.0554242087317,56.7672903966743 15.0550342984329,56.7677503705504 15.0549812535806,56.7678129573094 15.0548503027462,56.7727889836498 15.0548498997554,56.7728043551414 15.054848194138,56.7728689405661 15.0548452648082,56.7729807634476 15.054804675986,56.774522575091 15.0548030168023,56.7745854445678 15.0545584704657,56.7838741012814 15.0545249893546,56.7849598227864 15.0626086106133,56.7849625766253 15.0669475668758,56.7830648662302 15.0668180925454,56.7827113052138 15.0664301840666,56.7819335255353 15.0676398627759,56.7811336706965 15.0676179673758,56.7719847069679 15.0729117166106,56.7693743249421 15.0716354584517,56.7686269641635 15.0670591667682,56.7659467944791 15.0670411534269,56.7659364008873</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

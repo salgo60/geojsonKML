@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020006_Q30174258_Slåttmyran" id="2020006_Q30174258_Slåttmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2020006_Q30174258_Slåttmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2020006_Q30174258_Slåttmyran">
+		<SimpleData name="NVRID">2020006</SimpleData>
+		<SimpleData name="NAMN">Slåttmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/16</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">74.33</SimpleData>
+		<SimpleData name="LAND_HA">74.32</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">72.612</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4127-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.9217702437003,60.0562869678811 17.9237740197064,60.0560037945769 17.9256229715566,60.056128490174 17.9269725327368,60.0551468582059 17.9247479677345,60.0540789971066 17.9226938860341,60.0549449922342 17.919223862577,60.0548425418269 17.9167825022394,60.0538895865943 17.9174773205326,60.0527506048211 17.9131073694315,60.0521626025188 17.9125454277276,60.0531121373472 17.9103776101504,60.0517959917203 17.9091295354975,60.051915997024 17.908386325873,60.0518756280333 17.9077959026971,60.0521525309568 17.9081921141462,60.0530346728882 17.9072320077056,60.0532471825697 17.9069101828966,60.0533184073195 17.9069017454715,60.0592266720166 17.9102897515712,60.060876525613 17.9170024527105,60.0605583243255 17.9240429423316,60.0602249347566 17.9216147604009,60.0571985784929 17.9217702437003,60.0562869678811</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

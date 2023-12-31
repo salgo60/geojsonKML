@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2029029_Q30163243_Svalängsskogen" id="2029029_Q30163243_Svalängsskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2029029_Q30163243_Svalängsskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2029029_Q30163243_Svalängsskogen">
+		<SimpleData name="NVRID">2029029</SimpleData>
+		<SimpleData name="NAMN">Svalängsskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/11/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/12/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/12/26</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Flen</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">16.98</SimpleData>
+		<SimpleData name="LAND_HA">16.98</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.699</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-17079-2008, 511-5340-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8251535378295,59.0378799634128 16.8247122496555,59.0378503272509 16.8248648269408,59.0387134588793 16.8249931294247,59.0394532488509 16.8250796631534,59.0399479041783 16.8251199074815,59.0401753551681 16.8267530116953,59.0403195069351 16.8283035640881,59.0404522000151 16.8284441217347,59.0404620294384 16.8299317610838,59.0405864732105 16.8311175159422,59.0406709524021 16.8314544471423,59.040696176087 16.8335913799657,59.0408687202211 16.8345962351894,59.0409769441464 16.8364967610405,59.039810151627 16.8367502457552,59.0389203291415 16.8343365138541,59.0384455607939 16.8339095947036,59.0384193096149 16.8330890187516,59.0383695214674 16.8296081272411,59.0381610480009 16.8271538898089,59.0380070974589 16.8251535378295,59.0378799634128</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

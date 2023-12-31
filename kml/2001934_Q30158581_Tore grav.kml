@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001934_Q30158581_Tore_grav" id="2001934_Q30158581_Tore_grav">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001934_Q30158581_Tore_grav</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001934_Q30158581_Tore_grav">
+		<SimpleData name="NVRID">2001934</SimpleData>
+		<SimpleData name="NAMN">Tore grav</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/12/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/01/10</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Nyköping</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">10.21</SimpleData>
+		<SimpleData name="LAND_HA">10.21</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.109</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-4679-1997</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.1688662900423,58.9420512804872 17.1688371738491,58.9419654260037 17.1688188605253,58.9418921652538 17.1687981537884,58.9418092960994 17.1687838119603,58.9414057984828 17.1688195148479,58.9412086356903 17.1688783171836,58.9409250662687 17.1689309887757,58.9407307542144 17.1690738811411,58.9404059227166 17.1692381269652,58.9399768988434 17.1693459125115,58.9396710364547 17.1693765138631,58.9395845488148 17.1644769361617,58.9393867803568 17.1642408508438,58.9397403415477 17.1640841407907,58.9400311704715 17.1640336583963,58.9401387417368 17.1639627209477,58.9403604340621 17.1639120104164,58.9405237710574 17.16383536265,58.9407608850476 17.1637605567201,58.9409338872671 17.1637143247585,58.941013052606 17.1636048087276,58.9411591720991 17.1634049970511,58.9413450634215 17.1632593220555,58.9415033673736 17.1632849120414,58.9417499557867 17.1634849551093,58.94197828224 17.1645741079203,58.9429542893278 17.1645737839128,58.9429460656596 17.1650918918865,58.9427595977324 17.1655254968905,58.9428537835419 17.1665804920961,58.9425546928991 17.167012800127,58.942615979077 17.1678793790635,58.9423846809607 17.1677462188972,58.9422379623352 17.1685312095614,58.9420252398178 17.1687153876186,58.9420395534606 17.1688662900423,58.9420512804872</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

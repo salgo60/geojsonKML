@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005676_Q30174637_Hjärtasjöns_skärgård" id="2005676_Q30174637_Hjärtasjöns_skärgård">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005676_Q30174637_Hjärtasjöns_skärgård</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005676_Q30174637_Hjärtasjöns_skärgård">
+		<SimpleData name="NVRID">2005676</SimpleData>
+		<SimpleData name="NAMN">Hjärtasjöns skärgård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/10/30</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/10/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/10/29</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund, Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">185.61</SimpleData>
+		<SimpleData name="LAND_HA">60.31</SimpleData>
+		<SimpleData name="VATTEN_HA">125.292</SimpleData>
+		<SimpleData name="SKOG_HA">55.147</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-02706-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3208950788653,58.9358440486315 15.3243131664198,58.9345025546133 15.3242829233352,58.9343220892996 15.3242585062984,58.9340257228634 15.32428264115,58.933742009932 15.3243535711304,58.9335375197161 15.3244420553341,58.9333937971696 15.3245971421443,58.9332417286698 15.3216572982217,58.9321010288723 15.3274147122726,58.930301539417 15.3281151562565,58.9286017599667 15.3280665848686,58.9285462901033 15.3279809694964,58.9283906900438 15.3279321277553,58.9282828375194 15.327899235933,58.9281681011712 15.3279179267728,58.9278470561233 15.3279442856553,58.9276855465834 15.327960580374,58.9274567998294 15.3279415778318,58.9272863831335 15.327970039778,58.9271520028805 15.3282182734602,58.9268437714143 15.3283293319386,58.9266169664696 15.3283067445736,58.9265539335509 15.3282552182013,58.9265235744237 15.3281788775721,58.926490161881 15.328083532909,58.9264637935446 15.3279619382421,58.9264441374895 15.3277461188024,58.9263934272997 15.3256164258442,58.9262790673951 15.3256520095594,58.9279729885892 15.3246273368447,58.9283302088581 15.318592564779,58.9282674939242 15.3163269785235,58.9275460960353 15.3067703570744,58.9297435338207 15.3002900322382,58.9297682708116 15.2924058102543,58.9333690960421 15.2806266209407,58.9350617685272 15.2782483045857,58.9353273178598 15.284735790036,58.9372420709962 15.2943343682276,58.9383101250518 15.2979230775963,58.9358200782553 15.3003012140212,58.9373217751454 15.2999286647431,58.9386597000789 15.3023728934955,58.937685991216 15.3201028906811,58.9367527985967 15.3208950788653,58.9358440486315</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

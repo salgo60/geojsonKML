@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005575_Q30162464_Nygårdsvulkanens_kalkbarrskog" id="2005575_Q30162464_Nygårdsvulkanens_kalkbarrskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005575_Q30162464_Nygårdsvulkanens_kalkbarrskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005575_Q30162464_Nygårdsvulkanens_kalkbarrskog">
+		<SimpleData name="NVRID">2005575</SimpleData>
+		<SimpleData name="NAMN">Nygårdsvulkanens kalkbarrskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/10/22</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/11/12</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">57.03</SimpleData>
+		<SimpleData name="LAND_HA">57.02</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">56.883</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">5112-12114-2006 / 5112- / 5112-</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8629148812691,58.9987788145219 14.8650329476817,59.0005002866576 14.8652809536997,59.0038720171076 14.8705249399956,59.0062043488023 14.8722921180568,59.00613819103 14.8728344902144,59.0060487384005 14.8734144295885,59.00591134559 14.8718298841216,59.0010644300436 14.8686250061407,58.9982302381937 14.8668937487395,58.998544653008 14.8658152757981,58.9980225543954 14.8629148812691,58.9987788145219</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8450629146893,58.9940187252985 14.845979918662,58.994638299568 14.8494409092972,58.9969170813458 14.8549870292729,58.9990681162756 14.8574759923805,58.999433158248 14.8590030989763,58.9988578937579 14.8485926210139,58.991776052091 14.8478965717657,58.992171167491 14.847229836854,58.992536991824 14.8463582540704,58.9929831983654 14.8459474568669,58.9931235273778 14.845224346574,58.9933817307801 14.8450629146893,58.9940187252985</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

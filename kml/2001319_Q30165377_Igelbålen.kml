@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001319_Q30165377_Igelbålen" id="2001319_Q30165377_Igelbålen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001319_Q30165377_Igelbålen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001319_Q30165377_Igelbålen">
+		<SimpleData name="NVRID">2001319</SimpleData>
+		<SimpleData name="NAMN">Igelbålen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/09/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1998/10/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/07/10</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Vingåker</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">18.45</SimpleData>
+		<SimpleData name="LAND_HA">17.23</SimpleData>
+		<SimpleData name="VATTEN_HA">1.22</SimpleData>
+		<SimpleData name="SKOG_HA">14.766</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7207-2002</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.9293925153035,59.0806317817429 15.9294714961025,59.0807122702615 15.9294737099017,59.0807134848105 15.9295384766216,59.0807490080118 15.9298807202995,59.0808789187509 15.9301992491212,59.0809776636062 15.9304549250956,59.0810393893623 15.9306664259151,59.0810792751637 15.9314876677164,59.081201828968 15.9316097896252,59.0812174234213 15.9318791255145,59.0812403038664 15.932091140725,59.0812533661197 15.9323369643745,59.081271358182 15.9323851591599,59.0812714878264 15.9326520562732,59.0812886901845 15.9327882923915,59.0813009937793 15.9332258863054,59.0813690668925 15.9336948178159,59.0814583059774 15.9337179689027,59.0814627107388 15.9339793961221,59.0815096951275 15.9341656065824,59.0815406774289 15.9343121204491,59.0815741367341 15.9345151160716,59.0816217833233 15.9352226000616,59.0817422230785 15.935453157653,59.0817805806559 15.9357103400793,59.0818233620862 15.9359095139696,59.0818567631085 15.9360010346747,59.0817678635887 15.936439832054,59.0813416604935 15.9380900841702,59.0797382515212 15.9367030058251,59.078914495482 15.9367484991536,59.0779691574703 15.93756020966,59.0772208258369 15.9368611539742,59.0768566270284 15.93632508933,59.0766327095478 15.936135794233,59.0765657025455 15.9360916110351,59.0765492805984 15.9359268897304,59.0764774976441 15.9358827883718,59.0764570245583 15.9358330467598,59.0764357119983 15.9356957648187,59.0763708528199 15.9356404682739,59.0763377251972 15.935473518394,59.0762243572758 15.9353777138635,59.0761598003902 15.9351633122594,59.0760232616876 15.9346306222423,59.0772811588892 15.9346305532045,59.0772811863299 15.9334496355518,59.0776917009311 15.9324934479443,59.0780236214596 15.9307655958807,59.078623393357 15.9297437446777,59.0789780824382 15.929118688724,59.0791953584945 15.9290658323872,59.0792111396036 15.9290431604045,59.0793212215466 15.9290704281179,59.0794825422245 15.9293925153035,59.0806317817429</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

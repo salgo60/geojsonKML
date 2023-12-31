@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2031389_Q30186528_Fällberget" id="2031389_Q30186528_Fällberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2031389_Q30186528_Fällberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2031389_Q30186528_Fällberget">
+		<SimpleData name="NVRID">2031389</SimpleData>
+		<SimpleData name="NAMN">Fällberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/04/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/05/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/05/03</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Jokkmokk</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">152.87</SimpleData>
+		<SimpleData name="LAND_HA">152.65</SimpleData>
+		<SimpleData name="VATTEN_HA">0.21</SimpleData>
+		<SimpleData name="SKOG_HA">137.743</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9330-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.4860519955826,66.5285895801054 20.4891517868236,66.5280768444956 20.48966952309,66.5277789781161 20.4891818181456,66.5271603070168 20.4896390574084,66.5267710015338 20.4919168709461,66.5265701205689 20.4928374111248,66.5270516220995 20.4932177224142,66.526782999477 20.5121051110992,66.5132229626388 20.5087907607817,66.5125934853985 20.5022911591097,66.5162530636315 20.5006216485516,66.5160062240207 20.4980625221434,66.5171804288153 20.4955823439653,66.5173870819258 20.4947679770721,66.5169686701375 20.4902000745986,66.5169035169957 20.4908261483469,66.5181011844895 20.4852919608984,66.5203527477953 20.4814972094919,66.5194972666898 20.4805401452778,66.5199599599235 20.4777075909471,66.5204939866369 20.4767838661414,66.5201185142415 20.4735431828895,66.5207890564437 20.4721941007122,66.5213693460016 20.4695878291678,66.5206255777572 20.467273317494,66.5213529249007 20.4663111674326,66.5219992157822 20.4650380841121,66.5219582589194 20.4629084891281,66.5214374948694 20.4615299780785,66.5221713537809 20.4636206290946,66.5228403092001 20.4647942423247,66.523469504068 20.4660381356364,66.5234971334539 20.4675695172072,66.5240825785526 20.468241587155,66.5254551527424 20.4626046439579,66.527201332975 20.4643751417269,66.5284496471058 20.4723892575792,66.5267701530085 20.4771251577099,66.5264416477311 20.4782056077158,66.5261617477881 20.4790410052387,66.5266186458881 20.4744081184054,66.5274713126769 20.4748025922917,66.5281049865158 20.4767648514004,66.5284592728754 20.4772139806651,66.5288520011745 20.4849142199448,66.5285331598666 20.4860519955826,66.5285895801054</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

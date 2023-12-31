@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001357_Q30177804_Reutersbergs_hästhage" id="2001357_Q30177804_Reutersbergs_hästhage">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001357_Q30177804_Reutersbergs_hästhage</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001357_Q30177804_Reutersbergs_hästhage">
+		<SimpleData name="NVRID">2001357</SimpleData>
+		<SimpleData name="NAMN">Reutersbergs hästhage</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/05/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/06/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1966/06/28</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kungsör</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">9.34</SimpleData>
+		<SimpleData name="LAND_HA">9.34</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.647</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-13478-06 (jfr III R 11-7-1965</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.9873942586261,59.4080184878731 15.9848747794442,59.4110312771051 15.9869836254351,59.4117188466115 15.9872923782834,59.4118781110929 15.9882192613938,59.4123743239189 15.9893699103269,59.4113869804707 15.9898139028127,59.4115069292888 15.9900840290999,59.4114850156656 15.990212600078,59.4109145372028 15.9900145135625,59.4082896813532 15.9895737032137,59.4082441953577 15.9893880363602,59.4083416424733 15.9873942586261,59.4080184878731</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

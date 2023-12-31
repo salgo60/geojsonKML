@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002845_Q30162598_Salboknös" id="2002845_Q30162598_Salboknös">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002845_Q30162598_Salboknös</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002845_Q30162598_Salboknös">
+		<SimpleData name="NVRID">2002845</SimpleData>
+		<SimpleData name="NAMN">Salboknös</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/01/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/01/07</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljusnarsberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">73.01</SimpleData>
+		<SimpleData name="LAND_HA">73.01</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">61.782</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-06861-2004</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9438285772139,59.7969693032424 14.943828630732,59.7969692673471 14.9436719804573,59.7966846476193 14.9434763542264,59.7963945693478 14.9432200888477,59.7959922203076 14.9430614184987,59.7957903723804 14.9428910640585,59.7955972293421 14.9425585992741,59.7952902894501 14.9420056139747,59.7946803895358 14.9403383444409,59.7952395545857 14.9392554266228,59.7952150028062 14.9370574967626,59.7969294487636 14.9294663254584,59.7969801485826 14.9297245694233,59.7984167622947 14.9312484180303,59.7995747250362 14.9325145959588,59.8007550586548 14.9333271138898,59.8022319244358 14.933612041761,59.8029907674882 14.9336656310005,59.8034409206678 14.9333722055034,59.8041786746462 14.9339345861741,59.8055980207737 14.9330181069802,59.8088743136186 14.9329096986436,59.8113194910819 14.9338821742047,59.8113736538917 14.9390496060163,59.8074531911564 14.9396347552972,59.805976732274 14.9423347362411,59.8039887613245 14.9419083557852,59.801294300055 14.9406172657683,59.7993234871386 14.9438285772139,59.7969693032424</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

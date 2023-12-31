@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014202_Q30176353_Rävahidalen" id="2014202_Q30176353_Rävahidalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014202_Q30176353_Rävahidalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014202_Q30176353_Rävahidalen">
+		<SimpleData name="NVRID">2014202</SimpleData>
+		<SimpleData name="NAMN">Rävahidalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/09/02</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/09/29</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Vännäs</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">17.54</SimpleData>
+		<SimpleData name="LAND_HA">17.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">17.53</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-16287-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.6553818790245,63.9258123182197 19.6574595630246,63.9245864748146 19.6575965135879,63.924615839401 19.6585279060658,63.9248155309723 19.6586297075662,63.9246967983704 19.6588693227865,63.9244906262125 19.6590456634366,63.9243388997568 19.6595441887252,63.9238913198621 19.6597523036083,63.9236916372563 19.6593957727708,63.923541810959 19.6592989236027,63.9235011026017 19.6588633677838,63.9233180765792 19.6602615694932,63.9224998934073 19.6601724475486,63.9224625156314 19.6565435036477,63.9209403640963 19.6553322515059,63.9204353188162 19.6489800927311,63.9232364139492 19.6533650947131,63.9250015074648 19.6544357179824,63.9254319396225 19.6544330430897,63.9254336713126 19.6545239942803,63.9254704902192 19.6545269095933,63.9254686069119 19.6553818790245,63.9258123182197</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

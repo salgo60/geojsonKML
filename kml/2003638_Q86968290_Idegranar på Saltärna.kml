@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003638_Q86968290_Idegranar_på_Saltärna" id="2003638_Q86968290_Idegranar_på_Saltärna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003638_Q86968290_Idegranar_på_Saltärna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003638_Q86968290_Idegranar_på_Saltärna">
+		<SimpleData name="NVRID">2003638</SimpleData>
+		<SimpleData name="NAMN">Idegranar på Saltärna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1937/06/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1937/06/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1937/06/25</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Ronneby</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">0.59</SimpleData>
+		<SimpleData name="LAND_HA">0.59</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Ekd:M T9, 26 0ch 34 1936  RrK23</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1690059399034,56.1467486569567 15.1689733428305,56.1470557282049 15.169772611193,56.1469830334334 15.1705466383087,56.1467719493496 15.1706579675276,56.1466957128541 15.1707147741322,56.1465884733486 15.1706332367964,56.146526600194 15.1703065982958,56.146309844521 15.1700884972764,56.1461858319367 15.1699509162792,56.1461851227304 15.1698408418282,56.1461845552683 15.1697847959559,56.1462457195593 15.1697552558045,56.1463684558173 15.169615624127,56.1464906423954 15.1695045638077,56.1465515136711 15.1693662023803,56.1465968876388 15.169200604255,56.1466267551343 15.169034989817,56.1466566314146 15.1690059399034,56.1467486569567</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

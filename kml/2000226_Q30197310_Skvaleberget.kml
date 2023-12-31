@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000226_Q30197310_Skvaleberget" id="2000226_Q30197310_Skvaleberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000226_Q30197310_Skvaleberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000226_Q30197310_Skvaleberget">
+		<SimpleData name="NVRID">2000226</SimpleData>
+		<SimpleData name="NAMN">Skvaleberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1986/03/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1986/04/11</SimpleData>
+		<SimpleData name="SENGALLDAT">1986/04/11</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Örebro</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">18.47</SimpleData>
+		<SimpleData name="LAND_HA">18.47</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">18.216</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-546-85 / 5112-</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9671306111502,59.3292780790342 14.9671301019084,59.3292776658172 14.9670137841086,59.3291835599869 14.9668729989186,59.329040838077 14.9666242952992,59.3287726262121 14.9663961243061,59.3285726326709 14.9662212007346,59.3284637296106 14.9660461496079,59.3283605017599 14.9656529073153,59.3281027032248 14.9653049033283,59.3278111679861 14.9654324949846,59.3277828244821 14.9676436495454,59.3272197504234 14.9648468710752,59.3240578815105 14.9605904195822,59.32428904462 14.9630828628742,59.3283104848099 14.961308192449,59.3319069391702 14.9616431663056,59.3321645090224 14.967130206753,59.3292782854766 14.9671306111502,59.3292780790342</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

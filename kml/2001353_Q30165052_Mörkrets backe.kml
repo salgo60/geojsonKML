@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001353_Q30165052_Mörkrets_backe" id="2001353_Q30165052_Mörkrets_backe">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001353_Q30165052_Mörkrets_backe</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001353_Q30165052_Mörkrets_backe">
+		<SimpleData name="NVRID">2001353</SimpleData>
+		<SimpleData name="NAMN">Mörkrets backe</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/10/29</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/11/29</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/11/29</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kungsör</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">6.29</SimpleData>
+		<SimpleData name="LAND_HA">6.29</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.082</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1846-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.056830761865,59.4343280989924 16.0562073144342,59.4345473336616 16.0557399617317,59.4347362418829 16.0557398920689,59.4347362693883 16.0554315585595,59.4348346490489 16.0550611340006,59.4350141320047 16.0546385965436,59.4352351576491 16.0542653586755,59.4354559635856 16.0540326145496,59.4356473542821 16.0538039576676,59.4358710513297 16.0536734957287,59.4360673817455 16.053351517451,59.4363938523086 16.0531479006098,59.4366389808712 16.0529571218487,59.4368122223063 16.0527587886579,59.4369585820279 16.0525477846184,59.4371857986152 16.0524201204396,59.4373397608079 16.0545583149066,59.4374983768304 16.0576257887738,59.4366319688083 16.0576258049993,59.436631923773 16.0580988556156,59.4355735246719 16.0568351754204,59.4343265994132 16.0568351390501,59.4343265637843 16.056830761865,59.4343280989924</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

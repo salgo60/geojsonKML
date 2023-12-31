@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000327_Q16506985_Bäckagården" id="2000327_Q16506985_Bäckagården">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000327_Q16506985_Bäckagården</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000327_Q16506985_Bäckagården">
+		<SimpleData name="NVRID">2000327</SimpleData>
+		<SimpleData name="NAMN">Bäckagården</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1995/09/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/09/26</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/09/26</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">8.58</SimpleData>
+		<SimpleData name="LAND_HA">8.58</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">8.443</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-4253-95</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8337499584727,58.4791653705187 13.8337907051669,58.4801017060257 13.8338472767597,58.481401605676 13.8353407603912,58.4818029774045 13.8365872688103,58.4819835103607 13.8368752192656,58.4820252114449 13.8368752249039,58.4820250408341 13.8368752598223,58.4820224273272 13.8368794612759,58.4817759306635 13.8371623756535,58.4815931559386 13.8371731202379,58.4814693526899 13.8368139045636,58.4807206450527 13.8370831938984,58.4803722856608 13.8372905819968,58.4796325756413 13.8368865583002,58.4796077427346 13.8362774895911,58.4795779770958 13.8363135637111,58.4794921109369 13.8376096635924,58.4768002035819 13.8373224361475,58.476740474136 13.8371606428793,58.476710444404 13.8369006119171,58.4766621792825 13.8367464978759,58.4768315340624 13.836462260312,58.4770315775856 13.8361470533748,58.4772652294783 13.8358527722273,58.4775317927033 13.8355895143105,58.4777395877144 13.8354504995784,58.4778414778258 13.8343258408779,58.4780189125376 13.8341546981891,58.4782876415436 13.8337161014259,58.4783870767759 13.8337499584727,58.4791653705187</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

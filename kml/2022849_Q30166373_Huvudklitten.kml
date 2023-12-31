@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2022849_Q30166373_Huvudklitten" id="2022849_Q30166373_Huvudklitten">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2022849_Q30166373_Huvudklitten</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2022849_Q30166373_Huvudklitten">
+		<SimpleData name="NVRID">2022849</SimpleData>
+		<SimpleData name="NAMN">Huvudklitten</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/05/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/08/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/08/10</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Rättvik</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">32.88</SimpleData>
+		<SimpleData name="LAND_HA">32.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">31.902</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9840-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1107489348566,61.2560275451995 15.1109213179793,61.258557472604 15.115762633338,61.2588882469706 15.1161018747355,61.258775144965 15.1160691091427,61.2585845073517 15.1162316267279,61.2584954005035 15.1167321565409,61.2584515462979 15.1168985121208,61.2579310001906 15.1168038171946,61.2577398055955 15.1170429174508,61.2573589145734 15.1170430712933,61.256929122116 15.1172851532816,61.2567505735748 15.1181786096878,61.2570918797562 15.1188982987755,61.2564255100326 15.1270896733036,61.2571636002184 15.1275758867125,61.2557764855323 15.1258991901815,61.2556072533785 15.1256310659438,61.2545937628844 15.1261863630717,61.2541195007445 15.1243278111612,61.2539252271274 15.1171053339549,61.253158208291 15.1140808679907,61.2528438767273 15.1139608333395,61.2530729686909 15.1146994616425,61.2535899035793 15.1147956658466,61.2538952483594 15.1142381698912,61.2553607515675 15.1136516400374,61.2555726929723 15.1136426380314,61.2555780421695 15.1122084239885,61.2557685729349 15.1107489348566,61.2560275451995</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000234_Q30170544_Tempelbacken" id="2000234_Q30170544_Tempelbacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000234_Q30170544_Tempelbacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000234_Q30170544_Tempelbacken">
+		<SimpleData name="NVRID">2000234</SimpleData>
+		<SimpleData name="NAMN">Tempelbacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1995/08/09</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/08/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/08/30</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Lindesbergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">10.74</SimpleData>
+		<SimpleData name="LAND_HA">10.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.195</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">MRN  48 jnr 920055</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2364763741398,59.5854282459702 15.236476392162,59.5854282908371 15.23688503972,59.5854179351352 15.2369161496821,59.5853245061912 15.2369756967238,59.5852435886412 15.2370673534708,59.5851913305878 15.2372124012263,59.5851748773292 15.2373613216348,59.5851979193434 15.2375920462151,59.5852656852699 15.2376172386239,59.585317704868 15.2376179223293,59.5854020964488 15.2379670386567,59.58549723309 15.2386761748589,59.5856960684762 15.2400037317387,59.5847479819231 15.2404597511108,59.5842707904195 15.2406084297691,59.5839973856231 15.2408288811927,59.5832424376826 15.2409160400312,59.5825626715275 15.2407508487599,59.5822608922083 15.2399858870574,59.5815141554105 15.2395373240253,59.5810035275259 15.2388549153686,59.5805956683388 15.2388548442958,59.5805956325489 15.2371828459173,59.5805889094142 15.2371828285288,59.580588954345 15.2370711806481,59.5810643894637 15.2369461098378,59.5814341825344 15.2368782409985,59.5817836134416 15.2368704977288,59.5821026464736 15.2367685704817,59.5823425664401 15.2367528688763,59.5826504877561 15.236697082187,59.5829485587276 15.2366317669716,59.5831833657077 15.2366174110484,59.5833604028915 15.2365462989488,59.583647384361 15.2365260451478,59.5838797751219 15.2364652089868,59.5844101014637 15.236447565208,59.5850902597401 15.2364763741398,59.5854282459702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

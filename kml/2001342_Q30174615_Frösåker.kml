@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001342_Q30174615_Frösåker" id="2001342_Q30174615_Frösåker">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001342_Q30174615_Frösåker</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001342_Q30174615_Frösåker">
+		<SimpleData name="NVRID">2001342</SimpleData>
+		<SimpleData name="NAMN">Frösåker</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1983/04/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1983/08/30</SimpleData>
+		<SimpleData name="SENGALLDAT">1990/03/09</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Västerås</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västerås kommun</SimpleData>
+		<SimpleData name="AREA_HA">507.45</SimpleData>
+		<SimpleData name="LAND_HA">160.26</SimpleData>
+		<SimpleData name="VATTEN_HA">347.181</SimpleData>
+		<SimpleData name="SKOG_HA">131.611</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">231-232-90</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7617618301027,59.5339243372425 16.7707629994659,59.5289462067157 16.778831920348,59.5277526540496 16.7881690165045,59.5213003368722 16.784284093295,59.5179361610967 16.757046338747,59.5021117881762 16.7568708165182,59.5020163956129 16.7567357246189,59.5021366023366 16.7396577851518,59.5136974224377 16.7359652816222,59.5147111715864 16.7332679100434,59.5152240397234 16.7383567038807,59.5179976389572 16.7392076434422,59.5182653685177 16.7407914544573,59.5188420487823 16.7482428948194,59.5187329071522 16.7494671248627,59.5191394448823 16.7546704064473,59.5243812221927 16.7557768272718,59.5245063333802 16.7547233449151,59.5289799142489 16.7564283114491,59.5291246399074 16.7566249797295,59.5292121297016 16.756653153999,59.5292836250351 16.7564303319507,59.529553542637 16.7562057481967,59.5299171203765 16.7564424617581,59.5299414318275 16.7560997532278,59.530561417792 16.7552805045152,59.5305661604891 16.7552103323595,59.530573488115 16.7552094991922,59.5306371094947 16.7547624561251,59.5312373118928 16.75420701603,59.5311246368377 16.7536452737004,59.5335234767465 16.7538256209604,59.5335178294531 16.7537692225947,59.5336777814824 16.7539935076463,59.5336790233728 16.7560656598382,59.5337540800336 16.7561008496229,59.5335032088379 16.7566471553543,59.5332631796049 16.75781882097,59.5339440899695 16.75880204626,59.5337125151657 16.7595132971187,59.534412020334 16.7617618301027,59.5339243372425</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

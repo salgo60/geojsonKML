@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002603_Q30163308_Oxhagen" id="2002603_Q30163308_Oxhagen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002603_Q30163308_Oxhagen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002603_Q30163308_Oxhagen">
+		<SimpleData name="NVRID">2002603</SimpleData>
+		<SimpleData name="NAMN">Oxhagen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/04/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/05/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/05/03</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Upplandsstiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">45.99</SimpleData>
+		<SimpleData name="LAND_HA">45.98</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.629</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-3226-01</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7568906441196,60.101497901998 17.7568465350393,60.101226864909 17.7568334413661,60.1011464403328 17.7572263785149,60.1006735427824 17.7574615527403,60.0999533412876 17.7575278188213,60.0997504045906 17.7621128497929,60.100373221539 17.764836878096,60.1007431636925 17.7655497661193,60.1005578078026 17.7685730991097,60.0997716722523 17.7717502669619,60.099780084669 17.7721513728602,60.0997921177797 17.7724095078545,60.0997924032263 17.7710930018617,60.0979311995665 17.7710127041523,60.0977228623144 17.7700974000851,60.0964128108417 17.7699764958957,60.0955501353371 17.7699599797813,60.0944280585605 17.7691699229331,60.0943873286002 17.7690979382871,60.0941963269345 17.768966902321,60.0941211488341 17.7685298428975,60.0942116800165 17.7681374603419,60.094161279542 17.768164309952,60.0943176481666 17.7681492110345,60.094432910712 17.7680504065364,60.0944884000945 17.7677681094767,60.0944753783738 17.7677099487421,60.094262074954 17.7672706275033,60.0942313597876 17.7668216666051,60.0940027208207 17.7628601802436,60.0939012728609 17.7627884211528,60.0938993669363 17.7626304890809,60.0948373478165 17.7612751620871,60.0957127094741 17.760871592613,60.095882710042 17.7602119665372,60.0961605653946 17.7600536656633,60.0962272359535 17.7598302722084,60.0962833693618 17.759519780051,60.0963613998368 17.7591362116073,60.0964577728786 17.7589651669021,60.0965007556202 17.7583543253907,60.0969784740186 17.7553816664231,60.0987970064669 17.7568906441196,60.101497901998</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

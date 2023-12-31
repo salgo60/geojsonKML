@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046391_Q89461984_Brännefjäll" id="2046391_Q89461984_Brännefjäll">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046391_Q89461984_Brännefjäll</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046391_Q89461984_Brännefjäll">
+		<SimpleData name="NVRID">2046391</SimpleData>
+		<SimpleData name="NAMN">Brännefjäll</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Överklagat</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/09/09</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Lilla Edet</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">43.31</SimpleData>
+		<SimpleData name="LAND_HA">43.31</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">40.213</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1908-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.2335377830682,58.0839990936391 12.2336096377996,58.0835165534363 12.2332017661701,58.082501185706 12.2322622170677,58.0801620310728 12.2318824551705,58.079216453579 12.2316775199932,58.0787061586328 12.2313749392583,58.0777638369498 12.2304117121731,58.0758877719595 12.229862171576,58.0759492540931 12.2291427106529,58.075988811268 12.2238246054207,58.0762811351216 12.2249382246297,58.0784905548885 12.2254355319035,58.0794771303542 12.2266123053547,58.0816793348637 12.2267799674077,58.082036105215 12.2269624554446,58.0824244175355 12.2274930591028,58.0835533095917 12.22785235046,58.0835224806553 12.2282427329014,58.0846911884327 12.2283314842002,58.0849569039598 12.2284365867538,58.0852714659219 12.2284836514167,58.0854381307422 12.2290913754834,58.0865609006587 12.2295933538359,58.0874827086746 12.2332824993692,58.0869153287042 12.2334451705763,58.0857040327108 12.2334365483672,58.0856990753275 12.2334854774105,58.0846745343425 12.2335369528679,58.0840098145364 12.2335399135243,58.0840018170186 12.2335377830682,58.0839990936391</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>12.2301030309028,58.0796895200448 12.2306343051337,58.0796349620076 12.2308712528056,58.0802904463423 12.2303820419314,58.0803318654389 12.2301030309028,58.0796895200448</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

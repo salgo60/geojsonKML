@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013924_Q30160600_Tryssjöberget" id="2013924_Q30160600_Tryssjöberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013924_Q30160600_Tryssjöberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013924_Q30160600_Tryssjöberget">
+		<SimpleData name="NVRID">2013924</SimpleData>
+		<SimpleData name="NAMN">Tryssjöberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/03/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/09/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/09/19</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">254.71</SimpleData>
+		<SimpleData name="LAND_HA">253.84</SimpleData>
+		<SimpleData name="VATTEN_HA">0.86</SimpleData>
+		<SimpleData name="SKOG_HA">226.683</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8157-03</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0657465941274,60.4469449344845 15.0696032308062,60.4518219499297 15.0742486942811,60.4518680453854 15.0756365296091,60.4529401780327 15.0769914491358,60.452554631519 15.0778275342144,60.4537055321281 15.0791381544954,60.4556187747683 15.0804881426349,60.4575097491587 15.0827094078139,60.4571186539365 15.0881534841383,60.4587482197374 15.0883515438737,60.4589690979411 15.0888343491976,60.4595073340833 15.0849576386884,60.4617334472132 15.0853024683223,60.4633356174876 15.0857854404938,60.4638006793569 15.0886254337657,60.4637383332788 15.0907677436722,60.4616519810233 15.0929584770201,60.4640850025746 15.0930389402826,60.464174256956 15.0933754909263,60.4639552572866 15.0934532198694,60.4639089987818 15.0938431580489,60.4636166948265 15.0944270706125,60.4630812905938 15.0949002857028,60.4626206917742 15.0953787493841,60.4621439618482 15.0955319619904,60.4618862819698 15.0960055013197,60.4618669610704 15.1061930474856,60.4614499736123 15.1064855793431,60.4622549628061 15.1083879301286,60.4623797417812 15.1205940843821,60.4581995800843 15.1171245915892,60.4559034740117 15.1137603580176,60.453662388157 15.113358843612,60.453426645411 15.0995513525603,60.4542518082982 15.0878048197402,60.4512269919 15.085902481588,60.4493360157731 15.0866849718912,60.4478028168163 15.0855747219381,60.4462526055842 15.0816112187705,60.4472757756383 15.0775959115973,60.4468461829942 15.0750422870353,60.447681348997 15.0738296513848,60.4480733517577 15.0719664855073,60.445431224516 15.0711535849824,60.4442776786667 15.0657858927022,60.4463457783354 15.0657465941274,60.4469449344845</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

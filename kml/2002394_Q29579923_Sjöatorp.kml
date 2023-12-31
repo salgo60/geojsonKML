@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002394_Q29579923_Sjöatorp" id="2002394_Q29579923_Sjöatorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002394_Q29579923_Sjöatorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002394_Q29579923_Sjöatorp">
+		<SimpleData name="NVRID">2002394</SimpleData>
+		<SimpleData name="NAMN">Sjöatorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/09/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/10/20</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Alvesta</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">2.52</SimpleData>
+		<SimpleData name="LAND_HA">2.52</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.765</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-8553-07 / 511-6857-08 / 511-6857-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4109875549758,56.9139000471587 14.4113038720023,56.9138901007317 14.4120540158357,56.9138526198886 14.4128541780709,56.9138124587254 14.41189979103,56.9111703272209 14.4119603543881,56.9110807111608 14.4124712512511,56.9109612749828 14.4126103334927,56.9104059656205 14.4120407937333,56.9103899741289 14.4115998907595,56.910545224063 14.411451735097,56.911099016268 14.4111925402904,56.9113240978185 14.4110820605807,56.9127326066903 14.4114941294378,56.9127332984852 14.4116327213921,56.9125425508622 14.4116747855338,56.9125485613536 14.4117596676029,56.9128207388878 14.4118459148825,56.9130834628254 14.411834888465,56.9131799509173 14.4118093190175,56.9132101060368 14.4117780023795,56.9132109469045 14.411043295929,56.9132305042282 14.4109875549758,56.9139000471587</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

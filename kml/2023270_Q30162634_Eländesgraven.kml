@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023270_Q30162634_Eländesgraven" id="2023270_Q30162634_Eländesgraven">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2023270_Q30162634_Eländesgraven</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2023270_Q30162634_Eländesgraven">
+		<SimpleData name="NVRID">2023270</SimpleData>
+		<SimpleData name="NAMN">Eländesgraven</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/09/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/11/26</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/11/26</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Älvdalen</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">100.65</SimpleData>
+		<SimpleData name="LAND_HA">100.64</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">91.3</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2753-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.718318028238,62.0527931527471 12.7190273146133,62.0506301587484 12.7163446638831,62.0518373422221 12.7156170127334,62.0514086040173 12.7188350565501,62.049921124648 12.7183548192738,62.0496718853609 12.7162361942682,62.0485713383677 12.7120532136961,62.0486394595365 12.7076793608446,62.0487107790538 12.7032269844628,62.0487836089778 12.6996059385325,62.0491211706527 12.6961050971361,62.0494497861211 12.6921085155136,62.0506449381796 12.6892138843705,62.0508518460697 12.6883668886682,62.0497185797782 12.6846513745293,62.0503405365085 12.6851215952137,62.0510630789625 12.6813551206714,62.0511339327753 12.6813817283442,62.0512412310841 12.6814417528416,62.0513968583838 12.681515761403,62.0515982252791 12.6814157879101,62.0519409812808 12.6812191105726,62.0520745891661 12.6802949169235,62.0525586805758 12.6801398350053,62.0526442656674 12.6799106949011,62.0527834064234 12.6798636385561,62.0528045556513 12.716442761976,62.0553702173153 12.7174491123219,62.055440662315 12.718318028238,62.0527931527471</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

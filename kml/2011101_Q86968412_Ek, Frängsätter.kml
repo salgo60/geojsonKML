@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011101_Q86968412_Ek__Frängsätter" id="2011101_Q86968412_Ek__Frängsätter">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011101_Q86968412_Ek__Frängsätter</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011101_Q86968412_Ek__Frängsätter">
+		<SimpleData name="NVRID">2011101</SimpleData>
+		<SimpleData name="NAMN">Ek, Frängsätter</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1968/07/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1968/07/24</SimpleData>
+		<SimpleData name="SENGALLDAT">1968/07/24</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Finspång</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.19</SimpleData>
+		<SimpleData name="LAND_HA">0.19</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III R 11-9/65, Rr 110</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8835674942888,58.8718477321161 15.8836130252006,58.8718262518383 15.8836335369625,58.8718165644456 15.8838184847031,58.8716965576735 15.8838765522105,58.8716362551205 15.8838542840069,58.8715661734806 15.8838490488386,58.8715526564698 15.8838175731881,58.8715567516659 15.8837255832266,58.8715687151782 15.8835404411591,58.871600804991 15.8833861670604,58.8716328631653 15.8832627356229,58.8716489211955 15.8831700865727,58.8716329928308 15.8830171090212,58.8716022802292 15.8828921441995,58.8715772049504 15.8827531796365,58.8715533029392 15.8825833851191,58.8715534028527 15.8825063933532,58.8716333863828 15.8825066177839,58.8717334726866 15.8826610792149,58.8717931674605 15.8828463780253,58.8718250338311 15.8831397005498,58.8718568264001 15.8832631933172,58.8718567548239 15.8835674942888,58.8718477321161</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

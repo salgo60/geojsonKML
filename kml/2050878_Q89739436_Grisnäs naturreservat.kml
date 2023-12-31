@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2050878_Q89739436_Grisnäs_naturreservat" id="2050878_Q89739436_Grisnäs_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2050878_Q89739436_Grisnäs_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2050878_Q89739436_Grisnäs_naturreservat">
+		<SimpleData name="NVRID">2050878</SimpleData>
+		<SimpleData name="NAMN">Grisnäs</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/09/30</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/10/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/10/24</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skinnskatteberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">52.3</SimpleData>
+		<SimpleData name="LAND_HA">52.29</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">43.876</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1220-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6585992057789,59.7758048192764 15.6589813582673,59.7738339060713 15.6792287167478,59.7748331388078 15.679371028557,59.7740454946747 15.6668451028073,59.773071808922 15.6615301818379,59.7684798497233 15.6603022772764,59.7681324836227 15.6602364749922,59.7682354540402 15.6521615213968,59.7681046892778 15.6520957015679,59.7682071267118 15.6505391856542,59.7681422558583 15.6506816983353,59.7684898562832 15.6510311236016,59.7686076817642 15.6508627926563,59.7689315559391 15.6511458596585,59.7693280683505 15.6512223972306,59.76980860772 15.6507339625673,59.7705727572649 15.6507998033763,59.7707705065072 15.6515432209366,59.7706963903045 15.6520062772199,59.7705802248477 15.6524871373274,59.7706288513787 15.656052355309,59.7698745047158 15.6571753249685,59.7719152810474 15.6567880575663,59.7720161077188 15.656428215839,59.772661494296 15.6561725823833,59.7736776636812 15.6553033919056,59.7736480337198 15.6541151538241,59.7732095968665 15.6536627084756,59.7732023434401 15.652452467889,59.773521542079 15.6521728142793,59.7753685274295 15.6521049428613,59.7754131562771 15.6520060366688,59.7754266450693 15.6516661787581,59.7754345887252 15.6517667768401,59.7755014902583 15.6521477905044,59.7755176480218 15.6585992057789,59.7758048192764</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

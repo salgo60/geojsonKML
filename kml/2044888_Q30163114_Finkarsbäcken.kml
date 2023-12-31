@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2044888_Q30163114_Finkarsbäcken" id="2044888_Q30163114_Finkarsbäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2044888_Q30163114_Finkarsbäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2044888_Q30163114_Finkarsbäcken">
+		<SimpleData name="NVRID">2044888</SimpleData>
+		<SimpleData name="NAMN">Finkarsbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/05/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2016/06/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/06/08</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Umeå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">33.81</SimpleData>
+		<SimpleData name="LAND_HA">26.51</SimpleData>
+		<SimpleData name="VATTEN_HA">7.3</SimpleData>
+		<SimpleData name="SKOG_HA">22.069</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8771-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.4135326633511,63.7601107061615 20.4104773867083,63.7604462070142 20.4068180095741,63.7608430679545 20.4041021311083,63.7611421501394 20.404118132479,63.7612423890489 20.4042112985536,63.7619535880637 20.4042456608338,63.7622158886741 20.4042772309294,63.7624568321583 20.4056067876796,63.7647654043482 20.4085121048122,63.7655643863398 20.4096913169698,63.7683229104785 20.4107152617508,63.7683935753539 20.4112837667743,63.7681791632629 20.4117703970557,63.767995625412 20.4119822837363,63.7679157014997 20.4122451512137,63.7678165549175 20.4122447106602,63.7678161665415 20.4127146789128,63.7676221563143 20.4127268302939,63.7675853799434 20.4162859547712,63.7603487483166 20.4165099048358,63.7598932889535 20.4165843848751,63.7597524780517 20.4141277564104,63.7600453505464 20.4135326633511,63.7601107061615</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

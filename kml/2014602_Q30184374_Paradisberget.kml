@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014602_Q30184374_Paradisberget" id="2014602_Q30184374_Paradisberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014602_Q30184374_Paradisberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014602_Q30184374_Paradisberget">
+		<SimpleData name="NVRID">2014602</SimpleData>
+		<SimpleData name="NAMN">Paradisberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/11/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/11/09</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljusdal</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">49.06</SimpleData>
+		<SimpleData name="LAND_HA">45.58</SimpleData>
+		<SimpleData name="VATTEN_HA">3.472</SimpleData>
+		<SimpleData name="SKOG_HA">43.078</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2016-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3652865090838,62.0398546162751 15.3651497161386,62.0395605623895 15.3612814265863,62.0416485798584 15.3603490077857,62.0421457079115 15.3617530244773,62.0433676351581 15.3609708421342,62.0440872363507 15.3573024941133,62.0474615944755 15.35614808513,62.0485126664756 15.3542258420388,62.0494583297865 15.3508113228646,62.054853166329 15.3491773682669,62.0550143860546 15.3494428265799,62.0550723053499 15.350041733595,62.0552106181831 15.3506016062857,62.0553454996579 15.3510849420174,62.0554708875778 15.3516632792481,62.0556055293453 15.3520673047011,62.0557013671725 15.3523295503906,62.0557550521657 15.3525960805445,62.0557954403595 15.3528560113593,62.0558258359783 15.3534283083969,62.0558557916814 15.3539310798104,62.0558628621977 15.3553699124416,62.0522591018168 15.3585341624286,62.0521861529667 15.3624322108979,62.0519445940714 15.3631397029589,62.0514443550583 15.3603987137332,62.0507450985321 15.3610033982266,62.0499817466568 15.3608998825404,62.0493672086902 15.3611824646699,62.048876777978 15.360447226302,62.0487852602961 15.3616237616077,62.0472178309765 15.3625625105296,62.0452095539676 15.3682689473728,62.0451720648481 15.3683946753659,62.042817797817 15.3676129179087,62.0410194287245 15.3674340063957,62.040982678603 15.3668647510411,62.0409022886989 15.3662652489367,62.0408246606607 15.3659469222564,62.0407696337102 15.3656428414557,62.0406940567253 15.3653730842094,62.0405918354289 15.3652508456798,62.0405074551946 15.3651783173991,62.0404074049118 15.3651793475811,62.040325903368 15.3652612690176,62.0399307150716 15.3652865090838,62.0398546162751</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2012155_Q86968676_Sjuplanteboke__numera_fyra___St_Öllstorps_skog" id="2012155_Q86968676_Sjuplanteboke__numera_fyra___St_Öllstorps_skog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2012155_Q86968676_Sjuplanteboke__numera_fyra___St_Öllstorps_skog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2012155_Q86968676_Sjuplanteboke__numera_fyra___St_Öllstorps_skog">
+		<SimpleData name="NVRID">2012155</SimpleData>
+		<SimpleData name="NAMN">Sjuplanteboke (numera fyra), St Öllstorps skog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1928/12/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1928/12/31</SimpleData>
+		<SimpleData name="SENGALLDAT">1966/11/22</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Hässleholm</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">0.05</SimpleData>
+		<SimpleData name="LAND_HA">0.05</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Nr 780</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.9336707748771,56.0599276523362 13.933807508172,56.0598886596838 13.9338604350423,56.0597980943611 13.9337562374414,56.0597085438705 13.9335927086481,56.0597094402918 13.9334775225434,56.0597649184948 13.9334633173946,56.059850741498 13.933556511286,56.0599060524777 13.9336707748771,56.0599276523362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

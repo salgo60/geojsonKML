@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023290_Q29579905_Barkerydssjön" id="2023290_Q29579905_Barkerydssjön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2023290_Q29579905_Barkerydssjön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2023290_Q29579905_Barkerydssjön">
+		<SimpleData name="NVRID">2023290</SimpleData>
+		<SimpleData name="NAMN">Barkerydssjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/09/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/10/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/10/19</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Nässjö</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">55.7</SimpleData>
+		<SimpleData name="LAND_HA">48.72</SimpleData>
+		<SimpleData name="VATTEN_HA">6.98</SimpleData>
+		<SimpleData name="SKOG_HA">6.697</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5645-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5850271394846,57.7196465366838 14.585218915897,57.7191606337504 14.5854915386649,57.7191748743904 14.5858969945573,57.7181234451331 14.5868834188367,57.7157707841021 14.5870088211231,57.715486311215 14.5871161900061,57.7152199151922 14.5872104456571,57.7149950476204 14.5872995615492,57.7147718699097 14.5873636591724,57.7146497183274 14.5871967562181,57.7143809461088 14.5869695450808,57.7140845262616 14.5868662610416,57.7139748266575 14.5867620213728,57.7138930775833 14.5865522020705,57.7137692148482 14.5862992184348,57.7136141580351 14.5857789936013,57.7133288150586 14.5840584215424,57.7128033723653 14.5840028187589,57.7133329454986 14.5823915370768,57.7136688719208 14.5818386582733,57.713595070195 14.5815777624941,57.7128299177913 14.5805778025539,57.7126217803295 14.5801259862323,57.7125649684245 14.5781757045807,57.713078101626 14.5773747843959,57.713484721947 14.5772233462561,57.7134828061969 14.5760907136022,57.7140359121159 14.5726815438527,57.7166299738386 14.5727710114993,57.7168365692933 14.5731338691948,57.7173071498568 14.5736749830183,57.7178024836274 14.5745983528392,57.718956254843 14.5762556884935,57.7195452641029 14.5772556979396,57.7193400579096 14.5787987191359,57.7198744872861 14.5793071577754,57.7205033573215 14.5813056559772,57.7212487501767 14.5813410934911,57.7212619638878 14.5819204422521,57.721139442303 14.5841091178951,57.7206760431975 14.5845976415365,57.7205567143089 14.5848545030636,57.7204543559575 14.5850280412298,57.7203364088492 14.5850529829017,57.7203045126739 14.5847229916549,57.720015971368 14.5847048864765,57.7198877309375 14.5850271394846,57.7196465366838</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

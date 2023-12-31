@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000796_Q18332529_Sillvik" id="2000796_Q18332529_Sillvik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000796_Q18332529_Sillvik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000796_Q18332529_Sillvik">
+		<SimpleData name="NVRID">2000796</SimpleData>
+		<SimpleData name="NAMN">Sillvik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1980/02/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1980/03/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1980/03/18</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Göteborg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Göteborgs kommun</SimpleData>
+		<SimpleData name="AREA_HA">29.3</SimpleData>
+		<SimpleData name="LAND_HA">28.99</SimpleData>
+		<SimpleData name="VATTEN_HA">0.309</SimpleData>
+		<SimpleData name="SKOG_HA">10.051</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.122-1725-79 1480-213</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.7443043830667,57.7377869671441 11.7443092365259,57.737785887521 11.7495662820867,57.736617574972 11.7507612043592,57.7363519676324 11.7496732325667,57.7347048306314 11.7496445749882,57.7346614523861 11.7496384289136,57.7346557844788 11.7496383515211,57.7346557105818 11.7495549347902,57.7345789082234 11.7479029011712,57.7336819925911 11.7426798234372,57.7336126801579 11.7426550323838,57.7336123476368 11.7425504500734,57.7335866265643 11.7425231245449,57.7335799097308 11.7383665654203,57.7325576415911 11.7383314103627,57.7326380382629 11.7370492255685,57.735569691488 11.7369324622538,57.7358366385145 11.7369244382959,57.7358549932887 11.7369450436993,57.735860387488 11.7441309970235,57.7377416260362 11.7442256439465,57.7377663978569 11.7443042976129,57.737786982923 11.7443043830667,57.7377869671441</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

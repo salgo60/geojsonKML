@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045495_Q55693382_Sandöörarna" id="2045495_Q55693382_Sandöörarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045495_Q55693382_Sandöörarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045495_Q55693382_Sandöörarna">
+		<SimpleData name="NVRID">2045495</SimpleData>
+		<SimpleData name="NAMN">Sandöörarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/01/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/02/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/02/16</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Luleå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">85.26</SimpleData>
+		<SimpleData name="LAND_HA">64.83</SimpleData>
+		<SimpleData name="VATTEN_HA">20.427</SimpleData>
+		<SimpleData name="SKOG_HA">54.466</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-9091-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.2635290860578,65.4779744113241 22.2647275174115,65.4794410868472 22.2663729445868,65.4781113075897 22.2667756146786,65.4780798103661 22.2669766072307,65.4781232846534 22.267521978128,65.4780469953424 22.2677893648727,65.4780242002338 22.2680159851052,65.4780939123421 22.2680724294528,65.4781746975374 22.2680891335497,65.4782420558632 22.2681434364707,65.4782775469264 22.2682725825489,65.4783211823742 22.2672546375571,65.4789509538838 22.2663454455761,65.4789767233954 22.2654866095912,65.4796255820699 22.2829321133515,65.4825410865178 22.2869724743567,65.4806206570752 22.2895353876212,65.4795340387529 22.2881871133373,65.4763145211581 22.2847393463117,65.4734526955857 22.2790485669529,65.4733491204123 22.2669990192432,65.4746012487359 22.2635290860578,65.4779744113241</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

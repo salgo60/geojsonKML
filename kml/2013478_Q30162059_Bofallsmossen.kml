@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013478_Q30162059_Bofallsmossen" id="2013478_Q30162059_Bofallsmossen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013478_Q30162059_Bofallsmossen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013478_Q30162059_Bofallsmossen">
+		<SimpleData name="NVRID">2013478</SimpleData>
+		<SimpleData name="NAMN">Bofallsmossen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/10/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/03/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/03/01</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hällefors, Karlskoga</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">70.91</SimpleData>
+		<SimpleData name="LAND_HA">70.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">69.741</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-10846-2009, 5112-22780-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5800408850887,59.4999354360305 14.5812591065416,59.50384767251 14.5807051418796,59.5053855921532 14.5875134081497,59.5067556931952 14.5885297596973,59.5066907715315 14.5896736844378,59.5068651475526 14.5905439243202,59.5070052692993 14.5911798019558,59.5071210983083 14.5913866783153,59.5071764152601 14.5915603336323,59.5072470738444 14.5917489539405,59.5073527741611 14.5919074083736,59.5075075997524 14.5920058229656,59.5076881183993 14.5921225530566,59.5080257731094 14.5922753960242,59.5084001159992 14.5924464321451,59.5086212528737 14.5926394044842,59.508763972202 14.5928187773196,59.5088390111848 14.5930609781904,59.5088962673276 14.5934779274498,59.5089697184211 14.5941690451664,59.5090458150545 14.5947793286081,59.50910200931 14.5951591337416,59.5091396981576 14.5956388577405,59.5091973611036 14.5961695881493,59.5092950601413 14.5967291773871,59.5095182253807 14.5972282749315,59.5096928534055 14.5982063530909,59.5100591758339 14.5987302926917,59.5102484400111 14.5980669170685,59.5060586665528 14.5972356583095,59.5043753135107 14.5958946757455,59.5026419333498 14.5916938983602,59.5001582305069 14.5911780701266,59.5002301568725 14.5878009593066,59.5007021457 14.5866130582057,59.5008687932301 14.5850072535123,59.4995703901165 14.5800408850887,59.4999354360305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

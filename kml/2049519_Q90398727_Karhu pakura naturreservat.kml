@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049519_Q90398727_Karhu_pakura_naturreservat" id="2049519_Q90398727_Karhu_pakura_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049519_Q90398727_Karhu_pakura_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049519_Q90398727_Karhu_pakura_naturreservat">
+		<SimpleData name="NVRID">2049519</SimpleData>
+		<SimpleData name="NAMN">Karhu pakura</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/03</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Kiruna</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">237.04</SimpleData>
+		<SimpleData name="LAND_HA">235.16</SimpleData>
+		<SimpleData name="VATTEN_HA">1.879</SimpleData>
+		<SimpleData name="SKOG_HA">202.586</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2169-16</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.5575589603214,67.5471780818228 21.5619311714396,67.5412374915489 21.5618786249552,67.5411264064676 21.561782064386,67.541261717834 21.5564570923812,67.5425300291286 21.5549323605421,67.5410261668681 21.5565457365835,67.5394996841641 21.5569250980929,67.5386963611703 21.5589926893474,67.5353986622125 21.5606501540833,67.5331442674566 21.5621762193541,67.5319904953508 21.5531733057729,67.5296765964326 21.516568667847,67.5422086551822 21.5490052606591,67.5508120991209 21.5491879033287,67.5507599967999 21.5575589603214,67.5471780818228</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

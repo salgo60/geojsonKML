@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049262_Q89399237_Hamnskärs_nature_reserve" id="2049262_Q89399237_Hamnskärs_nature_reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049262_Q89399237_Hamnskärs_nature_reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049262_Q89399237_Hamnskärs_nature_reserve">
+		<SimpleData name="NVRID">2049262</SimpleData>
+		<SimpleData name="NAMN">Hamnskär</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/10</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Södertälje</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">203.34</SimpleData>
+		<SimpleData name="LAND_HA">72.09</SimpleData>
+		<SimpleData name="VATTEN_HA">131.249</SimpleData>
+		<SimpleData name="SKOG_HA">42.832</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-2571-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.4193514657461,59.3206501859674 17.4118292882719,59.3151433487171 17.4129947856793,59.3089845212071 17.4086049709818,59.3090297747584 17.403866713645,59.3093949436919 17.4020440915627,59.3095353565374 17.4010775262504,59.3101283263579 17.3933555731348,59.3148646447543 17.3888678261958,59.3163560818537 17.387662693131,59.3177575730628 17.3859850290074,59.3217055161693 17.3864707764455,59.3227346756569 17.3875725984772,59.3239677000402 17.4067426360955,59.3239840360588 17.4192804884976,59.3206689512075 17.4193514657461,59.3206501859674</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>17.4002859627047,59.318833727455 17.4023038106989,59.3185140452707 17.403179239077,59.3185312456227 17.4041429368081,59.318785605459 17.4040644191509,59.3192503051346 17.4043057552332,59.3194418635445 17.4041658132729,59.3198956764022 17.4031761567254,59.3206909273463 17.4025049075886,59.3204726993511 17.401221817153,59.3200555407899 17.4006073827763,59.3198557511992 17.400328514088,59.3195118177367 17.4003211327973,59.3193944522936 17.4002859627047,59.318833727455</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

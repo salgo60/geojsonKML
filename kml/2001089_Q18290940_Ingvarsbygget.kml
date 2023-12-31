@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001089_Q18290940_Ingvarsbygget" id="2001089_Q18290940_Ingvarsbygget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001089_Q18290940_Ingvarsbygget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001089_Q18290940_Ingvarsbygget">
+		<SimpleData name="NVRID">2001089</SimpleData>
+		<SimpleData name="NAMN">Ingvarsbygget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1995/06/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/07/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/11/04</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Laholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">12.42</SimpleData>
+		<SimpleData name="LAND_HA">12.42</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.504</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-951-90</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4046470613807,56.4156682708431 13.4046317098428,56.4156256699486 13.4046238369753,56.4156038502884 13.4045305988882,56.415424024616 13.4044668357485,56.4153010440519 13.4043938032233,56.4151601884967 13.4042905936223,56.4149611038192 13.4022057124147,56.4148116294361 13.4010371983596,56.414834150533 13.4010204232623,56.4148344734364 13.3998736711383,56.414797311537 13.3993246052095,56.4147692279286 13.3993077827071,56.4147683638764 13.3990231296317,56.4147301312998 13.3987384609371,56.4146918978639 13.3976219071872,56.4159115213257 13.3967436368914,56.416872955785 13.398416917046,56.4168335850646 13.3994433550054,56.4168079611658 13.4001012978991,56.4177696779499 13.400356026184,56.4184866425096 13.4012970994181,56.4182848699097 13.4015187908553,56.4181868354731 13.4021312645745,56.4179001483963 13.4024624371584,56.4177597621759 13.4030218804694,56.4175103253973 13.4033624965907,56.4173494542082 13.4034032411204,56.4172777426948 13.4037510844367,56.4171064052979 13.4043843807813,56.4168194900122 13.4046816618143,56.4163853602563 13.4046373672699,56.4161845086365 13.404653476133,56.4158930044943 13.4046470613807,56.4156682708431</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2048499_Q89251367_Salvebo_naturreservat" id="2048499_Q89251367_Salvebo_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2048499_Q89251367_Salvebo_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2048499_Q89251367_Salvebo_naturreservat">
+		<SimpleData name="NVRID">2048499</SimpleData>
+		<SimpleData name="NAMN">Salvebo</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/10/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/11/12</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kungsbacka</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">14</SimpleData>
+		<SimpleData name="LAND_HA">14</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.886</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-6275-15</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.2258453676762,57.5707542349316 12.2251842572951,57.5704931239581 12.2245248712846,57.5700560996163 12.2242958379562,57.5699274771202 12.2230723586331,57.5693620827115 12.2226733249624,57.5691472341845 12.2220313178818,57.5687390299219 12.221871639814,57.5688509334883 12.2217483878044,57.5689371875434 12.2209644061833,57.5687503324358 12.2203690013448,57.5684954767989 12.2202125286563,57.5684660017332 12.2201518326156,57.5684487956137 12.2200028856957,57.5683674530238 12.2199270028481,57.5683008262451 12.2198931562879,57.568145855694 12.2198689690677,57.5680858270757 12.2198359716667,57.5680107917714 12.2197923834707,57.5679295790908 12.2197490201219,57.5678453992883 12.2195503128027,57.5675497351262 12.219403750079,57.5673681672532 12.2192750660886,57.5673148031426 12.2195280868838,57.5676235532615 12.2196749668342,57.5678734915243 12.2196938866868,57.5679155206121 12.2196108502501,57.5679418341157 12.219574479519,57.568475984187 12.2191025237948,57.5688239801491 12.2183584405785,57.5691217857584 12.2177292583311,57.5693735502415 12.2171638995626,57.5688976522629 12.2170621068109,57.5689498246606 12.2176822510193,57.5703760225156 12.2179066665352,57.5712510800486 12.219116633414,57.5703776839561 12.2262590472447,57.5732063774469 12.2273299146464,57.5724616590265 12.2265118700938,57.5717338540994 12.2263781831065,57.5713155241695 12.2256200199516,57.5709183056722 12.2258453676762,57.5707542349316</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

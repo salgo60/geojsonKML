@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000303_Q30161902_Högbränntjärns_domänreservat" id="2000303_Q30161902_Högbränntjärns_domänreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000303_Q30161902_Högbränntjärns_domänreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000303_Q30161902_Högbränntjärns_domänreservat">
+		<SimpleData name="NVRID">2000303</SimpleData>
+		<SimpleData name="NAMN">Högbränntjärns domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljusdal</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">14.13</SimpleData>
+		<SimpleData name="LAND_HA">12.94</SimpleData>
+		<SimpleData name="VATTEN_HA">1.192</SimpleData>
+		<SimpleData name="SKOG_HA">11.474</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-6212-95, 00-001-050</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4894355474124,62.3147431925849 15.4892199745785,62.3146687140472 15.4890255827159,62.3146122489443 15.4888930725419,62.3145857499137 15.4887481309748,62.3145684027585 15.4885805754926,62.3145597207929 15.4884538312026,62.3145658543724 15.4882747752869,62.3145624833503 15.4880652587252,62.3145717948856 15.4878596685202,62.3145822143741 15.4875505758076,62.3146013516805 15.4872682786176,62.3146148559969 15.4869704154756,62.3146350953517 15.4867676827421,62.3146671811104 15.4866487556384,62.3146941368492 15.486435032634,62.3146578751336 15.4809951574643,62.3163443071938 15.4809698296979,62.3163521584386 15.4809725784653,62.3163831613123 15.4809979890626,62.3166620681518 15.4810411819407,62.3168337089635 15.4810816327616,62.3169786097333 15.4811876496305,62.3171438295942 15.4812947601666,62.3172476590514 15.4814050862598,62.3173423510442 15.4815893421748,62.3174577637719 15.48192910118,62.3176405291507 15.4825160064004,62.3178835087791 15.4830966841856,62.3181378411137 15.4835757564888,62.3183608235169 15.4838762967293,62.3185074498148 15.4911925072782,62.3162101378184 15.4928234516479,62.3155443000634 15.492766834086,62.3155399425088 15.4926033525143,62.3155162981235 15.4923033948687,62.3154717909948 15.4919871141311,62.3154299566829 15.4916860418249,62.315385957539 15.491380769579,62.3153338669368 15.4911074022874,62.3152975179307 15.4908848973649,62.3152450486386 15.4907215734862,62.3151891090516 15.4905473568334,62.3151247017053 15.4902774823149,62.3150345649971 15.4899784570235,62.3149320928475 15.4896741312767,62.3148344186328 15.4894355474124,62.3147431925849</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

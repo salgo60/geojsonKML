@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001126_Q19977678_Falkeröds_lindskog" id="2001126_Q19977678_Falkeröds_lindskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001126_Q19977678_Falkeröds_lindskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001126_Q19977678_Falkeröds_lindskog">
+		<SimpleData name="NVRID">2001126</SimpleData>
+		<SimpleData name="NAMN">Falkeröds lindskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/09/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/11/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/11/03</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tanum</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Tanums kommun</SimpleData>
+		<SimpleData name="AREA_HA">1.25</SimpleData>
+		<SimpleData name="LAND_HA">1.25</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.062</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Tanums kn 2002.530-831 KS</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.2570741954998,58.6970332432427 11.2572638350045,58.696837665439 11.2573763475068,58.6967697207327 11.2575314133238,58.6966403542497 11.2577747919903,58.6964961251844 11.2580104851607,58.6964767126699 11.2581757800923,58.6962983603823 11.2583231709848,58.6961339339339 11.2584676041872,58.6959439529333 11.2586704746355,58.6957421145669 11.2586427127519,58.6956332575794 11.2587643536188,58.6954728015064 11.2587758006444,58.695457707747 11.258829086931,58.6953937660152 11.2588597956936,58.6953569015091 11.2588791474819,58.695298247834 11.2582869201745,58.695219613592 11.2582201391279,58.6953341263437 11.2580604089815,58.6954992994696 11.2579559212554,58.6955720180126 11.2576689874045,58.6957191965209 11.2574684169618,58.6959323736624 11.2573541731959,58.6960137349104 11.2571772301255,58.6961782984067 11.257070225503,58.6963363381797 11.2569492002488,58.6966017678961 11.2568480346828,58.6967150638423 11.2566689260699,58.6968301012609 11.2563229752412,58.696966201262 11.2561915193306,58.6970469528181 11.2561569629297,58.6971131647189 11.2561439309316,58.6972790268609 11.256174219267,58.6973115617705 11.2562892182003,58.6973772803464 11.2563548942286,58.6974148185458 11.2563670828228,58.6974217808163 11.256661270078,58.6975459245426 11.2565740781181,58.6974530208934 11.256632601526,58.697388468203 11.2568826290216,58.6973031921618 11.2570014790078,58.6973082953195 11.2572618224697,58.6973794553568 11.257685006122,58.6971819600214 11.2576263780871,58.6971696554346 11.2571347898262,58.6970983220962 11.2570689387713,58.6970735089114 11.2570741954998,58.6970332432427</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000650_Q10508014_Granbodåsen" id="2000650_Q10508014_Granbodåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000650_Q10508014_Granbodåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000650_Q10508014_Granbodåsen">
+		<SimpleData name="NVRID">2000650</SimpleData>
+		<SimpleData name="NAMN">Granbodåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1993/12/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1993/12/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/02/09</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ånge</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">17.22</SimpleData>
+		<SimpleData name="LAND_HA">17.22</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">15.825</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-306-98</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6075791864567,62.6110242661259 15.6075780735715,62.6110241542643 15.6070420392305,62.6118082137834 15.6013846299683,62.6112328638529 15.601161721861,62.6116766461453 15.6010738954921,62.6118294008049 15.6009751107413,62.6120781835215 15.6008652741699,62.612359632595 15.6053571894745,62.6128516853724 15.6101927591544,62.6133812066977 15.6111159752823,62.6132883816357 15.6125451518696,62.6131370498353 15.6154954594325,62.6118061858914 15.615152939373,62.611557706678 15.6148648245977,62.6113242561377 15.6145401837722,62.6111380448268 15.6142631853417,62.6108942936039 15.6140697577726,62.6107240935183 15.6140149341429,62.6106846865051 15.6142599541295,62.6106323138678 15.6154576897175,62.6103668663018 15.6150437084549,62.6102166747767 15.6151817063909,62.609911384521 15.6142269073147,62.6098372855056 15.6128681378046,62.6096673961517 15.6128351845348,62.6096632767014 15.6124006867801,62.6096150188 15.6112486747553,62.6094859124986 15.6106206915282,62.6099013270066 15.6103288590365,62.6104171348026 15.6103054787609,62.6104143015015 15.6085819652845,62.6105125040319 15.6078539943328,62.6105565511943 15.6075791864567,62.6110242661259</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

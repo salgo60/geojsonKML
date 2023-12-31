@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000223_Q30181526_Fagertärn" id="2000223_Q30181526_Fagertärn">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000223_Q30181526_Fagertärn</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000223_Q30181526_Fagertärn">
+		<SimpleData name="NVRID">2000223</SimpleData>
+		<SimpleData name="NAMN">Fagertärn</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1983/02/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1983/03/11</SimpleData>
+		<SimpleData name="SENGALLDAT">1983/03/11</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">35.37</SimpleData>
+		<SimpleData name="LAND_HA">14.21</SimpleData>
+		<SimpleData name="VATTEN_HA">21.162</SimpleData>
+		<SimpleData name="SKOG_HA">13.144</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-1850-80</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.697115660679,58.7641951463235 14.6973578802726,58.7647698004718 14.6980543620036,58.764710397634 14.7014163158056,58.7664077351321 14.7039353515086,58.7653131049894 14.7050892942891,58.7641992447601 14.7042588243619,58.7630920926652 14.7059244390801,58.7610858558558 14.70419819967,58.7598732226407 14.7033750152072,58.7578735089994 14.7025596278429,58.7576105702093 14.7018883481191,58.7575157432294 14.7018882617753,58.7575157340488 14.701888192485,58.7575157518507 14.7003878726377,58.7579085726274 14.6997932482177,58.7589206284926 14.6982561148913,58.7601429084479 14.6952973259915,58.7607707412449 14.6945552880572,58.7614817393111 14.6945553397579,58.7614817573957 14.6976731118957,58.7627373234111 14.6973707247355,58.7636761383103 14.6970366447,58.7640076702767 14.6970736714808,58.7640954839786 14.697115660679,58.7641951463235</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000852_Q30199537_Likskär" id="2000852_Q30199537_Likskär">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000852_Q30199537_Likskär</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000852_Q30199537_Likskär">
+		<SimpleData name="NVRID">2000852</SimpleData>
+		<SimpleData name="NAMN">Likskär</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1969/11/04</SimpleData>
+		<SimpleData name="URSGALLDAT">1969/11/04</SimpleData>
+		<SimpleData name="SENGALLDAT">1969/11/04</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Kalix</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">2511.82</SimpleData>
+		<SimpleData name="LAND_HA">245.78</SimpleData>
+		<SimpleData name="VATTEN_HA">2266.016</SimpleData>
+		<SimpleData name="SKOG_HA">98.77</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">IIIR11-8-68</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.0573032507516,65.650428167045 23.0827796631119,65.6487291249988 23.0986728078842,65.6475593326543 23.0964594958206,65.641092663028 23.0899641603195,65.6321901248084 23.0870915138418,65.6276306208706 23.0696001433216,65.6182550783485 23.0286932527382,65.6199235124485 22.9782305740699,65.6303905950627 22.9147044047807,65.6382616546251 22.899776349062,65.6456046328627 22.9364270630659,65.655360271325 22.9659556759984,65.6581424049572 22.9883577188269,65.6542879990366 23.0187430841008,65.65661371454 23.0292691794154,65.6560133224286 23.0452768310699,65.6512195002685 23.0573032507516,65.650428167045</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

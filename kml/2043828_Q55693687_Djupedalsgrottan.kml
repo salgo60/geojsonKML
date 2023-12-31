@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2043828_Q55693687_Djupedalsgrottan" id="2043828_Q55693687_Djupedalsgrottan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2043828_Q55693687_Djupedalsgrottan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2043828_Q55693687_Djupedalsgrottan">
+		<SimpleData name="NVRID">2043828</SimpleData>
+		<SimpleData name="NAMN">Djupedalsgrottan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/02/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/02/01</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">25.96</SimpleData>
+		<SimpleData name="LAND_HA">25.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">25.774</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1106-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6990352528996,58.531935801529 13.6985428191941,58.5309599334942 13.6980520664921,58.5310558579824 13.6977582204534,58.5304772747274 13.6967600937273,58.5285119641292 13.6962221753575,58.5287823882282 13.6953263888996,58.5293152144801 13.6943270830474,58.5292556730176 13.6935714404717,58.5293652526977 13.6929066676455,58.5297742100352 13.6924121668671,58.5301189493024 13.6921365346373,58.5301327957941 13.6930770957185,58.5318978758465 13.6930074784767,58.5320974381576 13.6927873503115,58.5325014880039 13.6927422358757,58.5325871696589 13.6939507909604,58.5329217621111 13.6934439336143,58.5337242646192 13.6927333134389,58.5346820442817 13.6928432589206,58.5356660401812 13.6926405507834,58.5360006088108 13.6934421513447,58.5367184172118 13.6939210143178,58.5365696265673 13.6944805397251,58.5363722870785 13.6955874836348,58.5360177098964 13.6965269810586,58.5356478246955 13.6972402520006,58.5355179102058 13.6981137144188,58.5353586804885 13.6992169982494,58.5348473651435 13.7003298275256,58.5345010081041 13.6992412999033,58.5323441138341 13.6990352528996,58.531935801529</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

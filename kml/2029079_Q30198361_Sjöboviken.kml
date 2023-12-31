@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2029079_Q30198361_Sjöboviken" id="2029079_Q30198361_Sjöboviken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2029079_Q30198361_Sjöboviken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2029079_Q30198361_Sjöboviken">
+		<SimpleData name="NVRID">2029079</SimpleData>
+		<SimpleData name="NAMN">Sjöboviken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2011/12/12</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/02/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/02/01</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Oskarshamn</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Oskarshamns kommun</SimpleData>
+		<SimpleData name="AREA_HA">41.09</SimpleData>
+		<SimpleData name="LAND_HA">40.68</SimpleData>
+		<SimpleData name="VATTEN_HA">0.411</SimpleData>
+		<SimpleData name="SKOG_HA">24.685</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2007-10</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4636181581654,57.2409484319194 16.4642736132408,57.2419654870412 16.4660011436251,57.2419461410203 16.4664840923048,57.2421504153884 16.4667058684015,57.2420828157614 16.4673211007,57.2423222167572 16.4684694812864,57.2428182309548 16.4691394266604,57.2432130510208 16.469988720452,57.2431296970204 16.4700720184667,57.2433883974298 16.4706624041265,57.2435549942226 16.4723841067466,57.2437978827544 16.4726424739108,57.2431751041579 16.4731120756693,57.2422346138515 16.4735814139386,57.2415991709115 16.4743554332092,57.2410909005213 16.4750824586036,57.2407097218467 16.4756687529648,57.2404302059666 16.4760674738265,57.2401506451043 16.4763958740559,57.2398456479854 16.4774273302479,57.2399220995151 16.4784591370348,57.2394392697521 16.4787170061501,57.2394393165078 16.4807571343492,57.238321096978 16.4807339012604,57.2379143421525 16.4785302352581,57.2381046475874 16.47806144366,57.2380155942591 16.4762756619889,57.2375599432866 16.4776352145371,57.2370640320132 16.4781091090207,57.2366809693081 16.4783675062343,57.2357785468881 16.4744292964575,57.2359938891566 16.4699509903601,57.2373402446617 16.4689648046282,57.239284757421 16.4636181581654,57.2409484319194</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2042088_Q30164824_Tjuvberget" id="2042088_Q30164824_Tjuvberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2042088_Q30164824_Tjuvberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2042088_Q30164824_Tjuvberget">
+		<SimpleData name="NVRID">2042088</SimpleData>
+		<SimpleData name="NAMN">Tjuvberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/06/22</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/07/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/07/18</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sala</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">10.52</SimpleData>
+		<SimpleData name="LAND_HA">10.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0.035</SimpleData>
+		<SimpleData name="SKOG_HA">10.352</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5438-14</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6140831226429,60.1162614910708 16.6143776111031,60.1162566938113 16.6145543220357,60.1163235981152 16.614701375652,60.1164312842784 16.6162500824126,60.1163085783856 16.6164817990838,60.1158362453784 16.6181920974344,60.1149570804244 16.6180573599672,60.1146065402992 16.6166390695919,60.1150252782773 16.6161027388084,60.1148218817089 16.6163208303599,60.1143224365681 16.6162510537598,60.1137924605461 16.6154856468036,60.1121058565774 16.6146403220129,60.1113791468961 16.6134768173341,60.1115715089985 16.6128963392662,60.1122776829752 16.6128758215553,60.1134161451065 16.6136229263647,60.1144056616333 16.6113414645929,60.1162388554484 16.6109098266831,60.1167283503835 16.6136063122856,60.1163492916151 16.6138135613521,60.1163021435642 16.6140831226429,60.1162614910708</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

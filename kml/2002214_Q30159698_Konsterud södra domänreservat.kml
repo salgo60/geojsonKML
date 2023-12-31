@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002214_Q30159698_Konsterud_södra_domänreservat" id="2002214_Q30159698_Konsterud_södra_domänreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002214_Q30159698_Konsterud_södra_domänreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002214_Q30159698_Konsterud_södra_domänreservat">
+		<SimpleData name="NVRID">2002214</SimpleData>
+		<SimpleData name="NAMN">Konsterud södra domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/11/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/12/02</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/12/02</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristinehamn</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">3.35</SimpleData>
+		<SimpleData name="LAND_HA">3.35</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.352</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-10406-97 / 511</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.2283053451967,59.11984002325 14.2287864136314,59.1208473282555 14.2289998677456,59.1208839446331 14.2292127492159,59.1209141898278 14.2293878992308,59.1209258269115 14.2295515046565,59.1209226127572 14.2296915875378,59.1209144361209 14.2298766749678,59.120891905442 14.2300709369569,59.1208637350394 14.2302104920559,59.1208479209836 14.2303990461688,59.1208374624302 14.2305833459642,59.1208476882553 14.2307466720359,59.1208732815393 14.2309563676535,59.1209272773291 14.2312764608199,59.1210108897188 14.2314216390597,59.1210325847778 14.2315740507296,59.1210448476779 14.2319373505238,59.1210548196292 14.2321346717236,59.1210702303819 14.2322629370012,59.1210835531022 14.2323346069548,59.1201073803524 14.231896607809,59.1200740574036 14.2290282401875,59.1190967687721 14.2288638337338,59.1188973422393 14.2285387501267,59.1190174699417 14.2283053451967,59.11984002325</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

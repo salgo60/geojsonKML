@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002129_Q30160155_Tiskaretjärn__Atikullen_" id="2002129_Q30160155_Tiskaretjärn__Atikullen_">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002129_Q30160155_Tiskaretjärn__Atikullen_</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002129_Q30160155_Tiskaretjärn__Atikullen_">
+		<SimpleData name="NVRID">2002129</SimpleData>
+		<SimpleData name="NAMN">Tiskaretjärn (Atikullen)</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1978/05/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1978/05/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1987/12/30</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sunne</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">21.54</SimpleData>
+		<SimpleData name="LAND_HA">21.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">5.918</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-788-84</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.758381879422,59.9172544393797 12.7583687372251,59.9173521912226 12.7583721172517,59.9173609620169 12.7601092903979,59.921879435384 12.7652479096645,59.9203134970613 12.7658224600346,59.9205822455689 12.7660086249153,59.9206693177623 12.7660235747314,59.9172895973197 12.7660235855893,59.9172894358138 12.7660270703832,59.9165009960987 12.7655145553395,59.9164196019978 12.7652708833809,59.9163809141278 12.7645682466234,59.916269335406 12.7645245962329,59.9162624059552 12.7641667905349,59.9160686777376 12.7622906084478,59.9158463854958 12.7622853017851,59.9158457564351 12.7622852112303,59.9158457728633 12.7584793439718,59.9165296402572 12.7584784859921,59.9165359944685 12.7584418356995,59.9168085380029 12.758381879422,59.9172544393797</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

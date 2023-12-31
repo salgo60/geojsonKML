@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005477_Q30178170_Stensjön" id="2005477_Q30178170_Stensjön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005477_Q30178170_Stensjön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005477_Q30178170_Stensjön">
+		<SimpleData name="NVRID">2005477</SimpleData>
+		<SimpleData name="NAMN">Stensjön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/05/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/06/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/06/08</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strömsund</SimpleData>
+		<SimpleData name="IUCNKAT">Ib, Vildmarksområde (Wilderness Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">1608.89</SimpleData>
+		<SimpleData name="LAND_HA">1397.22</SimpleData>
+		<SimpleData name="VATTEN_HA">211.65</SimpleData>
+		<SimpleData name="SKOG_HA">990.451</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3725-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1634476565165,64.4656717061096 15.1699452156737,64.4725186186769 15.1865922556039,64.4740219487002 15.1868742618176,64.4740473805957 15.2178386981165,64.4816002262039 15.2271162044456,64.4920434654296 15.2345112516776,64.4930077810817 15.2347830467942,64.4929769458519 15.2395137709722,64.492407201745 15.2445277809762,64.4918034179478 15.2483808390294,64.4936953497438 15.2509015596521,64.494933182913 15.2480536531198,64.4968201288185 15.2445246184411,64.4991581251805 15.2416913996045,64.501034907057 15.2392863857443,64.5026277183599 15.2419262469422,64.50481552058 15.2446706281573,64.5070874252624 15.2474066463199,64.5093535317866 15.2535170912654,64.509339804176 15.2607532135417,64.5093233860993 15.268122323278,64.5093054732031 15.2753371322023,64.5092893466182 15.2786848196001,64.5074736876271 15.2822921682734,64.5055102981676 15.2823228633864,64.5039752741075 15.2823618997312,64.5018911291867 15.2824164666889,64.4989100283433 15.2824790887104,64.4957404229079 15.2825547324806,64.4919585932296 15.2825854848381,64.4902080679008 15.2795647818539,64.4885225844402 15.2734063563766,64.4850788565113 15.2697394681586,64.4830292305683 15.264487763986,64.4800932408075 15.2624979239388,64.4789789667329 15.2587072573357,64.4768578133933 15.2545244216029,64.4745175254912 15.2504464309119,64.4722341823988 15.2465558476053,64.4700558511024 15.2424776971677,64.4677733017755 15.2390929003479,64.4658773219341 15.2361570039083,64.4642327624476 15.2327706987488,64.4623350963033 15.2294501391469,64.4604750012573 15.2256662425689,64.4583542076979 15.2225606997597,64.456613199101 15.2175978946002,64.4538307728388 15.2172021831571,64.452861394062 15.2170796141479,64.4518458104424 15.2145140316067,64.4515554236224 15.2140993441741,64.4509746167267 15.2048534426214,64.451933333161 15.1979513181245,64.4526491699555 15.1919661577945,64.4532691051854 15.1846526417272,64.4540260686665 15.1786129869081,64.4546515763167 15.1784031890662,64.4548030611137 15.1733967395181,64.4584422770973 15.168545634671,64.461967806778 15.1661749557001,64.4636907544497 15.1634476565165,64.4656717061096</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2010870_Q16503017_Bladmyran_och_Granskogen" id="2010870_Q16503017_Bladmyran_och_Granskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2010870_Q16503017_Bladmyran_och_Granskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2010870_Q16503017_Bladmyran_och_Granskogen">
+		<SimpleData name="NVRID">2010870</SimpleData>
+		<SimpleData name="NAMN">Bladmyran och Granskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/01/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/01/19</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Gävle</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Gävle kommun</SimpleData>
+		<SimpleData name="AREA_HA">19.26</SimpleData>
+		<SimpleData name="LAND_HA">19.26</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">19.176</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">06KS374 § 226</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2355606818791,60.7374055928623 17.2367589391608,60.737141490684 17.2372158480117,60.737109688241 17.2388434873967,60.7366076042245 17.2395506842899,60.7372553118496 17.2448604922371,60.7358364163727 17.2416237504957,60.7347768951023 17.2417738121834,60.7344814069388 17.2397870908763,60.7337511647793 17.2392322290378,60.7340065899941 17.2391971621837,60.7340227322482 17.2343514153446,60.7362779719829 17.2327207481232,60.7370319105189 17.232723720064,60.7370348160467 17.233084844688,60.737387077697 17.2336118603817,60.7372827324162 17.2343281307969,60.7373110005494 17.2355606818791,60.7374055928623</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2548478988856,60.7349230673524 17.2531082200196,60.7337863583103 17.2520638956962,60.7339483520258 17.2504017691377,60.7338438427679 17.2493552521968,60.7335107439678 17.2493542200256,60.7335104109926 17.2481798663069,60.7337701679771 17.247085103868,60.7335904088747 17.2457770061779,60.7335931156512 17.2450637048059,60.7339522386006 17.2453949121052,60.7343681837266 17.2465060553987,60.7349033373247 17.2474905957501,60.7349265091965 17.2493988432977,60.7349713999172 17.2518132544281,60.7348779208156 17.2528986945099,60.7355179947074 17.2548478988856,60.7349230673524</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

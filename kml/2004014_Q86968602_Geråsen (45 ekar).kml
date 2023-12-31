@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004014_Q86968602_Geråsen__45_ekar_" id="2004014_Q86968602_Geråsen__45_ekar_">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004014_Q86968602_Geråsen__45_ekar_</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004014_Q86968602_Geråsen__45_ekar_">
+		<SimpleData name="NVRID">2004014</SimpleData>
+		<SimpleData name="NAMN">Geråsen (45 ekar)</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/05/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/05/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/05/07</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">4.8</SimpleData>
+		<SimpleData name="LAND_HA">4.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">231-04831-98</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.884992152192,59.0586936444636 14.8859352783533,59.0585964364604 14.8863422393889,59.0592135075663 14.8875504053088,59.0597275488775 14.8895304597541,59.059626934881 14.889069351508,59.058560978586 14.8882442188276,59.0582829950341 14.8874671830016,59.0574033405658 14.8866732245019,59.0571585661948 14.8858359241048,59.0562864825761 14.8852291639212,59.0564162821177 14.88533378054,59.056606592223 14.8853833379659,59.0567400065501 14.8854582643671,59.0568572961902 14.8855732702801,59.0569440512777 14.8856871179947,59.0570542355597 14.8858089350429,59.0572166667568 14.8857163821703,59.0573875214788 14.885657236891,59.057520651257 14.885633001031,59.0576574668884 14.8856451412747,59.0578394150317 14.8857198846773,59.0579602965667 14.8846372577732,59.0581672383419 14.884992152192,59.0586936444636</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

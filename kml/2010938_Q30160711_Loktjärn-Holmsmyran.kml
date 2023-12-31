@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2010938_Q30160711_Loktjärn_Holmsmyran" id="2010938_Q30160711_Loktjärn_Holmsmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2010938_Q30160711_Loktjärn_Holmsmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2010938_Q30160711_Loktjärn_Holmsmyran">
+		<SimpleData name="NVRID">2010938</SimpleData>
+		<SimpleData name="NAMN">Loktjärn-Holmsmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/09/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/09/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/09/13</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sollefteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">43.4</SimpleData>
+		<SimpleData name="LAND_HA">43.37</SimpleData>
+		<SimpleData name="VATTEN_HA">0.023</SimpleData>
+		<SimpleData name="SKOG_HA">40.595</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-15790-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8797892040096,63.3973986012121 16.8800188647021,63.3979898201403 16.8800188876423,63.3979898647268 16.880451572376,63.3979680639151 16.8817466975768,63.3979047660027 16.90014961651,63.397001593754 16.9007508964814,63.3964270812806 16.9013519620248,63.3958527124929 16.9013519990618,63.3958526671112 16.9033877049319,63.3938359976731 16.8741013449725,63.3948323668111 16.8759382570318,63.3956484296771 16.8761354458368,63.3961258576791 16.8768652009538,63.3964498815237 16.8793401328924,63.3966037283318 16.8795595570722,63.3968074446265 16.8797892040096,63.3973986012121</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

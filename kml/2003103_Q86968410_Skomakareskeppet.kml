@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003103_Q86968410_Skomakareskeppet" id="2003103_Q86968410_Skomakareskeppet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003103_Q86968410_Skomakareskeppet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003103_Q86968410_Skomakareskeppet">
+		<SimpleData name="NVRID">2003103</SimpleData>
+		<SimpleData name="NAMN">Skomakareskeppet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1945/01/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1945/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">1945/01/08</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Haninge</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">0.55</SimpleData>
+		<SimpleData name="LAND_HA">0.55</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">81/325 BD nr 18      RrAB 34</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4251180087297,59.1797432557607 18.4251373094821,59.1798106062104 18.4252259600701,59.1798982646506 18.4253387666315,59.1799440217102 18.4253924791255,59.1800325298825 18.425560686064,59.1800715581607 18.4257771525453,59.1799890350516 18.4258192705712,59.1798766339321 18.4258617076112,59.1798055333696 18.4258602575558,59.1797282925333 18.4258141252997,59.1795540993574 18.4258716631457,59.1793912729358 18.4258776144213,59.1791262026358 18.4259238508028,59.1790444408388 18.4259176761041,59.1789637384403 18.4258654196827,59.178852524242 18.4259022294349,59.178761969222 18.4258659191887,59.1787447445492 18.4257687853443,59.1787332233213 18.4256552253964,59.1787355096207 18.4255867153087,59.1787548618938 18.4254863481928,59.1788152670966 18.42522499379,59.1790585385686 18.4250289120495,59.1793543752543 18.4250203598717,59.1794713014219 18.4250489653415,59.1795021666921 18.4251180087297,59.1797432557607</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

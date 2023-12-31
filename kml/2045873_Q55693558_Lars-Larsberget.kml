@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045873_Q55693558_Lars_Larsberget" id="2045873_Q55693558_Lars_Larsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045873_Q55693558_Lars_Larsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045873_Q55693558_Lars_Larsberget">
+		<SimpleData name="NVRID">2045873</SimpleData>
+		<SimpleData name="NAMN">Lars-Larsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/03/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/04/25</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/04/25</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Åsele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">51.43</SimpleData>
+		<SimpleData name="LAND_HA">50.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">50.494</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8511-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4229186341565,64.0215371833652 18.4233556189281,64.0215151173785 18.4241650932253,64.0215057882891 18.4250238500646,64.021504643966 18.4257413233779,64.0214992289022 18.4259340130126,64.0214976005749 18.4263129411976,64.021477327206 18.4266799058721,64.021434848578 18.426904708989,64.0213954740486 18.4273745977182,64.0213077641545 18.4280106920016,64.0211785924946 18.4281774000132,64.0206964414166 18.4314965074398,64.0193943409911 18.4318223984047,64.0191130925523 18.4320058828155,64.0186402505099 18.4342225920963,64.0180856646936 18.4350144883613,64.0175421169894 18.4354660789901,64.0167844654215 18.4354381980897,64.0162528259829 18.4376382315783,64.0155408464152 18.4371512988608,64.0153269725835 18.4323459652299,64.0131366692228 18.4262426699409,64.0103245077156 18.4241884554778,64.0118025442667 18.4220239491182,64.0131656304297 18.4231641232354,64.0136297614569 18.4239593058926,64.0145363689168 18.4261118185181,64.01581952193 18.4230204179924,64.0174408815389 18.4248472928464,64.0184754796273 18.4230890634975,64.0192327780688 18.4217499273596,64.0211376918399 18.4220614860137,64.0216261575517 18.4224879390043,64.02157530663 18.4229186341565,64.0215371833652</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001924_Q30178347_Bokö_Askö" id="2001924_Q30178347_Bokö_Askö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001924_Q30178347_Bokö_Askö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001924_Q30178347_Bokö_Askö">
+		<SimpleData name="NVRID">2001924</SimpleData>
+		<SimpleData name="NAMN">Bokö-Askö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/05/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/05/21</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/10/01</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Trosa</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">270.27</SimpleData>
+		<SimpleData name="LAND_HA">59.7</SimpleData>
+		<SimpleData name="VATTEN_HA">210.565</SimpleData>
+		<SimpleData name="SKOG_HA">37.44</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.5853925909585,58.8428381454159 17.5865998256076,58.844924151754 17.5867077234745,58.8450963369779 17.5943667120007,58.8444795911864 17.6044174116495,58.8466154544989 17.6090836536382,58.8402908349654 17.6214154122802,58.8373767413065 17.6129124290734,58.8349239899048 17.6143738395031,58.8325617513286 17.6139311234815,58.8318194732797 17.6132487134556,58.8307072740758 17.6071159747041,58.8315302594123 17.6006312030404,58.8190459136208 17.5905937288521,58.8347213562351 17.5853925909585,58.8428381454159</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

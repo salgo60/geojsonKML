@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000341_Q10601741_Nohlmarken" id="2000341_Q10601741_Nohlmarken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000341_Q10601741_Nohlmarken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000341_Q10601741_Nohlmarken">
+		<SimpleData name="NVRID">2000341</SimpleData>
+		<SimpleData name="NAMN">Nohlmarken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/05/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/06/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/06/18</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Skövde kommun</SimpleData>
+		<SimpleData name="AREA_HA">6.69</SimpleData>
+		<SimpleData name="LAND_HA">6.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.995</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Kommunstyrelsen Skövde Akt 253/95</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8294219875136,58.3319865975448 13.8274716094573,58.3322535212476 13.8272405741459,58.3322851332387 13.827179087981,58.3322935521859 13.8255682351239,58.3331232533611 13.8234578983415,58.3334074754974 13.8235858174135,58.3340272355381 13.8250456096826,58.3343740020569 13.8256689791608,58.3342966092479 13.8277555636491,58.3340375441999 13.8277566955607,58.3340374018668 13.8277627037416,58.3340488555968 13.8279472157829,58.3344008690589 13.8281798733003,58.3348448449675 13.8281801153085,58.3348447573592 13.8281843816276,58.3348433143233 13.8285159900437,58.3347308182888 13.8286557700706,58.3344328573039 13.8293365628005,58.3344635816447 13.8299702034482,58.3344921825866 13.8299711425081,58.3344921911719 13.8299958306542,58.3344924348434 13.8299943629397,58.3344856846098 13.8299943473498,58.3344856395551 13.8299823697117,58.3344299917456 13.8299083196775,58.3340857371311 13.8299083052751,58.3340856561576 13.8298463779005,58.33379010722 13.8296834392667,58.333012347354 13.8294774201212,58.3320217767397 13.8294766822786,58.3320182668453 13.8294693298404,58.3319828986657 13.8294690361885,58.3319814498094 13.8294688056324,58.331980675212 13.8294686671206,58.3319802158414 13.8294685814607,58.3319802240404 13.8294219875136,58.3319865975448</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

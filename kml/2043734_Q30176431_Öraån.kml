@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2043734_Q30176431_Öraån" id="2043734_Q30176431_Öraån">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2043734_Q30176431_Öraån</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2043734_Q30176431_Öraån">
+		<SimpleData name="NVRID">2043734</SimpleData>
+		<SimpleData name="NAMN">Öraån</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/04/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/05/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/05/04</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Bräcke</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">19.56</SimpleData>
+		<SimpleData name="LAND_HA">19.42</SimpleData>
+		<SimpleData name="VATTEN_HA">0.141</SimpleData>
+		<SimpleData name="SKOG_HA">19.255</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-84-15</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.2132316473538,62.7171036446669 16.2174815349614,62.7129182754301 16.2248956674558,62.709928335777 16.2272051884804,62.7094566584243 16.2300507414317,62.7112197302815 16.2326116713334,62.7113257382804 16.2325174519554,62.7108323623851 16.230595524878,62.710678113432 16.2282199892819,62.7090592659947 16.226200553288,62.7090056961524 16.2220701004301,62.7103477068847 16.2202456283847,62.7105035697063 16.2184623138694,62.7102334419052 16.2177565268044,62.7107423308546 16.2180396716852,62.7118211429708 16.2152341083787,62.7129219280286 16.213197430582,62.7139893081368 16.211959582199,62.7151859701238 16.2117284903621,62.7166731064891 16.2092837961301,62.7154092140379 16.2079127894987,62.7155495177158 16.2057618317567,62.7155461102287 16.2046063036622,62.7160218252521 16.2033360417491,62.7161069818075 16.198829690049,62.714851738771 16.198273505423,62.7152776502792 16.1988851093598,62.7154888869633 16.2031384591791,62.7165682778803 16.2047033757065,62.7165761087527 16.2060650937239,62.7159674801492 16.2089126262495,62.7159979224449 16.2101363639307,62.71684987328 16.2119997895575,62.7176041650504 16.2132316473538,62.7171036446669</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

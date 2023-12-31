@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001340_Q30171541_Kyrkbyåsen" id="2001340_Q30171541_Kyrkbyåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001340_Q30171541_Kyrkbyåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001340_Q30171541_Kyrkbyåsen">
+		<SimpleData name="NVRID">2001340</SimpleData>
+		<SimpleData name="NAMN">Kyrkbyåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/04/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/05/08</SimpleData>
+		<SimpleData name="SENGALLDAT">1975/05/08</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallstahammar</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Hallstahammars kommun</SimpleData>
+		<SimpleData name="AREA_HA">7.95</SimpleData>
+		<SimpleData name="LAND_HA">6.39</SimpleData>
+		<SimpleData name="VATTEN_HA">1.553</SimpleData>
+		<SimpleData name="SKOG_HA">6.038</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-1642-73</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.2406872427091,59.555030008763 16.2406952568535,59.5550078577625 16.2406952728894,59.555007812706 16.24069490179,59.555007825204 16.2406897948337,59.5550079993369 16.2401089381416,59.5550035701379 16.2380562712898,59.5550074797165 16.2380412423145,59.5551557437283 16.2378046451983,59.5556518044045 16.2375126267892,59.555980607457 16.237605664437,59.5567469116145 16.2378497898393,59.5572887467626 16.2381676758252,59.5573751454726 16.2384374057923,59.5576727894634 16.238543816214,59.5581477161486 16.2385295764643,59.558333827139 16.2384819919053,59.55861177781 16.2383787505557,59.5595931531585 16.238279932231,59.5597105879056 16.2392284635501,59.5600944732513 16.239645268488,59.5602632838355 16.2396967355401,59.5602374793887 16.2399498694404,59.5600356167073 16.2401291069964,59.5598550466718 16.2403673985615,59.5596010100327 16.2404826938305,59.5593582867754 16.240538351219,59.5591905351983 16.2408381349616,59.5581811965599 16.2408243285499,59.5579790866536 16.24076278706,59.5577073781733 16.2407390164834,59.5575354935848 16.2407247378896,59.5570809980264 16.2407050184898,59.5568046990548 16.2405450310789,59.5560384922502 16.2405224181547,59.5558455813259 16.2406002228853,59.5553786456568 16.2406872427091,59.555030008763</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

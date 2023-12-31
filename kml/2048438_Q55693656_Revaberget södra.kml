@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2048438_Q55693656_Revaberget_södra" id="2048438_Q55693656_Revaberget_södra">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2048438_Q55693656_Revaberget_södra</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2048438_Q55693656_Revaberget_södra">
+		<SimpleData name="NVRID">2048438</SimpleData>
+		<SimpleData name="NAMN">Revaberget södra</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/12</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sundsvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">3.66</SimpleData>
+		<SimpleData name="LAND_HA">3.58</SimpleData>
+		<SimpleData name="VATTEN_HA">0.081</SimpleData>
+		<SimpleData name="SKOG_HA">3.199</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-4839-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.671723566923,62.9149171243512 16.6716413127567,62.9148319674635 16.6715378043032,62.914854452731 16.6705959364801,62.9150729545937 16.6697662618399,62.9152653800913 16.6681602122791,62.9156379420675 16.6701945558511,62.9168756911159 16.6726157789893,62.916792850065 16.6730596946169,62.9167700002549 16.673259312962,62.9167332130758 16.6737129920237,62.9166495925291 16.6737295937152,62.9166465227682 16.6735808876232,62.9165319723314 16.673417296707,62.9164088001893 16.6731230903164,62.9161474218535 16.6728185780955,62.9159376069515 16.6726245692968,62.9157815862837 16.6724034084994,62.9155854878385 16.6720511397286,62.9152582443785 16.6719093007081,62.9151008773814 16.671723566923,62.9149171243512</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

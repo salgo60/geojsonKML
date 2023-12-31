@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013024_Q19979127_Västermarken" id="2013024_Q19979127_Västermarken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013024_Q19979127_Västermarken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013024_Q19979127_Västermarken">
+		<SimpleData name="NVRID">2013024</SimpleData>
+		<SimpleData name="NAMN">Västermarken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/06/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/07/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/07/10</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Sävsjö</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">29.66</SimpleData>
+		<SimpleData name="LAND_HA">27.14</SimpleData>
+		<SimpleData name="VATTEN_HA">2.52</SimpleData>
+		<SimpleData name="SKOG_HA">26.781</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-18650-06</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4521984603599,57.4750483136211 14.4525941156661,57.4752594244941 14.455193657501,57.4766463138224 14.4559009349368,57.4763254675442 14.4564779502696,57.4764571482783 14.4574304264425,57.4763048552424 14.4577763769367,57.4762450250508 14.4584555823072,57.4759823702703 14.458922902852,57.4750902645253 14.4589681940958,57.474621888931 14.4585441750987,57.4741134207401 14.4587882653941,57.4735375097746 14.458782474091,57.4730303330538 14.4588649565041,57.4726278543479 14.4584823586974,57.4723890347886 14.4586682953976,57.4717930218579 14.4589558253927,57.4713362135033 14.4592134548888,57.4710271900126 14.4593586985234,57.4705119740784 14.4600472863073,57.4701703816319 14.4604921591013,57.4698152658204 14.4604034925094,57.4691174209735 14.459633798452,57.4689067355691 14.4590122525696,57.4687563639161 14.4581849288653,57.4685745542251 14.4577759213178,57.4683299864629 14.4570949408927,57.4683640578886 14.4562209472246,57.4687126233095 14.4557713451328,57.4690037808685 14.4550994826796,57.4693058612776 14.4549098452034,57.469425081455 14.4537500000435,57.4699070490284 14.4533837629359,57.4703867436539 14.4530936847082,57.4707666610981 14.4531014772527,57.4710408195923 14.4531098721964,57.4714309240371 14.4530681720815,57.4719086468355 14.4529635409738,57.4731074659213 14.4526597764417,57.4738779926781 14.4521983940681,57.4750482863843 14.4521984603599,57.4750483136211</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

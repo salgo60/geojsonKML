@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011338_Q86968469_Antamåla_rör" id="2011338_Q86968469_Antamåla_rör">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011338_Q86968469_Antamåla_rör</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011338_Q86968469_Antamåla_rör">
+		<SimpleData name="NVRID">2011338</SimpleData>
+		<SimpleData name="NAMN">Antamåla rör</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/05/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/05/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1973/05/28</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Emmaboda</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">0.59</SimpleData>
+		<SimpleData name="LAND_HA">0.59</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.121-259-73</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.5509285478947,56.5019734520504 15.550902163089,56.5019788967884 15.5503841029502,56.5020858250207 15.5504768877655,56.5022186342001 15.5505900749581,56.5022907173603 15.5508114823852,56.5025695631646 15.5508751074935,56.5027672696609 15.5509635717595,56.5028931796624 15.5510442208152,56.5029741754534 15.5511330580288,56.5030462044021 15.551177104858,56.503136095286 15.5512254560715,56.5031900834757 15.5513186626774,56.503217215969 15.5514608021284,56.503208526132 15.5516839153239,56.5032359261779 15.5518177541264,56.5032541540326 15.5519028382045,56.5032812772448 15.5520082141326,56.5033084360198 15.5521014534917,56.5033265834102 15.5521865860655,56.5033447218414 15.552304211603,56.5033629224072 15.5523693418959,56.5033361109785 15.5523980626682,56.5032912680586 15.5523821863227,56.5032373515587 15.5523458250823,56.5032103354999 15.552321713061,56.5031743614609 15.5522203345177,56.5031561965086 15.5521107201906,56.5031559739281 15.5520335823249,56.5031558135873 15.5519442758908,56.5031556264019 15.5518225413454,56.5031464011669 15.5517455809585,56.5031193047123 15.5516646398286,56.5030832145617 15.5515918540659,56.5030381576841 15.5514991482981,56.5029391841343 15.5514712663049,56.5028583048064 15.5514838060522,56.5028044417376 15.5514923005782,56.5027505786557 15.5515006496278,56.5027146759786 15.5515050178909,56.5026697796471 15.5515052600584,56.5026338590512 15.5514974921011,56.5025799603471 15.5514897404108,56.5025260615699 15.5514900471342,56.5024811563141 15.5514781692743,56.5024362242871 15.5513856913167,56.5023013301138 15.5513493962576,56.5022653290967 15.5512928101149,56.5022292923327 15.5512321463336,56.5021932466827 15.5511026154656,56.5021390975398 15.5510338936739,56.5020940492596 15.5509653016365,56.5020310495888 15.5509285478947,56.5019734520504</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001385_Q19977857_Hyllingen" id="2001385_Q19977857_Hyllingen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001385_Q19977857_Hyllingen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001385_Q19977857_Hyllingen">
+		<SimpleData name="NVRID">2001385</SimpleData>
+		<SimpleData name="NAMN">Hyllingen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1968/10/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1968/11/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1968/11/01</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Aneby</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">44.47</SimpleData>
+		<SimpleData name="LAND_HA">42.99</SimpleData>
+		<SimpleData name="VATTEN_HA">1.482</SimpleData>
+		<SimpleData name="SKOG_HA">2.532</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">IIIR11-11-66</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8444343703003,57.8405324976061 14.8438731673414,57.8404840316049 14.8416778100792,57.840454014625 14.8416777258646,57.84045401452 14.8413819382656,57.8404480312362 14.8413815509179,57.8404480217697 14.8412047000383,57.8404784751515 14.8389843234763,57.8404770966726 14.8380649102092,57.8410708872517 14.8375074605548,57.8454974125527 14.8374599483363,57.8469017057374 14.8374581193041,57.8469562079217 14.8374527759914,57.8471139659913 14.8375174243625,57.8477290839778 14.8378626844697,57.8482368001479 14.8384888214477,57.8486325316024 14.8392515142956,57.8488663206644 14.8394433133079,57.8489125257805 14.8395836666529,57.8489463419017 14.8413079713766,57.8492758957592 14.842465492363,57.8494599744605 14.8425371275419,57.8494713720445 14.8429658622479,57.849539548774 14.8440464119545,57.848806696066 14.8449676396512,57.8477822362915 14.8450737698873,57.8476415236365 14.8467976701004,57.843198838282 14.8444344544764,57.8405325066916 14.8444343703003,57.8405324976061</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

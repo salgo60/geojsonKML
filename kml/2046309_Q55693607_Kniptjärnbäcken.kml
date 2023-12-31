@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046309_Q55693607_Kniptjärnbäcken" id="2046309_Q55693607_Kniptjärnbäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046309_Q55693607_Kniptjärnbäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046309_Q55693607_Kniptjärnbäcken">
+		<SimpleData name="NVRID">2046309</SimpleData>
+		<SimpleData name="NAMN">Kniptjärnbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/06/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/07/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/07/15</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Skellefteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">58.49</SimpleData>
+		<SimpleData name="LAND_HA">58.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">54.699</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-198-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.296918926648,64.618687414571 20.300418558646,64.6181097017204 20.3038005839629,64.6188116730757 20.3053040471271,64.6177004610476 20.3031450122492,64.6170044226657 20.3045875310784,64.6160506916985 20.3064878824178,64.6160636160387 20.3055398165562,64.6133237050632 20.308347975701,64.6133580612169 20.3063364766621,64.6090376829212 20.3029898162015,64.6108997301264 20.2996564249545,64.6121900673503 20.2967220309784,64.6139787050071 20.2944947589821,64.6158884621146 20.2930442771309,64.6164562752441 20.2913162245891,64.6176154279128 20.289036703228,64.6186594250552 20.2871394747863,64.6199045803644 20.2852049283282,64.6203940300907 20.2877567207105,64.621329811298 20.2882830294229,64.6215225915167 20.2884794947122,64.6228361101492 20.2890229221389,64.6233529778335 20.29227561395,64.62298629333 20.2941916298362,64.6203226272409 20.2946624055211,64.6194633693179 20.296918926648,64.618687414571</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

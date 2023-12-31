@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046713_Q55693593_Komyrbäcken" id="2046713_Q55693593_Komyrbäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046713_Q55693593_Komyrbäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046713_Q55693593_Komyrbäcken">
+		<SimpleData name="NVRID">2046713</SimpleData>
+		<SimpleData name="NAMN">Komyrbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/06/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/07/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/07/14</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Nordmaling</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">14.96</SimpleData>
+		<SimpleData name="LAND_HA">14.95</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">14.71</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-4299-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.0893750678642,63.7254342270298 19.0872462006228,63.7241999477137 19.0857828339834,63.723337067067 19.0857725890363,63.7233454914426 19.0846379267308,63.7242784545216 19.0816564961577,63.7241323377507 19.0790548792684,63.7241993352124 19.0790543389016,63.7242568743072 19.0788079235711,63.7255582581106 19.0782766613608,63.7268099008768 19.078410611249,63.7268909133445 19.0792194029166,63.7273787865836 19.0816696987694,63.7275733466495 19.0831443374278,63.727454139593 19.0832997887574,63.727351606127 19.0833964104551,63.7272878739642 19.0837401722207,63.7270611280083 19.0838987241312,63.7269565454778 19.0839968909802,63.726891791981 19.084449860492,63.72671366077 19.0853459427142,63.7264599106096 19.0871454628565,63.7260018339772 19.0877347310463,63.7258518252608 19.0893503156034,63.7254405283104 19.0893750678642,63.7254342270298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

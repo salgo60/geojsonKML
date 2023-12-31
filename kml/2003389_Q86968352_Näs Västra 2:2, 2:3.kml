@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003389_Q86968352_Näs_Västra_2_2__2_3" id="2003389_Q86968352_Näs_Västra_2_2__2_3">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003389_Q86968352_Näs_Västra_2_2__2_3</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003389_Q86968352_Näs_Västra_2_2__2_3">
+		<SimpleData name="NVRID">2003389</SimpleData>
+		<SimpleData name="NAMN">Näs Västra 2:2, 2:3</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/02/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/03/14</SimpleData>
+		<SimpleData name="SENGALLDAT">1960/03/14</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Eksjö</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">0.59</SimpleData>
+		<SimpleData name="LAND_HA">0.59</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">IIIR-2-60</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8927038759271,57.6111525980237 14.8930336252626,57.6111067607017 14.8934342889609,57.6110146499801 14.8937372624436,57.6109556017689 14.8939750186396,57.6108483064159 14.8941047725401,57.6107581039406 14.8941537372781,57.6105530897686 14.8939599351348,57.6104357670856 14.8937377060607,57.6104307568235 14.8935144506503,57.6104734070732 14.8931338648375,57.6106323836633 14.8928994218866,57.6106939946559 14.892589292626,57.6108585895119 14.892436184665,57.6109325479587 14.8924714206797,57.6110554691105 14.8927038759271,57.6111525980237</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8955765499525,57.6103173115697 14.8952679564071,57.6102674991976 14.8950011301838,57.6103131700591 14.8945808182539,57.6102877767352 14.8945050104404,57.61038896556 14.8945685944501,57.6104286678749 14.894935051833,57.6104128132285 14.8951349029532,57.6105229084266 14.8953975836279,57.6105225511558 14.8956018431462,57.6104500326607 14.8955765499525,57.6103173115697</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

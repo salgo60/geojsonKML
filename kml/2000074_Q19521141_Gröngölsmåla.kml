@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000074_Q19521141_Gröngölsmåla" id="2000074_Q19521141_Gröngölsmåla">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000074_Q19521141_Gröngölsmåla</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000074_Q19521141_Gröngölsmåla">
+		<SimpleData name="NVRID">2000074</SimpleData>
+		<SimpleData name="NAMN">Gröngölsmåla</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/02/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/04/06</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/04/06</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlskrona</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">44.5</SimpleData>
+		<SimpleData name="LAND_HA">43.92</SimpleData>
+		<SimpleData name="VATTEN_HA">0.575</SimpleData>
+		<SimpleData name="SKOG_HA">42.463</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-3697-91</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3713622897073,56.3458731307632 15.372617597515,56.3430260073187 15.3726171930862,56.3430260085346 15.3637966808183,56.3430953111247 15.3637166720815,56.3430959322748 15.3591627556722,56.3431314579878 15.3589003568516,56.3431800067033 15.3581545966333,56.3433179827896 15.358540426335,56.3439707059647 15.3587185455886,56.3442430231636 15.3589102160322,56.3444902879875 15.3591543463517,56.344705604334 15.3594332630426,56.3449570538445 15.3596165903249,56.3451025113441 15.3600942177186,56.3454861107959 15.3618728291938,56.3466903262983 15.3607438413267,56.3471508746937 15.361220755027,56.3475611827471 15.3625215448415,56.3488903980696 15.3633850332394,56.3493486938118 15.363475924279,56.3494684512971 15.3635657164899,56.3495083576759 15.3639748696983,56.3496901892225 15.3645243523737,56.349806711757 15.3648125596755,56.3500779685172 15.3668943688244,56.3499949975789 15.367240277778,56.3497172325548 15.3671019556699,56.3492527840314 15.3668201041653,56.3492047876609 15.3670816168852,56.3486496695167 15.3674330188438,56.3483068218113 15.367462194166,56.3481506295264 15.3687238940639,56.3479778661769 15.3689629116446,56.3478583078675 15.3705343754537,56.347751223725 15.3713438002944,56.3459150719495 15.3713622897073,56.3458731307632</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

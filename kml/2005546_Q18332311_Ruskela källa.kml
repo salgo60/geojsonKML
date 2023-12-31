@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005546_Q18332311_Ruskela_källa" id="2005546_Q18332311_Ruskela_källa">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005546_Q18332311_Ruskela_källa</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005546_Q18332311_Ruskela_källa">
+		<SimpleData name="NVRID">2005546</SimpleData>
+		<SimpleData name="NAMN">Ruskela källa</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/02/10</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/04/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/06/05</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Falköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">27.36</SimpleData>
+		<SimpleData name="LAND_HA">27.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">27.318</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-48890-2000</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6329906795391,58.2916937040805 13.6338159939686,58.2928004626991 13.6332906391441,58.2929219463747 13.6332395416453,58.2930402155163 13.6333302121175,58.2933664241493 13.6363507027108,58.2930870834692 13.6389541921343,58.2926180273297 13.6460362004279,58.291237451919 13.6481929032827,58.2908045289945 13.6482851805237,58.2903545968351 13.6482914144574,58.2902648980037 13.6471333155567,58.2895964868891 13.6466998341045,58.2893392058034 13.6468678350048,58.289240439624 13.6472576189213,58.2879070749788 13.6464371809468,58.2877460090519 13.6458737047043,58.2888041955501 13.645200077159,58.288441908404 13.6429819914731,58.289032540057 13.6407608676775,58.2877299455041 13.6379315502983,58.2888309319693 13.6392191965631,58.2900384885577 13.6347157345295,58.2912749236157 13.6329906795391,58.2916937040805</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

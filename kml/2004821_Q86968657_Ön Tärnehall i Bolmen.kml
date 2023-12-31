@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004821_Q86968657_Ön_Tärnehall_i_Bolmen" id="2004821_Q86968657_Ön_Tärnehall_i_Bolmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004821_Q86968657_Ön_Tärnehall_i_Bolmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004821_Q86968657_Ön_Tärnehall_i_Bolmen">
+		<SimpleData name="NVRID">2004821</SimpleData>
+		<SimpleData name="NAMN">Ön Tärnehall i Bolmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1958/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">1958/12/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1958/12/16</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljungby</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">0.08</SimpleData>
+		<SimpleData name="LAND_HA">0.08</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">IIIÖ1-3-58   RrG149</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.795947769288,57.0055356885827 13.7958847925218,57.0055498529795 13.7958809318822,57.0055755737935 13.7957808426487,57.0056121383381 13.7957649758897,57.0056257136888 13.7957648152979,57.0056531052346 13.7958236656749,57.0056881800156 13.7958517584088,57.0057319252186 13.7958316080298,57.0058215113575 13.7957260732309,57.0058737100411 13.7956882361298,57.0058915212382 13.7956641491933,57.0058955300854 13.7956506834956,57.00592855255 13.7956784526313,57.0059660056765 13.7956983246398,57.0060582947797 13.7957934041427,57.0060932419437 13.7958485276632,57.0060877437558 13.7958807847312,57.0060775244625 13.7959106673069,57.0060587472491 13.7959844523668,57.0059725339925 13.7959966350375,57.0059450694107 13.7959552346024,57.0059131453436 13.7959372709826,57.0058555449996 13.7959328171826,57.0058160431738 13.7959676421626,57.0057716903024 13.7960007629319,57.0058106682547 13.7960274633889,57.0058037376342 13.7960399363643,57.0057922588854 13.7960285162594,57.00575075844 13.7959946369085,57.0056343466171 13.7960196146564,57.005565039496 13.795947769288,57.0055356885827</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

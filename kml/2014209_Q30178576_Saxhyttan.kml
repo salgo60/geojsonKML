@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014209_Q30178576_Saxhyttan" id="2014209_Q30178576_Saxhyttan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014209_Q30178576_Saxhyttan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014209_Q30178576_Saxhyttan">
+		<SimpleData name="NVRID">2014209</SimpleData>
+		<SimpleData name="NAMN">Saxhyttan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/02/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/03/13</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/03/13</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hällefors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Hällefors kommun</SimpleData>
+		<SimpleData name="AREA_HA">5.23</SimpleData>
+		<SimpleData name="LAND_HA">5.22</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">4.883</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">35.03/265</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4609749971009,59.7411287300538 14.4611174049809,59.7414072932097 14.4617518547381,59.7424661437635 14.4629359789996,59.74190837639 14.4630526575259,59.7418512028075 14.4638850150966,59.741456580086 14.4641648540146,59.7411441554417 14.4636603042544,59.7410292837412 14.4641359162815,59.7407024642017 14.46421619895,59.7406714699771 14.4641441719977,59.7406512500823 14.4638610237154,59.7404673380176 14.4634777117781,59.7402564271823 14.4642112382919,59.7398775355826 14.4639299548194,59.7397542000708 14.4634679729659,59.7396940625458 14.4632676309599,59.7396963244649 14.4628040452106,59.7397440435735 14.4624042866511,59.7398005709733 14.4621895698833,59.7398316515233 14.4620518049546,59.7398463712566 14.4621830582303,59.7404341973158 14.4609749971009,59.7411287300538</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>14.4625905234558,59.740628418469 14.4631475076477,59.7407865577556 14.4626910682628,59.7411673220303 14.4621518377535,59.7410288923456 14.4625905234558,59.740628418469</coordinates></LinearRing></innerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4633541628923,59.7396149525983 14.4639769128431,59.7397111987279 14.4645628085553,59.739865202541 14.4653795176448,59.7395384119908 14.4664885149391,59.7387205391043 14.4667560562386,59.7383418328876 14.4661310382069,59.7379437701289 14.4662259658498,59.7380993898174 14.4656390978645,59.7380311825073 14.4649497009994,59.7383002949248 14.4645634681754,59.7382064271309 14.4641336957999,59.7387147825327 14.4634986302472,59.7393872217681 14.4633541628923,59.7396149525983</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

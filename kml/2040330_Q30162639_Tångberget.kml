@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2040330_Q30162639_Tångberget" id="2040330_Q30162639_Tångberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2040330_Q30162639_Tångberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2040330_Q30162639_Tångberget">
+		<SimpleData name="NVRID">2040330</SimpleData>
+		<SimpleData name="NAMN">Tångberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/09/30</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/11/25</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/11/25</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Gävle</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Gävle kommun</SimpleData>
+		<SimpleData name="AREA_HA">53.11</SimpleData>
+		<SimpleData name="LAND_HA">52.26</SimpleData>
+		<SimpleData name="VATTEN_HA">0.85</SimpleData>
+		<SimpleData name="SKOG_HA">47.16</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Dnr 13KS118</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3464551914214,60.7542746017033 17.3466409707137,60.7533279507734 17.3458042071447,60.7531173118565 17.345256958681,60.7527700920229 17.3460272571408,60.7520686397395 17.3444048949953,60.7515764745702 17.3438482422723,60.7517787676909 17.3430259308884,60.7514506440582 17.3432636299607,60.7508600211229 17.3421772316036,60.7507804497353 17.3412090845317,60.7507811653829 17.3403473343909,60.7509099558982 17.3398284069769,60.7505557158502 17.3386377049656,60.750141568589 17.3381104646344,60.7500182644524 17.3377100461803,60.7501391692678 17.3370018981658,60.7500180944742 17.3371526463546,60.7498360956851 17.3351666965652,60.7493505959836 17.3336082425269,60.7491519566452 17.3328304540757,60.7491008087609 17.3318086521864,60.7491478427595 17.3307344661749,60.7493272947827 17.3297499903755,60.7497834547277 17.3284051801739,60.75271382778 17.3287651243648,60.7528430994381 17.329306521681,60.7534161554898 17.3286309007645,60.754080289369 17.3298815909972,60.7547182941354 17.3316607698404,60.7552958240676 17.3330447428767,60.7541741956874 17.3338584165155,60.7542958353398 17.3367880194655,60.7542567395394 17.3373141503687,60.7551560245101 17.3391909666324,60.7559306222793 17.3442792942645,60.7565033512933 17.3449803946626,60.7564489770386 17.3464712550758,60.7557904700881 17.3457333873406,60.7551963962109 17.3456156550196,60.7548766259255 17.3457405102858,60.7544266415418 17.3464551914214,60.7542746017033</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

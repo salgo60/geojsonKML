@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002624_Q29580034_Nåntuna_lund" id="2002624_Q29580034_Nåntuna_lund">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002624_Q29580034_Nåntuna_lund</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002624_Q29580034_Nåntuna_lund">
+		<SimpleData name="NVRID">2002624</SimpleData>
+		<SimpleData name="NAMN">Nåntuna lund</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1954/02/04</SimpleData>
+		<SimpleData name="URSGALLDAT">1954/02/04</SimpleData>
+		<SimpleData name="SENGALLDAT">1954/02/04</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Sveriges lantbruksuniversitet</SimpleData>
+		<SimpleData name="AREA_HA">1.27</SimpleData>
+		<SimpleData name="LAND_HA">1.27</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">1.234</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">IIIÖ-19-53   C 18</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6756180707289,59.8170179611965 17.6751892624797,59.8174370538284 17.6753329865915,59.8174589360531 17.6753327082692,59.8174592471829 17.6753382599898,59.8174597362006 17.6754222233091,59.8174725289259 17.675745233876,59.8175217144989 17.676571246512,59.8176310019394 17.6766125089612,59.8175609556495 17.6768165719095,59.817214516222 17.6772745927437,59.8165602235611 17.677625647452,59.816014113447 17.6771420641109,59.8159640686425 17.676745205927,59.8159412494815 17.6766437008701,59.8159390119195 17.6765470744839,59.8159368816288 17.6764565797753,59.8160876571129 17.6764440661314,59.8161015590262 17.6756180707289,59.8170179611965</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

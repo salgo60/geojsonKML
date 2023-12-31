@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013513_Q30186576_Fenningberget" id="2013513_Q30186576_Fenningberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013513_Q30186576_Fenningberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013513_Q30186576_Fenningberget">
+		<SimpleData name="NVRID">2013513</SimpleData>
+		<SimpleData name="NAMN">Fenningberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/05/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/05/07</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Malung</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">744.13</SimpleData>
+		<SimpleData name="LAND_HA">732.58</SimpleData>
+		<SimpleData name="VATTEN_HA">11.53</SimpleData>
+		<SimpleData name="SKOG_HA">568.79</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-3538-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4045686028252,60.9928564796686 13.4046299564108,60.993857963726 13.4214400040232,60.994591087188 13.4263784248459,60.9924993827653 13.4337015544222,60.9928856910516 13.4341990840959,60.9909993037869 13.4356462608036,60.9903385461833 13.4480745780547,60.9908924598605 13.4502405141616,60.9890763504505 13.4503318190629,60.9869804602708 13.4581153876951,60.987282974534 13.4590832927371,60.9866978714882 13.4563264572691,60.9865936572037 13.4564341963819,60.9859369067501 13.4509387185669,60.9857279105209 13.459652745994,60.9825984802743 13.4627423819848,60.9827228209855 13.4692375080965,60.9764052530843 13.4671883459614,60.9758019203241 13.4582221594244,60.9754318808695 13.4621902277831,60.9715101655042 13.4527981801295,60.9634067392726 13.4362405137959,60.9627730225958 13.4361854080266,60.9629620080114 13.4333638737126,60.9628281530811 13.4303409144744,60.9655495593466 13.4218313562349,60.9651726912188 13.4162105731094,60.9724255765457 13.4160791066751,60.9745314550878 13.4191989665283,60.9765434155291 13.4145876496148,60.9804111520903 13.4155134161538,60.9855075265818 13.4136559872234,60.9863373344556 13.4130928575582,60.989223991269 13.4078059165717,60.988980259207 13.4054132120745,60.9900332385727 13.4045686028252,60.9928564796686</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

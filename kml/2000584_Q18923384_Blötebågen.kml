@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000584_Q18923384_Blötebågen" id="2000584_Q18923384_Blötebågen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000584_Q18923384_Blötebågen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000584_Q18923384_Blötebågen">
+		<SimpleData name="NVRID">2000584</SimpleData>
+		<SimpleData name="NAMN">Blötebågen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/11/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/12/13</SimpleData>
+		<SimpleData name="SENGALLDAT">1989/02/28</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strömstad</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">3.13</SimpleData>
+		<SimpleData name="LAND_HA">3.13</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.982</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-5527-89 (1486-212)</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.1277393407767,58.9189942731317 11.1277392531458,58.9189942794948 11.1274447021559,58.9190219222378 11.1274446145249,58.9190219286007 11.1274451419806,58.9190366076909 11.1274455476774,58.9190478757843 11.1274510687824,58.9192008414628 11.1274793838228,58.9193816863914 11.1275332706899,58.9195005003467 11.127663447411,58.9195680549559 11.127895144688,58.9196571820729 11.1281405677923,58.9197212595252 11.1281458194993,58.9197226396441 11.1281706135392,58.9197221332335 11.1283206191974,58.919773784245 11.128449237689,58.9198079550715 11.1285541627712,58.9198284694782 11.1287001721179,58.9198414855751 11.1287424414654,58.9198437324403 11.1287662165608,58.9199534620383 11.1279645396263,58.9200571845828 11.1278908222375,58.9200667250403 11.1290362546132,58.9204978836826 11.1299920708168,58.9203697609641 11.1307225407153,58.9195137745153 11.1321018176619,58.9194773108736 11.1321070474577,58.9194771797964 11.1321073266744,58.9194771701773 11.1314491147868,58.918642258431 11.1285417763891,58.9189175372469 11.1278381549939,58.9189841366497 11.127838067363,58.9189841430129 11.1277393407767,58.9189942731317</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

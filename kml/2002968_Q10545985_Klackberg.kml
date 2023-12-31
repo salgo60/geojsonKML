@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002968_Q10545985_Klackberg" id="2002968_Q10545985_Klackberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002968_Q10545985_Klackberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002968_Q10545985_Klackberg">
+		<SimpleData name="NVRID">2002968</SimpleData>
+		<SimpleData name="NAMN">Klackberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/03/11</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/03/11</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Norberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Norbergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">20.31</SimpleData>
+		<SimpleData name="LAND_HA">20.1</SimpleData>
+		<SimpleData name="VATTEN_HA">0.2</SimpleData>
+		<SimpleData name="SKOG_HA">14.323</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">2004.0394</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8967863530459,60.0791375409849 15.896638176931,60.0786141214832 15.8965197332848,60.0786462813148 15.8963314542328,60.0782296145833 15.8960939853585,60.0777252796439 15.8962913886087,60.0774551976961 15.8959144287829,60.0769420644106 15.8958343726527,60.0767342054789 15.8952505016102,60.0759428431805 15.8949537440307,60.0759975709786 15.8937799797335,60.0755508458815 15.8931567389505,60.0752653878289 15.8918601475052,60.0748260213135 15.89182301234,60.0748396604105 15.8913174556267,60.0746695977538 15.8907672323213,60.0744982445533 15.8902177802141,60.074293281841 15.8910510719128,60.0738456185864 15.889451814056,60.0732272003775 15.8883481256623,60.0728019657264 15.8850614768718,60.0726995290789 15.8841059885785,60.0731656522255 15.8842319492943,60.0744048168125 15.8845226639018,60.0744833313705 15.884847886438,60.0745693908976 15.8855332627469,60.0747915061779 15.8858528421608,60.0748987751599 15.8863614310667,60.0751124526661 15.8865561897248,60.0752088018152 15.8865846996228,60.0752446283193 15.8866167248737,60.0752848851875 15.8867037888895,60.0754374504064 15.8867474322845,60.0755590393179 15.8868506863777,60.0757724141904 15.8869595797613,60.0759106539539 15.8870102577612,60.0759849713782 15.8870932755214,60.0760636874925 15.8872392292559,60.0761491742126 15.8874824785181,60.076263461506 15.8876174907953,60.0763115309734 15.8876352623193,60.0763034467396 15.8879443331763,60.0763973745592 15.8881477569256,60.0764265489684 15.8882524427479,60.0764407883291 15.8890367116856,60.0764916073326 15.8891409942368,60.0764928460966 15.8891664957975,60.0764975506732 15.8892308067614,60.0765139822829 15.8893423326038,60.0765533000093 15.8896701457554,60.0766148786607 15.8929536810736,60.0774100795958 15.8937054813209,60.0775071291476 15.89361819299,60.0781733303771 15.8962526715345,60.0795318824203 15.8968685367175,60.0794795596637 15.8967090584945,60.0791456527571 15.8967863530459,60.0791375409849</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2051018_Q91914178_Prästskaten" id="2051018_Q91914178_Prästskaten">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2051018_Q91914178_Prästskaten</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2051018_Q91914178_Prästskaten">
+		<SimpleData name="NVRID">2051018</SimpleData>
+		<SimpleData name="NAMN">Prästskaten</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2020/01/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2020/01/30</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">6.58</SimpleData>
+		<SimpleData name="LAND_HA">5.61</SimpleData>
+		<SimpleData name="VATTEN_HA">0.964</SimpleData>
+		<SimpleData name="SKOG_HA">4.822</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">5112-4943-2019</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.719003401862,60.1206042443311 18.7185595719117,60.1206162621526 18.7185282370187,60.1206544362831 18.7184751777491,60.1207058602267 18.7184185250847,60.1207573672138 18.7183557950597,60.1208215752268 18.7182636859036,60.1208792476096 18.7181252412778,60.1209828153957 18.7177483911272,60.1211993405398 18.7174650531137,60.1213743059461 18.7171440844083,60.1215716315334 18.7169965418837,60.1216538630537 18.7168780602401,60.1216957725369 18.7168782559478,60.1217113892766 18.7168204114574,60.1217613110399 18.7168011694025,60.1217925570372 18.7168024811668,60.1217987519851 18.7167978449042,60.1217993622887 18.7167457115238,60.1218668472734 18.7167377209796,60.1218703607983 18.7167366376665,60.1218734186169 18.7159392163488,60.1229160962111 18.7158585035755,60.1230428152935 18.7159069663272,60.1236658600241 18.7160594322248,60.1237700756915 18.7162608634704,60.1239291956901 18.7163734365654,60.1239641996708 18.7164299031356,60.1239791303147 18.7164315519548,60.1239786875799 18.7174473394005,60.1237030306961 18.7184912259892,60.123425892431 18.7218335266805,60.1224688588934 18.7211438652575,60.1220090643174 18.7208920736855,60.1218407466629 18.7198165752308,60.1211231653068 18.719003401862,60.1206042443311</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

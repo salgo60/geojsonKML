@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023070_Q30179482_Rickebasta_alsumpskog" id="2023070_Q30179482_Rickebasta_alsumpskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2023070_Q30179482_Rickebasta_alsumpskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2023070_Q30179482_Rickebasta_alsumpskog">
+		<SimpleData name="NVRID">2023070</SimpleData>
+		<SimpleData name="NAMN">Rickebasta alsumpskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/12/21</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/01/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/01/22</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Knivsta</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">15.64</SimpleData>
+		<SimpleData name="LAND_HA">15.63</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.171</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7670-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7301375612331,59.7361159263611 17.7290952600942,59.7356199448769 17.728762770642,59.7356236927815 17.7268696819475,59.7349769742986 17.7260428292447,59.7347391874759 17.7245687327891,59.7341512026077 17.722479818704,59.7335100049068 17.7209018449931,59.7329014122365 17.7187957167212,59.732448185028 17.7181832861263,59.7322747947398 17.7170505686229,59.7332631960093 17.7166372555038,59.7331892880223 17.715772344965,59.7340593161215 17.7186318373563,59.7347525086965 17.7209013088035,59.7353054269469 17.7231191720688,59.7358407971011 17.7232683107837,59.7357743533768 17.7241581081581,59.7359934665536 17.7250982289463,59.736382605659 17.7277648733262,59.7366333489116 17.7288989875552,59.7368249201543 17.7301375612331,59.7361159263611</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

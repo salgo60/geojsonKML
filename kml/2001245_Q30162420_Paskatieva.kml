@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001245_Q30162420_Paskatieva" id="2001245_Q30162420_Paskatieva">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001245_Q30162420_Paskatieva</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001245_Q30162420_Paskatieva">
+		<SimpleData name="NVRID">2001245</SimpleData>
+		<SimpleData name="NAMN">Paskatieva</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/31</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Överkalix</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">24.55</SimpleData>
+		<SimpleData name="LAND_HA">24.55</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">20.49</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8836-11</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>22.4766242698591,66.6380868587633 22.4768387684625,66.6381100122132 22.4777430605854,66.6381864237941 22.4791864183334,66.6381165570136 22.4813422378564,66.6383224223725 22.4839228447547,66.6387790444238 22.4845045898136,66.6395549439031 22.4834137009985,66.640278281394 22.4868477116985,66.6404517334453 22.4876815331741,66.6398993016084 22.4876485229636,66.6388837605027 22.4868449026804,66.6381357942033 22.4870525502827,66.637272321639 22.4875955504384,66.6363736010521 22.4878771366306,66.6361437666104 22.4877213620993,66.6359484896986 22.4871700354819,66.6355658471343 22.4836868029573,66.6346517040128 22.4822864164173,66.6344859296677 22.4820728497993,66.6339058543622 22.4806229740768,66.6335141536539 22.4773653383871,66.6345518991805 22.4750368946705,66.6367566254271 22.4764159881438,66.63737782837 22.4766242698591,66.6380868587633</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>22.4766257557977,66.6380919194658 22.4766242698591,66.6380868587633 22.4766152168034,66.6380858813241 22.4766257557977,66.6380919194658</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

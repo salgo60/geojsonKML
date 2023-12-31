@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046273_Q55693280_Marsjöberget" id="2046273_Q55693280_Marsjöberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046273_Q55693280_Marsjöberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046273_Q55693280_Marsjöberget">
+		<SimpleData name="NVRID">2046273</SimpleData>
+		<SimpleData name="NAMN">Marsjöberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/10/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/11/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/11/16</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Vansbro</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">48.41</SimpleData>
+		<SimpleData name="LAND_HA">48.1</SimpleData>
+		<SimpleData name="VATTEN_HA">0.3</SimpleData>
+		<SimpleData name="SKOG_HA">47.524</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11161-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3506272988664,60.64685998171 14.3513281720687,60.6466543252101 14.3515594879002,60.6467252101427 14.3543973181613,60.6470756955773 14.3558563185184,60.6475696279529 14.3568402342002,60.6467510864655 14.35661247525,60.6461599511898 14.3552326026539,60.6461065032157 14.3531667900884,60.6449199124266 14.3529189859119,60.6448583404308 14.3531037190955,60.6447150373822 14.3535549530122,60.6442263507233 14.3541939749783,60.6438531473611 14.3520791584684,60.6430376581134 14.3528065612057,60.6422980792425 14.3517945865883,60.6421976918482 14.3504902632649,60.6431018094601 14.3517346511681,60.6445476864858 14.3464297728061,60.6431967676191 14.3461971077353,60.6433000015939 14.3438303966459,60.6443250629926 14.3345296974276,60.6483597926411 14.3458173276367,60.6503642015424 14.3494266386245,60.6485116665676 14.3500021505676,60.6471391300096 14.3499361874685,60.646964955518 14.3506272988664,60.64685998171</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

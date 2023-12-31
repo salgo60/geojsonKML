@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001236_Q29579953_Sundbyholmsåsen" id="2001236_Q29579953_Sundbyholmsåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001236_Q29579953_Sundbyholmsåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001236_Q29579953_Sundbyholmsåsen">
+		<SimpleData name="NVRID">2001236</SimpleData>
+		<SimpleData name="NAMN">Sundbyholmsåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1975/11/12</SimpleData>
+		<SimpleData name="URSGALLDAT">1975/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/10/01</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Eskilstuna</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">23.74</SimpleData>
+		<SimpleData name="LAND_HA">23.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">21.748</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6278901242232,59.4405307031993 16.6280274256586,59.4405651165113 16.6294800072313,59.4409286737105 16.6296737215992,59.4406583210664 16.6304528770996,59.4405210372356 16.6314001666746,59.4403667388596 16.632633090972,59.4398006407219 16.6345174350782,59.4391350705373 16.6347980454577,59.4389051271477 16.6357314068709,59.4380158285548 16.6362569917085,59.4376330776754 16.6366026786357,59.4371566713906 16.6367321990842,59.4365124538311 16.6371675144941,59.4358244158303 16.6369354645827,59.4352654586587 16.637994408988,59.4338947594737 16.6378281607079,59.4326288191469 16.6367730522929,59.4323271100112 16.6358806425073,59.4327698506298 16.6363574255159,59.4330153946248 16.6366687539232,59.4335524136343 16.6352605844148,59.4338902113059 16.6350972584021,59.4339383330804 16.6337922228166,59.4343076248167 16.6323484713838,59.4347926791572 16.6320253980944,59.4352392682731 16.631816579861,59.4355318191532 16.6310281583389,59.4354788677381 16.6307083324209,59.4355269983312 16.6306641582547,59.4356888450029 16.6307733482581,59.4360616721115 16.6302886704431,59.4370341285633 16.6301386790365,59.4378961062312 16.6299180525369,59.4382854990427 16.6292847732648,59.4387263231922 16.6287716107102,59.4393045225417 16.6283626540261,59.4400486253972 16.6278901242232,59.4405307031993</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

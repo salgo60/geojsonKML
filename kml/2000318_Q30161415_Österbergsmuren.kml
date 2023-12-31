@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000318_Q30161415_Österbergsmuren" id="2000318_Q30161415_Österbergsmuren">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000318_Q30161415_Österbergsmuren</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000318_Q30161415_Österbergsmuren">
+		<SimpleData name="NVRID">2000318</SimpleData>
+		<SimpleData name="NAMN">Österbergsmurens domänreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/12/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/01/10</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Sandviken</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">21.89</SimpleData>
+		<SimpleData name="LAND_HA">21.88</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">14.361</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-6212-95, 00-001-050</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4111381011266,60.7087776479644 16.412385744157,60.7081842192588 16.4113536629801,60.7079830348991 16.4104090874777,60.7083283164571 16.4097450802264,60.7084327050192 16.4092226364753,60.7084134778336 16.4088029349316,60.708444424953 16.4084117576045,60.7083064679428 16.4078768454275,60.7080779417107 16.4067971735508,60.7078876747545 16.4059086065678,60.7081536651752 16.4048784305469,60.7081823905114 16.4046424857382,60.7082952778341 16.4033318686055,60.7089174171606 16.4011548190637,60.7096561980177 16.3979946529835,60.7109010853033 16.3985733043282,60.7113067587328 16.399410549363,60.7118282621918 16.3999867182171,60.712188284922 16.4013662078982,60.7130532605063 16.4019196959221,60.713385109517 16.4035397693756,60.7128025343246 16.4047797751191,60.7123389526695 16.4054110805971,60.7121486912754 16.4063588211486,60.7117609480931 16.4072207968155,60.7114571427653 16.407316481288,60.7112531429565 16.4073601254826,60.7109009316411 16.408169607317,60.7105193231291 16.4088575554425,60.7102524277374 16.4111381011266,60.7087776479644</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

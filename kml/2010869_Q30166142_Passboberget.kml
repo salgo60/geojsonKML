@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2010869_Q30166142_Passboberget" id="2010869_Q30166142_Passboberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2010869_Q30166142_Passboberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2010869_Q30166142_Passboberget">
+		<SimpleData name="NVRID">2010869</SimpleData>
+		<SimpleData name="NAMN">Passboberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/12/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/01/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/01/22</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skinnskatteberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">130.89</SimpleData>
+		<SimpleData name="LAND_HA">127.6</SimpleData>
+		<SimpleData name="VATTEN_HA">3.279</SimpleData>
+		<SimpleData name="SKOG_HA">117.717</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11199-06</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4701782687352,59.8347889505215 15.4701930256299,59.8347879280186 15.470193156071,59.8347883226568 15.4702229672957,59.8347858635202 15.471039164419,59.8347184271284 15.4711927015941,59.8347064107088 15.4712496830149,59.8347027226599 15.4753040069058,59.8344399417513 15.4770599406592,59.8328160783235 15.477890635984,59.8320478200116 15.4789453539187,59.8280986518591 15.4773982506228,59.8275269428903 15.4789348186255,59.8249230080847 15.4769391361066,59.8201097933932 15.4768177669266,59.8199172063079 15.4763658194187,59.8192000297774 15.4752207653997,59.8182926256032 15.4720980567867,59.8178050526952 15.4703360527783,59.8187607719653 15.4635821961911,59.8264059708504 15.4619237458342,59.8295633952574 15.4618943049695,59.8304413571359 15.463014667969,59.8306607989042 15.4639318030352,59.8308404313848 15.4636563471644,59.8316921328603 15.4628682605069,59.8341283876155 15.4641038391669,59.8352083645903 15.4641038933088,59.8352084092976 15.4701782687352,59.8347889505215</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

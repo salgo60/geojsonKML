@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002130_Q30161806_Kalvhöjden" id="2002130_Q30161806_Kalvhöjden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002130_Q30161806_Kalvhöjden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002130_Q30161806_Kalvhöjden">
+		<SimpleData name="NVRID">2002130</SimpleData>
+		<SimpleData name="NAMN">Kalvhöjden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1972/03/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1972/03/20</SimpleData>
+		<SimpleData name="SENGALLDAT">1972/03/20</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sunne</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">4.54</SimpleData>
+		<SimpleData name="LAND_HA">4.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.064</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-59-71, 11.121-1883-71, Rr 36</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.7986142660527,59.9117496037331 12.7986142630812,59.9117496485969 12.7985881216326,59.9124959600761 12.7985879006802,59.912496055195 12.7984804053276,59.9125439787991 12.7982518153008,59.9125391632264 12.7982519106203,59.9125393444724 12.798416844702,59.9128783752501 12.7986442564682,59.9131005965614 12.7990158738146,59.9134637205713 12.7994470878559,59.9139146111011 12.8001391988237,59.9139061243436 12.8002094953992,59.9139070101736 12.8030722892857,59.9139432435666 12.8032341698433,59.9139452860135 12.8032741724865,59.9139454946202 12.8032747448796,59.9139454951775 12.8029547383931,59.9137709638338 12.8026197482971,59.9135825821114 12.8021247256236,59.9132525960088 12.8017847595339,59.912994091192 12.8012802079787,59.9124771660957 12.8009155863043,59.9122576365485 12.8009652060501,59.9115728260327 12.8007354338751,59.9114099897397 12.7992226377225,59.9113602143877 12.7986142660527,59.9117496037331</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

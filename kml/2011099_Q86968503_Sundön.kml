@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011099_Q86968503_Sundön" id="2011099_Q86968503_Sundön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011099_Q86968503_Sundön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011099_Q86968503_Sundön">
+		<SimpleData name="NVRID">2011099</SimpleData>
+		<SimpleData name="NAMN">Sundön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1958/11/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1958/11/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1958/11/19</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ydre</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.18</SimpleData>
+		<SimpleData name="LAND_HA">0.18</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III Ö 60/58, Rr 90</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2551266421874,57.8595895863536 15.2549823177196,57.859600942502 15.2549134588453,57.8596197909058 15.2547983518778,57.8597188811065 15.254714563331,57.8598715775666 15.2547271669506,57.8599166613525 15.2547588621662,57.8599471555117 15.2549591026237,57.8600024167868 15.2552171730794,57.8600328152832 15.2553222949897,57.8600348943902 15.2554212182135,57.8600207279319 15.2554643058589,57.8599988322259 15.2554733898415,57.8599870291774 15.2554812134529,57.8599186312364 15.2554928110859,57.8598786636389 15.25549341377,57.8598091125301 15.2554520825654,57.859700653673 15.255423579911,57.859666515433 15.2553476766333,57.8596258076758 15.2552533665455,57.8595987360769 15.2551266421874,57.8595895863536</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

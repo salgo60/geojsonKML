@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000618_Q19978444_Reveludden_Nature_Reserve" id="2000618_Q19978444_Reveludden_Nature_Reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000618_Q19978444_Reveludden_Nature_Reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000618_Q19978444_Reveludden_Nature_Reserve">
+		<SimpleData name="NVRID">2000618</SimpleData>
+		<SimpleData name="NAMN">Reveludden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1966/03/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1966/04/08</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/05/11</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Nynäshamn</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">9.97</SimpleData>
+		<SimpleData name="LAND_HA">7.57</SimpleData>
+		<SimpleData name="VATTEN_HA">2.399</SimpleData>
+		<SimpleData name="SKOG_HA">3.622</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1991-1472</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.7982590919629,58.8082818979691 17.7981471091695,58.8082974106844 17.7975288737884,58.8083830669367 17.7977558693669,58.8089457098066 17.7968792357689,58.8095405804559 17.7962676228463,58.8096870558612 17.7956625927706,58.8100218283254 17.7952581460236,58.8100574609487 17.7951907472746,58.8100634053895 17.7944041417409,58.8103741870486 17.7944896013089,58.8111454706446 17.7950886297111,58.8118551896982 17.7953415140417,58.8119371335483 17.7953656232338,58.8119366829968 17.795678542674,58.8119308542258 17.7976760796707,58.8114451909679 17.7981229672244,58.8114113800393 17.7991682289273,58.8112385125814 17.8003815854381,58.8110964572927 17.8013067748171,58.8106962029267 17.800814313776,58.810420857652 17.8000104122355,58.8099713584179 17.8013618898449,58.8091070192853 17.800162408184,58.8079980468137 17.7987515296646,58.8084202900462 17.798463084846,58.8082536239153 17.7982590919629,58.8082818979691</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

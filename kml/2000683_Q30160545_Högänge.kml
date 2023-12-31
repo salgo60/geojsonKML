@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000683_Q30160545_Högänge" id="2000683_Q30160545_Högänge">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000683_Q30160545_Högänge</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000683_Q30160545_Högänge">
+		<SimpleData name="NVRID">2000683</SimpleData>
+		<SimpleData name="NAMN">Högänge</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/04/20</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/05/14</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/05/14</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sundsvall</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">2.4</SimpleData>
+		<SimpleData name="LAND_HA">2.4</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.354</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-10248-98</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6870947910462,62.3162281735127 16.6860480506202,62.3157745440512 16.6860479719768,62.3157745180699 16.6859844412581,62.3157461806446 16.6859240251626,62.3158178784027 16.6858186550479,62.3159541460526 16.685753446208,62.3160767194497 16.6856823981879,62.316280061245 16.6856437385053,62.3165000871652 16.6856142636412,62.3167101165134 16.6855885395222,62.3169168322432 16.6855321347413,62.317083292784 16.6854686171932,62.3172354382113 16.6854070153487,62.31740663942 16.6852986070795,62.3175249776846 16.6851775111916,62.3176052666686 16.6850090931548,62.3176913724494 16.6846976492515,62.3178204668136 16.684307178622,62.317960986633 16.6841716129489,62.3180183217135 16.6839817913882,62.3181117334902 16.6837226735254,62.3182490534431 16.6844650216854,62.3186102126267 16.6862804241059,62.317545780986 16.6872402651627,62.317231384934 16.687693542013,62.3174169970395 16.6878922982554,62.3174604547105 16.6878892129237,62.3173552116903 16.6879120761871,62.3172670447572 16.6878856062033,62.3171446765612 16.6877870012108,62.3170147354365 16.6882858693419,62.3167492031067 16.6870947910462,62.3162281735127</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

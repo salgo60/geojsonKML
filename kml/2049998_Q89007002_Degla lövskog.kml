@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049998_Q89007002_Degla_lövskog" id="2049998_Q89007002_Degla_lövskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049998_Q89007002_Degla_lövskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049998_Q89007002_Degla_lövskog">
+		<SimpleData name="NVRID">2049998</SimpleData>
+		<SimpleData name="NAMN">Degla lövskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/11/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/12/21</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/21</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Aneby, Tranås</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">80.62</SimpleData>
+		<SimpleData name="LAND_HA">61.52</SimpleData>
+		<SimpleData name="VATTEN_HA">19.093</SimpleData>
+		<SimpleData name="SKOG_HA">48.464</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-814-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.7490774338357,57.9453047440909 14.7490794245144,57.945019563208 14.7484346481051,57.945189400245 14.7480085250096,57.9447702853786 14.7480094579349,57.9446372010876 14.7472796737654,57.9437953813333 14.7470094816166,57.9435277446449 14.7475893552337,57.9433625438316 14.7473066739647,57.9428866743653 14.747096574643,57.942258849874 14.74695597665,57.9419163492083 14.7468200004176,57.9417430000311 14.7460950002233,57.9419240000445 14.7457880006458,57.9419130004268 14.7454190000923,57.9419309997291 14.7450009995797,57.9419539997629 14.7447170004242,57.9419269997288 14.7442500001233,57.9418880000146 14.7436500002325,57.9418519999727 14.7432119999765,57.9415850001329 14.7428979993161,57.9414039997617 14.7426870007394,57.9414069995592 14.7422310007138,57.9414149995535 14.7417089992617,57.9414400000288 14.7381441208795,57.9412801967977 14.7370309229434,57.9440616069554 14.73768027715,57.9447642048454 14.7360976096602,57.9489213996635 14.7353690286456,57.951013826242 14.7371434493511,57.9512510163355 14.7371904912282,57.9512593951351 14.7376479361945,57.9513408200393 14.7385792976839,57.9515162917616 14.739191259501,57.9516320082283 14.7396688663276,57.9517162247245 14.7402204662032,57.9518135429013 14.7407893374233,57.9518966122513 14.7410623217891,57.951923692805 14.741615856249,57.9519455946149 14.7418250387154,57.9519923585106 14.7418370145525,57.9520186376894 14.7422225223254,57.9520812171205 14.7428521509317,57.9522219670685 14.743514204907,57.9523464227851 14.7470468147678,57.9530732222353 14.7489658878169,57.9534680099391 14.7492323388252,57.9534918147705 14.7491013012111,57.9521302021931 14.7487459466761,57.951806291798 14.7487478075656,57.9515401234948 14.7487860939854,57.9511789662393 14.7488952349989,57.950913009825 14.7486997073747,57.950454781128 14.7485785791202,57.9501709047052 14.7483731562153,57.9498231823031 14.7483311915569,57.9497521455376 14.7482280432885,57.9491625604217 14.7483382472471,57.9487445079062 14.7484136237254,57.9481933011935 14.7483819916684,57.9476038575513 14.7486746945586,57.9466538213374 14.7489304312326,57.9458748225593 14.7490774338357,57.9453047440909</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

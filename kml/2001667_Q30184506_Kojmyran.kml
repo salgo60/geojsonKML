@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001667_Q30184506_Kojmyran" id="2001667_Q30184506_Kojmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001667_Q30184506_Kojmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001667_Q30184506_Kojmyran">
+		<SimpleData name="NVRID">2001667</SimpleData>
+		<SimpleData name="NAMN">Kojmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/01/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/03/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/12/28</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Dorotea</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">295.9</SimpleData>
+		<SimpleData name="LAND_HA">291.68</SimpleData>
+		<SimpleData name="VATTEN_HA">4.21</SimpleData>
+		<SimpleData name="SKOG_HA">201.707</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5228-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8775371829047,63.9939368847951 16.8798968364303,63.9929565501198 16.8735037977365,63.9912206230647 16.8693841551834,63.989360917772 16.8637190278574,63.9890694449027 16.8688280503124,63.9833588281934 16.8753532412428,63.981229694993 16.871356461314,63.9799957269656 16.8695153174522,63.9787580233636 16.8636548774325,63.9796327515816 16.8522661173106,63.9796098515103 16.8495919786237,63.9808375533304 16.8485859260566,63.9832067608814 16.8455657571136,63.982706588526 16.8446076820121,63.9863800093732 16.8390527808616,63.9875319617894 16.836888528889,63.987355083507 16.8335593576737,63.9885460321331 16.8389837843046,63.99291264406 16.8426691459364,63.995872741216 16.8486916332637,63.9941739431727 16.8554010499112,63.9978535204456 16.8550598621438,64.0001379464747 16.8644185771096,63.9997112572089 16.8766670467025,63.9972494167803 16.8759355743051,63.9966533553319 16.8754571741821,63.9959140608681 16.8753250890553,63.9952229952535 16.8765530882235,63.9944277879317 16.8775371829047,63.9939368847951</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

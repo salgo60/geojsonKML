@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2051601_Q89272884_Brantaberg_Oreberget" id="2051601_Q89272884_Brantaberg_Oreberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2051601_Q89272884_Brantaberg_Oreberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2051601_Q89272884_Brantaberg_Oreberget">
+		<SimpleData name="NVRID">2051601</SimpleData>
+		<SimpleData name="NAMN">Brantaberg-Oreberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/05/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/06/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/06/08</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Hässleholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">37.9</SimpleData>
+		<SimpleData name="LAND_HA">37.9</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">27.234</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-9456-2017, 1293-217</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8819398880185,56.0884426676597 13.8829415928459,56.0878902113677 13.8835116672463,56.0879529203835 13.8837739265081,56.0879808696064 13.8838709218086,56.0881863794723 13.8843580034316,56.0883506490027 13.8846530954008,56.088430051698 13.8849858127226,56.0883946897698 13.8852121162798,56.0884798630557 13.8852537902044,56.0886209245921 13.8856158353766,56.0887584821611 13.8856858363058,56.0887989033202 13.8854553946201,56.0890229873094 13.886237941903,56.0890532580584 13.8863613205911,56.0890849448189 13.8867254010784,56.0891521757183 13.8870351350448,56.0890840907538 13.8877766906812,56.0891127647082 13.8883914723856,56.0891365334248 13.8887933625947,56.0890267815042 13.8897516979223,56.0887838763422 13.8900711932519,56.0887028929867 13.8905546365196,56.0885927102277 13.8909232543455,56.088096890025 13.8911895842483,56.0880146912263 13.8914586444888,56.08772554103 13.8933398986518,56.0874562475502 13.8945646896717,56.0872340460399 13.8943912111276,56.0870170594567 13.8943510281633,56.086966800744 13.8939174438401,56.0868409344371 13.8941651245947,56.0864330499659 13.8946748940487,56.0862272149801 13.8958242858746,56.0852889146656 13.8954304332507,56.0845650381683 13.8946506511023,56.0844011509951 13.8943214248776,56.0847619458036 13.8939317405354,56.0852291816145 13.8932026550751,56.0850764375823 13.8932604372102,56.0850097569543 13.8917442657439,56.0846221534001 13.8908565449397,56.0856270122743 13.8901182133662,56.0855464306717 13.8897358205403,56.0857567296272 13.8889111128299,56.0856187412981 13.8879560631143,56.0865350258822 13.8844391901322,56.0868589384018 13.8838078151027,56.0866786707637 13.886158933961,56.0849839610169 13.8829236623101,56.0832690772915 13.881703534018,56.0838789004266 13.8817021398696,56.0838795967521 13.8775462869089,56.0859564670616 13.8774053064699,56.0860269073161 13.8768294943933,56.0863178046243 13.8773197345614,56.086585869993 13.8775095783145,56.0866876582431 13.8810254872612,56.0885725365182 13.8810679323691,56.0885952859863 13.8811210753175,56.0886244536535 13.8824059139147,56.089439771832 13.883648227047,56.0889217200367 13.8824194893299,56.0887679603399 13.8819398880185,56.0884426676597</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

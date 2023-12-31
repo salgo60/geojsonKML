@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000229_Q30171444_Broby_äng" id="2000229_Q30171444_Broby_äng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000229_Q30171444_Broby_äng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000229_Q30171444_Broby_äng">
+		<SimpleData name="NVRID">2000229</SimpleData>
+		<SimpleData name="NAMN">Broby äng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/12/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/12/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/05/18</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Hallsbergs kommun</SimpleData>
+		<SimpleData name="AREA_HA">7.19</SimpleData>
+		<SimpleData name="LAND_HA">7.19</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">6.388</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">1992 Mn 76</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9388276210372,59.0679721223202 14.938827638621,59.0679720415035 14.938827761756,59.0679714488451 14.9388281838964,59.0679694374002 14.9391374175558,59.0664697674405 14.9389484829031,59.0657701921438 14.9389484655438,59.0657701472328 14.9385768059331,59.0647638530279 14.936736841555,59.0646936567198 14.9366298628457,59.0644441156133 14.9365390946509,59.0644922609114 14.9363966394643,59.0645589166829 14.9362403740185,59.0646435625479 14.9360944157826,59.0647084470944 14.9358684576585,59.0647968120277 14.9357502200792,59.064836519424 14.93554482401,59.0648763810029 14.9353811502003,59.0649018223116 14.9352347950373,59.0649074789131 14.9350638396868,59.0648916415419 14.9346156370815,59.0647797072236 14.9350109407205,59.0658926508079 14.9360656596793,59.0677109201334 14.9388275164125,59.0679721132903 14.9388276210372,59.0679721223202</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

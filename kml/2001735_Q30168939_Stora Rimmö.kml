@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001735_Q30168939_Stora_Rimmö" id="2001735_Q30168939_Stora_Rimmö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001735_Q30168939_Stora_Rimmö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001735_Q30168939_Stora_Rimmö">
+		<SimpleData name="NVRID">2001735</SimpleData>
+		<SimpleData name="NAMN">Stora Rimmö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1971/09/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/09/24</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/02/03</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Söderköping</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">402.35</SimpleData>
+		<SimpleData name="LAND_HA">24.08</SimpleData>
+		<SimpleData name="VATTEN_HA">378.254</SimpleData>
+		<SimpleData name="SKOG_HA">15.45</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-20724-06</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8323641552127,58.4353611401831 16.8412374867973,58.4340391144638 16.8412384601232,58.4340377439685 16.8412366255922,58.434037384029 16.8415885247782,58.4223375516837 16.82944714253,58.4211960135627 16.825484315335,58.422049111546 16.8230748715928,58.4246989321493 16.8007240026957,58.4224052072475 16.7919897429093,58.4198900901117 16.7919788220919,58.4198854366836 16.7918198007864,58.4199881490735 16.7869084988554,58.4235716011217 16.7869084493382,58.4235716377458 16.7869362422108,58.4235821201682 16.7869368530741,58.4235816714628 16.788383533952,58.4241299361172 16.7896871447354,58.4248471937544 16.7914809733894,58.4261083523515 16.7973506296292,58.4327699776147 16.8105997055339,58.4361897316357 16.8106037977859,58.4361890270233 16.8192421231781,58.4347013463019 16.8266554879433,58.436250532047 16.8323641552127,58.4353611401831</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8213796768192,58.4130281411092 16.8193587227794,58.4123593191754 16.8158724885016,58.4130931285018 16.817043691323,58.4157100485121 16.8170436598809,58.4157101028589 16.81704856249,58.4157108867704 16.8170485943944,58.4157108414005 16.8170488149525,58.4157101375596 16.8170487183174,58.4157095909362 16.8196343427466,58.415599584948 16.8213682371516,58.4130449771311 16.8213779900148,58.4130306175873 16.8213796768192,58.4130281411092</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001093_Q18288870_Ekered" id="2001093_Q18288870_Ekered">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001093_Q18288870_Ekered</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001093_Q18288870_Ekered">
+		<SimpleData name="NVRID">2001093</SimpleData>
+		<SimpleData name="NAMN">Ekered</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/12/16</SimpleData>
+		<SimpleData name="URSGALLDAT">1976/12/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/01/02</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Laholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">33.65</SimpleData>
+		<SimpleData name="LAND_HA">33.65</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">31.378</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7748-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.9807526104965,56.3695600523451 12.9807321345546,56.3700141870135 12.9808147904469,56.3702026157933 12.9809819628463,56.3703591171199 12.9815457506357,56.3706243628459 12.9818496972408,56.3706861792666 12.9830473966366,56.3707154078799 12.9835507018267,56.370790367313 12.9836954284017,56.3710385219497 12.983844333016,56.3713685668958 12.9845056480692,56.3718661238093 12.9849338934838,56.3722703011934 12.9857895886606,56.3728766656952 12.986129895275,56.3730490485394 12.987307918536,56.372854617994 12.9888467914918,56.3727988530146 12.989123142942,56.3730539532916 12.9895858490201,56.3727417092236 12.9912318921404,56.3735443031231 12.9921647664719,56.3732576235199 12.9930701225921,56.3735636382579 12.9963003216831,56.3734480568512 12.9966702047913,56.3688977245335 12.9889795489836,56.3692140026902 12.9855279173045,56.3698716164367 12.9830668586043,56.3703348115598 12.9819702212158,56.370125664181 12.9807526104965,56.3695600523451</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

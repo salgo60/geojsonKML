@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2041477_Q30173555_Stora_Blyberget" id="2041477_Q30173555_Stora_Blyberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2041477_Q30173555_Stora_Blyberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2041477_Q30173555_Stora_Blyberget">
+		<SimpleData name="NVRID">2041477</SimpleData>
+		<SimpleData name="NAMN">Stora Blyberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/04/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/05/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/03/10</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Bollnäs</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">111.73</SimpleData>
+		<SimpleData name="LAND_HA">111.72</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">110.915</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-67-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.200969788898,61.2077873863659 16.201483964004,61.2077581227434 16.2021786668705,61.2077543794557 16.2026152726978,61.207729313022 16.2030656489029,61.2076814939335 16.2034856606852,61.2076141719375 16.2041751873218,61.2075396907264 16.2059630593376,61.207347510954 16.2067355931288,61.2072317884603 16.2069911382034,61.2071804394709 16.2083824172498,61.2068344616222 16.2088372188506,61.2067579443857 16.2092660058934,61.2067423959864 16.2099061299458,61.2067460306453 16.2105525414961,61.2067065137212 16.2117315649717,61.2066009622387 16.2123769392741,61.2065024512568 16.213197185386,61.2063256818019 16.2133988845363,61.2062541579402 16.2137330803318,61.2060893946251 16.2140774496705,61.205887019071 16.2149254608131,61.20540277636 16.2154990604736,61.2050490067113 16.2159796079222,61.205070239636 16.2175946613509,61.2042059359894 16.2123630499314,61.2013788285629 16.2144928115227,61.2001391295616 16.2147298159636,61.1995129461242 16.2118330313066,61.1989268160376 16.211393667562,61.198166717556 16.2090953136111,61.1973021503839 16.2077507927906,61.1973615694588 16.2064692626739,61.1969057465625 16.2071968904871,61.1962813006182 16.2057312711955,61.1954892208795 16.205895248613,61.1951298143098 16.204379105555,61.1944572627702 16.2016776921612,61.1955902810352 16.1979756434128,61.1971474036661 16.1928138714761,61.1993326700703 16.1938519132161,61.2001245487463 16.1941014816476,61.2013279503593 16.1965665387261,61.2022468102162 16.198428074532,61.2027955214812 16.1998261297853,61.2029161725911 16.2015907518226,61.2039022026675 16.1967765598328,61.2052512330821 16.1974537253033,61.2058718907959 16.196966805243,61.206266720525 16.1986953888002,61.2069713961232 16.1981055271731,61.2077235312127 16.1992061968242,61.2078830667859 16.1994593011947,61.2079032814912 16.1997817764094,61.2079043073505 16.2001850589187,61.2078783990221 16.200969788898,61.2077873863659</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000655_Q10649625_Rankleven" id="2000655_Q10649625_Rankleven">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000655_Q10649625_Rankleven</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000655_Q10649625_Rankleven">
+		<SimpleData name="NVRID">2000655</SimpleData>
+		<SimpleData name="NAMN">Rankleven</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/09/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/09/29</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Ånge</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">51.91</SimpleData>
+		<SimpleData name="LAND_HA">51.91</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">51.887</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-1402-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.9460170047493,62.5088198635437 15.9489755200967,62.5172278649804 15.9489775146123,62.517227671903 15.9489812129194,62.5172273056757 15.9501199961684,62.5171157347789 15.951550236588,62.5169826370163 15.9515537417826,62.516982307942 15.9515559495927,62.5169821043986 15.9519907069459,62.518261973531 15.9567579611215,62.5172534672101 15.9573589246916,62.5170430054863 15.9568997416564,62.516687821775 15.9576791070159,62.5164377347676 15.9573513696831,62.5159100992679 15.9584550550745,62.5152016110017 15.9586779972951,62.5144926243482 15.9587547237404,62.5142250520958 15.956823248254,62.5086192344855 15.9524658434299,62.5086938658048 15.9515617744027,62.5087123872865 15.9507663302981,62.5087272463105 15.9487059839112,62.5087680030121 15.9470064280815,62.5087941477527 15.9460170047493,62.5088198635437</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

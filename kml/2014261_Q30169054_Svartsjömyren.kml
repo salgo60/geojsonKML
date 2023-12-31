@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014261_Q30169054_Svartsjömyren" id="2014261_Q30169054_Svartsjömyren">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014261_Q30169054_Svartsjömyren</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014261_Q30169054_Svartsjömyren">
+		<SimpleData name="NVRID">2014261</SimpleData>
+		<SimpleData name="NAMN">Svartsjömyren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/10/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/11/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/11/19</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strängnäs</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">21.37</SimpleData>
+		<SimpleData name="LAND_HA">21.11</SimpleData>
+		<SimpleData name="VATTEN_HA">0.26</SimpleData>
+		<SimpleData name="SKOG_HA">16.549</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-11212-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8896281285175,59.2221707491077 16.8898674192053,59.2226487605747 16.8902251609351,59.2236482361948 16.8915005818957,59.2245882414056 16.8917326179608,59.2248644698331 16.8929970087455,59.2248066562307 16.8935248224295,59.2248823586788 16.8945839562697,59.2247324543049 16.8951200521001,59.2248244140423 16.8960386966146,59.2248048713375 16.8970626791691,59.2246400987313 16.8978833946598,59.2249247774797 16.8994170342736,59.2249414626037 16.8997758352406,59.2246751132264 16.9012088204024,59.2249446907877 16.902597197654,59.2247111021755 16.9027548983997,59.2243916161855 16.9030677737325,59.2238298418046 16.90312439061,59.2233952480238 16.9028908761139,59.2230262964542 16.9024742946629,59.2215609811676 16.9006563181309,59.2215439801923 16.8993123127229,59.2227857107135 16.8966009584675,59.2229092598423 16.895259450934,59.2229357966611 16.8945963367055,59.2222682550552 16.8941940113506,59.2219706450814 16.8934353111368,59.2216711627467 16.8928689769271,59.2217621375796 16.891647508536,59.2217810335671 16.8904308744624,59.2211837986894 16.8896551616466,59.221434505593 16.8896281285175,59.2221707491077</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2032929_Q19978070_Långehall" id="2032929_Q19978070_Långehall">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2032929_Q19978070_Långehall</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2032929_Q19978070_Långehall">
+		<SimpleData name="NVRID">2032929</SimpleData>
+		<SimpleData name="NAMN">Långehall</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/11/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/12/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/22</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlshamn</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">27.62</SimpleData>
+		<SimpleData name="LAND_HA">26.45</SimpleData>
+		<SimpleData name="VATTEN_HA">1.169</SimpleData>
+		<SimpleData name="SKOG_HA">26.397</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2903-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9236541547687,56.2650351054377 14.9236489964958,56.2648202994011 14.9131398480547,56.269192113155 14.9128174056908,56.269327086097 14.9134674585461,56.2701428184997 14.9138976137149,56.2704059974203 14.9149390408838,56.2707314549348 14.9156774199097,56.2712040083518 14.9161039085888,56.2714726576304 14.9211143734271,56.2699614793778 14.9256939649207,56.2685799725663 14.925296043808,56.2680668857408 14.9243111505837,56.266633780928 14.9247528810125,56.2663806048135 14.9242932069362,56.2659746807707 14.9239995973143,56.2656881809706 14.9235999598258,56.2653660901272 14.9236881008312,56.2652895690903 14.9237411951798,56.2652030535462 14.9236541547687,56.2650351054377</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

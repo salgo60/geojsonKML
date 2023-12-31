@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005634_Q30178994_Fiskartorpet" id="2005634_Q30178994_Fiskartorpet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005634_Q30178994_Fiskartorpet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005634_Q30178994_Fiskartorpet">
+		<SimpleData name="NVRID">2005634</SimpleData>
+		<SimpleData name="NAMN">Fiskartorpets ekhage</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/06/02</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/07/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/02/13</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lekeberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">7.88</SimpleData>
+		<SimpleData name="LAND_HA">7.85</SimpleData>
+		<SimpleData name="VATTEN_HA">0.032</SimpleData>
+		<SimpleData name="SKOG_HA">7.282</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8257390751153,59.1061578900116 14.8258482875037,59.1059700150789 14.825826905049,59.1059668890099 14.8257815138358,59.1059734530251 14.8257411249049,59.1059638121098 14.8257340445474,59.105949124847 14.8259149192366,59.1058426771985 14.8260499202889,59.105827893043 14.8260621088404,59.1058161413055 14.8260464562228,59.105777591216 14.8261083344699,59.1056464516966 14.8261395988192,59.1056288630223 14.8236060708157,59.1053159897701 14.8237840132506,59.1043092898081 14.8264527215816,59.1042735658675 14.8270713776473,59.1042707202941 14.8270736359812,59.1041356464094 14.8272373158483,59.1040268139112 14.8273957739543,59.1039042161057 14.8276103276309,59.1036940517214 14.8277269634614,59.1036494117368 14.8278458419628,59.1036240108961 14.8279097986672,59.1035842670972 14.8279445117722,59.1035495881368 14.8272784837019,59.1033809250218 14.8257686288095,59.102998554234 14.8259412903083,59.1026056859913 14.8253985494219,59.102369851471 14.8247491217159,59.102318974508 14.8245457578662,59.1032127394927 14.8233601545329,59.1036497617115 14.8219694135567,59.1034703616869 14.8219923606794,59.1043357328275 14.8219916691547,59.1043815765384 14.8219831915822,59.1049366176323 14.8219117499734,59.1054365522627 14.821923783553,59.1057061298215 14.8219447156946,59.1060027850599 14.8219438015157,59.1064212400206 14.8247102013021,59.1066354060716 14.8253654284375,59.1067251244763 14.8253839609762,59.1067050770546 14.8254507341204,59.1065921030528 14.8254340669623,59.1065337216507 14.8254417338686,59.1064914049893 14.8254970781599,59.1064363345369 14.8255451625333,59.1063843597666 14.825593809429,59.106275565105 14.8256776499615,59.1061941463021 14.8257390751153,59.1061578900116</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

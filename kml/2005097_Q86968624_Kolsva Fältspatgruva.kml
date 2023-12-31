@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005097_Q86968624_Kolsva_Fältspatgruva" id="2005097_Q86968624_Kolsva_Fältspatgruva">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005097_Q86968624_Kolsva_Fältspatgruva</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005097_Q86968624_Kolsva_Fältspatgruva">
+		<SimpleData name="NVRID">2005097</SimpleData>
+		<SimpleData name="NAMN">Kolsva Fältspatgruva</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/11/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/12/05</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/12/05</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Köping</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.32</SimpleData>
+		<SimpleData name="LAND_HA">0.32</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">231-7829-92</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8223615497753,59.5717114172241 15.8222539584359,59.571788128981 15.8222341131976,59.5718976067045 15.8222853062262,59.5719912821066 15.8223615798371,59.5720689048729 15.8225235924222,59.5721020395546 15.8227145132209,59.5721047916891 15.8227900861592,59.5720369018047 15.8228482682117,59.5719563511518 15.8228290297263,59.5718556591549 15.8227847289879,59.5717710107629 15.8226938712304,59.5717166669929 15.8223615497753,59.5717114172241</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8202538903654,59.5711799705414 15.8201256995388,59.5712242380122 15.8200989280338,59.5713264937054 15.82016370124,59.5714489745015 15.8203391346235,59.5715181106639 15.8206040376787,59.5715338010385 15.8207708622348,59.5715023034434 15.8208282581029,59.5714612719459 15.8208043807238,59.5714162417052 15.8206401527436,59.5713166196725 15.820465232248,59.5712205397993 15.8202538903654,59.5711799705414</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.8228655029976,59.5710815973298 15.8228312470032,59.5712053815284 15.8228248769096,59.5713490525124 15.8228660840561,59.5714121316844 15.8229180480485,59.5714662886751 15.8230479152228,59.5715154389956 15.8232066985439,59.5715323926547 15.8232814635135,59.5715076130043 15.8232730873209,59.5713943970975 15.8231977882675,59.5712682750893 15.8231078979962,59.5711636358263 15.8229642457435,59.571096458921 15.8228655029976,59.5710815973298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

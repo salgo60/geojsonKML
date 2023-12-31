@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011094_Q86968445_Tjugo_ekar_Åsvik" id="2011094_Q86968445_Tjugo_ekar_Åsvik">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011094_Q86968445_Tjugo_ekar_Åsvik</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011094_Q86968445_Tjugo_ekar_Åsvik">
+		<SimpleData name="NVRID">2011094</SimpleData>
+		<SimpleData name="NAMN">Tjugo ekar Åsvik</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1934/11/05</SimpleData>
+		<SimpleData name="URSGALLDAT">1934/11/05</SimpleData>
+		<SimpleData name="SENGALLDAT">1934/11/05</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Valdemarsvik</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.79</SimpleData>
+		<SimpleData name="LAND_HA">0.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Nr 350/1934 KB, Rr 120</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6683765581136,58.0275020021355 16.6682280324591,58.0275329572687 16.668117028123,58.0275852777847 16.6680234209618,58.0276715531335 16.6679297795047,58.0277578288583 16.6677922310572,58.0278496388453 16.6676472343901,58.0278913274641 16.6674650379332,58.0279349406596 16.6674727084777,58.0280029544684 16.6675951568299,58.028049089527 16.667666700066,58.0280846528701 16.6676844337945,58.0281454736391 16.6676344425996,58.0282047382028 16.6675506688822,58.0282694941811 16.6674907442651,58.028344924703 16.6674783379145,58.0284309173595 16.6675571998981,58.0285076379645 16.6677167066624,58.0285393087793 16.6679095301093,58.0285314727647 16.6680451404698,58.028548911726 16.6681406622329,58.0286058831155 16.6681582195231,58.0286541649098 16.668199497136,58.0287041571435 16.6682709459595,58.0287325613987 16.6684369534092,58.0287445167641 16.6685923200118,58.0287188978961 16.6687541372652,58.0286699894006 16.6688342978682,58.0285891363118 16.6688500509949,58.0285088940961 16.6686554503631,58.0284887526861 16.6686860981573,58.0284508709452 16.6688430904147,58.0279731084059 16.6687902868341,58.0278192902936 16.6687816324013,58.0276778657608 16.6687194912717,58.0275849536788 16.6685662949164,58.0275174553229 16.6683765581136,58.0275020021355</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

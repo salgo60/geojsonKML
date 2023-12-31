@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004570_Q30157804_Klefsbergen" id="2004570_Q30157804_Klefsbergen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004570_Q30157804_Klefsbergen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004570_Q30157804_Klefsbergen">
+		<SimpleData name="NVRID">2004570</SimpleData>
+		<SimpleData name="NAMN">Klefsbergen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/05/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/06/05</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/06/05</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kinda</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">11.98</SimpleData>
+		<SimpleData name="LAND_HA">11.63</SimpleData>
+		<SimpleData name="VATTEN_HA">0.352</SimpleData>
+		<SimpleData name="SKOG_HA">11.552</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2451-04</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.7154232733592,57.860854350872 15.7154225173715,57.8608544719057 15.7146737404623,57.860977214354 15.7144506214815,57.8610137806819 15.7144502476033,57.8610144744428 15.7142508851436,57.8613791921546 15.7137441357267,57.8616625674621 15.7138166869001,57.8623963485485 15.7136041068377,57.8631107493473 15.7137991923983,57.8638650672179 15.7134209812976,57.8649505425785 15.7130387973292,57.865705005041 15.711929024578,57.8664989036069 15.7118133898485,57.8668768997308 15.7116451509415,57.8672663019978 15.7113713846492,57.8676572295119 15.7107351357687,57.8682458887458 15.7103156111445,57.8684264501819 15.7100094365003,57.8688908175211 15.7098160977943,57.8692174797241 15.7100172104358,57.8693642886632 15.7106079297281,57.8690383309774 15.710994885605,57.8688454473028 15.7113894947997,57.868601534637 15.7117512371241,57.8683247671803 15.7123688260621,57.8679023755959 15.7130055372493,57.8674094863171 15.713415410339,57.8673327724118 15.7133965712393,57.8668202443648 15.7134208164333,57.86672005154 15.713465275238,57.866641339159 15.7135424143198,57.8665744078452 15.7136931820647,57.8664940109616 15.7145909776327,57.8661713110017 15.7155716393714,57.8658080484682 15.715795677394,57.8657093607796 15.7159334210041,57.8656338941859 15.7161447106756,57.8654773133623 15.7164610330588,57.8651906021082 15.7167725604222,57.8649206875327 15.7168570251863,57.864783568043 15.7168860806318,57.8646274578842 15.7168832942085,57.8644500053263 15.7168405341232,57.8639549038881 15.7168595462241,57.8637887450498 15.7172286985392,57.8629315118517 15.7172855029088,57.8627445693432 15.7172657896455,57.8625101551792 15.7162385082931,57.8624479662006 15.7156577215009,57.8620223066615 15.7151786922227,57.8619178533296 15.7150370380531,57.8614053251991 15.7154211117192,57.8608575249141 15.7154233083089,57.8608544135529 15.7154233574371,57.8608543414156 15.7154232733592,57.860854350872</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002317_Q18333575_Svinhultsåsen" id="2002317_Q18333575_Svinhultsåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002317_Q18333575_Svinhultsåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002317_Q18333575_Svinhultsåsen">
+		<SimpleData name="NVRID">2002317</SimpleData>
+		<SimpleData name="NAMN">Svinhultsåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1957/11/12</SimpleData>
+		<SimpleData name="URSGALLDAT">1957/12/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/07/13</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Gislaved</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">2.01</SimpleData>
+		<SimpleData name="LAND_HA">1.99</SimpleData>
+		<SimpleData name="VATTEN_HA">0.025</SimpleData>
+		<SimpleData name="SKOG_HA">1.989</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2198-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7910097783743,57.5021271337284 13.7910065856848,57.5021136636563 13.7909388764302,57.5021344856997 13.7900417196256,57.5024104326853 13.790030237944,57.5026918330174 13.7899433169863,57.5030908959192 13.7900180442506,57.5034314624936 13.7911165860391,57.5041132920344 13.7913947909778,57.5041952733275 13.7919093428946,57.504227546884 13.7921063802083,57.5039829769535 13.7921826728077,57.5037963810975 13.7920520468331,57.5035518815525 13.7918052868212,57.5032022487155 13.7916471773519,57.5030062755157 13.7917867748753,57.5028377322583 13.7918136822942,57.5028052536357 13.7917774944075,57.5027726290217 13.7915912115036,57.502669213579 13.7915595695129,57.5025995391151 13.7913192622836,57.5024220570361 13.7912262780265,57.5023951677275 13.7911592085701,57.5023007183406 13.7910097783743,57.5021271337284</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

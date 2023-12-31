@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001306_Q30179527_Sjösakärren" id="2001306_Q30179527_Sjösakärren">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001306_Q30179527_Sjösakärren</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001306_Q30179527_Sjösakärren">
+		<SimpleData name="NVRID">2001306</SimpleData>
+		<SimpleData name="NAMN">Sjösakärren</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1985/07/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1985/07/29</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/10/01</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Nyköping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">43.37</SimpleData>
+		<SimpleData name="LAND_HA">43.18</SimpleData>
+		<SimpleData name="VATTEN_HA">0.19</SimpleData>
+		<SimpleData name="SKOG_HA">36.804</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.1317357742541,58.7433649596426 17.1311932188722,58.7425150115441 17.1309182231966,58.7419916843428 17.1308486079704,58.7416758573886 17.1309042918383,58.7407644120702 17.1307084421281,58.7405864904501 17.1303754655952,58.7402703995357 17.1297103221037,58.7397777663568 17.1295457268053,58.7396391071408 17.1290297520401,58.7384178481953 17.1286347416749,58.7375492456254 17.1280950210005,58.7369858691527 17.1253243229243,58.7389948118056 17.1244877454926,58.7399359109197 17.1240577639276,58.7407050811739 17.1238713805577,58.7411250218221 17.1234572425167,58.7412738450105 17.1234286449682,58.74138076589 17.1234195149544,58.7417474575452 17.1227687310958,58.7417909246489 17.1195898926588,58.7419496858322 17.1189284883128,58.7419820513664 17.1183719497581,58.7420092849629 17.1183896176343,58.7432841965558 17.1183411202501,58.7438748455111 17.1180853064393,58.7446496025016 17.1176272676659,58.7454443645522 17.1172745995895,58.7459211988145 17.1179590971594,58.7460885151003 17.1272934869794,58.7453569181692 17.1317357742541,58.7433649596426</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

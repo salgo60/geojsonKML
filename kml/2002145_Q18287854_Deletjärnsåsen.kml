@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002145_Q18287854_Deletjärnsåsen" id="2002145_Q18287854_Deletjärnsåsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002145_Q18287854_Deletjärnsåsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002145_Q18287854_Deletjärnsåsen">
+		<SimpleData name="NVRID">2002145</SimpleData>
+		<SimpleData name="NAMN">Deletjärnsåsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1998/12/09</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/02/08</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/02/08</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Eda, Årjäng</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">50.44</SimpleData>
+		<SimpleData name="LAND_HA">50.14</SimpleData>
+		<SimpleData name="VATTEN_HA">0.3</SimpleData>
+		<SimpleData name="SKOG_HA">47.55</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7995-98 / 511</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.0885661228601,59.6106521756066 12.1038601159077,59.6136838306281 12.1016734257676,59.6111776253521 12.1015622741001,59.6090816632304 12.1017031941511,59.6090638101068 12.1012608592866,59.6061594939072 12.0996170798603,59.605633499027 12.0981729928664,59.6055055777564 12.0978188333323,59.6033460145262 12.0956159780499,59.6033914121078 12.0936811876642,59.6025851333902 12.0923262358177,59.602848607282 12.0922845896997,59.6041071198229 12.092264683213,59.6048158907008 12.0923029262506,59.6048689813258 12.0924118764844,59.6050050771186 12.0924798712563,59.6050950576394 12.0926823444613,59.605219437027 12.0927795571991,59.6053336259209 12.0928490799937,59.6054416380047 12.0930125240513,59.6055343482257 12.0931689414247,59.6055945186893 12.0933367518746,59.6057754097596 12.0934613080813,59.6058670135761 12.0935522147538,59.6059206616747 12.0910678258569,59.6066322348212 12.0932207274581,59.6101439756964 12.0901748931164,59.6105291036254 12.0885661228601,59.6106521756066</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

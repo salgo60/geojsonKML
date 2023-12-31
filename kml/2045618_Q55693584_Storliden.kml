@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045618_Q55693584_Storliden" id="2045618_Q55693584_Storliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045618_Q55693584_Storliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045618_Q55693584_Storliden">
+		<SimpleData name="NVRID">2045618</SimpleData>
+		<SimpleData name="NAMN">Storliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/11/02</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/06/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/06/15</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Lycksele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">104.62</SimpleData>
+		<SimpleData name="LAND_HA">104.69</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">104.288</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6807-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.3962801244842,64.3117713384322 18.3970642247152,64.3101034514793 18.3994008264023,64.3089907346935 18.4015222724288,64.3079106489314 18.4028040285963,64.3063747707925 18.4010293610186,64.3055446278179 18.39828145781,64.3053629398061 18.3954355617687,64.3052932445764 18.3930623330131,64.3046647463896 18.3940931478092,64.3038294902249 18.3953138721901,64.302096247625 18.3977765624005,64.3018144226824 18.4014280082684,64.3008158894642 18.4025790131885,64.3001390974524 18.397983216561,64.2974208103028 18.395951574686,64.2962293586424 18.3919987096088,64.2972072911175 18.389370852127,64.2985556503538 18.3867321604698,64.2998872387557 18.3838306856309,64.3002388779213 18.38266880932,64.3006492273808 18.3856062647663,64.3015303942998 18.3824733232669,64.3027417553229 18.3794091564035,64.303926212096 18.3821824062156,64.3054254321825 18.3848723962903,64.3068789370177 18.3876387505633,64.3083736777291 18.3876869282052,64.3096922930258 18.3877383640328,64.3110887282268 18.3892470619871,64.3110280419437 18.3929969892206,64.3124651583992 18.3962801244842,64.3117713384322</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

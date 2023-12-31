@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013406_Q30181260_Mössbobäcken" id="2013406_Q30181260_Mössbobäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013406_Q30181260_Mössbobäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013406_Q30181260_Mössbobäcken">
+		<SimpleData name="NVRID">2013406</SimpleData>
+		<SimpleData name="NAMN">Mössbobäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/11/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/11/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/11/30</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hudiksvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">85.1</SimpleData>
+		<SimpleData name="LAND_HA">85.1</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">69.935</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-16778-02, 84-230</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.761249425641,61.5775425879904 16.7616131710448,61.5757051729167 16.7633956513226,61.5755565096337 16.7657454381849,61.5753789320964 16.766058688026,61.5733078262971 16.7664099091689,61.5732839615391 16.7712770856457,61.5729578867564 16.7748059520641,61.5727325676846 16.7749621750519,61.5732771290002 16.7779505971046,61.5731746751248 16.7784051061859,61.5733686877376 16.777403387249,61.5744770533768 16.7801881165898,61.5742815068952 16.7816820576424,61.5741808206101 16.7858998140673,61.573859020192 16.7885366992315,61.5736644000683 16.7900679440641,61.5735318304692 16.7922426669948,61.5733834218348 16.7893110804673,61.5717486042115 16.7862558167295,61.5700608018231 16.7833529823967,61.570262857868 16.7742211469652,61.5708472321611 16.7727726397722,61.5709380445459 16.7694282125605,61.5711743482896 16.7595857127755,61.5718191489835 16.7599543116302,61.5737224458972 16.7587360953378,61.5737929810613 16.7557490118018,61.573977274899 16.7505943024582,61.5743377445705 16.7488392576067,61.5740957515264 16.7478447728856,61.5741500803026 16.7472591137616,61.5745096911052 16.7463274416526,61.5746419548456 16.7470763796616,61.5767793140992 16.7483632275571,61.5766904422285 16.7486663677053,61.5766695106566 16.7502125012885,61.5784587438644 16.761249425641,61.5775425879904</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

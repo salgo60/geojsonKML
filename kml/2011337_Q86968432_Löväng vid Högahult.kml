@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2011337_Q86968432_Löväng_vid_Högahult" id="2011337_Q86968432_Löväng_vid_Högahult">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2011337_Q86968432_Löväng_vid_Högahult</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2011337_Q86968432_Löväng_vid_Högahult">
+		<SimpleData name="NVRID">2011337</SimpleData>
+		<SimpleData name="NAMN">Löväng vid Högahult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1964/10/09</SimpleData>
+		<SimpleData name="URSGALLDAT">1964/10/09</SimpleData>
+		<SimpleData name="SENGALLDAT">1964/10/09</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Emmaboda</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">0.39</SimpleData>
+		<SimpleData name="LAND_HA">0.39</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III R 22-63</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.490248163977,56.6927805539375 15.4900517249962,56.6928518965635 15.490132493234,56.6929508886925 15.4902454589546,56.693103838143 15.4903581252453,56.6932927159367 15.4905321491651,56.6934637792421 15.490701934462,56.6936528001704 15.4908194285919,56.6937518807862 15.4909246142107,56.693859904012 15.4910702265859,56.694012939684 15.4912217200522,56.6939504602739 15.4911084480707,56.6938334312051 15.4913420700752,56.6937082964618 15.4915266594501,56.6935920243426 15.4912667980887,56.693438694052 15.4909415799253,56.693294191566 15.4907625889927,56.6932308762968 15.4906409354198,56.6931407601303 15.4905277468987,56.6930147551196 15.4904832405696,56.6929697404968 15.4903983893668,56.6928707377121 15.490248163977,56.6927805539375</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

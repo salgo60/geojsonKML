@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002775_Q30186029_Klackudden" id="2002775_Q30186029_Klackudden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002775_Q30186029_Klackudden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002775_Q30186029_Klackudden">
+		<SimpleData name="NVRID">2002775</SimpleData>
+		<SimpleData name="NAMN">Klackudden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/08/30</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/09/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/09/30</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Nordanstig</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">106.74</SimpleData>
+		<SimpleData name="LAND_HA">88.4</SimpleData>
+		<SimpleData name="VATTEN_HA">18.337</SimpleData>
+		<SimpleData name="SKOG_HA">69.095</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3168-03</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.4375623910225,62.0750844873898 17.4413633094837,62.0752820386884 17.4461259307409,62.0755234015449 17.448596307603,62.0756746092756 17.4491878656077,62.0750219148016 17.4494694428643,62.0747062228213 17.4524381080567,62.0750216559062 17.4518416668861,62.0764993566441 17.4533773635915,62.0769673266108 17.4535659796841,62.0778111471663 17.4557738133558,62.0775975783961 17.4557241081449,62.0766814364117 17.4594336248856,62.0766359580016 17.462774788096,62.0745132042851 17.464535688371,62.0715238035679 17.4571142205814,62.0681694488354 17.4378326690721,62.0677888043517 17.4400196848181,62.0698742796717 17.4390132250076,62.07200535561 17.4385937875916,62.0728796550062 17.4381859914045,62.07375901021 17.4375623910225,62.0750844873898</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

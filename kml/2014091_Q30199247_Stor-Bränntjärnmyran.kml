@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014091_Q30199247_Stor_Bränntjärnmyran" id="2014091_Q30199247_Stor_Bränntjärnmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014091_Q30199247_Stor_Bränntjärnmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014091_Q30199247_Stor_Bränntjärnmyran">
+		<SimpleData name="NVRID">2014091</SimpleData>
+		<SimpleData name="NAMN">Stor-Bränntjärnmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2008/09/02</SimpleData>
+		<SimpleData name="URSGALLDAT">2008/09/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/09/29</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Umeå, Vindeln</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">293.11</SimpleData>
+		<SimpleData name="LAND_HA">292.77</SimpleData>
+		<SimpleData name="VATTEN_HA">0.33</SimpleData>
+		<SimpleData name="SKOG_HA">151.338</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-12873-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.0361811013479,64.2013495974193 20.0564101616143,64.2053289496542 20.0483608266913,64.212240254473 20.0580280066186,64.2175373479786 20.057820789435,64.2176806792695 20.062148753974,64.2214108368411 20.0712464695031,64.2226052844895 20.0812469942594,64.2162844667183 20.0759772433649,64.2145279585757 20.0731612677494,64.2148148400181 20.0714867175565,64.2147164273282 20.0698508872485,64.2142967441086 20.0656492741983,64.2113868203811 20.065293951364,64.2116842456985 20.0640628641677,64.2107592175809 20.0622554171728,64.2094391599052 20.0715094464598,64.2042389965601 20.0758390771952,64.2035256725762 20.0799692702161,64.2017073100249 20.0785580264092,64.2010996965364 20.0782117805792,64.2008976786723 20.0776734391074,64.2005640022853 20.0773878443788,64.2001979628951 20.0769139429185,64.1997251136725 20.0760425990484,64.1990891691525 20.0744394665457,64.1983498639318 20.0724523934344,64.1975344085363 20.0711153601214,64.1966624634389 20.0698790188132,64.193840642381 20.0608805198012,64.1958383701669 20.0361811013479,64.2013495974193</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

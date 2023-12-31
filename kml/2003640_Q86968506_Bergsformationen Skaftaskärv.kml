@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003640_Q86968506_Bergsformationen_Skaftaskärv" id="2003640_Q86968506_Bergsformationen_Skaftaskärv">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003640_Q86968506_Bergsformationen_Skaftaskärv</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003640_Q86968506_Bergsformationen_Skaftaskärv">
+		<SimpleData name="NVRID">2003640</SimpleData>
+		<SimpleData name="NAMN">Bergsformationen Skaftaskärv</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1939/02/25</SimpleData>
+		<SimpleData name="URSGALLDAT">1939/02/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1939/02/25</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Ronneby</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">0.82</SimpleData>
+		<SimpleData name="LAND_HA">0.82</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">EKD:M T48  1938</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2996676190633,56.2160333976827 15.2999280402188,56.2161554343648 15.3002197903194,56.2163081669869 15.3004225618951,56.2164207918046 15.3006428110143,56.2164816131071 15.3008416281932,56.2165028727061 15.3010649466756,56.2164490772825 15.3011958885967,56.2163623349702 15.3012604763636,56.2162320796108 15.3012084238886,56.2161349562298 15.3010155648145,56.2160116617351 15.3007495997337,56.2158573409049 15.3004817828703,56.2157710829181 15.3002529579521,56.2156707855071 15.2999926401203,56.2155451733508 15.2997730562591,56.2154592730476 15.2995390856404,56.2154305856673 15.2993104349761,56.2154431246356 15.2991003251669,56.2154844771344 15.298998782778,56.2155535362228 15.2989900856752,56.2156376538046 15.2991447377417,56.2157463269478 15.2993631066147,56.2158769839697 15.2996676190633,56.2160333976827</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

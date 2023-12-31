@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001384_Q10716180_Vista_kulle" id="2001384_Q10716180_Vista_kulle">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001384_Q10716180_Vista_kulle</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001384_Q10716180_Vista_kulle">
+		<SimpleData name="NVRID">2001384</SimpleData>
+		<SimpleData name="NAMN">Vista kulle</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1981/06/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/07/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/12/13</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Jönköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Jönköpings kommun</SimpleData>
+		<SimpleData name="AREA_HA">13.93</SimpleData>
+		<SimpleData name="LAND_HA">13.93</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.207</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-8473-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.2695779014933,57.8568573228673 14.2699920998027,57.8567535045873 14.2705488930852,57.8567620231346 14.2709741024555,57.856768535016 14.2722620033169,57.8570083492227 14.2725116519649,57.8566342278454 14.2746459722459,57.8565073647552 14.2750564121256,57.8564135420633 14.2754489774725,57.8562925515382 14.2758247442835,57.8561713382146 14.2760626017679,57.8561248178783 14.2764433467624,57.8560845371349 14.2767651449938,57.8560434972274 14.27695824957,57.856016904059 14.2769748601206,57.8560146003276 14.2771043621724,57.8559892076092 14.2773517307255,57.8558664859968 14.2779526586197,57.8555998447324 14.2776927347372,57.8554215889569 14.2775270058274,57.8553073576092 14.2773125088077,57.8551521124336 14.27721950924,57.8550117781802 14.2771666937628,57.8548674688481 14.2771029390482,57.8547813671309 14.2765958187418,57.8544744359137 14.2759942917418,57.8541618710558 14.2759498943429,57.8541164264832 14.2749580222452,57.8540191694065 14.2748749723056,57.8538924359241 14.2703234436459,57.8542920998436 14.2700731313034,57.8543164945539 14.2685216298595,57.8544676775794 14.2688919984364,57.8557420049298 14.2682834015803,57.8557228684465 14.2681775244438,57.8559979782939 14.2684489798941,57.8564629900999 14.268403013395,57.856962964852 14.2689416186845,57.8570167925312 14.2695779014933,57.8568573228673</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

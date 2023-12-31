@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014858_Q30158131_Brännberget" id="2014858_Q30158131_Brännberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014858_Q30158131_Brännberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014858_Q30158131_Brännberget">
+		<SimpleData name="NVRID">2014858</SimpleData>
+		<SimpleData name="NAMN">Brännberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Boden</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">54.08</SimpleData>
+		<SimpleData name="LAND_HA">54.08</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">46.125</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-10073-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.55555688023,66.1609857944065 20.5581327167213,66.160895855071 20.5643247552913,66.1571895199399 20.5673595401878,66.1572845735809 20.5668921418177,66.1533591215822 20.5684153965533,66.1521068912986 20.5717236299796,66.1524035558152 20.5720040076795,66.1501576667403 20.5733953279871,66.1489887557569 20.5730648442109,66.1486214209477 20.5724371293225,66.1479660639096 20.5706205408123,66.1485735972508 20.5706208937287,66.1485735845067 20.569949795905,66.1487962779203 20.5686947674548,66.1489195096301 20.5647605080198,66.1483888678738 20.5636064799994,66.1484930876231 20.5609097667962,66.1502980888514 20.5622642033999,66.1503760088029 20.5621636486537,66.1511099492052 20.5620841107795,66.1522653942296 20.5612839340474,66.1523724221755 20.5603736247451,66.1526859867899 20.5581811402256,66.1519600559016 20.5553987477623,66.1537389374176 20.5562729216245,66.1559094779395 20.5562719701967,66.1559062632168 20.5568370266682,66.1575574862335 20.5575729748404,66.1581264742415 20.5575725419071,66.1586154579062 20.557440383942,66.1594787598793 20.5562889936228,66.1601202824203 20.5560921683814,66.1602222372522 20.55555688023,66.1609857944065</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000775_Q10438758_Börs_Flåg" id="2000775_Q10438758_Börs_Flåg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000775_Q10438758_Börs_Flåg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000775_Q10438758_Börs_Flåg">
+		<SimpleData name="NVRID">2000775</SimpleData>
+		<SimpleData name="NAMN">Börs Flåg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1981/03/30</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/06/06</SimpleData>
+		<SimpleData name="SENGALLDAT">1981/06/06</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Stenungsund</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">121.35</SimpleData>
+		<SimpleData name="LAND_HA">38.06</SimpleData>
+		<SimpleData name="VATTEN_HA">83.288</SimpleData>
+		<SimpleData name="SKOG_HA">36.622</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11-121-3274-74 1415-203 / 11.121-3274-72</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.9390443260782,58.0985789355079 11.9325205813266,58.1002700114625 11.928219639024,58.1004220229093 11.9277454155943,58.1005691071558 11.9271992227946,58.1007777530185 11.9267780824276,58.1009947530456 11.9264205519455,58.1010634452956 11.9257611816854,58.101353846361 11.9254156137679,58.1014710252755 11.9254648624819,58.1015837686467 11.9256100582495,58.1018800816724 11.9255429624381,58.1020947581267 11.9249471716793,58.1022626698991 11.9237983543391,58.1028297633957 11.9230868173932,58.1031505816904 11.9230580086531,58.1031635558671 11.9234013129115,58.1032040972295 11.9236027136215,58.1033439835307 11.9233484537727,58.1035368456353 11.9246686342361,58.1039009855871 11.9247171072507,58.1039807708208 11.925619475591,58.1040699099196 11.9261123766936,58.1041186116021 11.9264382202188,58.1041507062003 11.926487931407,58.1040913652608 11.9265023316731,58.1040741779292 11.9269608875943,58.1036068502378 11.9273183600083,58.1036280578607 11.9279556938539,58.1036366290856 11.9286076824091,58.1059262017671 11.9286007570609,58.1059782617624 11.9285233720181,58.1065201369968 11.9261991306484,58.1086595156151 11.9262473525142,58.109412556291 11.9253733270337,58.1099352839057 11.9257166722038,58.110122568778 11.9258478794968,58.1101667550211 11.9261196026843,58.1101805927503 11.9266884638731,58.1105829261376 11.9267874184255,58.1106516602514 11.9270897233559,58.1106064031799 11.9279726342033,58.1108635801734 11.9280462415422,58.1108670001491 11.9310995767652,58.1110087820334 11.9389684453906,58.1100523100157 11.9425811896352,58.1087015652957 11.9454329435787,58.1050594603572 11.9441079581463,58.1017698582868 11.9429335070724,58.0996394363309 11.9390443923012,58.0985789550748 11.9390443260782,58.0985789355079</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

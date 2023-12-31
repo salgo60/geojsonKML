@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001909_Q18290933_Ingbokällorna" id="2001909_Q18290933_Ingbokällorna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001909_Q18290933_Ingbokällorna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001909_Q18290933_Ingbokällorna">
+		<SimpleData name="NVRID">2001909</SimpleData>
+		<SimpleData name="NAMN">Ingbokällorna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1961/07/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1961/08/25</SimpleData>
+		<SimpleData name="SENGALLDAT">1961/08/25</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Heby</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Heby kommun</SimpleData>
+		<SimpleData name="AREA_HA">6.82</SimpleData>
+		<SimpleData name="LAND_HA">6.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0.08</SimpleData>
+		<SimpleData name="SKOG_HA">6.659</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">R-7-60</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.8405021754635,60.1479453890578 16.840509452716,60.1479450633989 16.8405096862077,60.1479450511728 16.8405096132064,60.1479450342245 16.8405095397035,60.1479450083017 16.8375930108261,60.1466870824348 16.8348885524465,60.1463136518587 16.8348885649442,60.1463135528903 16.83466184606,60.1462742027154 16.8341615028749,60.1462769473111 16.8338459463491,60.1463520722276 16.8335202517957,60.1464919757225 16.8327147025875,60.1469465715013 16.8326878359538,60.1469486676854 16.833558702387,60.147917767404 16.832425129091,60.1482293465174 16.8324084160799,60.1482339426857 16.8325729349029,60.1483524121456 16.8328151362548,60.1483664667698 16.8331235022575,60.1484009090777 16.8333947172846,60.1484180728138 16.8336041210935,60.1484810524837 16.8339231086398,60.1485674109617 16.8341870616282,60.1486384990508 16.834547205513,60.1486936685883 16.834921338595,60.1486875879266 16.8352320753435,60.1486484439876 16.8355477294577,60.1486845939535 16.835667224646,60.1487490588527 16.8358151112568,60.1488578035423 16.8359508145048,60.148844956328 16.8358918644567,60.148605413635 16.8358280327629,60.1481561783434 16.8370372682269,60.1481016634347 16.8370604116687,60.1481006239302 16.8405021754635,60.1479453890578</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002174_Q30157933_Röllingen" id="2002174_Q30157933_Röllingen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002174_Q30157933_Röllingen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002174_Q30157933_Röllingen">
+		<SimpleData name="NVRID">2002174</SimpleData>
+		<SimpleData name="NAMN">Röllingen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1992/03/27</SimpleData>
+		<SimpleData name="URSGALLDAT">1992/07/17</SimpleData>
+		<SimpleData name="SENGALLDAT">1992/07/17</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Enköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">164.82</SimpleData>
+		<SimpleData name="LAND_HA">113.35</SimpleData>
+		<SimpleData name="VATTEN_HA">51.459</SimpleData>
+		<SimpleData name="SKOG_HA">94.59</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1135-92, dossnr. 0381-02-052</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3518015397674,59.4530130231615 17.36145508538,59.4472382129044 17.3682994184635,59.4477877626798 17.37504730436,59.4445810219121 17.3762275858091,59.4429539079185 17.3753503719153,59.4403736073379 17.3665745351408,59.4392125395044 17.3665744464351,59.4392125321286 17.3665743960955,59.439212568976 17.363760051182,59.4417697947822 17.3621430226879,59.4432527048666 17.354465162119,59.4445251350208 17.3533404524644,59.4467330005818 17.3362601091499,59.4502359588024 17.3308328124931,59.4537708217781 17.3328669167476,59.4556009479435 17.3391855853868,59.4561147200626 17.3444386836433,59.4542095264592 17.3518015397674,59.4530130231615</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.362839635947,59.4501593671294 17.3629219697389,59.4482305656664 17.3629218828888,59.4482305852054 17.3593555571017,59.4489849805146 17.3591584558383,59.4509545432354 17.362839635947,59.4501593671294</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

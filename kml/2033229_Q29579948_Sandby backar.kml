@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2033229_Q29579948_Sandby_backar" id="2033229_Q29579948_Sandby_backar">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2033229_Q29579948_Sandby_backar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2033229_Q29579948_Sandby_backar">
+		<SimpleData name="NVRID">2033229</SimpleData>
+		<SimpleData name="NAMN">Sandby backar</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/01/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/02/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/06/20</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Simrishamn</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">38.42</SimpleData>
+		<SimpleData name="LAND_HA">25.19</SimpleData>
+		<SimpleData name="VATTEN_HA">13.218</SimpleData>
+		<SimpleData name="SKOG_HA">5.576</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-28723-2013, 511-9618-2014, 511-28725-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.2113054887751,55.419852296715 14.211758773204,55.4196607858229 14.2120686023594,55.4198327897249 14.2153216822351,55.4178609405477 14.2156574494189,55.4180044181382 14.2162803907084,55.4180905973144 14.2174936939942,55.4182228035129 14.2181976597031,55.4182967308684 14.2220663266295,55.4162423962003 14.2238608122519,55.4153613580378 14.2277807742314,55.4135966741653 14.2254886317168,55.410518911034 14.2206783246675,55.4117055096639 14.2182751363556,55.4134641140429 14.2160303589084,55.4151057350993 14.2161940589041,55.4151744134901 14.2142270420263,55.4166008833457 14.2149181738513,55.4168526002266 14.2142041465175,55.4173412271352 14.2140729223075,55.4174355829473 14.2139347826613,55.41753527686 14.2135899746841,55.4177718305575 14.2133234665578,55.4179427131556 14.2127936056449,55.4183145284771 14.2124681817554,55.4185353163292 14.2120883759591,55.4187926590098 14.2118831222536,55.4189364534764 14.2116279998505,55.4190980871595 14.2115674973182,55.4192064919929 14.2110286415465,55.419595126623 14.2113054887751,55.419852296715</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

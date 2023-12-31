@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000268_Q55472901_Håkansbodaberget" id="2000268_Q55472901_Håkansbodaberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000268_Q55472901_Håkansbodaberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000268_Q55472901_Håkansbodaberget">
+		<SimpleData name="NVRID">2000268</SimpleData>
+		<SimpleData name="NAMN">Håkansbodaberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/11/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/11/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/11/17</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Nora</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">40.51</SimpleData>
+		<SimpleData name="LAND_HA">40.19</SimpleData>
+		<SimpleData name="VATTEN_HA">0.314</SimpleData>
+		<SimpleData name="SKOG_HA">40.191</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-00438-99 / 5112-</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9033068105272,59.6957430620271 14.9063349033013,59.696135397596 14.9059671124879,59.6989132782768 14.9085378642893,59.6991778396423 14.9127320836101,59.6991007930252 14.9125082991161,59.6987149308761 14.9109569732007,59.6959835164601 14.9140004248063,59.6915440478259 14.9151964770407,59.6913892437439 14.9151649558553,59.6913156707275 14.9151992893467,59.6912464235702 14.9152008110718,59.6911292844776 14.9151539910731,59.6909594033585 14.9151482262649,59.6908227377015 14.9151698230562,59.6907184794742 14.9151773315283,59.6906362213655 14.9151664826022,59.6905362434408 14.9151715768938,59.6904182356141 14.9152224610222,59.6901534124465 14.9152223794279,59.6900099617979 14.9152126511156,59.689881267532 14.9151684163402,59.6897363156836 14.9152984851891,59.689329924851 14.9130525327246,59.6894301246307 14.9116807207758,59.6908638406176 14.9099056004709,59.6903432579536 14.9077071505505,59.6914828881219 14.9061982694396,59.6911411291711 14.9049165006719,59.6925913971187 14.9037047282618,59.693673635159 14.9033068105272,59.6957430620271</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

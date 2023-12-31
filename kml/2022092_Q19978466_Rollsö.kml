@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2022092_Q19978466_Rollsö" id="2022092_Q19978466_Rollsö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2022092_Q19978466_Rollsö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2022092_Q19978466_Rollsö">
+		<SimpleData name="NVRID">2022092</SimpleData>
+		<SimpleData name="NAMN">Rollsö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/05/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/05/31</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/05/31</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlskrona</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">71.21</SimpleData>
+		<SimpleData name="LAND_HA">9.62</SimpleData>
+		<SimpleData name="VATTEN_HA">61.589</SimpleData>
+		<SimpleData name="SKOG_HA">4.76</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-8358-07</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.5363880671232,56.1674297573461 15.5374336972172,56.1702310221294 15.5468172034377,56.1727308345317 15.5471269460959,56.1724379328426 15.5483601841897,56.1710866195448 15.549148708655,56.1701965123876 15.5493451279922,56.1699699312806 15.5495367221413,56.1696875663754 15.5501644253256,56.1687888049548 15.550677861525,56.1680580358936 15.5513103179512,56.1671035769373 15.5516730890473,56.1665746192905 15.5520984408049,56.1657693212202 15.5523005787881,56.165403147779 15.5472337352836,56.1639665940802 15.5395488899951,56.1636143404014 15.5376039664529,56.1636101364514 15.5370891419124,56.1643842002444 15.5365708840207,56.165649208948 15.5363880671232,56.1674297573461</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000504_Q30162218_Trefaldighetsdalen" id="2000504_Q30162218_Trefaldighetsdalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000504_Q30162218_Trefaldighetsdalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000504_Q30162218_Trefaldighetsdalen">
+		<SimpleData name="NVRID">2000504</SimpleData>
+		<SimpleData name="NAMN">Trefaldighetsdalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1927/12/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1927/12/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/12/23</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sollefteå</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Sollefteå kommun</SimpleData>
+		<SimpleData name="AREA_HA">1.88</SimpleData>
+		<SimpleData name="LAND_HA">1.86</SimpleData>
+		<SimpleData name="VATTEN_HA">0.023</SimpleData>
+		<SimpleData name="SKOG_HA">1.854</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-8696-98</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.3263735957507,63.1659891854246 17.3268292204691,63.1659357438674 17.327733262827,63.1657871301688 17.3277333407424,63.1657871109324 17.3277475338561,63.1656879604476 17.3277583169676,63.165597064121 17.327566579293,63.1653979543241 17.3272993191606,63.1652820289423 17.3271284204244,63.1651903395183 17.3269814705539,63.1651020107735 17.3268872571044,63.1649522151451 17.3269307451572,63.1648621387519 17.3270906140544,63.1647135930587 17.3272985660961,63.164575375501 17.3274413934719,63.1644018854189 17.3274589096454,63.1642654156934 17.3273809324984,63.1641226455154 17.3271954690312,63.1640597856281 17.3269009328978,63.1640409706918 17.3266083570743,63.16406517056 17.3262139538398,63.1641190183909 17.3258293191003,63.1642122236649 17.3256342532519,63.1642857554202 17.3254796855182,63.164376842833 17.3253738931463,63.1644925968774 17.3252285498525,63.164612303072 17.3251076984338,63.1647461457165 17.3250979420186,63.1648789500134 17.3251355971098,63.1650077362279 17.3252221785313,63.1651647786191 17.3253216923363,63.1652571366566 17.3255023366509,63.1653881961188 17.3257077733358,63.1655405615539 17.3259120732783,63.1656678208178 17.3261082666384,63.1657915669702 17.3263039572393,63.165904563717 17.3263734972759,63.1659891960177 17.3263735957507,63.1659891854246</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2032669_Q30199287_Trinnan" id="2032669_Q30199287_Trinnan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2032669_Q30199287_Trinnan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2032669_Q30199287_Trinnan">
+		<SimpleData name="NVRID">2032669</SimpleData>
+		<SimpleData name="NAMN">Trinnan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/09/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/10/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/10/08</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Vännäs</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">29.21</SimpleData>
+		<SimpleData name="LAND_HA">29.02</SimpleData>
+		<SimpleData name="VATTEN_HA">0.186</SimpleData>
+		<SimpleData name="SKOG_HA">28.522</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8080-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>19.7747644002887,63.8908433510024 19.7749831299255,63.8908129780434 19.7753995709137,63.8909210200939 19.7759612901908,63.8909970641948 19.7763151133975,63.8909406938379 19.7763779839761,63.8908228979768 19.7762570327219,63.8907294514921 19.7759254647961,63.890697780589 19.7757467919268,63.8906062419907 19.7756907790603,63.8904558348837 19.7757151691878,63.890339311451 19.7758140870379,63.8901680423673 19.7785941638127,63.8848003288649 19.7715063367205,63.8831760009578 19.7693449027708,63.8863459153071 19.7688146017201,63.8871233822991 19.771920159958,63.8879272032908 19.770804643062,63.8894680239467 19.7695883819455,63.8911500618697 19.771493348303,63.8918661728921 19.7723128989396,63.8921742376803 19.7743736178959,63.8929487995333 19.7744455163769,63.8929787211738 19.7745431057506,63.8929147093297 19.77457075943,63.8927281949581 19.7745057140827,63.8925364163401 19.7742443303517,63.8922856908344 19.7740522979709,63.8920788457909 19.7739875838645,63.8918485692368 19.7740319989538,63.8916596700969 19.7745467640665,63.891485215026 19.7747238612358,63.8913684608274 19.7747235645447,63.8912244651284 19.7746577907737,63.8909379939812 19.7747644002887,63.8908433510024</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

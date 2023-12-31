@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045156_Q55693608_Nörd_Forsberget" id="2045156_Q55693608_Nörd_Forsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045156_Q55693608_Nörd_Forsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045156_Q55693608_Nörd_Forsberget">
+		<SimpleData name="NVRID">2045156</SimpleData>
+		<SimpleData name="NAMN">Nörd-Forsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/01/30</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/03/07</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/03/07</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Skellefteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">48.81</SimpleData>
+		<SimpleData name="LAND_HA">48.8</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">44.774</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-3196-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.7064246302301,65.1697226142618 20.7076589283536,65.1693151248671 20.7089424161656,65.1694655373726 20.7103791446679,65.1690535064875 20.7104448704888,65.1682149584276 20.711153946339,65.1678664714951 20.7130974306725,65.1678183053533 20.718141106042,65.1662125121044 20.7154506326409,65.1648137760689 20.7169572817773,65.1644658740014 20.7155209334108,65.1636033322848 20.7169157905066,65.1632219006882 20.7176334781752,65.1626835175117 20.7192862483126,65.1626441622634 20.7194766692507,65.1623853948085 20.719040380784,65.1620803513233 20.7170360602129,65.1619376126303 20.716331722155,65.1620928412432 20.7142847073406,65.1620375726745 20.7135933903789,65.1619421896177 20.711826195708,65.162098857153 20.711361750945,65.162280180867 20.7099725526017,65.1623006595013 20.708784450666,65.1624299962314 20.7044910353333,65.1631125867456 20.703509040928,65.1639151217425 20.7035765404456,65.1643949311473 20.7027611780293,65.1645262835134 20.7035784283529,65.1653493258453 20.7033761795966,65.1655195565929 20.7035781591704,65.1659784970042 20.7039425410501,65.1660593766488 20.7040016739353,65.1666937461913 20.7021578008899,65.1676675046523 20.7014732679473,65.1680001310788 20.6987848392587,65.1664566459304 20.6998580365953,65.1689989007208 20.7058182979048,65.1709206032668 20.7054033761036,65.1705935253452 20.7061112072858,65.1702774021907 20.7067335060994,65.1699661298525 20.7064246302301,65.1697226142618</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

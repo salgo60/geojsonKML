@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2024569_Q29579922_Brotorpabäck" id="2024569_Q29579922_Brotorpabäck">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2024569_Q29579922_Brotorpabäck</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2024569_Q29579922_Brotorpabäck">
+		<SimpleData name="NVRID">2024569</SimpleData>
+		<SimpleData name="NAMN">Brotorpabäck</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2011/01/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/01/14</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Alvesta</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">51.37</SimpleData>
+		<SimpleData name="LAND_HA">51.36</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">51.164</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3954-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3449553227126,57.0347215246329 14.3453206079116,57.0343119910822 14.3466435755307,57.0346487350334 14.3469919394575,57.0341065362725 14.347180876971,57.0341537601866 14.3476192834135,57.0342532927926 14.3478794162577,57.0331492509737 14.3474100873091,57.0328631198325 14.3472244134577,57.0308763816724 14.3483325709783,57.0309133979005 14.348638980828,57.0292388974468 14.3503590908018,57.0270541962247 14.349958563818,57.0264075474451 14.3497251210447,57.0255317287025 14.3496354698208,57.0250725380948 14.3496801520339,57.0248268147296 14.3498128363146,57.0246864867413 14.3498911484496,57.0246222916108 14.3498446617045,57.0245968420427 14.349658748145,57.0244950527523 14.3497218118541,57.0232209540511 14.350261162797,57.0228742431824 14.3508487118312,57.0230731796954 14.3523649297785,57.0225392240741 14.3542453195018,57.0217167219402 14.3550914406404,57.0209148861153 14.3546553948763,57.0209370483449 14.3520892626628,57.0210842998114 14.3485293056041,57.0212894876621 14.3460915940851,57.0204030812782 14.3436489404597,57.0219547498396 14.3445623511719,57.0294034471089 14.3447234431944,57.0307815966825 14.3430735686173,57.0311056013056 14.3424627627618,57.0311636377425 14.3424637322682,57.0311675148005 14.3429640732808,57.0331624878814 14.3434431983664,57.033274466599 14.3427020117839,57.0341995095243 14.3449553227126,57.0347215246329</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

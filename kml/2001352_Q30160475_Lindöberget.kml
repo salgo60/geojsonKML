@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001352_Q30160475_Lindöberget" id="2001352_Q30160475_Lindöberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001352_Q30160475_Lindöberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001352_Q30160475_Lindöberget">
+		<SimpleData name="NVRID">2001352</SimpleData>
+		<SimpleData name="NAMN">Lindöberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1981/11/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/12/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1981/12/19</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Köping</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Köpings kommun</SimpleData>
+		<SimpleData name="AREA_HA">44.31</SimpleData>
+		<SimpleData name="LAND_HA">20.06</SimpleData>
+		<SimpleData name="VATTEN_HA">24.246</SimpleData>
+		<SimpleData name="SKOG_HA">7.759</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-732-75</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.0752162812483,59.4776560745872 16.0600077446277,59.4871400891079 16.062230277186,59.4886535232834 16.0622303312745,59.4886535587668 16.0624163437241,59.4887581994551 16.0628634395263,59.4885624502932 16.0638924355341,59.4880239676811 16.0647762641939,59.4875951461466 16.0663235557662,59.4866705437316 16.0698819246581,59.4847264859713 16.0739513128035,59.4825437074441 16.0751261265968,59.4809412628756 16.0765518547812,59.4800327215043 16.0783979230611,59.4791465706759 16.077174171905,59.4785731810706 16.0752224706701,59.4776586460548 16.0752162812483,59.4776560745872</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>16.0756450948458,59.4817766572453 16.0751901456147,59.4819940515975 16.0746144668864,59.4825015267867 16.0746236533479,59.4826645504773 16.0753475111181,59.4832478695699 16.0756679740865,59.4834417228171 16.076323408464,59.4837212961924 16.0792269424573,59.4838729061205 16.0792921932914,59.4838661348182 16.0796409543714,59.4838299545332 16.0804271086521,59.4835935348642 16.080958448209,59.4830205715345 16.0811310686333,59.482661144557 16.0810864638258,59.4823404696269 16.0801080418882,59.4803384589602 16.0801079539294,59.4803384686677 16.0799131150514,59.4803513581747 16.0798832937921,59.4804789874725 16.0776440550639,59.4812400836679 16.0767237600429,59.4812778240998 16.0760744856022,59.4814225153282 16.0756450948458,59.4817766572453</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

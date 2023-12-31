@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003014_Q30186859_Kallkällmyran" id="2003014_Q30186859_Kallkällmyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003014_Q30186859_Kallkällmyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003014_Q30186859_Kallkällmyran">
+		<SimpleData name="NVRID">2003014</SimpleData>
+		<SimpleData name="NAMN">Kallkällmyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/10/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/11/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/11/29</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Skellefteå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">87.75</SimpleData>
+		<SimpleData name="LAND_HA">87.74</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">61.432</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8791-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.3793111574816,64.9194304150653 20.3802566702913,64.9187354397296 20.3809787163516,64.9187660326035 20.3818454880351,64.9185187395747 20.3824202352672,64.9180659129042 20.3827344924312,64.9180304421424 20.3830326312929,64.9177530752425 20.3834059208243,64.9177604745229 20.3839240559998,64.9176722159091 20.3829168276518,64.9172021330258 20.3862009393027,64.916298883742 20.3813146618269,64.9142241110985 20.37603412863,64.9119801163999 20.3726478273588,64.9105416572459 20.3725950652646,64.9105192427541 20.3620334238484,64.9149510811599 20.3618624900708,64.9150227916439 20.3604527726658,64.9156035253176 20.3582228092055,64.9165449743798 20.3582583612983,64.9165576990239 20.3654461349075,64.9192204662723 20.3712543847672,64.9213786640674 20.3710144430336,64.9216818212744 20.3715425877526,64.9221043517574 20.3717421831445,64.9221485183382 20.3742965146855,64.9220257286774 20.3750130802379,64.9217269702497 20.3754725134299,64.9217046226569 20.3765615562687,64.921538192812 20.3783597732928,64.9210445592318 20.3789634173525,64.9207477046536 20.3773369586398,64.9201910172032 20.3785670558843,64.9199461629074 20.3796643123102,64.9196179441835 20.3793111574816,64.9194304150653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

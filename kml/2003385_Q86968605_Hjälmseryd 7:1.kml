@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003385_Q86968605_Hjälmseryd_7_1" id="2003385_Q86968605_Hjälmseryd_7_1">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003385_Q86968605_Hjälmseryd_7_1</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003385_Q86968605_Hjälmseryd_7_1">
+		<SimpleData name="NVRID">2003385</SimpleData>
+		<SimpleData name="NAMN">Hjälmseryd 7:1</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1959/09/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1959/10/19</SimpleData>
+		<SimpleData name="SENGALLDAT">1959/10/19</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Sävsjö</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">0.97</SimpleData>
+		<SimpleData name="LAND_HA">0.97</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">IIIR-8-59</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5164375376443,57.3068330107169 14.5162144802211,57.3068107012358 14.5161018503157,57.3068758182871 14.5159808752687,57.3070088339301 14.5159197964305,57.3070944241963 14.515852718468,57.3071716819029 14.5157636332804,57.3072701809275 14.5156526584896,57.3073784232068 14.515602194111,57.307440590122 14.515673233858,57.3076340379273 14.5156891502896,57.307677119648 14.5157014041196,57.3077109256089 14.5157171781998,57.3077534767698 14.515793520379,57.3079616144373 14.5158066772268,57.3081022877455 14.5158116523234,57.3081544272918 14.5158349874132,57.308402255175 14.5159110132707,57.3083971129361 14.5161209564369,57.3084341048956 14.5163858601913,57.3084749010763 14.5169071824299,57.3085429305104 14.5167446471214,57.3078958408745 14.5166330713384,57.3074097636316 14.5165528344631,57.3070946308203 14.5164487334702,57.3068690493532 14.5164375376443,57.3068330107169</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

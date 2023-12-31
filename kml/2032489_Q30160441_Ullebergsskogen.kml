@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2032489_Q30160441_Ullebergsskogen" id="2032489_Q30160441_Ullebergsskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2032489_Q30160441_Ullebergsskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2032489_Q30160441_Ullebergsskogen">
+		<SimpleData name="NVRID">2032489</SimpleData>
+		<SimpleData name="NAMN">Ullebergsskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/11/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/12/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/12/27</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Linköping, Mjölby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">60.2</SimpleData>
+		<SimpleData name="LAND_HA">60.2</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">58.302</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-5485-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3359090397809,58.1531375574252 15.3363675155503,58.152311118919 15.3370954054007,58.152614519827 15.3383538664223,58.152595380527 15.3390644743782,58.15313732162 15.3398700762369,58.1531402709518 15.3385179522713,58.1503629947204 15.3380743023112,58.1496496259306 15.3386021138488,58.1489849470079 15.3384742275543,58.1485978254933 15.3387929250231,58.1481504149885 15.338577596816,58.1477109895919 15.3386688744114,58.1472295322401 15.3361978609603,58.1469292278109 15.3289511183012,58.1437411358219 15.3267565341218,58.1427510407366 15.3237437213805,58.142432254889 15.3227684455299,58.1453392005181 15.3228398432337,58.1453375468219 15.3239480891734,58.1454150626637 15.3233238094063,58.1478422471188 15.3218144928622,58.1483569964083 15.3218115865844,58.1483585486273 15.3213025646518,58.1498812963659 15.3257856837397,58.1497438384 15.3258367930989,58.149704402158 15.3272744773833,58.1489713581413 15.3321654829854,58.1484965984261 15.3324401495576,58.1495935802173 15.3328685840325,58.1511379531746 15.3339024948191,58.1511061591097 15.334600814581,58.1526647024459 15.3334718078196,58.1530881192296 15.3337759643764,58.1538731686983 15.3345404760404,58.1538284844435 15.3353122172591,58.153237461211 15.3359090397809,58.1531375574252</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

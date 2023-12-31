@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000270_Q30159579_Nalavibergs_ekäng" id="2000270_Q30159579_Nalavibergs_ekäng">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000270_Q30159579_Nalavibergs_ekäng</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000270_Q30159579_Nalavibergs_ekäng">
+		<SimpleData name="NVRID">2000270</SimpleData>
+		<SimpleData name="NAMN">Nalavibergs ekäng</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/12/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/12/15</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hallsberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">13.03</SimpleData>
+		<SimpleData name="LAND_HA">13.03</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.16</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-04325-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9366593853275,59.0642739843737 14.9366983783517,59.0642639182422 14.9369236650806,59.0642057800915 14.937112068603,59.064157547189 14.9372795262264,59.064120044634 14.9375969011166,59.0640719451722 14.9376928304745,59.064061169716 14.9374997940086,59.06332960131 14.9371026795847,59.0633317532728 14.9367934954838,59.062939826038 14.9366005019346,59.0627475568311 14.9364134716724,59.0627075646441 14.9355595580967,59.0625685013065 14.9354779775585,59.0624614214415 14.9350844847061,59.0619449236333 14.9350844499167,59.061944878713 14.9350493255709,59.0619019160813 14.9347479268197,59.0611936294856 14.9348299919928,59.060001878084 14.9347172084663,59.0596930695433 14.9344815525611,59.0590478228041 14.9343779320035,59.0581522911749 14.9337446322433,59.0581536844784 14.9320162780079,59.0581574239777 14.9314133124927,59.0579502570913 14.9314132428062,59.0579502301128 14.9314132426451,59.0579503109378 14.9314133409006,59.0579534990913 14.9315008420647,59.0609426727475 14.9321878478679,59.0616743838756 14.932187865234,59.0616744198069 14.932456210459,59.0620610473063 14.9331114253869,59.0629952395064 14.9331114950848,59.062995266484 14.9331939600763,59.0630298751627 14.9336707908368,59.0630666258633 14.9340634214672,59.0637556529652 14.933821807875,59.0637881473069 14.9341167835695,59.0642372715452 14.9341743750531,59.0646783719348 14.9352477039253,59.0648032659843 14.9355234758642,59.064766520209 14.9355558672478,59.0647622076774 14.935627376315,59.064737582574 14.9356716288191,59.0647223465603 14.9360064528656,59.0646070760899 14.9366593853275,59.0642739843737</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

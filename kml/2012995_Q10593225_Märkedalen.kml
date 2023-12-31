@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2012995_Q10593225_Märkedalen" id="2012995_Q10593225_Märkedalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2012995_Q10593225_Märkedalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2012995_Q10593225_Märkedalen">
+		<SimpleData name="NVRID">2012995</SimpleData>
+		<SimpleData name="NAMN">Märkedalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/04/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/05/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/28</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Varberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">32.13</SimpleData>
+		<SimpleData name="LAND_HA">25.06</SimpleData>
+		<SimpleData name="VATTEN_HA">7.06</SimpleData>
+		<SimpleData name="SKOG_HA">24.445</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2300-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.5553676642151,57.1847170932886 12.5561876328521,57.182906199216 12.5552284989,57.1813211771445 12.5547916994909,57.1805986168366 12.5534216963397,57.1803383565807 12.551860397239,57.1796539998796 12.5518812572476,57.1795860637298 12.5520801766436,57.178937912397 12.552192788096,57.1786033362418 12.5509771527679,57.1778588594466 12.5507772429577,57.177834746109 12.5504694599508,57.1778214670816 12.55042805621,57.1778945197081 12.5504206088896,57.1779072880717 12.5504278253036,57.1780269959151 12.5503305023199,57.1782716345589 12.5503964548799,57.1782761844219 12.5503232631561,57.178471229769 12.5504024419404,57.1796028247549 12.5490506776899,57.1793509959471 12.5479299052441,57.1791310223752 12.5471085592578,57.1803894952379 12.5444275170656,57.1844974472192 12.5512714628462,57.1845298748807 12.5517645821534,57.1843004627735 12.5553676642151,57.1847170932886</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046836_Q55693500_Gammalbyberg" id="2046836_Q55693500_Gammalbyberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046836_Q55693500_Gammalbyberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046836_Q55693500_Gammalbyberg">
+		<SimpleData name="NVRID">2046836</SimpleData>
+		<SimpleData name="NAMN">Gammalbyberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/12/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/11</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/11</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">17.87</SimpleData>
+		<SimpleData name="LAND_HA">17.87</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">14.574</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-24529-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.472652172502,59.7170606157583 18.4731759260255,59.7164047181242 18.4733554374561,59.7148204450901 18.4714801047407,59.714681404968 18.4712562486776,59.7146648188029 18.4643301722879,59.7141514589503 18.4625949798546,59.7140227863559 18.4626299675947,59.7141121625097 18.463812400761,59.7171329991966 18.4639625275244,59.7171595666212 18.4641614701802,59.7171846830912 18.4642650746986,59.7171923910446 18.4643770965994,59.7171918595812 18.4646345401989,59.717175866482 18.4646627123606,59.7171740349564 18.4647591375826,59.7171661856156 18.4649562741103,59.7171523598048 18.4651137250356,59.7171532432711 18.4653596579019,59.7171676886444 18.4655105561394,59.7171680077293 18.4656403892542,59.7171630141277 18.4658382126033,59.7171436234065 18.4661408905565,59.717112222683 18.4664966694147,59.7170535783922 18.4668194081607,59.7170214123157 18.4670093476739,59.7170174803389 18.4671423076125,59.7170244731409 18.4673329475215,59.7170465417042 18.4675268829334,59.7170816989243 18.4676747907685,59.7171172186634 18.4680457861733,59.7172097642474 18.4682715657863,59.7172778275746 18.4684523399664,59.7173085499259 18.4684793541559,59.7173128868263 18.468626919838,59.7173328927275 18.468756107513,59.7173529170312 18.4689100625747,59.7173840962221 18.469002036436,59.7173944178496 18.4692422579275,59.7174156939109 18.469363529239,59.7174329789878 18.4696920123947,59.7174938120245 18.4697608775665,59.7175055442106 18.4701208932647,59.717543737914 18.4702602708781,59.7175559684772 18.470634293302,59.7175833734694 18.4707366753983,59.717605174539 18.4708576166902,59.7176352206218 18.4711010006077,59.7176861052241 18.4713119126331,59.7177230906927 18.4713713618067,59.7177318625668 18.4716591283888,59.7177730154139 18.4716904596602,59.7177777946661 18.4718926975535,59.7177975275608 18.4719567356671,59.7178035353276 18.472652172502,59.7170606157583</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

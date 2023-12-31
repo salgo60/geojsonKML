@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045296_Q55693413_Vena_hage" id="2045296_Q55693413_Vena_hage">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045296_Q55693413_Vena_hage</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045296_Q55693413_Vena_hage">
+		<SimpleData name="NVRID">2045296</SimpleData>
+		<SimpleData name="NAMN">Vena hage</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/08/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/09/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/09/22</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Nora</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">15.57</SimpleData>
+		<SimpleData name="LAND_HA">15.57</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">6.365</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-1482-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.8443672232576,59.4505979985768 14.8442446589128,59.4505649047875 14.8440993548832,59.4505944733788 14.8438369640926,59.4506537874837 14.8435162713514,59.4507881043461 14.843323672329,59.4508424901236 14.8428346959542,59.4523655273004 14.841156346558,59.4523808921931 14.842436444353,59.4548892716126 14.8427973198324,59.4566698190228 14.8434592997164,59.4567366411154 14.8446451560803,59.4568596197632 14.8453956703902,59.4569981978666 14.8462243478819,59.4571762733913 14.8470088733903,59.4574379202478 14.8474411565299,59.4576003713751 14.8457814420067,59.4514382525038 14.8456646313496,59.4514079632271 14.8455746182226,59.4513793470683 14.8454558991103,59.4513337048793 14.8451970452686,59.45125126708 14.8448327485015,59.4511555927453 14.8447287058377,59.4510867180114 14.844629861528,59.4509854736567 14.8445629930202,59.450889332006 14.8444703915481,59.4507546488134 14.8443672232576,59.4505979985768</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

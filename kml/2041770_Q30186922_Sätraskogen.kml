@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2041770_Q30186922_Sätraskogen" id="2041770_Q30186922_Sätraskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2041770_Q30186922_Sätraskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2041770_Q30186922_Sätraskogen">
+		<SimpleData name="NVRID">2041770</SimpleData>
+		<SimpleData name="NAMN">Sätraskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/03/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/05/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/05/16</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Gävle</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Gävle kommun</SimpleData>
+		<SimpleData name="AREA_HA">170.96</SimpleData>
+		<SimpleData name="LAND_HA">170.95</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">154.063</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">08BMN169</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.147590056289,60.7068209969707 17.1405641019199,60.7061582764911 17.141057687894,60.7050792608489 17.1422444976974,60.7041643492908 17.1442998896925,60.7035679356606 17.1438453340181,60.7027861570435 17.1433454673097,60.6967795063631 17.1457081239054,60.6939285891903 17.1454213993519,60.6937217503327 17.1425327192015,60.6943029237683 17.1416103612672,60.6942242167996 17.1391765658178,60.6930696833846 17.1381407844449,60.6933250601112 17.1350953330577,60.6949997455774 17.1363696143058,60.6955765799584 17.1346590796687,60.6966249429233 17.1314868053619,60.6967908749129 17.1254982379249,60.6942875252292 17.1233351025406,60.6960667747358 17.1217270962798,60.6973635919282 17.1203889594006,60.6969105513226 17.1190508582023,60.6964574971653 17.1184225160631,60.6968262012675 17.1199080469719,60.6975232191223 17.1165628389623,60.6999344149537 17.1130933914072,60.7008501089497 17.1102666179535,60.7002738914234 17.1096087655946,60.6991826028295 17.1070530222984,60.6992490958583 17.105706604036,60.7002070203494 17.1065949045347,60.7004351929034 17.1311762783358,60.7060772605735 17.1335227550411,60.7066100088883 17.1373253610371,60.7074706988051 17.1379734604689,60.7069779187283 17.1394605971386,60.7064985329957 17.1453016419844,60.7076423616216 17.147590056289,60.7068209969707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

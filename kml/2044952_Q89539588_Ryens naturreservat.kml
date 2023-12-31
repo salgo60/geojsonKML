@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2044952_Q89539588_Ryens_naturreservat" id="2044952_Q89539588_Ryens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2044952_Q89539588_Ryens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2044952_Q89539588_Ryens_naturreservat">
+		<SimpleData name="NVRID">2044952</SimpleData>
+		<SimpleData name="NAMN">Ryen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/03/12</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/03/12</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Grums</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">24.79</SimpleData>
+		<SimpleData name="LAND_HA">24.77</SimpleData>
+		<SimpleData name="VATTEN_HA">0.015</SimpleData>
+		<SimpleData name="SKOG_HA">24.773</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-727-2016</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.0161718587353,59.5266885165496 13.0166877342793,59.5261914198306 13.0181289455148,59.5261610304955 13.022892964333,59.5253381994494 13.0260812333816,59.525320189741 13.0260917436987,59.5252576684412 13.0262456574888,59.5252042761244 13.0266478686662,59.525241684579 13.0271618857622,59.5252638030042 13.026177789097,59.523129864572 13.024637141531,59.5233138408764 13.0239755058,59.5234874234786 13.0239847757709,59.5226107248961 13.0211652244784,59.5227735481775 13.0204617236744,59.5233165730248 13.0203617433263,59.523969714017 13.0189976988628,59.5240883507742 13.0162666576207,59.5235265455027 13.0130605198089,59.5242962020685 13.0091190909879,59.526972700808 13.0094942413291,59.5272807373249 13.0128798036018,59.5263938768186 13.0129737441364,59.5267548882575 13.0141100474667,59.5271308114527 13.014592226604,59.5275793869013 13.015337051033,59.5272469354268 13.0155498750121,59.5268914972938 13.0161718587353,59.5266885165496</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

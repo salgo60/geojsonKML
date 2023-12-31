@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001918_Q30184573_Tolmon" id="2001918_Q30184573_Tolmon">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001918_Q30184573_Tolmon</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001918_Q30184573_Tolmon">
+		<SimpleData name="NVRID">2001918</SimpleData>
+		<SimpleData name="NAMN">Tolmon</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/04/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/04/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1994/10/01</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Flen, Katrineholm</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">85.54</SimpleData>
+		<SimpleData name="LAND_HA">85.53</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">78.819</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-7509-94</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4078359005372,58.9326260051089 16.4079876360723,58.9332921209448 16.4081127759638,58.9333290042577 16.4082823567416,58.9333739006468 16.4087277441984,58.9336068589381 16.4089020123975,58.933722382895 16.4089025903303,58.9340520611477 16.4089507029079,58.9344080778862 16.4093364573662,58.9350331104612 16.4092887897373,58.9359974886991 16.4093650440191,58.9361200168577 16.4097150338184,58.9364928909251 16.4102610308372,58.9367297418358 16.4107336561065,58.936783969038 16.4112369939763,58.9368102757622 16.4122260242647,58.9368209413662 16.4133058879631,58.9368610831159 16.4143458384772,58.9369788885413 16.4146570480616,58.9369486656406 16.4166023155021,58.9334527580101 16.4170989166809,58.9325464221932 16.4180251849014,58.9307789656652 16.4187132732342,58.9301963106891 16.419985043929,58.9295619674162 16.420419142989,58.9292601476007 16.4205604318657,58.9290173565905 16.420803359617,58.9285152694414 16.4212227811321,58.9276767606158 16.4214287942437,58.927539425031 16.4230111918211,58.9266880438906 16.4232113066696,58.926517869025 16.4234395635647,58.9262257942247 16.4235877192904,58.9257400315731 16.4245251463291,58.9246096316722 16.4255884808238,58.923933990082 16.4275032610895,58.9227620097772 16.425189906505,58.921727235221 16.4239925116272,58.9211892405883 16.4233057695808,58.9215436506779 16.4226323643746,58.9211563794079 16.4194929234863,58.9226662819552 16.4167319721474,58.9235330867679 16.4156308526231,58.9239200980938 16.4148813294354,58.9243376194588 16.4125552248796,58.9261093020362 16.4117466973444,58.926942193679 16.4111512546584,58.9276858274544 16.4105359175649,58.9288345844663 16.4102530832423,58.9294762087555 16.4100494839526,58.9298095681826 16.409578158832,58.9303729640478 16.4088173714822,58.9311233995246 16.4084643397836,58.9315042097537 16.4080362480446,58.932027581019 16.4078473280529,58.93236903129 16.4078359005372,58.9326260051089</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

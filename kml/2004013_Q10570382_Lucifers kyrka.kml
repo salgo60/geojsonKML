@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004013_Q10570382_Lucifers_kyrka" id="2004013_Q10570382_Lucifers_kyrka">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004013_Q10570382_Lucifers_kyrka</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004013_Q10570382_Lucifers_kyrka">
+		<SimpleData name="NVRID">2004013</SimpleData>
+		<SimpleData name="NAMN">Lucifers kyrka</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1980/09/19</SimpleData>
+		<SimpleData name="URSGALLDAT">1980/10/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1980/10/10</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">0.12</SimpleData>
+		<SimpleData name="LAND_HA">0.12</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">11.122-1965-76</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.1397451657311,59.6542761431212 15.1396545515555,59.6542937231899 15.1395444482831,59.6543567165667 15.1394886242485,59.6544201729731 15.1394911169427,59.6544863510826 15.1395342177292,59.6545550631943 15.1396097116099,59.6545921680211 15.1397130484393,59.6546043602673 15.1398662714859,59.654610078734 15.1399612620961,59.6545993364211 15.1400386632596,59.6545702761667 15.1400891546153,59.654538757214 15.1401450935371,59.6544775453675 15.1401648616482,59.654418401571 15.1401707659437,59.6543705780909 15.1401312748392,59.6543337584042 15.1400781564585,59.6542968634595 15.1399793890174,59.6542824486269 15.1398805519719,59.6542726044872 15.1397451657311,59.6542761431212</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

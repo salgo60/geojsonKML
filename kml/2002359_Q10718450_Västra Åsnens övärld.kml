@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002359_Q10718450_Västra_Åsnens_övärld" id="2002359_Q10718450_Västra_Åsnens_övärld">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002359_Q10718450_Västra_Åsnens_övärld</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002359_Q10718450_Västra_Åsnens_övärld">
+		<SimpleData name="NVRID">2002359</SimpleData>
+		<SimpleData name="NAMN">Västra Åsnens övärld</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1986/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1987/01/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/02/22</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Alvesta, Tingsryd</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">350.91</SimpleData>
+		<SimpleData name="LAND_HA">31.48</SimpleData>
+		<SimpleData name="VATTEN_HA">319.41</SimpleData>
+		<SimpleData name="SKOG_HA">27.092</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-6863-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6846142780945,56.6337249115043 14.6923030434026,56.62085752512 14.6785520086493,56.6209621118496 14.6689451224682,56.619104558649 14.6689068447041,56.6251012595844 14.674684972541,56.6288799656847 14.6756120474839,56.633550513029 14.6747392649623,56.6378411493326 14.6761080882499,56.6388217986464 14.6785141823414,56.6405658593209 14.6786597450505,56.6405205152205 14.6789254337001,56.6404377495405 14.6853582945767,56.638433559024 14.6853651092975,56.6384314362432 14.6854391574818,56.6384083636231 14.6854424718276,56.6383766492608 14.6855778731409,56.6370809947495 14.6852736362424,56.6359514046737 14.6852089296683,56.6356913319265 14.6846142780945,56.6337249115043</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.647559889862,56.6432527201246 14.6434942627865,56.6344046993431 14.6489908100858,56.6344408572263 14.6489793308167,56.6344464039737 14.6512788845794,56.6344558399512 14.6592091770573,56.6345074244417 14.659214246729,56.6345074562888 14.6592144426735,56.6345074208889 14.6540776727323,56.6274378684811 14.6465146347448,56.6276233077467 14.6336155610142,56.6417348441172 14.6362282476367,56.6506456678191 14.6455803262394,56.6474964758825 14.647559889862,56.6432527201246</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

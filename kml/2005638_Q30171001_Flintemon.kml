@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005638_Q30171001_Flintemon" id="2005638_Q30171001_Flintemon">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005638_Q30171001_Flintemon</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005638_Q30171001_Flintemon">
+		<SimpleData name="NVRID">2005638</SimpleData>
+		<SimpleData name="NAMN">Flintemon</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/10/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/11/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/11/27</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Askersund</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">30.58</SimpleData>
+		<SimpleData name="LAND_HA">30.33</SimpleData>
+		<SimpleData name="VATTEN_HA">0.25</SimpleData>
+		<SimpleData name="SKOG_HA">29.108</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">5112-10597-2004</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.7810843161478,58.8875234702156 14.7810326333587,58.8871506295937 14.7810074014371,58.8864729308075 14.7794220002856,58.8869083250902 14.7778434244531,58.8873388189143 14.771459351584,58.886634360302 14.7712471908088,58.8874486430674 14.7711151674785,58.888093693231 14.7707909076486,58.8892896775638 14.7705559249887,58.8901885358383 14.7704535610895,58.8905779516263 14.7701147376389,58.8918339735865 14.7700910880152,58.891929592646 14.7704209770402,58.892207938856 14.7705119728069,58.8922631232527 14.7707843297401,58.8923616312476 14.7710139328976,58.8923846518255 14.77130472067,58.8924630500548 14.7714745528699,58.8925263706217 14.7716283183192,58.8926164739532 14.7717573181869,58.8927258107319 14.7719893997714,58.8928707154675 14.7723597313696,58.8929882526063 14.7725257015003,58.8930418791593 14.7743965267308,58.8934090036316 14.7758915751409,58.8934318204104 14.7759179388207,58.8931396847824 14.7760017930798,58.8922400239006 14.7760570680759,58.8915965319144 14.7761619035744,58.8903798756584 14.7762243250287,58.8897623324357 14.7776210416084,58.8897249007532 14.7793484557263,58.8896741676735 14.7810777528654,58.8896266558887 14.7818998375609,58.8896033220046 14.7821001949193,58.889210618289 14.7819357836904,58.8887696391238 14.7814811975638,58.8885182991766 14.7810843161478,58.8875234702156</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

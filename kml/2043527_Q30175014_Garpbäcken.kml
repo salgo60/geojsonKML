@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2043527_Q30175014_Garpbäcken" id="2043527_Q30175014_Garpbäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2043527_Q30175014_Garpbäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2043527_Q30175014_Garpbäcken">
+		<SimpleData name="NVRID">2043527</SimpleData>
+		<SimpleData name="NAMN">Garpbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/06/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/07/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/07/17</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Lindesberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">66.49</SimpleData>
+		<SimpleData name="LAND_HA">66.48</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">63.84</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511- 1079-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.3136639442651,59.6059522378314 15.3149596069976,59.6058384437871 15.3155086956287,59.606169184339 15.318614439328,59.6054906312011 15.3192316737274,59.6058073543506 15.320548551301,59.6050570030023 15.3198543100387,59.6027048619164 15.3180958680376,59.6027733587493 15.3184327298509,59.6023254945838 15.3203790286568,59.6015180432511 15.3218724587603,59.6017451154497 15.3234443715285,59.6005286641341 15.3213615650301,59.5999929650515 15.3223086116676,59.5985812484118 15.3208090681181,59.5984501732534 15.3209899984317,59.5978739589024 15.3197411750396,59.5976496512265 15.3196504498854,59.596995509299 15.3173504969956,59.5975269273892 15.3168132513281,59.5967725935524 15.3131131601752,59.5970241756122 15.3106846799453,59.596714604031 15.3094880377008,59.5991331633372 15.3085970519298,59.5994489146002 15.3063280092279,59.5992675933982 15.3070973135605,59.6003627106643 15.3087159876118,59.600924257933 15.3076590669605,59.6013899370728 15.3060709492756,59.6009827583484 15.3050181860443,59.6019116007945 15.3085705069218,59.6027474906225 15.3085461443791,59.6035396705383 15.3108484296024,59.6040772679756 15.3122377744385,59.6037695763461 15.3131701246344,59.6042239351285 15.3103387909925,59.6070448533788 15.3107334816907,59.6072621900515 15.3131125516449,59.6068390522009 15.3136639442651,59.6059522378314</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001531_Q10562840_Linnebjer" id="2001531_Q10562840_Linnebjer">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001531_Q10562840_Linnebjer</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001531_Q10562840_Linnebjer">
+		<SimpleData name="NVRID">2001531</SimpleData>
+		<SimpleData name="NAMN">Linnebjer</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1980/12/04</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/01/17</SimpleData>
+		<SimpleData name="SENGALLDAT">1981/01/17</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Lund</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">38.34</SimpleData>
+		<SimpleData name="LAND_HA">38.34</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">25.696</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-2596-80 (1281-218)</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3024464663819,55.7300726138369 13.3017046978519,55.7301452091825 13.3016179900202,55.7301663064989 13.3012840397405,55.7301953709227 13.3008654107815,55.7302317915447 13.3008058519941,55.7302331783851 13.3013234254147,55.732004209138 13.2972251854932,55.7326618160496 13.2986438724112,55.7352681223607 13.2994986330093,55.7371076354358 13.3023169044247,55.7360740452537 13.3052374947868,55.7350028004641 13.3113044691861,55.7327771167041 13.3110419043045,55.7315821492644 13.3110289550325,55.7315231707997 13.310963430354,55.7312249246638 13.310955043176,55.731186804297 13.3109353327225,55.7310970520226 13.3109344668693,55.7310931308727 13.3109153284333,55.7310059926215 13.3109072752585,55.7309693596589 13.3096945552635,55.7308415467402 13.3088946353275,55.7307661999399 13.3082407381497,55.7306788128577 13.30656036414,55.7305125789025 13.3050911817671,55.7303620963053 13.3039704290315,55.73023925205 13.3024466255431,55.7300726160366 13.3024465463523,55.7300726059553 13.3024464663819,55.7300726138369</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

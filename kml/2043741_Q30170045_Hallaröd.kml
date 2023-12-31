@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2043741_Q30170045_Hallaröd" id="2043741_Q30170045_Hallaröd">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2043741_Q30170045_Hallaröd</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2043741_Q30170045_Hallaröd">
+		<SimpleData name="NVRID">2043741</SimpleData>
+		<SimpleData name="NAMN">Hallaröd</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2015/04/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2015/05/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2015/05/09</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Höör</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">31.71</SimpleData>
+		<SimpleData name="LAND_HA">31.71</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">19.451</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-760-2015</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4389879269846,55.9778941042152 13.4394542603768,55.9783538177427 13.4395529360506,55.9782626077427 13.4400322164556,55.9778368153958 13.4406664906204,55.9781541062077 13.4424773601964,55.9784922144544 13.4424258731876,55.9787175653998 13.4443177955471,55.9790526149727 13.4443366530687,55.979043562122 13.4463536672788,55.9780752650835 13.445708615811,55.9780631556227 13.4456228465593,55.9780858641718 13.4450323465242,55.9782627855884 13.444929293978,55.9784518027233 13.4445729850376,55.9786078870844 13.4437028452785,55.9778237408353 13.4451475844683,55.9772412847508 13.4457787200599,55.9768287148844 13.4457670208873,55.9768217171756 13.4467642610687,55.9760039491334 13.448671547106,55.9767574621358 13.4486745423448,55.9767569444855 13.449249716777,55.9762122762242 13.4346843279139,55.9719063856626 13.4338823506341,55.9726880021771 13.4338888755558,55.9727777192117 13.433891214473,55.9728098998916 13.4339316510813,55.9733659383718 13.43771496014,55.976684231987 13.4381293254389,55.9770476256762 13.4382461034172,55.9771627541354 13.4389879269846,55.9778941042152</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4394542603768,55.9783538177427 13.4394496291822,55.9783580994549 13.4394644066796,55.9783638193589 13.4394542603768,55.9783538177427</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

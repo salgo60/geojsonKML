@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2012986_Q30161819_Nackarberg" id="2012986_Q30161819_Nackarberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2012986_Q30161819_Nackarberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2012986_Q30161819_Nackarberg">
+		<SimpleData name="NVRID">2012986</SimpleData>
+		<SimpleData name="NAMN">Nackarberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2007/04/02</SimpleData>
+		<SimpleData name="URSGALLDAT">2007/04/02</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/04/02</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Ludvika</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">77.15</SimpleData>
+		<SimpleData name="LAND_HA">77.15</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">72.244</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4424-04</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6700092839978,60.0889853046861 14.6695940394934,60.0902642107339 14.6691133159211,60.0918755685392 14.6673401181421,60.0919427683733 14.6648132636393,60.0920253227851 14.663011424165,60.0920927961673 14.6600140304396,60.0967123066672 14.6593077096657,60.0977828145082 14.6587692290969,60.0988719880597 14.6603425272047,60.099242116964 14.6606825769486,60.0993152537866 14.6626447551878,60.0998032518241 14.6643812312456,60.1002225143594 14.6646357640867,60.1002841552224 14.6714378238835,60.101931253168 14.6717100662247,60.1014808047882 14.6725028547174,60.1000093181211 14.6726138298217,60.0995412914798 14.6736905628092,60.0949986780201 14.6746741608445,60.0908720555634 14.6748876967626,60.0899852636461 14.6750367667239,60.0891960337695 14.6700093738794,60.0889853049102 14.6700092839978,60.0889853046861</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

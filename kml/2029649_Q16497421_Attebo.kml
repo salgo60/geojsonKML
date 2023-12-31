@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2029649_Q16497421_Attebo" id="2029649_Q16497421_Attebo">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2029649_Q16497421_Attebo</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2029649_Q16497421_Attebo">
+		<SimpleData name="NVRID">2029649</SimpleData>
+		<SimpleData name="NAMN">Attebo</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/01/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/03/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/03/01</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">16.29</SimpleData>
+		<SimpleData name="LAND_HA">16.29</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.279</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-86242-2006</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6445546653758,58.473644255908 13.6456348312046,58.4743277630664 13.6478606034458,58.4757251529408 13.6489348720899,58.4764043203779 13.650070457802,58.4770605805126 13.6505112363518,58.476527641434 13.6504649279418,58.4760165795303 13.6506926255032,58.475619630099 13.6515284360242,58.4756965412438 13.6520945154686,58.4755534701696 13.6527296484644,58.4753314379961 13.6530566689372,58.4751971160851 13.653318416307,58.4750011080015 13.6537237016195,58.4744006773288 13.6539412270516,58.4741873527603 13.6543586294244,58.4736493499385 13.6529017331856,58.4726577691035 13.6523500465812,58.4721967950594 13.6519179685043,58.4722427190657 13.6516308294695,58.4728589557378 13.6503513669603,58.4728853838321 13.6496591712413,58.4726458837091 13.648912153674,58.4725363273663 13.6477975116045,58.4726007101412 13.6471811491656,58.4726109283523 13.6464567582283,58.4726409061703 13.6458748130536,58.4725381936795 13.6458133419396,58.4732091230134 13.6453213509842,58.4732652343872 13.6454676395546,58.4733625956217 13.6448587859779,58.4735181473957 13.6445546653758,58.473644255908</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

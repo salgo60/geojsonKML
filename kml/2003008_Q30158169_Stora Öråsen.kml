@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003008_Q30158169_Stora_Öråsen" id="2003008_Q30158169_Stora_Öråsen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003008_Q30158169_Stora_Öråsen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003008_Q30158169_Stora_Öråsen">
+		<SimpleData name="NVRID">2003008</SimpleData>
+		<SimpleData name="NAMN">Stora Öråsen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/11/03</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/12/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2005/12/04</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hudiksvall</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">50.49</SimpleData>
+		<SimpleData name="LAND_HA">50.49</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">46.27</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3412-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6519324506299,61.6591331228664 16.6487190913321,61.6604723025061 16.6486753396021,61.6604905451526 16.645566851222,61.6617814695075 16.6455451930919,61.6617904574977 16.6425648867667,61.663028006169 16.642526575749,61.6630439098023 16.640553210016,61.6638874668462 16.6398370798565,61.6642231442479 16.6392034919389,61.6644784816866 16.6391277264612,61.6660462940515 16.6391277288386,61.6660463389183 16.6403361804367,61.6668801603066 16.6421856781802,61.6681922747828 16.6440346436823,61.6695034738607 16.6440347022308,61.6695035090739 16.6440353496816,61.6695032498864 16.6440390489234,61.6695017598417 16.6491658973063,61.6674407990952 16.6491659157068,61.6674407898945 16.6525842421899,61.6660663864087 16.6525842209149,61.6660663417701 16.6524502184501,61.6658188977396 16.6523815552184,61.6653376491 16.6526445471449,61.6648962061083 16.6525312627816,61.6645828391124 16.6525965690436,61.6639609951964 16.653165611088,61.6615898350702 16.6533879267291,61.6606636966959 16.6534253333671,61.6605281815599 16.6539729487221,61.6582894827499 16.6539729859889,61.6582894733205 16.6539739247738,61.6582854842426 16.6519324506299,61.6591331228664</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

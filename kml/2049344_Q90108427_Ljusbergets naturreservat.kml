@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049344_Q90108427_Ljusbergets_naturreservat" id="2049344_Q90108427_Ljusbergets_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049344_Q90108427_Ljusbergets_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049344_Q90108427_Ljusbergets_naturreservat">
+		<SimpleData name="NVRID">2049344</SimpleData>
+		<SimpleData name="NAMN">Ljusberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/12/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/01/11</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/11</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Östersund</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">25.27</SimpleData>
+		<SimpleData name="LAND_HA">25.27</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">25.268</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7996-2017</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.7531894665967,63.2550583221457 14.753873993621,63.253860463777 14.7547200511755,63.2533928539447 14.7568106781979,63.2533357513941 14.7558443033218,63.2491126281601 14.7465060104396,63.2549339340118 14.7485597555731,63.2549210169256 14.7491102813566,63.25770973373 14.7492349673482,63.2585205580656 14.748339110586,63.2593429549101 14.748917334711,63.2594203888801 14.7496046691398,63.2594131645043 14.7499277540802,63.2593044867234 14.7502540263004,63.2592061099273 14.750624822801,63.2591161481493 14.7510177267426,63.2590424329256 14.7513867909072,63.2589796693785 14.7517308343661,63.2589193114291 14.7520907191919,63.2588441804484 14.7524779873602,63.2587508320289 14.7528971677689,63.2586499450885 14.7532871602546,63.2585518514227 14.7535626001691,63.2584791282646 14.7537934268834,63.2584033477383 14.7540430359982,63.2583017781951 14.7538413520166,63.2570324895027 14.7537203874526,63.2567406913256 14.7531732642486,63.2559133790464 14.7530744692371,63.2552402167125 14.7531894665967,63.2550583221457</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

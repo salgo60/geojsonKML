@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001091_Q18331928_Pennebo" id="2001091_Q18331928_Pennebo">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001091_Q18331928_Pennebo</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001091_Q18331928_Pennebo">
+		<SimpleData name="NVRID">2001091</SimpleData>
+		<SimpleData name="NAMN">Pennebo</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/09/22</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/10/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/10/30</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Laholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">35.96</SimpleData>
+		<SimpleData name="LAND_HA">35.96</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">33.643</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-2830-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.0318188977532,56.3623077167832 13.030282372761,56.3627435379349 13.0291647328238,56.3627829683751 13.028291764316,56.3622580223432 13.0272483762017,56.3623912312654 13.0274980152856,56.3630942263283 13.0276238224624,56.3630930294341 13.0276711331624,56.3631230333312 13.0277162435965,56.3632636525778 13.0278481430228,56.363320047826 13.0282424253474,56.3639390097862 13.0286325937356,56.3640248457557 13.0291738239327,56.364236026612 13.029641583077,56.3641897340863 13.0297932058291,56.3642766083267 13.0300872855175,56.3644278432372 13.0297645685255,56.3647431076253 13.0302328408053,56.3649320775411 13.0289687376845,56.3669066780787 13.0278326903701,56.3672546066606 13.0278362378965,56.3677460518663 13.0267405781555,56.3683907892269 13.0257323656263,56.3691993135287 13.0258278433907,56.3696907494131 13.0257860377905,56.3700469989073 13.028037052345,56.3707426907979 13.0282783966497,56.3714539262439 13.0291044960002,56.3717832083676 13.0294481671544,56.3718757603393 13.0299482799362,56.3718984390373 13.0305594179748,56.3719436655312 13.0310840399298,56.3719319874451 13.0320629121682,56.3718620269246 13.0323847009422,56.3718118869098 13.0329217287769,56.3718054663564 13.0340575888232,56.3717232347121 13.0344754755397,56.3717184852947 13.0349054159996,56.3717334351384 13.0352317378021,56.3717074433027 13.035526012506,56.3716200955014 13.0358593924823,56.3714364479395 13.0361427670117,56.3712209680462 13.0340897490979,56.3706120496969 13.0334447821399,56.3701208635085 13.0330447328538,56.3682936002617 13.032372417138,56.3673431884479 13.0326723771814,56.3669743653382 13.0322770295753,56.3659245461604 13.0323539800263,56.3644530674427 13.035985017153,56.3646132337269 13.039698236414,56.3651737979067 13.0395085391254,56.3647180244424 13.0379757035032,56.363788535894 13.0374010183873,56.3641297911791 13.0367190042889,56.3640845709414 13.0362788790807,56.3638153733843 13.0343971028053,56.3639465167373 13.0332764467675,56.3637742337746 13.0318189282541,56.3623077532134 13.0318188977532,56.3623077167832</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

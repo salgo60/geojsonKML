@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001841_Q30176389_Smalaken" id="2001841_Q30176389_Smalaken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001841_Q30176389_Smalaken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001841_Q30176389_Smalaken">
+		<SimpleData name="NVRID">2001841</SimpleData>
+		<SimpleData name="NAMN">Smalaken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1999/12/18</SimpleData>
+		<SimpleData name="URSGALLDAT">1999/12/18</SimpleData>
+		<SimpleData name="SENGALLDAT">1999/12/18</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Sorsele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">652.62</SimpleData>
+		<SimpleData name="LAND_HA">647.33</SimpleData>
+		<SimpleData name="VATTEN_HA">5.28</SimpleData>
+		<SimpleData name="SKOG_HA">567.385</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1726/98</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8369012209136,65.4947970709599 17.8491123710137,65.4946700593798 17.8568327056959,65.4932049622709 17.8639134818978,65.4918607418228 17.8646225081089,65.4917261124173 17.8819237493366,65.4945002259634 17.8906033931572,65.4918100522682 17.9034256970901,65.4856965787146 17.908133561894,65.4809846721118 17.9100693659611,65.4799380839239 17.9245666097225,65.4720967290727 17.929337919398,65.4695146780993 17.9264002675226,65.4684792760873 17.921229640143,65.4696500282517 17.9191890445446,65.470111991884 17.9183877134623,65.4702933892905 17.9149131576729,65.4643436333656 17.912909223548,65.4640067369429 17.91175504748,65.4638126827479 17.9102203232303,65.4635402427861 17.9102118292971,65.4635532023508 17.908508632889,65.4641677602684 17.9053195696789,65.4653183448334 17.8850016311349,65.4726448913437 17.8847033569168,65.4727524042434 17.8828990435445,65.474164908357 17.8786006572729,65.4775291909524 17.8769540211726,65.4777320938731 17.8658692107402,65.4790973808414 17.8558854455755,65.4811240357433 17.8475068674341,65.4828240903997 17.8406225682648,65.4857459821831 17.8373924630175,65.4902841161889 17.8369012209136,65.4947970709599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

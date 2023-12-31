@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014234_Q30176994_Gräsbäcken" id="2014234_Q30176994_Gräsbäcken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014234_Q30176994_Gräsbäcken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014234_Q30176994_Gräsbäcken">
+		<SimpleData name="NVRID">2014234</SimpleData>
+		<SimpleData name="NAMN">Gräsbäcken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/06/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/09/30</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/09/30</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Torsby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">67.2</SimpleData>
+		<SimpleData name="LAND_HA">67.2</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">58.39</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2592-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.5134662622952,60.4182421794268 13.5128290042683,60.4171384711252 13.5147463677543,60.415745053713 13.5170073061538,60.4152285569109 13.5174932874429,60.4146125163851 13.5119441341056,60.4141737376578 13.5118221022642,60.4147509896707 13.5110377473264,60.4150446879042 13.5043063215627,60.4151514808258 13.5008904152044,60.415440015817 13.500625792811,60.4164823408123 13.5012275855688,60.4167684805348 13.5018175638339,60.4170550682846 13.5024071729554,60.417341613259 13.5024669010467,60.4173673396863 13.5025489615097,60.4172063390526 13.5038436022166,60.4172907710182 13.5036440125501,60.4179395621577 13.5043168196406,60.418259981521 13.5049545505138,60.4185665872015 13.5055861088935,60.4188682531798 13.50621465061,60.4191717950283 13.5068415433907,60.4194778836783 13.5073657544299,60.4197611045345 13.5078667358286,60.4200536449802 13.5081084619713,60.4202033859598 13.5081384610034,60.4202225265621 13.5071992710156,60.4217337984936 13.5065043256091,60.4223208880872 13.5078906009558,60.4232432113598 13.5082932734242,60.423282950219 13.5113373810698,60.4235048401025 13.5136634114027,60.4236840498791 13.5167865961412,60.4239240556483 13.5169698410661,60.4237393158895 13.5170410778928,60.4236564221373 13.5171488113947,60.4234984198588 13.5172207048497,60.4234134499113 13.5173621413451,60.4232643897138 13.5174458778523,60.4231857747472 13.5176063144242,60.4230785490857 13.5178498569158,60.422963968079 13.5181285770453,60.4228722195162 13.5183813705176,60.4228141272904 13.5189069590619,60.4227341475431 13.5194032417578,60.4226726625915 13.5201380456148,60.4225912043973 13.5206334296696,60.4224974210215 13.5209495611659,60.4224259193769 13.5212325871929,60.4223314463103 13.5214692930124,60.4221886119779 13.520777045302,60.4218732919493 13.5208572453892,60.4212196500598 13.5207331008118,60.4205855161833 13.5221467093048,60.4195062205864 13.5187168122122,60.4190011535894 13.5171375443111,60.4187768671535 13.5134662622952,60.4182421794268</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

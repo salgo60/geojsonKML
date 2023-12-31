@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014554_Q18449118_Sundranäs" id="2014554_Q18449118_Sundranäs">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014554_Q18449118_Sundranäs</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014554_Q18449118_Sundranäs">
+		<SimpleData name="NVRID">2014554</SimpleData>
+		<SimpleData name="NAMN">Sundranäs</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/09/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljungby</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">85.65</SimpleData>
+		<SimpleData name="LAND_HA">39.43</SimpleData>
+		<SimpleData name="VATTEN_HA">46.222</SimpleData>
+		<SimpleData name="SKOG_HA">35.231</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1938-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6395990974223,56.7921361702616 13.6403632096275,56.7929829434717 13.6412603228963,56.7939799484367 13.6423887686094,56.7952326464098 13.6429956360493,56.7959058031724 13.6446487683387,56.7958522173269 13.6457826859041,56.795815841423 13.6478037944071,56.7957503760897 13.6492859153962,56.7956026825254 13.6497643953111,56.7964484238003 13.6503283610042,56.7970478715659 13.6503729333819,56.7970952273023 13.6545465997642,56.8015300735087 13.6608428107761,56.79683944904 13.6463946192637,56.7875706512105 13.6459922928097,56.7876137338616 13.6435742177834,56.787937189866 13.643383713231,56.7879776344463 13.6432468805183,56.7882499492242 13.643297601358,56.7883296120067 13.6434652044641,56.7883821627885 13.643597439538,56.7884748502504 13.6437722987161,56.7885418372155 13.6439845679571,56.7886899589942 13.64406416624,56.7887769524566 13.6440780119966,56.7888510119039 13.6440944176144,56.7889226373358 13.644108909557,56.7889502074651 13.641888338195,56.789678791046 13.6395990974223,56.7921361702616</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>13.6457313618226,56.793822053896 13.6459521070841,56.7941844164335 13.6461527597259,56.7945138019676 13.6454892908706,56.7945917675726 13.6442807123172,56.7945442829044 13.6442383781415,56.7939823812231 13.6447893009367,56.7939232179761 13.6457313618226,56.793822053896</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2031529_Q30162362_Stor_Skorvliden" id="2031529_Q30162362_Stor_Skorvliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2031529_Q30162362_Stor_Skorvliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2031529_Q30162362_Stor_Skorvliden">
+		<SimpleData name="NVRID">2031529</SimpleData>
+		<SimpleData name="NAMN">Stor-Skorvliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/11/26</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/12/21</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/12/21</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Lycksele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">49.37</SimpleData>
+		<SimpleData name="LAND_HA">49.09</SimpleData>
+		<SimpleData name="VATTEN_HA">0.28</SimpleData>
+		<SimpleData name="SKOG_HA">45.954</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8761-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.2418277700429,64.7135630028394 18.246716562695,64.7122452811999 18.2427511280969,64.7103248998663 18.2389414323389,64.7109498292268 18.2384425716831,64.7104082918893 18.2375858095605,64.7098850295095 18.2373491405768,64.7097241517943 18.2320763191726,64.7113656405075 18.2313011433121,64.7110926655999 18.2305628167459,64.7108349876586 18.2293869712612,64.7106395433271 18.2272568240376,64.7109583394443 18.2250978254755,64.7107063490081 18.2211922941029,64.7100964711956 18.2214106448891,64.7105934533544 18.2218471303825,64.7110109552896 18.2222147401545,64.7115215737857 18.2233052881659,64.7118495513009 18.223751309552,64.7123191978397 18.2240956845552,64.7126607081131 18.2242240541593,64.713052597669 18.224027963455,64.7135774940684 18.2248770301568,64.7133134961895 18.2263693261566,64.7154333944542 18.2262577858941,64.7154994105366 18.229055759907,64.7165245902574 18.2327969572982,64.7164564674756 18.2340818844714,64.7156932038954 18.2369675793753,64.7147116827395 18.2418277700429,64.7135630028394</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

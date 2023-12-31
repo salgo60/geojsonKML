@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002452_Q30157788_Nysätern" id="2002452_Q30157788_Nysätern">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002452_Q30157788_Nysätern</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002452_Q30157788_Nysätern">
+		<SimpleData name="NVRID">2002452</SimpleData>
+		<SimpleData name="NAMN">Nysätern</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/09/02</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/10/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/10/01</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Älvdalen</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">12.89</SimpleData>
+		<SimpleData name="LAND_HA">12.89</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">10.987</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-2889-96</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.6304969181488,61.7866972259263 12.6300897283133,61.7867371936973 12.6297932811058,61.7868066627257 12.6274607439702,61.787902185866 12.6338223705312,61.7911208898415 12.6361568662614,61.7896615765708 12.6363956890626,61.7894380906606 12.6371045830711,61.788219600359 12.6354873920053,61.7881283528812 12.6352167513,61.7881086199829 12.6350061639382,61.7880812994716 12.6348915167435,61.7880202822868 12.6347260765967,61.7878772545278 12.6347225085072,61.7877738925253 12.634701341808,61.7876341951045 12.6346699610864,61.7875706070496 12.6343954514592,61.7875193540014 12.6339502342961,61.7874910951397 12.6337245332753,61.7874724123202 12.6334626848609,61.7873675609274 12.6331217385186,61.7872249625844 12.6329114503301,61.7871258041092 12.632731164155,61.7871036727485 12.6325054863891,61.787084979299 12.6323096044919,61.7870759602019 12.6321307144079,61.7870403804744 12.6315928157588,61.7868303629143 12.631267166627,61.7867464817572 12.6304969181488,61.7866972259263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

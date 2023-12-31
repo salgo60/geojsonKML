@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002164_Q30166246_Kummelön" id="2002164_Q30166246_Kummelön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002164_Q30166246_Kummelön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002164_Q30166246_Kummelön">
+		<SimpleData name="NVRID">2002164</SimpleData>
+		<SimpleData name="NAMN">Kummelön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/01/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/01/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1970/01/23</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristinehamn</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">27.61</SimpleData>
+		<SimpleData name="LAND_HA">22.51</SimpleData>
+		<SimpleData name="VATTEN_HA">5.095</SimpleData>
+		<SimpleData name="SKOG_HA">9.786</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">IIIR11-2-1969, 11.121-558-71, Rr 33</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.9788186398182,59.3243166526632 13.9773086372756,59.3207176807846 13.9762082781489,59.3206231949188 13.9758457183805,59.3207678510425 13.9752553872109,59.3207101928722 13.9747167438826,59.3203413620162 13.9746175748003,59.3201313531428 13.974842180515,59.3194577087937 13.9734638954208,59.3193540410767 13.9732293101148,59.319373519983 13.9729231458621,59.3196234848764 13.972687985682,59.3200811746094 13.9727561371471,59.3202285404021 13.9731302847352,59.3202360701245 13.9729524173476,59.3212213306711 13.9729931571414,59.3215799927869 13.9729001046685,59.3219730543934 13.9734093090221,59.3219964489057 13.9735446188808,59.322225106515 13.9729116724402,59.3222937964981 13.9729486988282,59.3225986203138 13.9707242482185,59.322956936468 13.9738960971671,59.3276429085383 13.9798937652812,59.3268786514797 13.9788186398182,59.3243166526632</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

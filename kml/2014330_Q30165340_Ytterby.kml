@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014330_Q30165340_Ytterby" id="2014330_Q30165340_Ytterby">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014330_Q30165340_Ytterby</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014330_Q30165340_Ytterby">
+		<SimpleData name="NVRID">2014330</SimpleData>
+		<SimpleData name="NAMN">Ytterby</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/11/23</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/12/21</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/12/21</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Åtvidaberg</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">13.05</SimpleData>
+		<SimpleData name="LAND_HA">13.04</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.369</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-17330-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.910150688573,58.3320442081839 15.9106351081708,58.3323360215789 15.9107927768956,58.3324048251919 15.9112046668293,58.3324161657979 15.9118195823505,58.332215033439 15.9123913200353,58.3323041569151 15.9123036489463,58.3324441390977 15.9122241934595,58.3326895842927 15.9123598980225,58.3330092687059 15.9127006782559,58.3333827305228 15.9128800615996,58.3338389809973 15.9130171006767,58.3340126692321 15.9133736885462,58.3341760421203 15.913198761609,58.3343609562135 15.9185836849065,58.3363184040318 15.9190749501061,58.3357940324136 15.9186103484455,58.3353345653068 15.918569498543,58.3348331185278 15.9197785978007,58.3340531600229 15.9195693921076,58.333888853774 15.9195156748954,58.3336518877206 15.9183998948537,58.3336002043259 15.9178902236452,58.3334580273277 15.9172242525505,58.3335165867325 15.9159808011308,58.333392754796 15.9158519143274,58.3331253729642 15.9150496732602,58.3326166348344 15.9147017712024,58.3325168157426 15.9143977630574,58.3322875195565 15.9133127104911,58.3320559844533 15.9127667840165,58.3318809828396 15.9130643566304,58.3315030402839 15.9131982620408,58.331327131587 15.9135228719444,58.331139029196 15.9139304058227,58.3308418929283 15.9145235523888,58.3309360904958 15.9151002883137,58.3309171833103 15.9151473372352,58.3307455133297 15.9143561009977,58.3307397796256 15.9140003066844,58.3306880064282 15.9137389618664,58.3305362518422 15.9125001318155,58.3308111406863 15.9118516708661,58.3310215245439 15.9105310002333,58.3315828323851 15.9102861523445,58.3317974228275 15.910150688573,58.3320442081839</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.9183612618688,58.3324005717705 15.9189506725966,58.3324677935382 15.9192365359498,58.3322949998297 15.9196308758919,58.3318054985159 15.9193481325492,58.3309413946802 15.9190361082254,58.3309558783951 15.9188092078873,58.3316690967681 15.9183819832081,58.332083498617 15.9183612618688,58.3324005717705</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

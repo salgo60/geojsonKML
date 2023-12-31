@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000426_Q30170666_Malms_Kyllaj" id="2000426_Q30170666_Malms_Kyllaj">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000426_Q30170666_Malms_Kyllaj</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000426_Q30170666_Malms_Kyllaj">
+		<SimpleData name="NVRID">2000426</SimpleData>
+		<SimpleData name="NAMN">Malms-Kyllaj</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1931/09/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1931/09/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1931/09/22</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">4.17</SimpleData>
+		<SimpleData name="LAND_HA">4.17</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.036</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-962-76     RrI82</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.9488042954313,57.7559125116178 18.9489845624413,57.7551923741988 18.9490109830498,57.755030184294 18.9490326185662,57.7548593903905 18.9490190861023,57.7546891825002 18.9489724995038,57.754562195819 18.9489409125531,57.7544992054484 18.948899535799,57.7544386893943 18.9488667328297,57.7543907133926 18.9488277556874,57.7543562017012 18.9475757000368,57.7545900699483 18.9473259457189,57.7549951885021 18.9468169217652,57.7559027885332 18.9465835449691,57.7557759745537 18.9450681757073,57.7564334924675 18.9469052430631,57.7574633611151 18.9470132149807,57.7574365447823 18.9471954831872,57.7573912770328 18.9474213266137,57.7573263309937 18.9476016842057,57.7572742508594 18.9478975564799,57.757138729843 18.9479127278646,57.7571301046859 18.948031469206,57.7570625332546 18.9480655443508,57.7570420004991 18.9481292313217,57.7570036260461 18.9481483301057,57.7569921178878 18.9482048968573,57.7569538243991 18.9482857978938,57.7568903071794 18.9484190156709,57.7567704739714 18.9484778831904,57.7567170116384 18.9484888578534,57.7567034622859 18.9485280363916,57.7566550867678 18.9485939526945,57.75652379422 18.948664056215,57.7563633397402 18.9487283640059,57.7561870655103 18.9487824468976,57.7559997899016 18.9487846816008,57.7559908346484 18.9488042954313,57.7559125116178</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

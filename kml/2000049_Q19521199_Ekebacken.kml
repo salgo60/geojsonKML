@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000049_Q19521199_Ekebacken" id="2000049_Q19521199_Ekebacken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000049_Q19521199_Ekebacken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000049_Q19521199_Ekebacken">
+		<SimpleData name="NVRID">2000049</SimpleData>
+		<SimpleData name="NAMN">Ekebacken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1969/09/12</SimpleData>
+		<SimpleData name="URSGALLDAT">1969/09/12</SimpleData>
+		<SimpleData name="SENGALLDAT">1969/10/03</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Karlskrona</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Karlskrona kommun</SimpleData>
+		<SimpleData name="AREA_HA">13.43</SimpleData>
+		<SimpleData name="LAND_HA">13.43</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">9.428</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">IIIR11-10-68</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6478135792326,56.2018710723895 15.6478243740037,56.202095511744 15.6478464739923,56.2023116976762 15.6478526405184,56.2023476228134 15.647857796614,56.2025741222635 15.6478723908902,56.2027705358602 15.6478857199729,56.20283261436 15.6479199624614,56.2029400557128 15.6479452079781,56.2029995290638 15.6479704498195,56.2031084910694 15.6480013876789,56.2031958146248 15.6480468556718,56.2032758921199 15.6481008138774,56.2033662037966 15.6481577586911,56.2034405247077 15.6483197841609,56.2035903247736 15.6483583496533,56.2036204465422 15.6484565834531,56.2036789351785 15.6485068332175,56.2036831282158 15.6485782181926,56.2036817655793 15.649264619448,56.2036625756443 15.6495555947579,56.2038452017088 15.6496276513656,56.2038787860682 15.6500188745634,56.2039602989139 15.6501412723308,56.2039729172742 15.6503769703376,56.2039758650921 15.6507268081065,56.2040092098066 15.650763417211,56.2039998166955 15.65088053744,56.2039092439456 15.6509304383563,56.2038252423842 15.6509735762554,56.2037911513912 15.6510577776905,56.2037613366748 15.6511660953929,56.2037525722712 15.6512639482616,56.2037807008298 15.651337597506,56.20386537275 15.6514494323639,56.2039537698989 15.6516964452108,56.2040830816709 15.652662249382,56.2038266464935 15.6542157929389,56.2035664225276 15.6540481139738,56.2034134883552 15.6538868008495,56.2032357759709 15.6532558932829,56.2025296914038 15.6528471478812,56.2005356986675 15.6522824922078,56.2005623799874 15.6522445872686,56.2002948037322 15.6517133065346,56.2000539076616 15.650707226727,56.2001101222096 15.6506257436951,56.199637389539 15.6505327565382,56.199650403582 15.6494312357198,56.1999964765148 15.6492449691843,56.2000998190747 15.6483468279,56.2005135487309 15.6482068413911,56.2007819147792 15.648003901292,56.201267613045 15.6479056487372,56.2014399364264 15.6478550052521,56.2015498979626 15.6478345004023,56.2016033036021 15.6478203469601,56.2016471969352 15.6478121280697,56.2017371695242 15.6478135792326,56.2018710723895</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

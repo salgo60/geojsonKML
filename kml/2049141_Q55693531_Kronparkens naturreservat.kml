@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049141_Q55693531_Kronparkens_naturreservat" id="2049141_Q55693531_Kronparkens_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049141_Q55693531_Kronparkens_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049141_Q55693531_Kronparkens_naturreservat">
+		<SimpleData name="NVRID">2049141</SimpleData>
+		<SimpleData name="NAMN">Kronparkens naturreservat</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/05/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/06/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/06/29</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Uppsala kommun</SimpleData>
+		<SimpleData name="AREA_HA">21.95</SimpleData>
+		<SimpleData name="LAND_HA">21.95</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">19.633</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">KSN-2018-1239</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6432065733679,59.8345271472698 17.6422948064062,59.8345276006049 17.6422356244413,59.8346169818675 17.6420200764936,59.8350804130793 17.6413610104467,59.8367843182021 17.6406938286027,59.8386958539838 17.6405920011469,59.8390063407348 17.6409784679868,59.83928830783 17.643636403556,59.8396986077024 17.6436969433329,59.8397091175315 17.6443989114025,59.8398309786642 17.6446186599402,59.8398265620545 17.6447061801587,59.8397796293656 17.6449397142914,59.8392005674813 17.6460715336076,59.8364661693562 17.6455127299292,59.836223772925 17.6450025413157,59.8360228195031 17.6448061680661,59.835952410149 17.6442762389205,59.8356328979176 17.6432065733679,59.8345271472698</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6402517577112,59.8330229522846 17.6397471282399,59.8327824344052 17.6395510851116,59.8328270214282 17.6393366927091,59.8328179641036 17.6392037694527,59.8328212524392 17.639015063763,59.8327579968471 17.6389361733169,59.8327971153485 17.6374051580953,59.8331726575174 17.6372952854257,59.8337749742285 17.6367781211153,59.8338189717361 17.6368526504258,59.833936214976 17.6368650667895,59.8339561518196 17.6369260782535,59.8340541253216 17.6370627209753,59.8342735460156 17.6375136589985,59.8348737432896 17.6377676536994,59.8353025018506 17.6380446009912,59.8356486563095 17.6380729413026,59.8356840769733 17.6381750722588,59.8358390190437 17.6384272569429,59.8362215926556 17.6386021944258,59.836578087721 17.6387273806514,59.8367694256374 17.6386613640433,59.8370938296519 17.6388303330669,59.8378381403661 17.6389018014525,59.8381147303107 17.6390775852435,59.8381787765762 17.6391334386965,59.8382557236023 17.639120578859,59.8383253342039 17.6397590136494,59.8383675290876 17.6402865610008,59.838378196934 17.6403651820379,59.8381589902768 17.6404784305614,59.8378432388103 17.6411432912442,59.8359893823862 17.6412356083555,59.8357319543296 17.6415150865146,59.8349526040013 17.6416247323959,59.8344558897174 17.6416621856872,59.834286224548 17.6417046090739,59.8339201849685 17.6415473107132,59.833708163273 17.6410195181421,59.8333888734356 17.6402517577112,59.8330229522846</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

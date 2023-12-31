@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2021646_Q30198646_Haugröningan" id="2021646_Q30198646_Haugröningan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2021646_Q30198646_Haugröningan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2021646_Q30198646_Haugröningan">
+		<SimpleData name="NVRID">2021646</SimpleData>
+		<SimpleData name="NAMN">Haugröningan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/03/29</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/04/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/04/22</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Åre</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">114.67</SimpleData>
+		<SimpleData name="LAND_HA">114.67</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">62.239</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3783-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.1140507719001,63.0873374095648 14.1142473546253,63.0874136129876 14.1188142546717,63.0891681672522 14.1193997829743,63.0893928257802 14.120168227718,63.0896884848201 14.1215056105981,63.0910281043777 14.1217715017445,63.0913011438273 14.1239866763991,63.0910200845093 14.1323429714083,63.094834020225 14.1327173262586,63.0943844075598 14.1325959956288,63.0938342403522 14.132889055301,63.0933929530248 14.1337914678227,63.0927403120405 14.1338254109781,63.0922924309287 14.132086551945,63.0915984615381 14.1332641838141,63.0886961864412 14.1343306214862,63.0860692994454 14.1348131468985,63.0848011494254 14.1245809414842,63.0755483690088 14.1240456034364,63.0761575968656 14.1231386711986,63.0771991684216 14.1224736378951,63.0779571787273 14.121759385931,63.0787804672076 14.1210328717936,63.0796138098153 14.1203193856791,63.0804286946178 14.1189421511446,63.0820099076051 14.114769131937,63.0867918332107 14.1140507719001,63.0873374095648</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>14.1237252603791,63.0872018998944 14.1239899026451,63.0874218538128 14.1244337512578,63.0876759182197 14.1244167650784,63.0876869522569 14.1233795035732,63.0883610411628 14.1223617309735,63.0878309970022 14.122348394997,63.0878240479517 14.1237252603791,63.0872018998944</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

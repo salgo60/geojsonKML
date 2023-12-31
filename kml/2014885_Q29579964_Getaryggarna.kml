@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014885_Q29579964_Getaryggarna" id="2014885_Q29579964_Getaryggarna">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014885_Q29579964_Getaryggarna</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014885_Q29579964_Getaryggarna">
+		<SimpleData name="NVRID">2014885</SimpleData>
+		<SimpleData name="NAMN">Getaryggarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/09/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/09</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppvidinge</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">63.79</SimpleData>
+		<SimpleData name="LAND_HA">63.79</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">63.779</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1010-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.097061083877,57.1818310810319 15.0979548343788,57.1825835050306 15.0970928199393,57.1870316895415 15.1005360170353,57.1876490916349 15.1032811680452,57.1858568391586 15.106047475246,57.1860563772162 15.1121443082416,57.1766962901809 15.1086772023056,57.1756370354 15.1000775478382,57.1798607378614 15.1001717165375,57.1801048091031 15.10021797976,57.1802808166198 15.1001525366627,57.180505350875 15.1000373138506,57.1806424101039 15.0998671435043,57.1808120322496 15.0997102026384,57.1809930254089 15.0995325072432,57.1811213032464 15.0992951111805,57.181255979207 15.0989612648194,57.1814246514644 15.0986183443557,57.1815538217023 15.0982755463885,57.1816490253044 15.0978976385729,57.1816795850662 15.0974899953759,57.1816441220647 15.0972376431698,57.1816750763564 15.097061083877,57.1818310810319</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000004_Q10688215_Sättra_gård" id="2000004_Q10688215_Sättra_gård">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000004_Q10688215_Sättra_gård</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000004_Q10688215_Sättra_gård">
+		<SimpleData name="NVRID">2000004</SimpleData>
+		<SimpleData name="NAMN">Sättra gård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/07/31</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/08/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1970/08/28</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Upplands Väsby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Upplands Väsby kommun</SimpleData>
+		<SimpleData name="AREA_HA">213.08</SimpleData>
+		<SimpleData name="LAND_HA">157.49</SimpleData>
+		<SimpleData name="VATTEN_HA">55.584</SimpleData>
+		<SimpleData name="SKOG_HA">97.912</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">22R11-21-70  0114-02-001</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8335716850909,59.5242672879219 17.833572404208,59.5242682697001 17.8356869000754,59.5271168124798 17.8109149821576,59.5341135250648 17.8107301234033,59.5375399080816 17.8171773714935,59.5376968527347 17.8230987536666,59.5378105621988 17.8373207013755,59.5375427988204 17.8374505803938,59.5375185781116 17.8379668046176,59.5374210735281 17.8386414718751,59.5372814193714 17.8417911828521,59.5366293049172 17.8482377962017,59.5359362135886 17.8579503779945,59.5375710888049 17.856797791298,59.5364250250842 17.8501286218167,59.5297919822655 17.8435729431548,59.5274879444401 17.8424846965088,59.5271308820867 17.8372442561541,59.5254185619974 17.8335725625836,59.5242676283148 17.8335716850909,59.5242672879219</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

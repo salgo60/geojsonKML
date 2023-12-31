@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005415_Q86968523_Voullelite" id="2005415_Q86968523_Voullelite">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005415_Q86968523_Voullelite</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005415_Q86968523_Voullelite">
+		<SimpleData name="NVRID">2005415</SimpleData>
+		<SimpleData name="NAMN">Voullelite</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1960/07/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1960/08/02</SimpleData>
+		<SimpleData name="SENGALLDAT">1960/08/02</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Vilhelmina</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">1.72</SimpleData>
+		<SimpleData name="LAND_HA">1.72</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">III Ö 56 56</SimpleData>
+		<SimpleData name="LAGRUM">Naturskyddslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6088546896644,64.9242969154646 15.6088874869905,64.9243369366206 15.6092304073547,64.9244917053105 15.609657682847,64.924769159946 15.6101199920488,64.9249519282537 15.6107188950246,64.925244174104 15.6113176988657,64.9255509904794 15.6117116115507,64.9256972352271 15.6120204052413,64.9257413633124 15.6122777932738,64.9257708422588 15.6124841339613,64.9257346760958 15.6126564659414,64.9256474572372 15.612829621633,64.9254509500335 15.6128310960766,64.9252469290083 15.6126951264854,64.9250500233772 15.6124899096877,64.9249331740121 15.6120275180347,64.9247576906167 15.6118221037145,64.9246699861492 15.6114285207445,64.9244800228775 15.6110003962188,64.9243191567139 15.6106063950961,64.9241874829952 15.6103491825609,64.9241361417496 15.6100919004535,64.9240993728428 15.6093192018684,64.924091065438 15.6090614677785,64.9241125776061 15.608889133926,64.9241997923285 15.6088543575528,64.9242580359033 15.6088546896644,64.9242969154646</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

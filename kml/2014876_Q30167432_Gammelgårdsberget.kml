@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014876_Q30167432_Gammelgårdsberget" id="2014876_Q30167432_Gammelgårdsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014876_Q30167432_Gammelgårdsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014876_Q30167432_Gammelgårdsberget">
+		<SimpleData name="NVRID">2014876</SimpleData>
+		<SimpleData name="NAMN">Gammelgårdsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/09/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/10/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/16</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Åsele</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">247.99</SimpleData>
+		<SimpleData name="LAND_HA">247.98</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">223.649</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5229-2009</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.237990623827,64.3188128272069 17.2282564359224,64.3140402517508 17.2201510687508,64.3171394633556 17.2213223045172,64.3191573190263 17.2182509381787,64.3204368437487 17.2191099567712,64.3220130133476 17.221819502529,64.3231571337597 17.2210032219181,64.3273522591785 17.2217895099143,64.3312074724998 17.2236985498188,64.332283337318 17.2209226741537,64.3352006471031 17.2277784152063,64.3379475222076 17.2284015846039,64.3447482515124 17.2280004552716,64.3494828595125 17.2369008160999,64.3472468778164 17.2352567848598,64.3460300350979 17.2363873157284,64.3438828512019 17.2406146594272,64.340507933197 17.2400430533938,64.3376133755673 17.2387507580628,64.337214030101 17.2367305443855,64.3312396776709 17.2378300834883,64.3283261060047 17.237990623827,64.3188128272069</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

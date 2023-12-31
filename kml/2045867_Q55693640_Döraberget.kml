@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045867_Q55693640_Döraberget" id="2045867_Q55693640_Döraberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045867_Q55693640_Döraberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045867_Q55693640_Döraberget">
+		<SimpleData name="NVRID">2045867</SimpleData>
+		<SimpleData name="NAMN">Döraberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/06/16</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/07/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/07/17</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Kramfors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">16.47</SimpleData>
+		<SimpleData name="LAND_HA">16.47</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">14.77</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8042-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.481584708707,63.0102941201536 17.4828652337924,63.0101546340771 17.483827813831,63.0101605297421 17.4847430910168,63.0098739905564 17.4862699984178,63.0099353463058 17.4872335107383,63.0100158874394 17.4869273767167,63.0102976555366 17.4880055384323,63.0101763419798 17.4888464650614,63.0101498491329 17.4890394684187,63.0098424296439 17.4904632614786,63.0089979579819 17.4904206163135,63.0088773696245 17.4931105904352,63.0069926760629 17.4932026605969,63.0069227242601 17.4930885892931,63.0069223263975 17.4885444431894,63.0069447875338 17.4881998530719,63.0070170674356 17.488107129693,63.0070365160736 17.4872369928644,63.007255322473 17.4860498093822,63.0076380337342 17.4851469139945,63.0079020741412 17.4845009012424,63.0080780022082 17.4843301837252,63.0081076392004 17.4817116168703,63.0081176863372 17.478863286488,63.0081593392852 17.4801857105459,63.0087380328234 17.4795377886092,63.0092078397337 17.4797015050366,63.010112785197 17.4791997709011,63.0104543274011 17.479785920272,63.0106551503606 17.4809975926879,63.0110453230661 17.481584708707,63.0102941201536</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001328_Q30158202_Norrby_kyrkskog" id="2001328_Q30158202_Norrby_kyrkskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001328_Q30158202_Norrby_kyrkskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001328_Q30158202_Norrby_kyrkskog">
+		<SimpleData name="NVRID">2001328</SimpleData>
+		<SimpleData name="NAMN">Norrby kyrkskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2003/02/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2003/03/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2003/03/14</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Strängnäs</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">40.83</SimpleData>
+		<SimpleData name="LAND_HA">21.12</SimpleData>
+		<SimpleData name="VATTEN_HA">19.708</SimpleData>
+		<SimpleData name="SKOG_HA">14.008</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6989-2001</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0727445266511,59.394832657016 17.0724656961856,59.3950248296168 17.0720448275758,59.3951936381343 17.0717335146608,59.3951492925665 17.071453280306,59.3952845514415 17.071464065197,59.3955117289823 17.0709647806946,59.3958313804164 17.0708460672791,59.3960756238682 17.0707708942005,59.3964569741256 17.0709255146672,59.396872360482 17.0711099687997,59.3969903427215 17.0711463631118,59.3973335233456 17.0705750511383,59.3973629553202 17.0704523973705,59.3976637094577 17.0701079091519,59.3979484543462 17.0695977631531,59.3981944955977 17.0684095455748,59.3988008017478 17.0678257790919,59.3991546838322 17.0672882869527,59.399517980699 17.0670912051326,59.3998965166027 17.0667048618535,59.4001106625644 17.0660615519758,59.4004732855043 17.0664003445996,59.400822080527 17.0671295961484,59.4011737444557 17.0725942357241,59.4038085597859 17.0791320487898,59.3980898879092 17.081239508547,59.39695547349 17.0814780056528,59.3968270754141 17.081528324103,59.3967999885528 17.0791836791508,59.3963098679638 17.0789249413782,59.396262931882 17.0786904999932,59.3962204050938 17.0786541103632,59.3962138074831 17.0786512244889,59.3962132785522 17.0736200158604,59.3953005356087 17.0727446322284,59.3948326553387 17.0727445772472,59.3948326202805 17.0727445266511,59.394832657016</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

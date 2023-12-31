@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001890_Q30157750_Rismyran" id="2001890_Q30157750_Rismyran">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001890_Q30157750_Rismyran</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001890_Q30157750_Rismyran">
+		<SimpleData name="NVRID">2001890</SimpleData>
+		<SimpleData name="NAMN">Rismyran</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/12/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2003/01/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/02/09</SimpleData>
+		<SimpleData name="LAN">Västerbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Malå</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västerbottens län</SimpleData>
+		<SimpleData name="AREA_HA">289.08</SimpleData>
+		<SimpleData name="LAND_HA">281.41</SimpleData>
+		<SimpleData name="VATTEN_HA">7.665</SimpleData>
+		<SimpleData name="SKOG_HA">179.449</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2529-2004</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7580666710654,65.2512632618201 18.7649973025623,65.255192963518 18.7719294965546,65.2591219326657 18.7719444064066,65.2591162753336 18.776385333859,65.257432018508 18.7791383118558,65.2563877483607 18.7823702750792,65.2576981757256 18.7850700921986,65.2587892029836 18.7851315966121,65.2588140530952 18.7913762336473,65.2574063107951 18.7698564126988,65.2453222647308 18.7692818014288,65.2450005351831 18.7431258946784,65.2302948405185 18.7422479242897,65.2306546755598 18.7379803187111,65.2322937491955 18.7334756957018,65.2340485385043 18.7309854050502,65.235020590172 18.7302400130979,65.235299372934 18.7564629947709,65.250305290248 18.7565575709829,65.2504066948004 18.7572466629325,65.2508006356241 18.7575274548714,65.250960864077 18.7580678396486,65.2512543014621 18.7580666710654,65.2512632618201</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

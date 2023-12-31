@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2041330_Q30169273_Hornafjärden" id="2041330_Q30169273_Hornafjärden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2041330_Q30169273_Hornafjärden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2041330_Q30169273_Hornafjärden">
+		<SimpleData name="NVRID">2041330</SimpleData>
+		<SimpleData name="NAMN">Hornafjärden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2014/03/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/05/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/05/06</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gnesta, Nyköping</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">254.78</SimpleData>
+		<SimpleData name="LAND_HA">40.23</SimpleData>
+		<SimpleData name="VATTEN_HA">214.546</SimpleData>
+		<SimpleData name="SKOG_HA">38.586</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-5597-2013</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.0570761632091,59.0205532241741 17.0584930322385,59.017753804605 17.0580829937651,59.0178222420549 17.0501260822203,59.0140659657803 17.053043585219,59.0128381215881 17.0602050017211,59.0098273813184 17.0471204132196,59.0092970587341 17.0457015096073,59.0066375963392 17.0457478311125,59.0053769352942 17.0415821622171,59.0049631493545 17.0345750566967,59.0107820518333 17.0264918900836,59.0146084221051 17.0275285407695,59.0208350200526 17.0406116702491,59.0181058204654 17.0393478029193,59.0236724114459 17.0393109074116,59.0272211112641 17.0503958033364,59.026381386196 17.0567634833591,59.0210559196455 17.0570761632091,59.0205532241741</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

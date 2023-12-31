@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2046233_Q30166704_Böke_myr" id="2046233_Q30166704_Böke_myr">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="string"></SimpleField>
+	<SimpleField name="LAND_HA" type="string"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2046233_Q30166704_Böke_myr</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2046233_Q30166704_Böke_myr">
+		<SimpleData name="NVRID">2046233</SimpleData>
+		<SimpleData name="NAMN">Böke myr</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2016/12/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2017/01/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2017/01/14</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Osby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">4</SimpleData>
+		<SimpleData name="LAND_HA">4</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.053</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-28090-2016, 1273-210</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.4241270853259,56.401818631389 14.4245491122384,56.4012981482836 14.4249572002274,56.4013940054652 14.4254085523902,56.4015007533003 14.4257596540922,56.4012903890886 14.4260799551706,56.4012175873123 14.4261756900366,56.4011167206225 14.4260543508922,56.4008614657325 14.4260529537373,56.4007594219289 14.425898003185,56.4007642663163 14.425633172099,56.4007656548532 14.4255666075264,56.4007681767499 14.4254421346471,56.4007729370878 14.4253847382833,56.4007756091667 14.4253069774146,56.400779238064 14.4251655119913,56.4007525723611 14.4250379566164,56.4006974091393 14.4248861055492,56.4006654030869 14.4243543774089,56.4005517890133 14.4238116418362,56.4004623887492 14.42320932176,56.4003984138123 14.4228185163805,56.4003498135315 14.4226373674995,56.4003365089606 14.4214465373578,56.4002130924246 14.4207327244844,56.4001287295497 14.4204011207414,56.4000986726324 14.4199540319913,56.4000535468612 14.4201426021135,56.4003917259936 14.4205771775993,56.4006070585745 14.4206915093169,56.4007408961373 14.4206158595693,56.4009745809997 14.4208757799938,56.4012433811664 14.4215494557582,56.4013592803802 14.42181722804,56.401483742666 14.4223306295278,56.4014170165495 14.4225577566576,56.4014106258646 14.4235035078798,56.4018207033968 14.4241270853259,56.401818631389</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

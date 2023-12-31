@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000153_Q16912291_Åvinge" id="2000153_Q16912291_Åvinge">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000153_Q16912291_Åvinge</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000153_Q16912291_Åvinge">
+		<SimpleData name="NVRID">2000153</SimpleData>
+		<SimpleData name="NAMN">Åvinge</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/12/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/01/08</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Botkyrka</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Botkyrka kommun</SimpleData>
+		<SimpleData name="AREA_HA">15.93</SimpleData>
+		<SimpleData name="LAND_HA">15.93</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">13.619</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">1999-001140</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8230596678779,59.130974783372 17.8231219904717,59.1306136609168 17.8231876696942,59.1299659675542 17.8233004457412,59.1297747257906 17.8220780711809,59.1288671342123 17.8219389497064,59.1287638328995 17.8214539993193,59.1289642536537 17.8208253690913,59.1289121011376 17.8205804670344,59.1287067299268 17.8204150350662,59.1287673934905 17.8199681625598,59.1285758458924 17.8198345575633,59.1283422838158 17.8198344747414,59.1283423395293 17.8198306162733,59.128344948338 17.8154257960922,59.1313267981496 17.8165271374689,59.132701480821 17.8209249472647,59.1331410853134 17.8216255607929,59.1326466953693 17.822697503499,59.1327762736314 17.8227019887083,59.13277681405 17.8227026418126,59.1327768897001 17.8230596678779,59.130974783372</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

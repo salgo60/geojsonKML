@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2030089_Q30166150_Åttesta" id="2030089_Q30166150_Åttesta">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2030089_Q30166150_Åttesta</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2030089_Q30166150_Åttesta">
+		<SimpleData name="NVRID">2030089</SimpleData>
+		<SimpleData name="NAMN">Åttesta</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/08/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/09/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/09/20</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Sigtuna, Vallentuna</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">46.6</SimpleData>
+		<SimpleData name="LAND_HA">46.6</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">39.363</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">18513-2002-48907</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.1001971138891,59.6386539427238 18.1007419972201,59.6384730604568 18.1012836970624,59.638990496832 18.1020265971497,59.6390141027271 18.1027557232076,59.6386374795093 18.1046941801569,59.6345388386833 18.1049576115977,59.6340094357895 18.1003126308296,59.6334222396931 18.0973591193195,59.6330825303212 18.0957077171028,59.6329483196066 18.0905492774132,59.6332975183123 18.0907158071301,59.6355780959878 18.0906070076443,59.6362256530911 18.0935077021425,59.637001183359 18.0927007403483,59.6381819570968 18.0941270563861,59.6400895719889 18.0953699803932,59.6400691644545 18.0961781775225,59.639980326844 18.0976766360263,59.6399386809066 18.0987949702069,59.6396588884538 18.0990828497828,59.6395894367567 18.0994941090073,59.6393516299637 18.1001971138891,59.6386539427238</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

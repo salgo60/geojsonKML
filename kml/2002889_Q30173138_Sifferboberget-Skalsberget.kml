@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002889_Q30173138_Sifferboberget_Skalsberget" id="2002889_Q30173138_Sifferboberget_Skalsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002889_Q30173138_Sifferboberget_Skalsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002889_Q30173138_Sifferboberget_Skalsberget">
+		<SimpleData name="NVRID">2002889</SimpleData>
+		<SimpleData name="NAMN">Sifferboberget-Skalsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/11/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2005/01/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/11/21</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Borlänge, Gagnef</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Dalarnas län</SimpleData>
+		<SimpleData name="AREA_HA">97.55</SimpleData>
+		<SimpleData name="LAND_HA">97.54</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">95.122</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4173-04</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2399215785028,60.575211464019 15.238977872173,60.5731154576737 15.2434921406181,60.5733519937093 15.2436421841238,60.5733612195942 15.2437318071819,60.5734513442453 15.2439654067467,60.5737888966684 15.2440181029,60.5740314450677 15.2440148640429,60.5743545341364 15.2438756989528,60.5747533357111 15.2436889577823,60.5748993797097 15.2436875973349,60.5749004416552 15.2436874703589,60.5749005406504 15.2439209258251,60.5748810714289 15.2471668997759,60.5746055828792 15.2471669552664,60.5746056815403 15.2474462001668,60.5751180720298 15.2474530518676,60.5751336281049 15.2477156396451,60.5757285075794 15.2481657273349,60.5767477136161 15.2482873770792,60.5770233078826 15.2483567170581,60.5771803929703 15.2483598735985,60.577187498094 15.2484160646874,60.5773145474907 15.2484307921553,60.5773480818304 15.2484646815631,60.577424695408 15.2485031090409,60.5775124518622 15.2485059154352,60.5775190997285 15.2485610221287,60.5776449838676 15.2488513696086,60.5782565363031 15.2544329932633,60.5775054187021 15.255775160575,60.5751640239053 15.2557751419036,60.5751639700699 15.2554918898036,60.574475032777 15.254847743762,60.5729082074912 15.2533715495067,60.569317087704 15.2527741734668,60.567863813094 15.2526323871298,60.5675188385593 15.2526154201508,60.5675208997771 15.2445115713741,60.5685170815173 15.2422008453358,60.5688009518903 15.240594688104,60.5652313041221 15.2401596788315,60.5653306348838 15.2395000125998,60.565481266294 15.2371442769949,60.5660191508475 15.2380558416769,60.5679934714016 15.2380558601167,60.5679934983043 15.2383671240103,60.568667590198 15.2322203009326,60.5722716789048 15.2330353578235,60.5740340458821 15.2337799197914,60.5756438780797 15.2338913014705,60.5758846307334 15.2399215785028,60.575211464019</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

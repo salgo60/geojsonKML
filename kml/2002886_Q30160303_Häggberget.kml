@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002886_Q30160303_Häggberget" id="2002886_Q30160303_Häggberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002886_Q30160303_Häggberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002886_Q30160303_Häggberget">
+		<SimpleData name="NVRID">2002886</SimpleData>
+		<SimpleData name="NAMN">Häggberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2004/10/28</SimpleData>
+		<SimpleData name="URSGALLDAT">2004/11/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2004/11/04</SimpleData>
+		<SimpleData name="LAN">Västernorrlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Härnösand</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västernorrlands län</SimpleData>
+		<SimpleData name="AREA_HA">24.64</SimpleData>
+		<SimpleData name="LAND_HA">24.64</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">24.246</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">511-7954-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.8137624840884,62.5220997091417 17.8137678959061,62.5221008216715 17.8137681540548,62.5221008793451 17.8137681498247,62.5221008345197 17.8142722978018,62.5188780123542 17.8142723129715,62.5188779671378 17.8142723087412,62.5188779223125 17.8142723239109,62.5188778770961 17.8142714703133,62.518877894299 17.8142703240243,62.5188778994365 17.8142691785815,62.518877913539 17.8142664777587,62.5188779230593 17.8139606000742,62.5188797757907 17.811991446311,62.5188916431141 17.8120919793215,62.5164056677924 17.8101699608651,62.5165237191283 17.8091611320017,62.5161811682279 17.8067348223804,62.5158147805339 17.8068516663226,62.5167546267564 17.8053913440286,62.5176735865014 17.8050698359361,62.5189297499647 17.8053193968203,62.5195619169334 17.8061132613597,62.5199069749251 17.8072414767505,62.5198899222761 17.8072521280284,62.5199756039261 17.8072523043992,62.519977064462 17.8072743978736,62.5201547622008 17.8062503960985,62.5202672303685 17.8053963846782,62.5208126976358 17.8074674304266,62.5217070743509 17.8075661186665,62.5225006343888 17.8118313202969,62.5225162671708 17.8118677441766,62.5217071526488 17.8134664737526,62.5220383788702 17.8137624840884,62.5220997091417</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

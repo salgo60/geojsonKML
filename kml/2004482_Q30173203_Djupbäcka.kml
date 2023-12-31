@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004482_Q30173203_Djupbäcka" id="2004482_Q30173203_Djupbäcka">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004482_Q30173203_Djupbäcka</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004482_Q30173203_Djupbäcka">
+		<SimpleData name="NVRID">2004482</SimpleData>
+		<SimpleData name="NAMN">Djupbäcka</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/11/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/01/11</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/01/11</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Leksand</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Leksands kommun</SimpleData>
+		<SimpleData name="AREA_HA">6.9</SimpleData>
+		<SimpleData name="LAND_HA">6.9</SimpleData>
+		<SimpleData name="VATTEN_HA">0.001</SimpleData>
+		<SimpleData name="SKOG_HA">4.494</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-2675-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.032878993537,60.654187418371 15.0330013982652,60.6541911771333 15.0335730414652,60.6543025374444 15.0338310655594,60.6543697205167 15.0340883550425,60.6544676901185 15.034585187881,60.6547408823369 15.0353152774733,60.6551312958621 15.0358754794788,60.6553931807293 15.036774761586,60.6557211860419 15.037544380595,60.6552375410364 15.0374644764948,60.6551991180271 15.0374961676017,60.6550352359103 15.0372641043171,60.6546992132775 15.0370260100941,60.6545546018262 15.0368935473121,60.6544741472751 15.0369972405182,60.6542850969785 15.0369975325514,60.6542845581954 15.0371053958245,60.653396594121 15.0371058306071,60.653392957759 15.0371943460875,60.6532582306493 15.0371933216559,60.6532580693231 15.0371933398942,60.6532580244262 15.0358288246769,60.6528293379141 15.0358183993908,60.6528292778546 15.0358079741047,60.6528292177943 15.0355145040242,60.6527376806131 15.0354904806372,60.6527296154234 15.0353554420817,60.6527084083116 15.0353410610204,60.6527035817422 15.0351267267155,60.6526733899947 15.0351140510779,60.6526726301575 15.0350958122863,60.6526690525675 15.0342491833626,60.6525525978082 15.0342491101753,60.6525525708918 15.0338038392556,60.6523527625565 15.0336145628439,60.652162073593 15.0336145262182,60.6521620287103 15.0336142519977,60.6521621454981 15.0336102117817,60.6521638344469 15.0315015618627,60.6530435545236 15.0317612738762,60.6532049961721 15.0315933360207,60.653449445203 15.0315106174795,60.6535700891478 15.0316284213922,60.6536595398472 15.0316648349115,60.653694241634 15.031804484681,60.6538271333587 15.0319246712617,60.6539197705508 15.0319595960553,60.6539465895994 15.0321475841598,60.6540368041863 15.0323825780814,60.6540885168632 15.0326925404596,60.6541167772912 15.0328802813764,60.6541409280388 15.0328792752445,60.6541766801676 15.0328789932991,60.6541871849333 15.032878993537,60.654187418371</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

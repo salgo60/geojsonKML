@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000913_Q30179990_Örnbergskilen" id="2000913_Q30179990_Örnbergskilen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000913_Q30179990_Örnbergskilen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000913_Q30179990_Örnbergskilen">
+		<SimpleData name="NVRID">2000913</SimpleData>
+		<SimpleData name="NAMN">Örnbergskilen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/03/06</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/04/06</SimpleData>
+		<SimpleData name="SENGALLDAT">2016/11/10</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Bräcke</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">72.26</SimpleData>
+		<SimpleData name="LAND_HA">72.21</SimpleData>
+		<SimpleData name="VATTEN_HA">0.05</SimpleData>
+		<SimpleData name="SKOG_HA">57.883</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-7288-13</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.9062620014652,62.6329436841175 14.9070962061451,62.632742859355 14.908779742009,62.6311886627061 14.9127477337381,62.6300261259585 14.9128225372165,62.6293229480897 14.9166886078382,62.6284328931007 14.9182243433359,62.6288655052057 14.9205916609172,62.6282649965757 14.9240173117442,62.627658590172 14.9252288086655,62.6272276240716 14.9294751055316,62.6266967007705 14.9291721147415,62.6258945450025 14.9293606727807,62.6246815468271 14.9303167651963,62.624048380958 14.9292364990053,62.6233093129724 14.8926421226714,62.6315712835595 14.8908916106714,62.6319661399757 14.890741123218,62.6319998883053 14.8907607554438,62.6320215262333 14.8908673698745,62.6320897174188 14.8909848264351,62.6321523071018 14.8912160897623,62.6322948873495 14.891443104544,62.6324375447024 14.8916530500479,62.6325832043458 14.891815019805,62.6327003644894 14.8919332258101,62.6328239819781 14.8919394529629,62.6328305417817 14.8920080234254,62.6328143709385 14.8922709626869,62.6327523622661 14.8924547883555,62.6329521002526 14.892511419765,62.6330136339778 14.8922464330138,62.6330859457051 14.8932660328261,62.6334093239029 14.8948720682909,62.6339153707161 14.8958990781592,62.6342381787491 14.8980800803414,62.6349306911082 14.9001459001562,62.6344290686956 14.9062620014652,62.6329436841175</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

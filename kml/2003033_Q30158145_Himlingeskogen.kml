@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2003033_Q30158145_Himlingeskogen" id="2003033_Q30158145_Himlingeskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2003033_Q30158145_Himlingeskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2003033_Q30158145_Himlingeskogen">
+		<SimpleData name="NVRID">2003033</SimpleData>
+		<SimpleData name="NAMN">Himlingeskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2005/12/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/01/10</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Katrineholm</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">56.52</SimpleData>
+		<SimpleData name="LAND_HA">56.52</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">46.281</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1738-2004</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4076779655342,59.0943345318992 16.4069246640394,59.0951531561304 16.4055442336998,59.0954327110362 16.403122021416,59.0968384291535 16.4021396758265,59.0963938690084 16.4002525123294,59.0954673882971 16.3998388232414,59.0949977936284 16.3988957263187,59.0952394877865 16.3978636769513,59.0951290327906 16.3967921309986,59.0952435391264 16.3958388393657,59.0947379743691 16.3949126279593,59.0947481592566 16.3929220359946,59.0945519241849 16.3905960350533,59.0950059945375 16.3891143229333,59.0953740582407 16.3896319398644,59.0957395074561 16.3916477573167,59.0962921885601 16.3912366359058,59.0972332600189 16.39083758039,59.098610812798 16.3903791175277,59.1001069936861 16.3921551878163,59.101691510238 16.3930807497649,59.1021087592146 16.3943201528242,59.1016295738183 16.3958615764405,59.1011303680681 16.39747196215,59.1006425084605 16.3988815720401,59.1004759961097 16.4003990460719,59.1002995920614 16.400747589994,59.1002531758554 16.404493632393,59.0996202391734 16.4049996306422,59.0994707118678 16.4055672366544,59.099281534326 16.4078826672095,59.0985970181283 16.4080314352824,59.0973860239949 16.4080930610154,59.0954373214385 16.4082135903397,59.0947281223445 16.4082138521249,59.0942264952671 16.4076779655342,59.0943345318992</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

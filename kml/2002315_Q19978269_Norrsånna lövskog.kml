@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002315_Q19978269_Norrsånna_lövskog" id="2002315_Q19978269_Norrsånna_lövskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002315_Q19978269_Norrsånna_lövskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002315_Q19978269_Norrsånna_lövskog">
+		<SimpleData name="NVRID">2002315</SimpleData>
+		<SimpleData name="NAMN">Norrsånna lövskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1968/10/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1968/11/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2007/07/10</SimpleData>
+		<SimpleData name="LAN">Jönköpings Län</SimpleData>
+		<SimpleData name="KOMMUN">Eksjö</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jönköpings län</SimpleData>
+		<SimpleData name="AREA_HA">19.43</SimpleData>
+		<SimpleData name="LAND_HA">19.31</SimpleData>
+		<SimpleData name="VATTEN_HA">0.116</SimpleData>
+		<SimpleData name="SKOG_HA">17.674</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9588-05</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2458017217421,57.5897965581336 15.2457605247027,57.5898464202401 15.2458047345335,57.589886127511 15.2460968218798,57.5901485358604 15.2474977061855,57.5901899410263 15.2474490452599,57.5909238938855 15.2471975146999,57.5947169867466 15.2486091707568,57.5953010376417 15.2492128122661,57.594550793053 15.2514076704653,57.5928484787421 15.2523193014915,57.5933578299679 15.2529121202988,57.5935102846824 15.2534168896752,57.5932065754794 15.2537666238469,57.5930800624223 15.2541178899559,57.592830536584 15.2543146633691,57.5927126025004 15.2545465135306,57.5925082649858 15.2548809105716,57.5922449286643 15.2549598404823,57.5920354282277 15.2550542552434,57.5919400303528 15.2551032514933,57.5913975485452 15.2552008302811,57.5910376402829 15.2528200234155,57.5903339438061 15.2527965906204,57.590327020124 15.2515064041666,57.5900735071829 15.2512373677189,57.590020640295 15.2501021079666,57.5896373286429 15.2499682832741,57.5895921410675 15.2498420614174,57.5894823079604 15.2498419918456,57.5894867994364 15.2483967740225,57.5896002969066 15.2471912683267,57.5895322094654 15.2462000977765,57.5893143831174 15.2458017217421,57.5897965581336</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

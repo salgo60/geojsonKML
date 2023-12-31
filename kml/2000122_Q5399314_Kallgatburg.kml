@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000122_Q5399314_Kallgatburg" id="2000122_Q5399314_Kallgatburg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000122_Q5399314_Kallgatburg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000122_Q5399314_Kallgatburg">
+		<SimpleData name="NVRID">2000122</SimpleData>
+		<SimpleData name="NAMN">Kallgatburg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1957/09/17</SimpleData>
+		<SimpleData name="URSGALLDAT">1957/09/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/10/04</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">115.01</SimpleData>
+		<SimpleData name="LAND_HA">115.01</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">59.32</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3372-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.686870709564,57.6914494599372 18.6860799187265,57.6897879564081 18.6855045491506,57.6885784581019 18.6841177689855,57.6885167411413 18.6785174943556,57.6882604890616 18.6769782449604,57.6881922793639 18.675798109785,57.6881389531895 18.6745627877298,57.6880825272454 18.6742100120523,57.6893650708487 18.6738447559282,57.6906800803849 18.6735559300862,57.6917218689919 18.6727122087372,57.6916628355472 18.6723968576845,57.6918974224528 18.6721807706563,57.6924939382959 18.6717806213969,57.6929289015667 18.6715178800523,57.6933986305798 18.671570080864,57.6937119498493 18.6719475257427,57.6940619796876 18.6720086887005,57.6944937209943 18.6714833369595,57.695515248512 18.6716658052727,57.6957150477062 18.671725554836,57.6957809383436 18.6752173985079,57.6996107856674 18.6763611671548,57.6996151314395 18.6774745186972,57.6996205673405 18.6783974693369,57.6996222727903 18.6804702151289,57.6996324021365 18.6859863127182,57.6996591881789 18.6880909459587,57.6996693507609 18.6894696023242,57.6996755096953 18.6899593819229,57.6965785306532 18.6888398006878,57.6965255677785 18.6888714729058,57.6963508935316 18.6894051279375,57.6931366581888 18.6894809895832,57.6926862143118 18.6869307944256,57.6914879040304 18.686870709564,57.6914494599372</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

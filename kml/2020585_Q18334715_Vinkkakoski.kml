@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020585_Q18334715_Vinkkakoski" id="2020585_Q18334715_Vinkkakoski">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2020585_Q18334715_Vinkkakoski</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2020585_Q18334715_Vinkkakoski">
+		<SimpleData name="NVRID">2020585</SimpleData>
+		<SimpleData name="NAMN">Vinkkakoski</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2010/06/08</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/07/29</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/07/29</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Kiruna</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">37.76</SimpleData>
+		<SimpleData name="LAND_HA">30.84</SimpleData>
+		<SimpleData name="VATTEN_HA">6.919</SimpleData>
+		<SimpleData name="SKOG_HA">19.358</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-554-10</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.8108406411604,67.4479721283384 21.8120855534345,67.4475611329458 21.8161543225943,67.4474940223441 21.8201450056633,67.4462687019922 21.8208180476685,67.4466406112795 21.8216422467314,67.4460903589392 21.823246635844,67.4451446469241 21.8284885317075,67.4433681522431 21.8290145862604,67.4430119886152 21.8298163176545,67.4423940766205 21.8302789650458,67.4418035896251 21.8307375818388,67.4411895706242 21.8310266540348,67.4408537599849 21.8314313125564,67.4405002632206 21.831509652075,67.4403587218965 21.8316813586743,67.4401850949834 21.8319696781855,67.4400739291974 21.8322351569891,67.4399526715931 21.8330273013027,67.4388985072482 21.8319991216641,67.4389895836005 21.8283651100937,67.4393257835334 21.8271237159903,67.4397967946279 21.8252475073499,67.4407141368534 21.8229060126972,67.4418227893919 21.8218519973134,67.4423400631286 21.8210731417198,67.4425870312273 21.8176535849474,67.4434212095564 21.8138003252702,67.4446362945846 21.8088758568755,67.4462718666838 21.8056807662191,67.4472487958753 21.8066677345962,67.4476475992699 21.8087502256405,67.4486205889697 21.8098684384952,67.4483119146058 21.8108406411604,67.4479721283384</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

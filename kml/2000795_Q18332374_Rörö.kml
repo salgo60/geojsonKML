@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000795_Q18332374_Rörö" id="2000795_Q18332374_Rörö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000795_Q18332374_Rörö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000795_Q18332374_Rörö">
+		<SimpleData name="NVRID">2000795</SimpleData>
+		<SimpleData name="NAMN">Rörö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1976/05/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1977/01/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2008/03/07</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Öckerö</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">405.32</SimpleData>
+		<SimpleData name="LAND_HA">159.12</SimpleData>
+		<SimpleData name="VATTEN_HA">246.195</SimpleData>
+		<SimpleData name="SKOG_HA">3.64</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-41146-2007</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.5922293198327,57.7642334369744 11.59298861972,57.789779149531 11.5932020365485,57.7952337223535 11.6138443620783,57.7953527531228 11.6162750547289,57.785653092059 11.6109924117549,57.7849477327148 11.6120431114939,57.7834364268463 11.6125212555919,57.7826522397851 11.6130535169779,57.7814743177068 11.6134369612645,57.7802734918909 11.6136954502862,57.7788078384152 11.6112872502315,57.777883054482 11.610816806858,57.7778045374227 11.6109165731773,57.7755695449194 11.6118868146559,57.7746039159629 11.613948839646,57.7740520015798 11.6149503411538,57.7730694063717 11.6148621824786,57.7728867001868 11.6140624528021,57.7723118725811 11.6155758311709,57.7710495909903 11.6046450274455,57.7660576695332 11.5961352139009,57.7639140092123 11.5922293198327,57.7642334369744</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

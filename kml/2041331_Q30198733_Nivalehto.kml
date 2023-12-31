@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2041331_Q30198733_Nivalehto" id="2041331_Q30198733_Nivalehto">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2041331_Q30198733_Nivalehto</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2041331_Q30198733_Nivalehto">
+		<SimpleData name="NVRID">2041331</SimpleData>
+		<SimpleData name="NAMN">Nivalehto</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/01/08</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Pajala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">63.98</SimpleData>
+		<SimpleData name="LAND_HA">63.97</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">63.549</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-8986-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.4068845045748,67.2645743460373 23.4071337292273,67.2640167588393 23.4045134140928,67.2630670996476 23.4044836463345,67.2626158808128 23.4182079473066,67.2607862660154 23.4194378441626,67.2610696817087 23.4268210581105,67.260292467425 23.4306523926476,67.2595090032305 23.4325925870443,67.2590050580891 23.4305012034955,67.2574015034403 23.4148509924735,67.2583409809703 23.4125373042606,67.2579638339764 23.4104451049439,67.258132503938 23.4093010335389,67.2588637721781 23.4002186219103,67.2576329183659 23.399517852709,67.2584734319057 23.4019521653984,67.2587614941252 23.4003303112621,67.2602681040419 23.3942471730067,67.2608677226546 23.392985270266,67.2619626750031 23.3989758309388,67.264732393456 23.402330297412,67.2644726773931 23.4057500470128,67.2647778855219 23.4068845045748,67.2645743460373</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

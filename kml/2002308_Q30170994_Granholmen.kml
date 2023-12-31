@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002308_Q30170994_Granholmen" id="2002308_Q30170994_Granholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002308_Q30170994_Granholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002308_Q30170994_Granholmen">
+		<SimpleData name="NVRID">2002308</SimpleData>
+		<SimpleData name="NAMN">Granholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1978/04/10</SimpleData>
+		<SimpleData name="URSGALLDAT">1978/05/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/01/10</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Värmdö</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Skärgårdsstiftelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">39.2</SimpleData>
+		<SimpleData name="LAND_HA">18.33</SimpleData>
+		<SimpleData name="VATTEN_HA">20.87</SimpleData>
+		<SimpleData name="SKOG_HA">7.107</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-17752-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8827981088587,59.3816751559425 18.8841852019394,59.3816334256518 18.8847519326342,59.3817188543619 18.8847610276929,59.3817216487997 18.8847829438244,59.3817283851888 18.8850507660824,59.3818106059141 18.8866118902595,59.3810191740416 18.8872230987033,59.3807412111333 18.8902721085309,59.3784566958975 18.8861026041774,59.3769018412428 18.8832504459683,59.3774030725022 18.8832414596382,59.3774033403538 18.8822298762367,59.3775143366985 18.8815903343126,59.3776255047367 18.8793269269756,59.3783885248761 18.8696202999982,59.3797635350016 18.8696136418769,59.3797644789191 18.8696135210026,59.3797645004891 18.8696135943082,59.3797645252819 18.8791602326222,59.3829177533775 18.8791603059415,59.3829177781648 18.8827981088587,59.3816751559425</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002042_Q30184285_Gullvalla" id="2002042_Q30184285_Gullvalla">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002042_Q30184285_Gullvalla</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002042_Q30184285_Gullvalla">
+		<SimpleData name="NVRID">2002042</SimpleData>
+		<SimpleData name="NAMN">Gullvalla</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/10/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/12/06</SimpleData>
+		<SimpleData name="SENGALLDAT">1973/12/06</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Sala</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">0.71</SimpleData>
+		<SimpleData name="LAND_HA">0.71</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.666</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-2310-73</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.4475792962351,59.9119919224022 16.4475794760002,59.9119944081121 16.4475794869439,59.9119946594545 16.447811867647,59.9119696107076 16.4480441411346,59.9119445717068 16.4480442301191,59.9119445617486 16.4480629308323,59.9119087115111 16.4481323343828,59.9118006644187 16.4481828353228,59.9116388502669 16.4483124706024,59.9109470623108 16.4483279109293,59.9107300599877 16.4476430593276,59.9107673445894 16.4474347491478,59.9107893268109 16.4470192236198,59.9108909260497 16.4470203379526,59.9109485795866 16.4470437222744,59.9110794965911 16.4470770700568,59.9111841700744 16.4471632747827,59.9113252642597 16.4473123009716,59.911476544484 16.4474078523891,59.9115599419832 16.4475040043202,59.9116747836118 16.4475701528609,59.9118579123966 16.4475792962351,59.9119919224022</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

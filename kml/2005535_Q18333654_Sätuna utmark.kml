@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2005535_Q18333654_Sätuna_utmark" id="2005535_Q18333654_Sätuna_utmark">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2005535_Q18333654_Sätuna_utmark</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2005535_Q18333654_Sätuna_utmark">
+		<SimpleData name="NVRID">2005535</SimpleData>
+		<SimpleData name="NAMN">Sätuna utmark</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2006/03/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2006/10/04</SimpleData>
+		<SimpleData name="SENGALLDAT">2006/10/04</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skara, Skövde</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">51.11</SimpleData>
+		<SimpleData name="LAND_HA">51.1</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">50.983</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-6767-2003</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.7430826412257,58.4340005958916 13.7450296880674,58.4364296963552 13.7470429417668,58.4362644936843 13.7492764875011,58.4361387126899 13.750245404829,58.4362620222787 13.7630521485495,58.4333506253021 13.7599205952635,58.4288912972872 13.7504251089378,58.4308317540534 13.750424062044,58.4308496996845 13.7502755445483,58.4313412424543 13.750074296676,58.4315625202189 13.7502497363013,58.4320772159774 13.7501644094009,58.4326595759089 13.7496262529871,58.4327856509712 13.7492462342507,58.4328424135035 13.7483954188969,58.433044289215 13.7476582368147,58.4330593843552 13.7469634744221,58.4332278333997 13.7455989008115,58.4334304078962 13.7448559354909,58.4335441920319 13.7442727292607,58.4335617542644 13.743726118572,58.4338313507651 13.7430826412257,58.4340005958916</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

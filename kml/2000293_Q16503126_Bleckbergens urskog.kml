@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000293_Q16503126_Bleckbergens_urskog" id="2000293_Q16503126_Bleckbergens_urskog">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000293_Q16503126_Bleckbergens_urskog</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000293_Q16503126_Bleckbergens_urskog">
+		<SimpleData name="NVRID">2000293</SimpleData>
+		<SimpleData name="NAMN">Bleckbergens urskog</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1981/07/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/07/22</SimpleData>
+		<SimpleData name="SENGALLDAT">2011/01/02</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Hudiksvall</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">4.28</SimpleData>
+		<SimpleData name="LAND_HA">4.28</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.684</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-13483-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.7232469427682,61.5624844592359 16.7236301324598,61.5625057089946 16.7241502538719,61.5625025023422 16.7249055198861,61.5629816147539 16.7251955399748,61.5631652974975 16.7260134500347,61.5630318654223 16.7261963073189,61.5632033324602 16.7270168877123,61.5631298428865 16.7275231288169,61.5628009999226 16.7279063282833,61.5626916324297 16.7279950124019,61.5626521325279 16.7280305038256,61.5622199185904 16.7280708953744,61.5620057878821 16.7277677065204,61.5615901695461 16.7273353652576,61.5613897498669 16.726971679466,61.561080744014 16.7265033370202,61.5607790585402 16.7260257017753,61.5607914801108 16.7255037611517,61.5609742958379 16.7252958976826,61.5611631542647 16.7248002461673,61.5614185117546 16.7240904946454,61.5618925153324 16.7236895716272,61.5619960436807 16.7234502062924,61.5620724797923 16.7234416219697,61.5621020225129 16.7232402551811,61.5622977097427 16.7232560535813,61.5624562567951 16.7232469427682,61.5624844592359</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

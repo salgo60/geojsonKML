@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2031709_Q30162791_Nuorteliden" id="2031709_Q30162791_Nuorteliden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2031709_Q30162791_Nuorteliden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2031709_Q30162791_Nuorteliden">
+		<SimpleData name="NVRID">2031709</SimpleData>
+		<SimpleData name="NAMN">Nuorteliden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/02/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/03/08</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/03/08</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Arvidsjaur</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">57.07</SimpleData>
+		<SimpleData name="LAND_HA">57.07</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">57.069</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-9297-11</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>20.0723851845708,65.6434815607591 20.0731510582552,65.6430573188854 20.0764612701655,65.6431398871494 20.082226371411,65.6431789608775 20.0857584031204,65.6431330976053 20.0910368216173,65.6423166135419 20.0925767695313,65.6422892850774 20.0933020087934,65.6426373330845 20.0941695460656,65.6425187545412 20.0943196393516,65.6420240227384 20.0953246690027,65.6414611474434 20.0933413484113,65.6393078733534 20.0910534210586,65.6389176407135 20.0888333363432,65.6395773779546 20.0865981718267,65.6396082884768 20.0846236887274,65.6391104564711 20.0792725045558,65.6406352360756 20.0761625448623,65.6415213191076 20.074628792029,65.6405328600342 20.0769107074631,65.6392424716495 20.0757652706073,65.6376637132195 20.0743743732688,65.6377294220392 20.0731290220416,65.6379218101109 20.0708407485542,65.6387119399081 20.067297262666,65.6393600662231 20.0627024353007,65.6402005588818 20.0653641319304,65.6431519693714 20.0688946231258,65.643330069472 20.0704763604421,65.643732948697 20.0723851845708,65.6434815607591</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

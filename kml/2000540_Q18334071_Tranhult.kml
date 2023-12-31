@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000540_Q18334071_Tranhult" id="2000540_Q18334071_Tranhult">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000540_Q18334071_Tranhult</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000540_Q18334071_Tranhult">
+		<SimpleData name="NVRID">2000540</SimpleData>
+		<SimpleData name="NAMN">Tranhult</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1984/01/11</SimpleData>
+		<SimpleData name="URSGALLDAT">1984/02/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2014/11/28</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Borås</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">2.68</SimpleData>
+		<SimpleData name="LAND_HA">2.59</SimpleData>
+		<SimpleData name="VATTEN_HA">0.084</SimpleData>
+		<SimpleData name="SKOG_HA">2.431</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-6561-2014</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>12.7743881979261,57.5934305884 12.7742978663468,57.5933566724236 12.774262518338,57.593283105172 12.7742219270233,57.593293972301 12.7739253887213,57.5933713868278 12.7714740717263,57.5924174734203 12.7706975449782,57.5922105917656 12.768502333001,57.5913763688956 12.7682282749122,57.5916361422449 12.7699578732446,57.592181918971 12.7707392088906,57.59255102498 12.7724985811012,57.593119647397 12.7733690200294,57.5935580136687 12.7730334577333,57.5936183936142 12.7763007505803,57.5949960933579 12.7771842170022,57.5948778116118 12.7770486623008,57.5948381184973 12.777003936093,57.5948163682488 12.7769386798406,57.5947435694374 12.7768692362462,57.5946604174741 12.7767495239819,57.5945747723726 12.7765931962873,57.5944748876208 12.7764759323948,57.5943831482331 12.7760686906002,57.5941695283028 12.7756741041988,57.5940118130746 12.7749988644331,57.5937569711851 12.7747893037943,57.5936427310919 12.774580581434,57.593533690047 12.7743881979261,57.5934305884</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001806_Q10589546_Mossbystrand" id="2001806_Q10589546_Mossbystrand">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001806_Q10589546_Mossbystrand</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001806_Q10589546_Mossbystrand">
+		<SimpleData name="NVRID">2001806</SimpleData>
+		<SimpleData name="NAMN">Mossbystrand</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1963/01/28</SimpleData>
+		<SimpleData name="URSGALLDAT">1963/01/28</SimpleData>
+		<SimpleData name="SENGALLDAT">1963/01/28</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Skurup</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Skurups kommun</SimpleData>
+		<SimpleData name="AREA_HA">5.42</SimpleData>
+		<SimpleData name="LAND_HA">2.99</SimpleData>
+		<SimpleData name="VATTEN_HA">2.425</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">III G2 33 61</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.6344498322672,55.4160585957039 13.6343701181488,55.4161899092579 13.6340608070072,55.4166993540876 13.6344412949152,55.4168239344593 13.6349357108753,55.4170318067942 13.6356218822821,55.4173166034988 13.6361553691217,55.4175628664589 13.6365141078309,55.4177684196249 13.636721650331,55.4178594316662 13.6367217128834,55.4178594503368 13.6367232230787,55.4178582629495 13.6367244895743,55.4178572705537 13.6370269996324,55.4176193666165 13.6370347561293,55.4171977788465 13.637049628484,55.4166021169526 13.6372408813357,55.4166420998637 13.6393700988008,55.4170872254496 13.6393846789899,55.4170904970314 13.6393847573349,55.4170905158763 13.640687409067,55.4173826879457 13.6417557368565,55.417533974967 13.6418294171266,55.417383573902 13.6418339540118,55.4173660013596 13.641969120991,55.4168426698579 13.6387385105905,55.4163984759215 13.6349448592279,55.4153730970225 13.6345669450683,55.4158730963301 13.6345525115067,55.4158939910711 13.634449865401,55.4160585511403 13.6344498322672,55.4160585957039</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

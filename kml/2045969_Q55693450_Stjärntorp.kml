@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2045969_Q55693450_Stjärntorp" id="2045969_Q55693450_Stjärntorp">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2045969_Q55693450_Stjärntorp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2045969_Q55693450_Stjärntorp">
+		<SimpleData name="NVRID">2045969</SimpleData>
+		<SimpleData name="NAMN">Stjärntorp</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2017/12/13</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/01/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/01/15</SimpleData>
+		<SimpleData name="LAN">Östergötlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrköping</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Östergötlands län</SimpleData>
+		<SimpleData name="AREA_HA">12.73</SimpleData>
+		<SimpleData name="LAND_HA">12.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">11.09</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4488-14</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.7893707833331,58.6223009437353 15.7895233639993,58.6222192874023 15.7899673765271,58.6222203474082 15.7903835515281,58.6217318040215 15.7913191062235,58.6214359318973 15.7921860496222,58.621478627896 15.792243656067,58.6215823434832 15.7926644860733,58.621728591048 15.793056871843,58.6217391780403 15.7936127068977,58.6216382679483 15.794068288111,58.6213033074133 15.7945671427001,58.6206235169982 15.7942795743032,58.6204100521634 15.7940092805615,58.6197070633991 15.79393959052,58.6192730934505 15.7934368518743,58.6192469458694 15.7929240854622,58.6189087682416 15.7922235041989,58.618762094552 15.7910594919587,58.6188025678015 15.7901354086294,58.6190664321925 15.7898775699868,58.6188892752113 15.7908457717064,58.61860180192 15.7902422532888,58.6184974095267 15.7891191736613,58.6185835096059 15.7886157270263,58.6192687569774 15.7886349819636,58.619633913918 15.788991915118,58.6198873406682 15.7887894614348,58.6200531119486 15.7886332849129,58.6200841738908 15.7882645899388,58.6197473390515 15.7878317753626,58.6197032593483 15.7875309284376,58.6200491196983 15.7874346172587,58.6205506390265 15.7866032383967,58.6202793068325 15.7864675856042,58.6205664218012 15.7861568126109,58.6208629085608 15.7863251675088,58.6211490255947 15.7872895203516,58.6214161041745 15.7872210932248,58.621859335561 15.7893707833331,58.6223009437353</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

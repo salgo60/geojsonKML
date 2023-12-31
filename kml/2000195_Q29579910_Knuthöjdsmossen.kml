@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000195_Q29579910_Knuthöjdsmossen" id="2000195_Q29579910_Knuthöjdsmossen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000195_Q29579910_Knuthöjdsmossen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000195_Q29579910_Knuthöjdsmossen">
+		<SimpleData name="NVRID">2000195</SimpleData>
+		<SimpleData name="NAMN">Knuthöjdsmossen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/06/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/06/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1973/06/07</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hällefors</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">98.23</SimpleData>
+		<SimpleData name="LAND_HA">80.44</SimpleData>
+		<SimpleData name="VATTEN_HA">17.788</SimpleData>
+		<SimpleData name="SKOG_HA">11.969</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.111-1284-71, RrT 107</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.471623468355,59.7961523225782 14.4723703215577,59.7974138561462 14.4731171607921,59.7986753131893 14.477687429231,59.800787285039 14.4869032045251,59.7992913401483 14.4878955368798,59.79129371005 14.4879559427795,59.7909816123773 14.4880200201959,59.7903321336819 14.4879101542227,59.7893017222536 14.488086129008,59.788842788806 14.4883546603619,59.7883876993042 14.4886150969333,59.7880187292974 14.4893698146028,59.7880495255148 14.4900253632554,59.7880297991123 14.4905033953462,59.7879557370444 14.490776785703,59.7877052376425 14.4911151475138,59.7873759584676 14.4902697831809,59.787165459847 14.4888326223382,59.7870143389342 14.4876297819518,59.786928464045 14.4866543110541,59.786897047805 14.4859128471264,59.7869595871578 14.4848357121054,59.7871037538308 14.4838296187832,59.7872624503342 14.4793801920769,59.7870489401044 14.4797498880402,59.7896629491902 14.471623451247,59.7961522776108 14.471623468355,59.7961523225782</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000123_Q18334751_Vitärtskällan" id="2000123_Q18334751_Vitärtskällan">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000123_Q18334751_Vitärtskällan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000123_Q18334751_Vitärtskällan">
+		<SimpleData name="NVRID">2000123</SimpleData>
+		<SimpleData name="NAMN">Vitärtskällan</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1996/02/13</SimpleData>
+		<SimpleData name="URSGALLDAT">1996/03/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1996/03/23</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">13.73</SimpleData>
+		<SimpleData name="LAND_HA">13.73</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">6.945</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">231-1249-89</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8098492602291,57.8510370184604 18.8103810261506,57.8513800394135 18.8107542170322,57.8519235310726 18.8113382406451,57.8525928933843 18.8123212361716,57.8534401327537 18.8130959631651,57.8545893688251 18.8133947302886,57.8546609571321 18.8137402559065,57.8547634961739 18.8139319966568,57.854830643189 18.81397181032,57.8548452332437 18.8140364551703,57.854738651819 18.814160357869,57.8545483709894 18.8143346259375,57.854395253284 18.8147183146222,57.8541274831784 18.8148721567066,57.8539977983415 18.8150113339899,57.8538221795335 18.8151764479488,57.8536255323002 18.8157421993248,57.8530681474224 18.8159531453287,57.8529078002025 18.8162186520508,57.8527568866643 18.8166877122542,57.8525698044707 18.8168290874493,57.8524823901206 18.8168921964215,57.8523945363832 18.8169638166238,57.8520640668307 18.8169553578057,57.8518564243314 18.8169137619751,57.8516796745893 18.8168539578819,57.8515357595961 18.8168215381542,57.8514577056375 18.8167417966126,57.8512908257818 18.8166433150853,57.8510395369488 18.8166048651033,57.8506036997405 18.8158558073563,57.8507198224486 18.8156139011907,57.8502473226419 18.8126170796061,57.8504559806135 18.8125420022143,57.8497557882428 18.8107152081776,57.8498676936844 18.8102014972216,57.850759858811 18.8098492602291,57.8510370184604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

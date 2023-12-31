@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000133_Q28528531_Hällholmen_nature_reserve" id="2000133_Q28528531_Hällholmen_nature_reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000133_Q28528531_Hällholmen_nature_reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000133_Q28528531_Hällholmen_nature_reserve">
+		<SimpleData name="NVRID">2000133</SimpleData>
+		<SimpleData name="NAMN">Hällholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1916/05/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1916/05/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1916/05/22</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">5.78</SimpleData>
+		<SimpleData name="LAND_HA">5.78</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">3.593</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-337-86   I 8</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.4452154092265,57.7247594768317 18.4441074712544,57.7246452110649 18.4435034887072,57.7247963500969 18.4431945471773,57.7250902361058 18.443222727372,57.7256656194635 18.4431534988627,57.7259403866258 18.4436757437086,57.7264053805648 18.4444319938082,57.7266556447968 18.4444674697493,57.7270070286448 18.444957554004,57.727225666 18.4448495434636,57.7278963060401 18.4448912171471,57.7282029155011 18.4454061212366,57.7284686813889 18.4460924236133,57.7286068553325 18.4470132440009,57.7285377493518 18.4473042927243,57.728420588599 18.4470796298554,57.7278563749412 18.4465831534234,57.7273868715709 18.4461229306564,57.7265924625398 18.4461984005543,57.7258363637318 18.4461597285397,57.7254512039174 18.4457152448618,57.7250752189003 18.4452154092265,57.7247594768317</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

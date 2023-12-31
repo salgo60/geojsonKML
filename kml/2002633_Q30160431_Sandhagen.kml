@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002633_Q30160431_Sandhagen" id="2002633_Q30160431_Sandhagen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002633_Q30160431_Sandhagen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002633_Q30160431_Sandhagen">
+		<SimpleData name="NVRID">2002633</SimpleData>
+		<SimpleData name="NAMN">Sandhagen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/02/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/04/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/04/19</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Håbo</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">23.28</SimpleData>
+		<SimpleData name="LAND_HA">15.11</SimpleData>
+		<SimpleData name="VATTEN_HA">8.167</SimpleData>
+		<SimpleData name="SKOG_HA">15.089</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-9460-97</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6171250278162,59.7286830233021 17.6165029333943,59.7276473209838 17.615374007517,59.727723118855 17.6139878118297,59.7276845392645 17.612554182922,59.7275699750005 17.6115357864585,59.7274445575957 17.6104321675846,59.727231847206 17.6088482543324,59.7269588295284 17.60760666388,59.7266771164904 17.606996828802,59.726536397391 17.606200105565,59.7264493648518 17.6053559589396,59.72647804189 17.6056528765402,59.7268413640928 17.6065349142153,59.7279205753107 17.6070955325936,59.7286064926652 17.6075927094393,59.7292147506056 17.6080595187283,59.729785831487 17.6085207187246,59.7303500236203 17.6089728397065,59.730901169946 17.613783672251,59.7317930676903 17.6176793975041,59.7295986872198 17.6171250278162,59.7286830233021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

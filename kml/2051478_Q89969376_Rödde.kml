@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2051478_Q89969376_Rödde" id="2051478_Q89969376_Rödde">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2051478_Q89969376_Rödde</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2051478_Q89969376_Rödde">
+		<SimpleData name="NVRID">2051478</SimpleData>
+		<SimpleData name="NAMN">Rödde</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/11/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/12/20</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/12/20</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Krokom</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">36.42</SimpleData>
+		<SimpleData name="LAND_HA">36.41</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">34.397</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-3191-2019</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.8637319526649,63.385482993154 13.8635442079349,63.3851282370053 13.8665195968701,63.385175072031 13.8670973359678,63.384960653722 13.8669013723506,63.3844241120255 13.8671944048505,63.3837977680296 13.8676199780109,63.3833709122966 13.867914654199,63.3831091069757 13.8684672492726,63.3828352883839 13.8694731941546,63.3823253029748 13.8702090798737,63.3817164779602 13.8713683737423,63.3817310468617 13.8721374536558,63.3816020985017 13.8739190115902,63.3817782144276 13.8739290486759,63.3814877367614 13.874731926159,63.3810841560343 13.8745972397953,63.3805287830964 13.8750079333419,63.3799443616551 13.8749817600423,63.3794841375708 13.8713936161029,63.3784919274491 13.8713146302256,63.3789406340306 13.8707171855161,63.3793886977213 13.8708365513947,63.3797998286234 13.8707886290359,63.3800084253419 13.8659998876941,63.3794624858528 13.8649025929982,63.3803653030407 13.8638626693433,63.3807931712521 13.8623899745602,63.3815160599014 13.8618170407638,63.3820824497466 13.8608714865935,63.3817623811924 13.8594536324909,63.3814603468171 13.8593180736125,63.3812716866462 13.8569583287171,63.3812422744319 13.8569840451024,63.3813074745004 13.8587205612309,63.3857078738523 13.8588530148396,63.3860417030641 13.8611533966612,63.3861309619685 13.8639234103975,63.3864906548982 13.8639443483824,63.3856596667362 13.8637319526649,63.385482993154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014759_Q19978673_Stockanäs" id="2014759_Q19978673_Stockanäs">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014759_Q19978673_Stockanäs</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014759_Q19978673_Stockanäs">
+		<SimpleData name="NVRID">2014759</SimpleData>
+		<SimpleData name="NAMN">Stockanäs</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/06/22</SimpleData>
+		<SimpleData name="URSGALLDAT">2009/08/25</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/08/25</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Älmhult</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kronobergs län</SimpleData>
+		<SimpleData name="AREA_HA">16.6</SimpleData>
+		<SimpleData name="LAND_HA">16.6</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">16.488</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4288-08</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.1659965630435,56.6038992150587 14.1672073065765,56.6048078530278 14.167786130937,56.6060926276869 14.1678875203815,56.6062838835811 14.1678901004202,56.6062947180921 14.1681894513188,56.606222256758 14.168187903675,56.6062052119284 14.1682224757715,56.605996024925 14.1682220408705,56.605876466177 14.1682331529068,56.6057911344475 14.1683888002828,56.6055883001241 14.1684010250642,56.6055939072583 14.1687121565695,56.6054357310751 14.1706548210928,56.6057049043874 14.1713823486671,56.6062552952284 14.1714803535056,56.6064167152447 14.1714965586558,56.6064176407355 14.173139968368,56.6052507324561 14.1735383580643,56.604968015971 14.1776449188475,56.6023973969936 14.1767346819491,56.6017870664614 14.1760994469926,56.6019223716408 14.1757773337056,56.6019802271589 14.1755017183943,56.6020757113263 14.175308989447,56.602126597565 14.1735131298265,56.6024419385726 14.1720381630822,56.6026866606579 14.1715409695389,56.6027925836811 14.1709746263981,56.6029022127553 14.1694241654376,56.603155466191 14.16872818558,56.6032552441324 14.1659965630435,56.6038992150587</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

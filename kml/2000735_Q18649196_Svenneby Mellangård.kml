@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000735_Q18649196_Svenneby_Mellangård" id="2000735_Q18649196_Svenneby_Mellangård">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000735_Q18649196_Svenneby_Mellangård</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000735_Q18649196_Svenneby_Mellangård">
+		<SimpleData name="NVRID">2000735</SimpleData>
+		<SimpleData name="NAMN">Svenneby Mellangård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1973/03/26</SimpleData>
+		<SimpleData name="URSGALLDAT">1973/04/16</SimpleData>
+		<SimpleData name="SENGALLDAT">1973/04/16</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Tanum</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Västkuststiftelsen</SimpleData>
+		<SimpleData name="AREA_HA">3.39</SimpleData>
+		<SimpleData name="LAND_HA">2.31</SimpleData>
+		<SimpleData name="VATTEN_HA">1.078</SimpleData>
+		<SimpleData name="SKOG_HA">0.071</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-1007-73 1435-220</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.3110986671051,58.4816724550311 11.3110993365832,58.4816726181393 11.3110997378938,58.4816727195894 11.3111480305327,58.4814300717852 11.3111671720915,58.4813338652383 11.3111669962587,58.4813339051262 11.3111617810784,58.4813350225745 11.3107351790843,58.4814266826523 11.3104538745143,58.4812014077564 11.3105032315058,58.481133292399 11.3105365340695,58.4810873062717 11.3106007699373,58.4810694229108 11.3110589631027,58.4809418234154 11.3110872702303,58.4809339450892 11.3111024688915,58.4809584034156 11.3111384648759,58.4810182510357 11.3112024752577,58.4811304257404 11.3112062722662,58.4811370976108 11.3112063017895,58.4811371434098 11.3112560729825,58.4808869327435 11.3112827619294,58.4807528175657 11.3113680687665,58.4803240758717 11.3113679442766,58.4803241172376 11.3113625795559,58.4803256798785 11.3112278276504,58.4803650602084 11.310862126753,58.4804725156248 11.3104555758248,58.4803655371182 11.3104998013063,58.4803114689842 11.3108461040592,58.4798989975493 11.3109090696485,58.4798240100535 11.3109731371495,58.4797476788076 11.3116131636579,58.4797816990325 11.311836988428,58.4799545606517 11.3121154674406,58.479736858472 11.310322584701,58.4792605523043 11.3077981257407,58.4798801231901 11.3080763411795,58.4809214944087 11.3081697483214,58.4809450507783 11.3081698320027,58.4809450711688 11.3084679458024,58.4810191140338 11.3087661283891,58.4810931671527 11.3087660826974,58.4810931118976 11.3087625687151,58.4810893068678 11.3087443972938,58.4810696351025 11.3087252152021,58.4810489633201 11.3086289035941,58.4809417451515 11.3087146287057,58.4808607797027 11.3090621097979,58.4807948689354 11.3090621934794,58.4807948893253 11.3094954249063,58.4808993592967 11.3094955085883,58.4808993796863 11.3096291948665,58.4809323206285 11.3093465367599,58.4812373236418 11.3093466204425,58.4812373440314 11.3110986671051,58.4816724550311</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002121_Q30182716_Fänstjärnsskogen" id="2002121_Q30182716_Fänstjärnsskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002121_Q30182716_Fänstjärnsskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002121_Q30182716_Fänstjärnsskogen">
+		<SimpleData name="NVRID">2002121</SimpleData>
+		<SimpleData name="NAMN">Fänstjärnsskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1980/09/29</SimpleData>
+		<SimpleData name="URSGALLDAT">1981/11/12</SimpleData>
+		<SimpleData name="SENGALLDAT">1981/11/12</SimpleData>
+		<SimpleData name="LAN">Värmlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Torsby</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Värmlands län</SimpleData>
+		<SimpleData name="AREA_HA">92.56</SimpleData>
+		<SimpleData name="LAND_HA">91.82</SimpleData>
+		<SimpleData name="VATTEN_HA">0.74</SimpleData>
+		<SimpleData name="SKOG_HA">70.687</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.1211-152-79, Rr 57</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.3469715452118,60.4499045407814 13.3459711386275,60.4504283600995 13.3449551051666,60.4509603120803 13.344198945224,60.451356214269 13.3434512105993,60.4517476728378 13.3434716999431,60.4517576713923 13.3443527495351,60.4521876870627 13.3444203215089,60.452220667802 13.351567948878,60.4557712448577 13.3558746535858,60.4579099898249 13.3558757889537,60.4579105516398 13.3561277312319,60.4580356591326 13.3556941152361,60.4587742322906 13.36789108213,60.4650241983751 13.3678912315995,60.4650241193802 13.368992459588,60.4644092292423 13.3699520768614,60.4638733966307 13.3709029815255,60.4633423901512 13.3721383007853,60.4626525275406 13.3735438375829,60.46186755257 13.3748943602034,60.461113270517 13.3734393900986,60.460479798093 13.3714975192699,60.4596342691813 13.3704186962417,60.4591645002361 13.3695788483441,60.4587987745442 13.3686798847462,60.458407300335 13.367022031121,60.4576852934218 13.3661827572583,60.4573197771673 13.3519200078072,60.4511073724059 13.3483057779283,60.4495325816067 13.3480885474457,60.4494381890067 13.3480872489961,60.4494376251 13.3479654983118,60.4493847293381 13.3479648761129,60.4493844522094 13.3479648048091,60.4493844243839 13.3469715452118,60.4499045407814</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

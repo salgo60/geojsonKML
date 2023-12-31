@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2050258_Q89313205_Hörröds_utmark" id="2050258_Q89313205_Hörröds_utmark">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2050258_Q89313205_Hörröds_utmark</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2050258_Q89313205_Hörröds_utmark">
+		<SimpleData name="NVRID">2050258</SimpleData>
+		<SimpleData name="NAMN">Hörröds utmark</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/11/15</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/12/15</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/12/15</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristianstad</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Sveaskog AB</SimpleData>
+		<SimpleData name="AREA_HA">6.03</SimpleData>
+		<SimpleData name="LAND_HA">6.03</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.989</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-24302-2018</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.0503986871407,55.7785647284434 14.0499089610924,55.778510405365 14.0499053227155,55.7785208258453 14.0494415260309,55.7776866038427 14.0496377536068,55.7767024776491 14.0497937055801,55.7758406589562 14.0491350549048,55.7756929176977 14.0490133967171,55.7757603885637 14.0487069468666,55.7758272453652 14.0484032507116,55.7760349722152 14.0483439234412,55.7760639502042 14.0481133757081,55.7762039591404 14.0478848018255,55.7763080597912 14.0477344218265,55.7764403869829 14.0475635565122,55.7766622409353 14.047492384103,55.7768048689884 14.0474034105399,55.7769831923469 14.0472230496522,55.7770790741126 14.0469493619904,55.7771284947772 14.0470219498863,55.777446635576 14.0470518035185,55.7776155246034 14.0470318606546,55.7777272171539 14.0470128393409,55.777833742862 14.0470070017751,55.7778664362066 14.0469062582169,55.7779636535394 14.0470399720946,55.7781545764968 14.0470256504173,55.7781984631894 14.0470319259713,55.7781995011646 14.0470992859855,55.7783129172725 14.0471020095952,55.7783750989409 14.0471086266017,55.7784516564983 14.0471330243169,55.7784948791447 14.0471184922695,55.7785688816722 14.0470867028252,55.7786547041429 14.0470801277215,55.7787502846605 14.0470994103506,55.7788293305909 14.0471185164702,55.7789155475547 14.0471464563654,55.778987488171 14.0471447648266,55.7790568080163 14.047104667871,55.7791353936912 14.0470658541179,55.7791613913586 14.0470056306818,55.7792251535929 14.047883770345,55.7794177509884 14.0485228993375,55.7794106933583 14.0485381310901,55.7794104796702 14.0489697412835,55.7793906190648 14.0493558766038,55.7793251325441 14.04944175324,55.779306568027 14.0497429391952,55.7792416023624 14.0500923379906,55.779222015287 14.0501216175798,55.7792203715907 14.0503986871407,55.7785647284434</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

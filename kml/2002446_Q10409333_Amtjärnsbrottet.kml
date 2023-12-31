@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002446_Q10409333_Amtjärnsbrottet" id="2002446_Q10409333_Amtjärnsbrottet">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002446_Q10409333_Amtjärnsbrottet</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002446_Q10409333_Amtjärnsbrottet">
+		<SimpleData name="NVRID">2002446</SimpleData>
+		<SimpleData name="NAMN">Amtjärnsbrottet</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/06/05</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/06/28</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/06/28</SimpleData>
+		<SimpleData name="LAN">Dalarnas Län</SimpleData>
+		<SimpleData name="KOMMUN">Rättvik</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Rättviks kommun</SimpleData>
+		<SimpleData name="AREA_HA">3.28</SimpleData>
+		<SimpleData name="LAND_HA">3.28</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">2.913</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">Rättviks Kommun 471-01</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0774222423585,60.9381379538301 15.0773497870711,60.9376934680114 15.0788616267831,60.9368814565936 15.0788423716854,60.9368479170924 15.0788010307778,60.9367777602843 15.0787743407295,60.9367148491181 15.0787461678632,60.9366267914452 15.0787108717759,60.9365234663553 15.078694965709,60.9364785317972 15.0786714720161,60.9364470237727 15.078682719988,60.9364363333881 15.0787416291439,60.9363803840077 15.0775810676191,60.9364303824372 15.0774052173674,60.9364379532801 15.0773980002035,60.9364293924179 15.076519164926,60.935387423298 15.0765190359368,60.9353874951953 15.0765151110562,60.9353897149899 15.0754948678619,60.9359687249846 15.0755949500535,60.9364196246502 15.0759297966445,60.9379281704889 15.0761778680322,60.9381623650757 15.0761760882961,60.938166648585 15.0760902954067,60.9383739630299 15.0761705822163,60.9383877707068 15.0762632497739,60.9384009249127 15.0765628482468,60.9384423949259 15.076720216185,60.9384641668203 15.0774222423585,60.9381379538301</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

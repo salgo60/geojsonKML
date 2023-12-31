@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000275_Q30160767_Murstensdalen" id="2000275_Q30160767_Murstensdalen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000275_Q30160767_Murstensdalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000275_Q30160767_Murstensdalen">
+		<SimpleData name="NVRID">2000275</SimpleData>
+		<SimpleData name="NAMN">Murstensdalen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/06/14</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/06/14</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/06/14</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Hällefors</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">762.18</SimpleData>
+		<SimpleData name="LAND_HA">683.11</SimpleData>
+		<SimpleData name="VATTEN_HA">79.052</SimpleData>
+		<SimpleData name="SKOG_HA">571.005</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-03071-2001 / 5112-</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5461938886939,59.5182069762637 14.5449137320412,59.518280072581 14.5429990421726,59.5221835687826 14.5416257642796,59.5221886432217 14.5399666279314,59.5269219917249 14.539217448533,59.5275917642903 14.5341276475178,59.5296117216564 14.5256030358423,59.5329938235453 14.5253378521367,59.5355819728916 14.5194134026464,59.5350129642541 14.5179744400086,59.5360163033271 14.5132882645455,59.5346718244945 14.5111189151287,59.5383497568533 14.5149894468107,59.5394326033931 14.5140283935682,59.541794114801 14.5069691167049,59.5437190900916 14.5077928928302,59.5476640273938 14.5105998093264,59.5484704252964 14.5089910983895,59.5520299627885 14.5106408178685,59.5538727006985 14.5151959958045,59.5538496412042 14.5175768320613,59.5554824110525 14.5177171834844,59.5554686498686 14.5179600075577,59.5554844778766 14.5183454624343,59.5555325925687 14.5190005491065,59.5556075504475 14.5194893621956,59.5556693857506 14.5199362006504,59.5557145959594 14.5204603549363,59.5558045569261 14.5210422354954,59.5559248190337 14.521311465254,59.5559989369508 14.5216247538243,59.5560889752368 14.5218625925714,59.5561736186478 14.5221601021714,59.5562462126927 14.5224187795179,59.5562937448533 14.5225093663648,59.5563123136711 14.5239461505358,59.5528124618264 14.5258264236327,59.5510382313195 14.5266244252674,59.5512177293891 14.5283811619955,59.5562464085416 14.536874682828,59.5583994314513 14.5427173284014,59.5545398740557 14.5493639685664,59.5547146278557 14.5558813963961,59.5554865215465 14.55604370467,59.5566194325673 14.5605137940402,59.5569843917728 14.5642896294668,59.5516785331849 14.5616558758772,59.5469261588292 14.5582241215418,59.5449965180723 14.5579386847305,59.5435057602839 14.5577123442914,59.542634086334 14.5580612871525,59.5425855245655 14.5582405518167,59.5373760898027 14.5523029406293,59.5329910697085 14.5527376367583,59.529208798018 14.5486421884037,59.5293634357205 14.5458248598104,59.5262354829234 14.5477088410607,59.5188421105489 14.5461939771717,59.5182069675906 14.5461938886939,59.5182069762637</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

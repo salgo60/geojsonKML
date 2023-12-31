@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002610_Q30175487_Stigsbo_Rödmosse" id="2002610_Q30175487_Stigsbo_Rödmosse">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002610_Q30175487_Stigsbo_Rödmosse</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002610_Q30175487_Stigsbo_Rödmosse">
+		<SimpleData name="NVRID">2002610</SimpleData>
+		<SimpleData name="NAMN">Stigsbo Rödmosse</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1958/07/23</SimpleData>
+		<SimpleData name="URSGALLDAT">1958/07/23</SimpleData>
+		<SimpleData name="SENGALLDAT">1958/07/23</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Uppsala</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">43.13</SimpleData>
+		<SimpleData name="LAND_HA">43.12</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">26.61</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">III Ö-75-57    C 22</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.2317900655584,60.0083602340014 17.2317900314775,60.0083552042882 17.23175502214,60.0083872712091 17.2248529695039,60.0107648934491 17.2264006537352,60.012683605028 17.2277493532621,60.0141195161778 17.2285362756796,60.0150774161209 17.234234220721,60.016228128034 17.2359874293169,60.0165821253757 17.2359880613979,60.016580857102 17.2362865510401,60.0159685573388 17.2362206519357,60.0156359132804 17.2364790579097,60.0155254434514 17.2366450112988,60.0153864738524 17.2367540486555,60.0152124834143 17.2368909159068,60.0150475341552 17.2372358790627,60.0150295284496 17.2376268517883,60.0150434212654 17.238173036488,60.0149973732081 17.2382777758453,60.0147655339695 17.238243835894,60.0144615786382 17.2381183983769,60.0140404858759 17.2379605344888,60.0137944309047 17.2376358785788,60.0136386032809 17.237213367754,60.0135212705389 17.2368400338802,60.0133717181108 17.2366712381341,60.0133030389971 17.2367495314367,60.0131383092583 17.2367681286541,60.0129100949835 17.2366890773973,60.0123979126206 17.2366022569193,60.0120354501841 17.2364721474278,60.0116592048167 17.2363908709237,60.0114249478388 17.2363085319334,60.0111542301871 17.2361550347129,60.0109073357994 17.2361947663308,60.0106867762395 17.2362029187206,60.0105323069362 17.2362582747313,60.0104296497899 17.2363538174584,60.0100356507978 17.236465011931,60.009820258562 17.2364968778994,60.0096322954306 17.2364459289287,60.0093784366645 17.2359864517495,60.0090802587227 17.2354834906161,60.0088462869445 17.2349415353861,60.0085812195578 17.2343794726542,60.0083118102961 17.2337722915818,60.0084700721202 17.2332968937587,60.0084672170511 17.232848932037,60.0084232228658 17.2322278840181,60.0083812728675 17.2317900655584,60.0083602340014</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

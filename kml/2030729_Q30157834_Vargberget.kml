@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2030729_Q30157834_Vargberget" id="2030729_Q30157834_Vargberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2030729_Q30157834_Vargberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2030729_Q30157834_Vargberget">
+		<SimpleData name="NVRID">2030729</SimpleData>
+		<SimpleData name="NAMN">Vargberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2013/03/04</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/03/27</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/03/27</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Skinnskatteberg</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">37.34</SimpleData>
+		<SimpleData name="LAND_HA">31.34</SimpleData>
+		<SimpleData name="VATTEN_HA">5.996</SimpleData>
+		<SimpleData name="SKOG_HA">31.154</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-4162-12</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.6304525341752,59.9323923883531 15.6349128593487,59.9309218895052 15.6398240114884,59.9291436187758 15.6390694106322,59.9285589131755 15.6389623016306,59.9285877718224 15.6388544743453,59.9285969594739 15.638761087953,59.9285821284101 15.6387351710811,59.928529399768 15.6387402534948,59.9284866679981 15.6387809015217,59.9284206593824 15.6388582377006,59.9283814029938 15.63884304992,59.9283730805933 15.6380524923365,59.9277754779948 15.6380606132913,59.927679455355 15.6381972204177,59.926064192372 15.6414581088833,59.9245273833578 15.6423210244348,59.922102818295 15.6390545175866,59.9215328457891 15.6335338591142,59.9227031017445 15.6329891930531,59.9237267470046 15.6373301258173,59.922960773462 15.6378173136532,59.9236016301678 15.6372990793771,59.9247288805006 15.6359425833454,59.9255630636312 15.6356767726979,59.926135297394 15.6342561002006,59.9264980716692 15.6295541631353,59.9285380432875 15.629435232627,59.9289094426468 15.6292331210203,59.9295441891679 15.6292110599891,59.9296631487656 15.6292310583623,59.9299407214233 15.6292424371555,59.9300408708077 15.6292815445954,59.9302155086116 15.6293348766417,59.9303457820327 15.6293556315399,59.9304091240741 15.6293573253089,59.9304768223819 15.6293522918467,59.9305350703 15.6293195814301,59.9306198234307 15.6292728315074,59.9307067537415 15.6292262871263,59.9307724282772 15.629096080522,59.9309542671712 15.6289872015039,59.9311258213346 15.6289510133538,59.9312783512008 15.6292576663441,59.931321185184 15.6297351426265,59.9312531218092 15.6305459670401,59.9312666419322 15.630661709578,59.9312685669857 15.6304631826586,59.9316410211291 15.6303735805244,59.9320503456136 15.6303862954964,59.9322876522777 15.6304525341752,59.9323923883531</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

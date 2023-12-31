@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000428_Q30177202_Hideviken" id="2000428_Q30177202_Hideviken">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000428_Q30177202_Hideviken</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000428_Q30177202_Hideviken">
+		<SimpleData name="NVRID">2000428</SimpleData>
+		<SimpleData name="NAMN">Hideviken</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1931/09/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1931/09/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1931/09/22</SimpleData>
+		<SimpleData name="LAN">Gotlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Gotland</SimpleData>
+		<SimpleData name="IUCNKAT">III, Naturmonument (Natural Monument)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gotlands län</SimpleData>
+		<SimpleData name="AREA_HA">2.39</SimpleData>
+		<SimpleData name="LAND_HA">2.39</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0.368</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">38/27,30,31 BD     RrI24</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8689805651841,57.726365748981 18.8681127107719,57.7261158000466 18.8687006998438,57.7287481204228 18.8692228233729,57.7287316478634 18.8695870925015,57.7286598422218 18.8698725067126,57.7285575905853 18.8700277401752,57.7284853253328 18.8701130622558,57.728351358429 18.8701539658186,57.7282237147352 18.8701553142675,57.7281624465271 18.8701109988928,57.7279606619188 18.8701058872863,57.7279220659617 18.8700752566661,57.7277811452905 18.8700057547316,57.727611816578 18.8699822885223,57.7275060195488 18.8700126466534,57.7272850122322 18.8699990933012,57.727096276723 18.8698884333494,57.726829086712 18.8697702068927,57.7266861995582 18.8697380453613,57.7266583378274 18.8695265054599,57.7265739219508 18.869265063675,57.7264695909494 18.8689805651841,57.726365748981</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

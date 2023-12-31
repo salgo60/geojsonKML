@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2014809_Q30162902_Näverheden" id="2014809_Q30162902_Näverheden">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2014809_Q30162902_Näverheden</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2014809_Q30162902_Näverheden">
+		<SimpleData name="NVRID">2014809</SimpleData>
+		<SimpleData name="NAMN">Näverheden</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2009/12/01</SimpleData>
+		<SimpleData name="URSGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2010/01/01</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Ljusdal</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Gävleborgs län</SimpleData>
+		<SimpleData name="AREA_HA">138.34</SimpleData>
+		<SimpleData name="LAND_HA">138.08</SimpleData>
+		<SimpleData name="VATTEN_HA">0.26</SimpleData>
+		<SimpleData name="SKOG_HA">128.451</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-1806-09</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.6017793046199,61.7616573552671 14.602527637513,61.7631614684002 14.6039730909613,61.7631924790265 14.6058879015597,61.7619232373342 14.6126467465918,61.7631641060963 14.6198748697169,61.763389430574 14.624084364426,61.7621528893617 14.628169467935,61.7627177365734 14.6299112524251,61.7614279703298 14.6298108909828,61.7601279021148 14.6332147380925,61.760264281217 14.6342260426938,61.763056644203 14.6373281334644,61.7631151024645 14.639219581366,61.7611519987048 14.6394301373115,61.7586965631249 14.6375106711343,61.7553183004535 14.6349002228497,61.755244609082 14.6309150900331,61.7572387109387 14.628508885119,61.7567211216479 14.6268658807953,61.7564042643262 14.6257943296719,61.7569048937517 14.6232631255583,61.7568663781857 14.6227572517044,61.7562595162435 14.6191745129257,61.7561004854819 14.6188294740475,61.7552094478764 14.6163113847812,61.7553875183818 14.6121255784396,61.75415641178 14.6061713841114,61.7541097564556 14.6058681198943,61.758812771295 14.6045909254377,61.7602498992467 14.6017793046199,61.7616573552671</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

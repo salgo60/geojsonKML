@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002631_Q10418328_Arnöhuvud_Nature_Reserve" id="2002631_Q10418328_Arnöhuvud_Nature_Reserve">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002631_Q10418328_Arnöhuvud_Nature_Reserve</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002631_Q10418328_Arnöhuvud_Nature_Reserve">
+		<SimpleData name="NVRID">2002631</SimpleData>
+		<SimpleData name="NAMN">Arnöhuvud</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1977/10/21</SimpleData>
+		<SimpleData name="URSGALLDAT">1977/10/21</SimpleData>
+		<SimpleData name="SENGALLDAT">1977/10/21</SimpleData>
+		<SimpleData name="LAN">Uppsala Län</SimpleData>
+		<SimpleData name="KOMMUN">Håbo</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Uppsala län</SimpleData>
+		<SimpleData name="AREA_HA">244.86</SimpleData>
+		<SimpleData name="LAND_HA">84.52</SimpleData>
+		<SimpleData name="VATTEN_HA">160.331</SimpleData>
+		<SimpleData name="SKOG_HA">72.949</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">11.121-2135-74   RrC70</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.5642874536684,59.7278952147877 17.5642526185136,59.7278575871292 17.5626144197273,59.7264130342946 17.5624483635582,59.7262665921221 17.5613865817016,59.7253538686091 17.5613831912964,59.725350943067 17.5613140117953,59.7252914797024 17.5612073764637,59.7251998114957 17.5612012101182,59.7251945503469 17.5611787500847,59.7251753583606 17.5610227483879,59.7250420507045 17.5610223868714,59.725041743315 17.5590419740176,59.723349450157 17.5588630863724,59.7232088060566 17.5588630303435,59.7232087712125 17.5420075631258,59.7155787669059 17.5420038424791,59.7155770780972 17.5420035112532,59.7155769317838 17.542003460701,59.7155769686988 17.5364515198226,59.7203871859027 17.5358852645718,59.7257778698704 17.538571104503,59.7332868821752 17.5385844796453,59.7332865696861 17.5477423771427,59.7335857351398 17.5610038059172,59.7339179135286 17.5612682014405,59.7339268254898 17.5652067124299,59.7340595394854 17.5697279553582,59.7353500545322 17.5697279320795,59.7353499831153 17.5697270396326,59.7353467034263 17.5690277097174,59.7328056592878 17.5682245799548,59.7308541018615 17.5662608501847,59.7289392816592 17.5642874536684,59.7278952147877</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

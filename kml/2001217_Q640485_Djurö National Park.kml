@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001217_Q640485_Djurö_National_Park" id="2001217_Q640485_Djurö_National_Park">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001217_Q640485_Djurö_National_Park</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001217_Q640485_Djurö_National_Park">
+		<SimpleData name="NVRID">2001217</SimpleData>
+		<SimpleData name="NAMN">Djurö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Nationalpark</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1991/02/07</SimpleData>
+		<SimpleData name="URSGALLDAT">1991/02/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1991/02/07</SimpleData>
+		<SimpleData name="LAN">Västra Götalands Län</SimpleData>
+		<SimpleData name="KOMMUN">Mariestad</SimpleData>
+		<SimpleData name="IUCNKAT">II, Nationalpark (National Park)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västra Götalands län</SimpleData>
+		<SimpleData name="AREA_HA">2323.29</SimpleData>
+		<SimpleData name="LAND_HA">316.11</SimpleData>
+		<SimpleData name="VATTEN_HA">2007.162</SimpleData>
+		<SimpleData name="SKOG_HA">226.66</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Riksdag/Regering</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.4084794552881,58.8247829550573 13.4053139318661,58.8312712678807 13.4645178220668,58.8750555130676 13.4687358801647,58.8763582751715 13.4881708224734,58.875538978896 13.4943096850098,58.871252153587 13.5142776792973,58.8546549837962 13.5096432876338,58.8354708455944 13.4678368675335,58.8258720809874 13.4092482008994,58.8232070909402 13.4092481143476,58.8232070898736 13.4084794552881,58.8247829550573</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

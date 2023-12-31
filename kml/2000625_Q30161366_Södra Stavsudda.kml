@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000625_Q30161366_Södra_Stavsudda" id="2000625_Q30161366_Södra_Stavsudda">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000625_Q30161366_Södra_Stavsudda</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000625_Q30161366_Södra_Stavsudda">
+		<SimpleData name="NVRID">2000625</SimpleData>
+		<SimpleData name="NAMN">Södra Stavsudda</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/11/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1970/12/13</SimpleData>
+		<SimpleData name="SENGALLDAT">1970/12/13</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Värmdö</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">2.73</SimpleData>
+		<SimpleData name="LAND_HA">2.27</SimpleData>
+		<SimpleData name="VATTEN_HA">0.459</SimpleData>
+		<SimpleData name="SKOG_HA">0.775</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">22R-11-78-70   0120-02-023</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8235571891042,59.3975887428071 18.8235571664807,59.3975886985221 18.8233766162698,59.3975461605228 18.8227484433717,59.398101713981 18.8227554397726,59.3984096231326 18.8231238950729,59.3986382939172 18.8233809377167,59.3988731805609 18.8234839916259,59.3990414571405 18.8235502819108,59.3991926258582 18.8234820912777,59.399256682385 18.8234339381843,59.399301928889 18.8231609682238,59.3995583763089 18.8238670435176,59.399939595646 18.8249749831509,59.3990059550722 18.8250160892546,59.3989467109451 18.8250291126074,59.3989279267397 18.8258479910083,59.3977473701183 18.8259548168096,59.3975933683026 18.825954743496,59.3975933434854 18.8250727813809,59.3973608102412 18.8245120421607,59.3978739579199 18.8235572636616,59.39758909122 18.8235571891042,59.3975887428071</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

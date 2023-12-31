@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2029790_Q30170570_Östra_Bosjöklosterhalvön" id="2029790_Q30170570_Östra_Bosjöklosterhalvön">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2029790_Q30170570_Östra_Bosjöklosterhalvön</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2029790_Q30170570_Östra_Bosjöklosterhalvön">
+		<SimpleData name="NVRID">2029790</SimpleData>
+		<SimpleData name="NAMN">Östra Bosjöklosterhalvön</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/02/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/03/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/03/09</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Höör</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">135.68</SimpleData>
+		<SimpleData name="LAND_HA">37.89</SimpleData>
+		<SimpleData name="VATTEN_HA">97.782</SimpleData>
+		<SimpleData name="SKOG_HA">1.757</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-16233-2011 / 511-2694-2012</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.5478347173095,55.8926308836236 13.5497747955894,55.8902480726816 13.5296170822214,55.8903864374591 13.5236226185364,55.890512403035 13.5236894783682,55.8909684102761 13.5241001913085,55.8940496548713 13.5241314189964,55.8944423759039 13.5241221203578,55.8946961426874 13.5241052906717,55.8948037035054 13.5240648283167,55.8950130822708 13.5240557721819,55.8950721658336 13.5240065612868,55.8953325082947 13.5239285472546,55.8955759887793 13.5237981200242,55.8958696757546 13.5236994038644,55.8960572742929 13.5235150574279,55.8963969348624 13.5234374218975,55.8965507372657 13.5227914535616,55.8977636745788 13.5217964240512,55.8995791128034 13.5223852220201,55.8996743347472 13.5221978769947,55.9000264661481 13.5247145897956,55.9003380936984 13.5250430454003,55.899516988053 13.5269212280939,55.8991369808269 13.5279778651138,55.8989213593963 13.5289641907121,55.8987232118004 13.5289995895252,55.8987176139659 13.5300039194457,55.8987269576443 13.5428747326142,55.8986420737679 13.5478347173095,55.8926308836236</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

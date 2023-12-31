@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049979_Q90080386_Mellgårdsbackarnas_naturreservat" id="2049979_Q90080386_Mellgårdsbackarnas_naturreservat">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049979_Q90080386_Mellgårdsbackarnas_naturreservat</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049979_Q90080386_Mellgårdsbackarnas_naturreservat">
+		<SimpleData name="NVRID">2049979</SimpleData>
+		<SimpleData name="NAMN">Mellgårdsbackarna</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2019/06/24</SimpleData>
+		<SimpleData name="URSGALLDAT">2019/07/19</SimpleData>
+		<SimpleData name="SENGALLDAT">2019/07/19</SimpleData>
+		<SimpleData name="LAN">Jämtlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Bräcke</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Jämtlands län</SimpleData>
+		<SimpleData name="AREA_HA">13.15</SimpleData>
+		<SimpleData name="LAND_HA">13.15</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">12.975</SimpleData>
+		<SimpleData name="GEOSTATUS">Delvis inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2454-2019</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.2938171954963,62.8660293393803 15.2918191871215,62.8650749753929 15.2908712124239,62.8657078063987 15.2892628919458,62.8659976145983 15.2886050631694,62.8664939630223 15.2882157799705,62.8666101757116 15.2878242228611,62.8670023443799 15.288663404483,62.8671377475333 15.2886332664178,62.8675511768889 15.2883129142912,62.8679961027641 15.2866003743587,62.8681043031984 15.285609804166,62.8684001271714 15.2854844270871,62.8684964846969 15.2846164100249,62.8691635743147 15.289421318849,62.8697978930939 15.2900920275936,62.8698876789254 15.2909100592416,62.8699969010993 15.2920668891327,62.8701513501778 15.2928582607458,62.8702563717707 15.2931270636334,62.8702919333181 15.292283330795,62.868254855142 15.2928649450037,62.8671905907148 15.2929453336759,62.8670370239041 15.2932760790912,62.8664051853969 15.2938171954963,62.8660293393803</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002649_Q30159044_Marsjö_sjömarker" id="2002649_Q30159044_Marsjö_sjömarker">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002649_Q30159044_Marsjö_sjömarker</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002649_Q30159044_Marsjö_sjömarker">
+		<SimpleData name="NVRID">2002649</SimpleData>
+		<SimpleData name="NAMN">Marsjö sjömarker</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2001/03/19</SimpleData>
+		<SimpleData name="URSGALLDAT">2001/04/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2001/04/10</SimpleData>
+		<SimpleData name="LAN">Kalmar Län</SimpleData>
+		<SimpleData name="KOMMUN">Borgholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Kalmar län</SimpleData>
+		<SimpleData name="AREA_HA">140.75</SimpleData>
+		<SimpleData name="LAND_HA">122.56</SimpleData>
+		<SimpleData name="VATTEN_HA">18.182</SimpleData>
+		<SimpleData name="SKOG_HA">4.073</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">231-1654-00</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.9192240606946,57.0326588714804 16.9170783934352,57.0275254980925 16.9191401786877,57.0259381321067 16.9178036259888,57.0261419812263 16.9177681008097,57.0261473955769 16.9175871924388,57.0261760000633 16.916597770543,57.0263323945374 16.9136491210131,57.027043749114 16.9096213639626,57.0280152559034 16.9058756790087,57.0288948997695 16.9058755976024,57.0288949189797 16.9039273147625,57.0287445568487 16.9039039063047,57.0287714289472 16.9023383993531,57.0305690017457 16.9010770331661,57.0301936365581 16.9001882874963,57.0295035671194 16.8991963298525,57.0301343290429 16.8969244799138,57.0301008051059 16.8964529512953,57.0313717249586 16.8860133153275,57.0309325275558 16.8853725717107,57.0309055444065 16.8829397336984,57.0334356189627 16.8886761871659,57.0339062073584 16.8886933728949,57.0345501763792 16.8886948650899,57.0346062139552 16.8942752462775,57.0351241167644 16.897843469599,57.0354493941913 16.898193004768,57.0354812505008 16.9119166203048,57.0367312735817 16.9119167031088,57.0367312813028 16.9137050142845,57.0369006449991 16.9154932922549,57.0370699927802 16.9154933745982,57.0370699915205 16.919123524492,57.0327785358668 16.9192240606946,57.0326588714804</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

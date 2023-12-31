@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2002351_Q20164931_Hensjönäset" id="2002351_Q20164931_Hensjönäset">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2002351_Q20164931_Hensjönäset</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2002351_Q20164931_Hensjönäset">
+		<SimpleData name="NVRID">2002351</SimpleData>
+		<SimpleData name="NAMN">Hensjönäset</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1970/12/15</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/01/07</SimpleData>
+		<SimpleData name="SENGALLDAT">1998/07/20</SimpleData>
+		<SimpleData name="LAN">Kronobergs Län</SimpleData>
+		<SimpleData name="KOMMUN">Tingsryd</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Tingsryds kommun</SimpleData>
+		<SimpleData name="AREA_HA">107.83</SimpleData>
+		<SimpleData name="LAND_HA">39.21</SimpleData>
+		<SimpleData name="VATTEN_HA">68.619</SimpleData>
+		<SimpleData name="SKOG_HA">31.229</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.121-3257-74 / 511-3076-06</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.0834565483733,56.4770639868487 15.0822965282603,56.4771153333198 15.0815682919447,56.4771428743247 15.0808079661625,56.477173810021 15.0800414412266,56.4772064880019 15.0778264885187,56.4772485764852 15.0662157236454,56.4871151741838 15.0770340669485,56.488551013277 15.0771972916361,56.4885843692264 15.077212335546,56.4885874414678 15.0774573815642,56.4886401341628 15.0774848478836,56.4886507903014 15.0775848643848,56.4886895756954 15.077726347167,56.4887713875144 15.0778128466314,56.4888308718713 15.0780781898899,56.4888971617368 15.0782138357001,56.488919438154 15.0783040609412,56.4889580943691 15.0783665078368,56.4890318335091 15.0784245179837,56.4890487321759 15.0785252096384,56.4890360277449 15.0787207013472,56.4891535076144 15.0787577691342,56.4892362199175 15.0788249924748,56.4892946017418 15.078935319684,56.4893311873491 15.0790029840692,56.4893984092809 15.0790403089145,56.4894090767724 15.0791424527188,56.4893602812555 15.0791829243411,56.4892677987231 15.0793938420426,56.4892351501498 15.0796928019486,56.4892680206788 15.0799430572047,56.4893383950791 15.0800945791339,56.489394943055 15.0801230641424,56.4894722429904 15.0801840913135,56.4895406544779 15.0802744577267,56.4895983737093 15.0805917066092,56.4896998608043 15.0807862488498,56.4897327514835 15.0809305085581,56.4897331696771 15.080945368139,56.4897332139 15.0832360106526,56.489944527532 15.0869896765369,56.4774068360576 15.0834566295455,56.4770639867942 15.0834565483733,56.4770639868487</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

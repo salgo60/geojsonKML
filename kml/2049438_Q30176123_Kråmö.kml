@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2049438_Q30176123_Kråmö" id="2049438_Q30176123_Kråmö">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2049438_Q30176123_Kråmö</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2049438_Q30176123_Kråmö">
+		<SimpleData name="NVRID">2049438</SimpleData>
+		<SimpleData name="NAMN">Kråmö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2018/04/25</SimpleData>
+		<SimpleData name="URSGALLDAT">2018/06/18</SimpleData>
+		<SimpleData name="SENGALLDAT">2018/06/18</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Trosa</SimpleData>
+		<SimpleData name="IUCNKAT">V, Skyddat landskap/havsområde (Protected Landscape/Seascape)</SimpleData>
+		<SimpleData name="FORVALTARE">Trosa kommun</SimpleData>
+		<SimpleData name="AREA_HA">246.77</SimpleData>
+		<SimpleData name="LAND_HA">36.33</SimpleData>
+		<SimpleData name="VATTEN_HA">210.438</SimpleData>
+		<SimpleData name="SKOG_HA">19.873</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">KS 2015/28</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Kommun</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.6521307028482,58.8599825733044 17.6612379143973,58.8425524856778 17.6614083774923,58.8422213915271 17.6400133460537,58.8401533149417 17.6379555969424,58.8463225087549 17.6345255276001,58.851258314272 17.6302193975614,58.8574527071183 17.6521307028482,58.8599825733044</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>17.640476044366,58.844276354059 17.640815161396,58.844160209614 17.6410542296576,58.8442956509788 17.6411772946875,58.8441809704636 17.6419995125188,58.8443949789683 17.6422652642542,58.8441879381317 17.6426973809822,58.8440448402567 17.6430928373762,58.8442152790203 17.6423206542176,58.8448024431535 17.6423123622307,58.8456069483777 17.6427721187525,58.8459730425546 17.6433387381405,58.8464254496145 17.6437827943217,58.8465830910443 17.6436007092108,58.8468098496455 17.6401172109007,58.8466101938461 17.6400394265617,58.8465464058381 17.6397318965045,58.8464801798342 17.6397364315633,58.8464012663195 17.6404356274681,58.8462877431377 17.6404731144945,58.8462416949772 17.6406372724624,58.8461748083907 17.6407969948531,58.8461636690455 17.6411518258234,58.8459530177226 17.6413282792646,58.845774554407 17.6403302170189,58.8453326103521 17.6404502259979,58.8449617477645 17.6409901869865,58.8446164757705 17.640476044366,58.844276354059</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

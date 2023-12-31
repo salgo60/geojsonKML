@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001295_Q30162553_Jan_Olsskogen" id="2001295_Q30162553_Jan_Olsskogen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001295_Q30162553_Jan_Olsskogen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001295_Q30162553_Jan_Olsskogen">
+		<SimpleData name="NVRID">2001295</SimpleData>
+		<SimpleData name="NAMN">Jan-Olsskogen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/11/20</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/12/17</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/12/17</SimpleData>
+		<SimpleData name="LAN">Västmanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Surahammar</SimpleData>
+		<SimpleData name="IUCNKAT">0, Områden som ej kan klassificeras enligt IUCN: s system.</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Västmanlands län</SimpleData>
+		<SimpleData name="AREA_HA">180.33</SimpleData>
+		<SimpleData name="LAND_HA">180.32</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">169.301</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5123-02</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.2402629817194,59.7728780359024 16.2390646722921,59.7743159311661 16.236837400398,59.7737989820424 16.2334544490359,59.7725583374655 16.2286095009163,59.7743423713713 16.2267955170634,59.7753962709745 16.2264020578567,59.7755553505798 16.2256224627801,59.775734481355 16.224218030107,59.7756738347469 16.2229203537213,59.7770635404092 16.2240363251161,59.7774398241042 16.2433856814874,59.7837771699333 16.2452192253663,59.7838409874018 16.2467099239146,59.7838322786884 16.2480248719365,59.7838041705885 16.2606444322458,59.783204206846 16.264213162025,59.7830131985198 16.2660180643737,59.7828385473169 16.2673525311078,59.7826636552055 16.2685846881546,59.7815428260519 16.2700104219298,59.780816260663 16.2662685113385,59.7806809521289 16.2636128753473,59.7796605682505 16.2604050645427,59.7789396493358 16.2566946420351,59.7788363048662 16.2547682235414,59.777644005705 16.2517373985941,59.7774026307364 16.250433016482,59.7755827522046 16.2483076367672,59.7752156048801 16.249720611122,59.7731879537001 16.249721675624,59.7731864168751 16.2446933533146,59.7721331467061 16.2421746601974,59.7715884050198 16.2421745705227,59.7715883879058 16.2402629817194,59.7728780359024</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

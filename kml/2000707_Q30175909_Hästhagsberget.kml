@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000707_Q30175909_Hästhagsberget" id="2000707_Q30175909_Hästhagsberget">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000707_Q30175909_Hästhagsberget</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000707_Q30175909_Hästhagsberget">
+		<SimpleData name="NVRID">2000707</SimpleData>
+		<SimpleData name="NAMN">Hästhagsberget</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2000/11/01</SimpleData>
+		<SimpleData name="URSGALLDAT">2000/12/01</SimpleData>
+		<SimpleData name="SENGALLDAT">2000/12/01</SimpleData>
+		<SimpleData name="LAN">Gävleborgs Län</SimpleData>
+		<SimpleData name="KOMMUN">Bollnäs</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Bollnäs kommun</SimpleData>
+		<SimpleData name="AREA_HA">28.01</SimpleData>
+		<SimpleData name="LAND_HA">28.01</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">27.86</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">231-492-99, 83-210</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.6272841889782,61.1248461205514 16.6279660291878,61.1249410733369 16.6363852828056,61.1262492880326 16.6381924495711,61.1265349654898 16.6400511052361,61.126823972722 16.6416366417379,61.1270823985542 16.6450485866189,61.1275390199665 16.6478953234578,61.1279602030457 16.6459270553131,61.1270946123344 16.6431478689081,61.1259550804001 16.642003293566,61.1254666025962 16.640053647848,61.1246055876404 16.6380387554478,61.1237534622779 16.6381456311996,61.1236931172621 16.6371860959229,61.1231997632453 16.6366261762185,61.1228825619184 16.6363701705642,61.1230359260132 16.6345816661168,61.1222825534981 16.6317471591517,61.1210942804236 16.6309872713761,61.1217015839677 16.629132936034,61.1232488282745 16.6272841889782,61.1248461205514</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

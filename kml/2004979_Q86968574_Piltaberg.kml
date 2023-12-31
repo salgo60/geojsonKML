@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004979_Q86968574_Piltaberg" id="2004979_Q86968574_Piltaberg">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004979_Q86968574_Piltaberg</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004979_Q86968574_Piltaberg">
+		<SimpleData name="NVRID">2004979</SimpleData>
+		<SimpleData name="NAMN">Piltaberg</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1997/04/08</SimpleData>
+		<SimpleData name="URSGALLDAT">1997/10/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1997/10/22</SimpleData>
+		<SimpleData name="LAN">Hallands Län</SimpleData>
+		<SimpleData name="KOMMUN">Laholm</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Hallands län</SimpleData>
+		<SimpleData name="AREA_HA">1.27</SimpleData>
+		<SimpleData name="LAND_HA">1.27</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">Lst dnr 231-943-90</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>13.0898018655001,56.5796015317621 13.0898069792934,56.5796034434833 13.0900453634553,56.579690604091 13.0903036328801,56.579785114726 13.0906543138806,56.5799204478226 13.0910476162092,56.5800943734207 13.0911119612674,56.5801460965847 13.0911099134429,56.5802590827821 13.091068584413,56.5803334728527 13.0910228712639,56.5804221553181 13.0909827216298,56.5804821857782 13.0909186049807,56.5805560911353 13.0909423051686,56.5806301946103 13.0909947744527,56.5806998154297 13.09109772079,56.5807435675348 13.0912345931387,56.58074287415 13.0913367742638,56.5806997281338 13.0914269023976,56.5806356572058 13.0915609845059,56.5805765921491 13.091730104872,56.5805101120507 13.0918776556793,56.5804748777096 13.0921714741069,56.5804295407855 13.092306392982,56.5803848564794 13.0924774928147,56.5803582319428 13.0926171779914,56.5803165319084 13.0927463227082,56.5802642731708 13.0928478606479,56.5802302818436 13.0928526198941,56.5801994697791 13.0928542945861,56.5801891704914 13.0928675318843,56.5800979943567 13.0928208238768,56.5800286963538 13.0927797286372,56.5799255441023 13.0927776671655,56.5798232511878 13.0928213039893,56.5797614764522 13.0928751347182,56.5797375006421 13.0927335843174,56.5795767165358 13.0927070692693,56.5795794639037 13.0926608418034,56.5796341627787 13.0925220609798,56.5797982577952 13.0922189203692,56.5798257768981 13.0918877077079,56.5798365188255 13.0917142212506,56.5798497975567 13.0916297015458,56.5798245884323 13.0915891808294,56.5797769873872 13.0915041457706,56.5797364849825 13.0913621972909,56.5797181131719 13.0912349777814,56.5796533476499 13.0911816116633,56.5795811880621 13.0911299869517,56.5794848197864 13.0909615123389,56.5794038657212 13.0907915656225,56.5793453449761 13.0906349363899,56.5793275466471 13.0904906776859,56.5793414701871 13.0903159664546,56.5793942488323 13.0901243817847,56.5794781204103 13.0898014154978,56.5796004465213 13.0898018655001,56.5796015317621</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

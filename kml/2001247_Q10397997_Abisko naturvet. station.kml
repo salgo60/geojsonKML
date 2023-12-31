@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001247_Q10397997_Abisko_naturvet._station" id="2001247_Q10397997_Abisko_naturvet._station">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001247_Q10397997_Abisko_naturvet._station</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001247_Q10397997_Abisko_naturvet._station">
+		<SimpleData name="NVRID">2001247</SimpleData>
+		<SimpleData name="NAMN">Abisko naturvet. station</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1982/10/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1983/05/10</SimpleData>
+		<SimpleData name="SENGALLDAT">1983/05/10</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Kiruna</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">55.13</SimpleData>
+		<SimpleData name="LAND_HA">42.3</SimpleData>
+		<SimpleData name="VATTEN_HA">12.826</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">11.1299-917-76</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.8051193097736,68.3553798254179 18.805749737446,68.3555603480491 18.8145368185101,68.3573944172491 18.8183169766926,68.3581093151478 18.8339424451077,68.3578358352208 18.8371587280845,68.3553307839375 18.8365543222474,68.3551832763864 18.8363253257224,68.3551273766387 18.8340386192202,68.3545617839954 18.8320365024789,68.354061740877 18.8299397033481,68.3537483549333 18.8270556456807,68.3531553311586 18.8258413554432,68.3528650696321 18.8243020439556,68.3525658346049 18.8227244381354,68.3522918095921 18.8222192018025,68.3523205891582 18.8195926868096,68.3525242478618 18.8133527510146,68.3532564347375 18.8109798131792,68.3539027581471 18.808580954142,68.354542405696 18.8065755599713,68.35510325907 18.8051193097736,68.3553798254179</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

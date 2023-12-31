@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000453_Q19365579_Holje" id="2000453_Q19365579_Holje">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000453_Q19365579_Holje</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000453_Q19365579_Holje">
+		<SimpleData name="NVRID">2000453</SimpleData>
+		<SimpleData name="NAMN">Holje</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2002/11/11</SimpleData>
+		<SimpleData name="URSGALLDAT">2002/12/16</SimpleData>
+		<SimpleData name="SENGALLDAT">2002/12/16</SimpleData>
+		<SimpleData name="LAN">Blekinge Län</SimpleData>
+		<SimpleData name="KOMMUN">Olofström</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Blekinge län</SimpleData>
+		<SimpleData name="AREA_HA">15.31</SimpleData>
+		<SimpleData name="LAND_HA">15.31</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">15.142</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-3840-01</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.5170299677897,56.3015233221762 14.5174103841394,56.3014549045015 14.5175542720005,56.3014743057755 14.5175543530237,56.3014742881218 14.5185949784163,56.3011432912308 14.5191114385753,56.3012061502569 14.5197513582203,56.3012011308365 14.5202732750664,56.3011975648698 14.5210509730596,56.3011913921462 14.5210486703542,56.3011015998919 14.5218135826824,56.3010955077146 14.52317663532,56.3010846349398 14.5232830051485,56.3007532781619 14.5234749401038,56.3003387114563 14.5232399352282,56.2996283901336 14.5228772022129,56.2989867489517 14.5225679400684,56.2985844385945 14.5222949790304,56.2983063092096 14.5221909689367,56.2980612206592 14.5218039585693,56.2974201652772 14.521459477964,56.2968821738904 14.521302438701,56.296657068085 14.5210807665397,56.2965006512418 14.5200891515168,56.2968858025832 14.5198360340208,56.2968947495862 14.5195032869549,56.2969592086936 14.5178719878168,56.2978084219729 14.5178031350926,56.2980253573857 14.5178958418639,56.2983984995563 14.5176399050051,56.2988369503236 14.5174489466594,56.2992375678679 14.5172173884133,56.2994885136565 14.5171343274341,56.2999217970271 14.5169725209881,56.3003625629314 14.5168691084416,56.300789567315 14.5167482853121,56.3010529924456 14.5167596574962,56.3014349014004 14.5170299677897,56.3015233221762</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

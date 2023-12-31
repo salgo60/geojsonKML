@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001213_Q1568129_Ängsö_National_Park" id="2001213_Q1568129_Ängsö_National_Park">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001213_Q1568129_Ängsö_National_Park</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001213_Q1568129_Ängsö_National_Park">
+		<SimpleData name="NVRID">2001213</SimpleData>
+		<SimpleData name="NAMN">Ängsö</SimpleData>
+		<SimpleData name="SKYDDSTYP">Nationalpark</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1909/05/24</SimpleData>
+		<SimpleData name="URSGALLDAT">1909/05/24</SimpleData>
+		<SimpleData name="SENGALLDAT">1909/05/24</SimpleData>
+		<SimpleData name="LAN">Stockholms Län</SimpleData>
+		<SimpleData name="KOMMUN">Norrtälje</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Stockholms län</SimpleData>
+		<SimpleData name="AREA_HA">194.9</SimpleData>
+		<SimpleData name="LAND_HA">79.13</SimpleData>
+		<SimpleData name="VATTEN_HA">115.761</SimpleData>
+		<SimpleData name="SKOG_HA">68.6</SimpleData>
+		<SimpleData name="GEOSTATUS">Justerad mot fastighetskarta</SimpleData>
+		<SimpleData name="DIARIENR">xxxxxx</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Riksdag/Regering</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>18.7626759859434,59.6149305290075 18.7575455656443,59.6182249912631 18.7525522189701,59.6193187895975 18.7520277321908,59.6218486350612 18.7520059385519,59.6219537951529 18.7544517790044,59.6229225414386 18.7544915358799,59.624668240128 18.7561027732474,59.6259626236287 18.7534389011065,59.6293999772199 18.7537410630349,59.6297466674346 18.7569824710443,59.6328327491644 18.7707599791229,59.6312749096494 18.7782681917971,59.6267560683781 18.7739035658385,59.6237337659051 18.7708067791268,59.621586190239 18.7708794064683,59.6214233245893 18.7718152194768,59.6193246086524 18.7743597593097,59.6193029209988 18.7707862573504,59.6149132022024 18.7626760349839,59.6149304916407 18.7626759859434,59.6149305290075</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2004008_Q86968512_Lövholmen" id="2004008_Q86968512_Lövholmen">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="string"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2004008_Q86968512_Lövholmen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2004008_Q86968512_Lövholmen">
+		<SimpleData name="NVRID">2004008</SimpleData>
+		<SimpleData name="NAMN">Lövholmen</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturminne</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1951/02/22</SimpleData>
+		<SimpleData name="URSGALLDAT">1951/02/22</SimpleData>
+		<SimpleData name="SENGALLDAT">1951/02/22</SimpleData>
+		<SimpleData name="LAN">Örebro Län</SimpleData>
+		<SimpleData name="KOMMUN">Örebro</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Örebro län</SimpleData>
+		<SimpleData name="AREA_HA">0.72</SimpleData>
+		<SimpleData name="LAND_HA">0.72</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">0</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">E 50/12-2, RrT 78</SimpleData>
+		<SimpleData name="LAGRUM">Lag om naturminnesmärken från 1909</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>15.4034798009571,59.1819433803743 15.4035139947615,59.1822004218033 15.4035449516743,59.1823639144441 15.4035939545644,59.1823927064561 15.4036779532499,59.1824035634934 15.4038600339445,59.1823894014689 15.4040527233662,59.1823697101506 15.4042804285545,59.1823412434722 15.4044940872485,59.182341360124 15.4046411483468,59.182350520554 15.4047636753188,59.1823847409568 15.4048580473821,59.1824189681094 15.4049876585856,59.1824011422144 15.4051455001259,59.1823275670827 15.405299751014,59.1822522786965 15.405356079527,59.1821858359645 15.4054089417231,59.1820941508556 15.4054161632495,59.1820079873917 15.4053987714666,59.1819504856153 15.4053079362874,59.1819089915837 15.4051258010342,59.1819034885217 15.4049262019845,59.1818979408198 15.404768820086,59.1818474486766 15.4046990688219,59.181779090761 15.4047026833676,59.1817162699009 15.4046923968863,59.1816839092664 15.404587439127,59.1816406715792 15.4044857799283,59.181660376839 15.4043212536484,59.1816656124183 15.4041602012316,59.1816582912325 15.4039254237639,59.1816742608734 15.4036871665174,59.1817171644295 15.4034979613204,59.1817708894675 15.4034592293957,59.1818266169286 15.4034798009571,59.1819433803743</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

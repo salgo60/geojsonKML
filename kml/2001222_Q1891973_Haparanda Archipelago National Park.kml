@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2001222_Q1891973_Haparanda_Archipelago_National_Park" id="2001222_Q1891973_Haparanda_Archipelago_National_Park">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2001222_Q1891973_Haparanda_Archipelago_National_Park</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2001222_Q1891973_Haparanda_Archipelago_National_Park">
+		<SimpleData name="NVRID">2001222</SimpleData>
+		<SimpleData name="NAMN">Haparanda Skärgård</SimpleData>
+		<SimpleData name="SKYDDSTYP">Nationalpark</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1994/12/01</SimpleData>
+		<SimpleData name="URSGALLDAT">1995/01/01</SimpleData>
+		<SimpleData name="SENGALLDAT">1995/01/01</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Haparanda</SimpleData>
+		<SimpleData name="IUCNKAT">II, Nationalpark (National Park)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">7430.46</SimpleData>
+		<SimpleData name="LAND_HA">742.69</SimpleData>
+		<SimpleData name="VATTEN_HA">6687.732</SimpleData>
+		<SimpleData name="SKOG_HA">326.11</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">SFS 1994:1460</SimpleData>
+		<SimpleData name="LAGRUM">Naturvårdslagen</SimpleData>
+		<SimpleData name="BESLMYND">Riksdag/Regering</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.6760405751049,65.559128176679 23.7332553658733,65.6655199948056 23.7954987085846,65.6654716166358 23.8014055408974,65.6621269446399 23.8071401955564,65.6536503702807 23.8113578949155,65.6507419340268 23.8159965844597,65.6477749610687 23.8269847119227,65.6429323126921 23.8558747094717,65.6329576290188 23.8460988608543,65.6087203196442 23.8460002075514,65.6084766469426 23.8386513486872,65.5902315489198 23.8385634677568,65.5900134731357 23.8228440437704,65.5508791594068 23.6760405751049,65.559128176679</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

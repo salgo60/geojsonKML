@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2029809_Q30209527_Vramsåns_mynning" id="2029809_Q30209527_Vramsåns_mynning">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2029809_Q30209527_Vramsåns_mynning</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2029809_Q30209527_Vramsåns_mynning">
+		<SimpleData name="NVRID">2029809</SimpleData>
+		<SimpleData name="NAMN">Vramsåns mynning</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/02/09</SimpleData>
+		<SimpleData name="URSGALLDAT">2012/03/09</SimpleData>
+		<SimpleData name="SENGALLDAT">2012/03/09</SimpleData>
+		<SimpleData name="LAN">Skåne Län</SimpleData>
+		<SimpleData name="KOMMUN">Kristianstad</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Skåne län</SimpleData>
+		<SimpleData name="AREA_HA">101.85</SimpleData>
+		<SimpleData name="LAND_HA">96.83</SimpleData>
+		<SimpleData name="VATTEN_HA">5.008</SimpleData>
+		<SimpleData name="SKOG_HA">6.157</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-2695-2012 / 511-19447-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>14.2137602663744,55.9327959781812 14.2143994721128,55.9325645044735 14.2146705946316,55.9331357068978 14.2149093507784,55.9336582264148 14.2148516267817,55.9304258522671 14.2148418519043,55.9298786893296 14.2147084783859,55.9297219791918 14.2124116519924,55.9270231913352 14.2122643702901,55.9268501080101 14.2118348962797,55.9263454384545 14.2110287608987,55.9254030863344 14.2105359207566,55.9248193122977 14.210609423156,55.9249461356055 14.2107926811765,55.925188575953 14.2109294164498,55.9254563353257 14.2111193742821,55.9257796324834 14.2113275525645,55.9261728263446 14.211428327157,55.9263581567228 14.2053667449932,55.9264572855123 14.1918857909977,55.9266118026974 14.19119160939,55.9284597726909 14.1908829095739,55.9292814446086 14.1905088993266,55.9302771107905 14.2006459197863,55.9318208531797 14.2008939311381,55.9319728232129 14.2015224882908,55.9325595366897 14.2050826940621,55.9358798361439 14.2137602663744,55.9327959781812</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

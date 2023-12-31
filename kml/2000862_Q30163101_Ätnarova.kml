@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2000862_Q30163101_Ätnarova" id="2000862_Q30163101_Ätnarova">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="string"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2000862_Q30163101_Ätnarova</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2000862_Q30163101_Ätnarova">
+		<SimpleData name="NVRID">2000862</SimpleData>
+		<SimpleData name="NAMN">Ätnarova</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">1971/05/03</SimpleData>
+		<SimpleData name="URSGALLDAT">1971/05/03</SimpleData>
+		<SimpleData name="SENGALLDAT">2009/10/06</SimpleData>
+		<SimpleData name="LAN">Norrbottens Län</SimpleData>
+		<SimpleData name="KOMMUN">Gällivare</SimpleData>
+		<SimpleData name="IUCNKAT">Ia, Strikt naturreservat (Strict Nature Reserve)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Norrbottens län</SimpleData>
+		<SimpleData name="AREA_HA">75.1</SimpleData>
+		<SimpleData name="LAND_HA">75.09</SimpleData>
+		<SimpleData name="VATTEN_HA">0</SimpleData>
+		<SimpleData name="SKOG_HA">59.589</SimpleData>
+		<SimpleData name="GEOSTATUS">Ospecificerad</SimpleData>
+		<SimpleData name="DIARIENR">511-17243-07</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>21.010234022155,66.9937738254064 21.0141209874615,66.9960361590076 21.015909976139,66.9969035473828 21.0169806558836,66.9974849349946 21.0188261995304,66.9985944117541 21.0205595459081,66.9995470416463 21.0228144509473,67.0007931499515 21.0273360793388,67.0028873299522 21.0328129818794,67.0061776862443 21.0406528488994,67.0048803508573 21.0403635126453,67.0046473387247 21.0393254767632,67.0040208656283 21.0380101410863,67.0032758297878 21.036958816772,67.0025823387633 21.0364316025562,67.0020573785326 21.0355781239051,67.0016649937009 21.0345457464523,67.0009019700674 21.0332374663344,66.9999602599114 21.0316063466444,66.9989039777596 21.0298314668743,66.9972769928726 21.0291047665902,66.9964655503886 21.0279659973353,66.995913661364 21.0267457454841,66.9949291063008 21.0264011117129,66.9945350604259 21.0259097220912,66.994287414748 21.0248164930058,66.9933584093097 21.0240550725116,66.9929126627988 21.0228405393642,66.9918661223009 21.0221564477049,66.9918695207858 21.0215272568882,66.9920077164518 21.0198052779394,66.9924648416971 21.0185336918006,66.9926915802989 21.0173225977698,66.9930378763174 21.0163842902186,66.9932424440095 21.0147018078132,66.9936900486491 21.0131190197602,66.9936917447175 21.0121223390382,66.9935558975699 21.0116716473864,66.9935634991296 21.010234022155,66.9937738254064</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

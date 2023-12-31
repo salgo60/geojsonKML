@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2013488_Q30164494_Eknäset" id="2013488_Q30164494_Eknäset">
+	<SimpleField name="NVRID" type="string"></SimpleField>
+	<SimpleField name="NAMN" type="string"></SimpleField>
+	<SimpleField name="SKYDDSTYP" type="string"></SimpleField>
+	<SimpleField name="BESLSTATUS" type="string"></SimpleField>
+	<SimpleField name="URSBESLDAT" type="string"></SimpleField>
+	<SimpleField name="URSGALLDAT" type="string"></SimpleField>
+	<SimpleField name="SENGALLDAT" type="string"></SimpleField>
+	<SimpleField name="LAN" type="string"></SimpleField>
+	<SimpleField name="KOMMUN" type="string"></SimpleField>
+	<SimpleField name="IUCNKAT" type="string"></SimpleField>
+	<SimpleField name="FORVALTARE" type="string"></SimpleField>
+	<SimpleField name="AREA_HA" type="float"></SimpleField>
+	<SimpleField name="LAND_HA" type="float"></SimpleField>
+	<SimpleField name="VATTEN_HA" type="float"></SimpleField>
+	<SimpleField name="SKOG_HA" type="float"></SimpleField>
+	<SimpleField name="GEOSTATUS" type="string"></SimpleField>
+	<SimpleField name="DIARIENR" type="string"></SimpleField>
+	<SimpleField name="LAGRUM" type="string"></SimpleField>
+	<SimpleField name="BESLMYND" type="string"></SimpleField>
+</Schema>
+<Folder><name>2013488_Q30164494_Eknäset</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2013488_Q30164494_Eknäset">
+		<SimpleData name="NVRID">2013488</SimpleData>
+		<SimpleData name="NAMN">Eknäset</SimpleData>
+		<SimpleData name="SKYDDSTYP">Naturreservat</SimpleData>
+		<SimpleData name="BESLSTATUS">Gällande</SimpleData>
+		<SimpleData name="URSBESLDAT">2012/12/17</SimpleData>
+		<SimpleData name="URSGALLDAT">2013/01/10</SimpleData>
+		<SimpleData name="SENGALLDAT">2013/01/10</SimpleData>
+		<SimpleData name="LAN">Södermanlands Län</SimpleData>
+		<SimpleData name="KOMMUN">Katrineholm</SimpleData>
+		<SimpleData name="IUCNKAT">IV, Habitat/Artskyddsområde (Habitat/Species Management Area)</SimpleData>
+		<SimpleData name="FORVALTARE">Länsstyrelsen i Södermanlands län</SimpleData>
+		<SimpleData name="AREA_HA">92.65</SimpleData>
+		<SimpleData name="LAND_HA">85.06</SimpleData>
+		<SimpleData name="VATTEN_HA">7.584</SimpleData>
+		<SimpleData name="SKOG_HA">84.879</SimpleData>
+		<SimpleData name="GEOSTATUS">Slutligt inmätt</SimpleData>
+		<SimpleData name="DIARIENR">511-5580-2011</SimpleData>
+		<SimpleData name="LAGRUM">Miljöbalken</SimpleData>
+		<SimpleData name="BESLMYND">Länsstyrelse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>16.2361388164992,58.9080503662775 16.2375231172925,58.9084749859887 16.2377187260402,58.909132167732 16.2380215693992,58.909517504851 16.2388090258743,58.9101023818106 16.2397637698533,58.9106060002277 16.2386226106419,58.9112361642994 16.2389466368273,58.9120760602869 16.2389877165116,58.912419820344 16.2395293549085,58.9127416553498 16.2399093495921,58.9129162913061 16.2404224886622,58.9130428093259 16.2408894333744,58.9129831188497 16.2409423555818,58.9131922001598 16.2404797184376,58.9134738334066 16.240203472786,58.9137325255777 16.2404829304622,58.9140526133876 16.2407206797365,58.9143566102708 16.2482409557627,58.9120794095475 16.255309128924,58.9090052580646 16.2551533213094,58.9084585227548 16.2548509548011,58.9080434812925 16.253943049682,58.9077519469948 16.2533400889829,58.9076861630011 16.2523616426564,58.9073425873935 16.253948008136,58.9071125400296 16.2543791496712,58.9069482311833 16.2565650851286,58.9056100982445 16.2569817108859,58.9054087998346 16.2591775406676,58.9050967663874 16.2596769407625,58.9049481126546 16.2591927322643,58.9046907223867 16.2583582198796,58.9047424441491 16.2576010431733,58.9045777286943 16.2566660122706,58.9039058294916 16.2586292118567,58.903385334689 16.2573627965139,58.9028940562447 16.2559905789432,58.9032049957769 16.2540809232697,58.903614859276 16.2531636650817,58.9031881541273 16.2511475560858,58.9035271425892 16.2503055402292,58.9035873998131 16.2494791984515,58.9038097648299 16.2480092329896,58.9040399281534 16.2469762281676,58.9042933994311 16.2461174942835,58.9045939899001 16.2453621003757,58.9045513739361 16.2447769506568,58.9043860495071 16.2442400027609,58.9040137229001 16.2433307173147,58.9039585733731 16.242739584755,58.9040346194157 16.2412217287353,58.9040654650079 16.2405523416139,58.9042027623152 16.2395696239178,58.9046836486071 16.2389434122336,58.9050455704592 16.2376002549359,58.9053560975889 16.2370398918504,58.9058127120474 16.2366156424394,58.9060648999805 16.2371304071035,58.9064664272411 16.2372200971166,58.9068264469352 16.2372442126706,58.9073990633431 16.2366809947312,58.9076611944135 16.2361388164992,58.9080503662775</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
