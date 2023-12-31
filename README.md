@@ -1,10 +1,11 @@
 # geojsonKML
 Python code to convert geojson to KML that can be used on iNaturlist for nature reservate see converted files [salgo60/geojson/kml](https://github.com/salgo60/geojsonKML/tree/main/kml) 
-* format of files are    wikidata Qnummer _ name in english from wikidata .kml
+* format of files are  Naturvårdsregistret ID _ wikidata Qnummer _ name in english from wikidata .kml
 * exemple created  files
-   * [Q10510107_Grössjön.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/Q10510107_Gr%C3%B6ssj%C3%B6n.kml)
-   * [Q10532258_Högemon.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/Q10532258_H%C3%B6gemon.kml)
-   * [Q10593846_Nabbens naturreservat.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/Q10593846_Nabbens%20naturreservat.kml)
+   * [2000588_Q18292056_Lunnelid, Råda.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/2000588_Q18292056_Lunnelid%2C%20R%C3%A5da.kml)
+   * [2000001_Q30159379_Stommens ekäng.kml
+](https://github.com/salgo60/geojsonKML/blob/main/kml/2000001_Q30159379_Stommens%20ek%C3%A4ng.kml) 
+   * [2000154_Q10481121_Eldgarnsö Nature Reserve.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/2000154_Q10481121_Eldgarns%C3%B6%20Nature%20Reserve.kml) 
    * ...
 
 Exemple how a swedish nature reserve is represented  
@@ -26,6 +27,7 @@ Exemple how a swedish nature reserve is represented
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH)
 * Wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613) but missing geoshape [P3896](https://www.wikidata.org/wiki/Property:P3896) - [sparql](https://w.wiki/8giM) = 61
+* Wikidata has duplicates fir iNaturalist Place id [query sweden](https://w.wiki/8gmR)
 
 # iNaturalist
 * discussion iNatForum
