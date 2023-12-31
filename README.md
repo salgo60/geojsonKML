@@ -19,3 +19,9 @@ Exempel hur ett naturreservat finns i olika informationsmängder
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH) 
+
+## check iNaturlist for swedish nature reserves
+see if some nature reserves already exists  
+* [Notebook](https://github.com/salgo60/geojsonKML/blob/main/notebook/Find%20iNaturalist%20places.ipynb) 
+
+<img width="938" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/1b3d9065-1fc0-4bbe-91b8-00e36b7875ee">
