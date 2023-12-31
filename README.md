@@ -27,7 +27,13 @@ Exemple how a swedish nature reserve is represented
    * [same with Raw geojson link](https://w.wiki/8gBH) 
 
 # iNaturalist
-* discussion iNatForum [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220/3)
+* discussion iNatForum
+   * [All swedish nature reserves as places available](https://forum.inaturalist.org/t/all-swedish-nature-reserves-as-places-available/47854/1) 
+
+<img width="1030" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/8bd8b64e-45d7-4ea2-bb4f-b493201d465f">
+
+   * [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220/3)
+   * [Use Wikidata for place names and Wikipedia descriptions](https://forum.inaturalist.org/t/use-wikidata-for-place-names-and-wikipedia-descriptions/7702/1)
 ## Check iNaturalist for swedish nature reserves
  
 * [Notebook](https://github.com/salgo60/geojsonKML/blob/main/notebook/Find%20iNaturalist%20places.ipynb) 
