@@ -48,3 +48,10 @@ Exemple how a swedish nature reserve is represented
 * same [world on a map](https://w.wiki/8gWM)
 
  <img width="1352" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/6b2eb14d-767c-4646-af39-e60b9eba1969">
+
+#### Wikidata <-> Mix-and-match <-> iNaturalist places
+ tool to match 
+
+ * [mix-n-match.toolforge.org/#/catalog/3900](https://mix-n-match.toolforge.org/#/catalog/3900) 
+
+<img width="1030" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/edfe3aaf-a41e-4f58-85f3-ce072ab2fd07">
