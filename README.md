@@ -19,7 +19,7 @@ Exemple how a swedish nature reserve is represented
 
 <img width="1351" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/0a55d911-1b2d-4595-a493-33c7a0ad5a76">
 
-
+<img width="1254" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/cbde2fe3-c73e-4578-b5a2-f0831f1cdc74">
  
 ## SPARQL
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
