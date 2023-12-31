@@ -1,5 +1,5 @@
 # geojsonKML
-Python code to convert geojson to KML that can be used on iNaturlist for nature reservate see converted files [salgo60/geojson/kml](https://github.com/salgo60/geojsonKML/tree/main/kml) 
+Python code to convert geojson to KML that can be used on iNaturlist for nature reservate see converted files [salgo60/geojson/kml](https://github.com/salgo60/geojsonKML/tree/main/kml) >  5 530 files 
 * format of files are  Naturvårdsregistret ID _ wikidata Qnummer _ name in english from wikidata .kml
 * exemple created  files
    * [2000588_Q18292056_Lunnelid, Råda.kml](https://github.com/salgo60/geojsonKML/blob/main/kml/2000588_Q18292056_Lunnelid%2C%20R%C3%A5da.kml)
