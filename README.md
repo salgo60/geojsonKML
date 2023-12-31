@@ -11,9 +11,15 @@ Exemple how a swedish nature reserve is represented
 * Östra Järvafältets nature reservat
   * [json](https://commons.wikimedia.org/wiki/Data:/Sweden/Nature_reserves/2020/%C3%96stra_J%C3%A4rvaf%C3%A4ltet/2002740.map)
   * iNaturalist [197743](https://www.inaturalist.org/observations?place_id=197743)
-  * wikidata [Q30158554](https://www.wikidata.org/wiki/Q30158554)
+  * wikidata [Q30158554](https://www.wikidata.org/wiki/Q30158554) - graf
   * The swedish The Nature Conservation Register - Naturvårdsregistret [2002740](http://skyddadnatur.naturvardsverket.se/sknat/?nvrid=2002740)
   * Open street Map [10627921](https://www.openstreetmap.org/relation/10627921)
+ 
+<img width="1351" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/0e15ed65-f2c6-4b1a-a212-33abc0ac90dc">
+
+<img width="1351" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/0a55d911-1b2d-4595-a493-33c7a0ad5a76">
+
+
  
 ## SPARQL
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
