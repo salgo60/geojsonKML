@@ -41,7 +41,7 @@ Exemple how a swedish nature reserve is represented
 <img width="938" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/1b3d9065-1fc0-4bbe-91b8-00e36b7875ee">
 
 ### Wikidata <-> iNaturlist
-* Sweden [SPARQL](https://w.wiki/8gW9) - wikidata nature reserves already connected with iNaturalist
+* Sweden [SPARQL](https://w.wiki/8gW9) - wikidata nature reserves already connected with iNaturalist places
 
 <img width="1075" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/ce6785fa-f930-4698-9da9-a40d7696c305">
 
