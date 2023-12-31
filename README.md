@@ -24,7 +24,8 @@ Exemple how a swedish nature reserve is represented
 ## SPARQL
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
    * [same with link commons geoshape](https://w.wiki/8gAn)
-   * [same with Raw geojson link](https://w.wiki/8gBH) 
+   * [same with Raw geojson link](https://w.wiki/8gBH)
+* Wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613) but missing geoshape [P3896](https://www.wikidata.org/wiki/Property:P3896) - [sparql](https://w.wiki/8giM) = 61
 
 # iNaturalist
 * discussion iNatForum
