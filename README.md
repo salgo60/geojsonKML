@@ -1,3 +1,9 @@
+current status: most swedish protected areas are not on iNaturalist
+
+* [map](https://w.wiki/8g$V)
+
+<img width="821" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/b95a7b36-fb55-42df-8826-0ef34670d5ea">
+ 
 # geojsonKML
 Python code to convert geojson to KML that can be used on iNaturlist for nature reservate see converted files [salgo60/geojson/kml](https://github.com/salgo60/geojsonKML/tree/main/kml) >  5 530 files 
 * format of files are  Naturvårdsregistret ID _ wikidata Qnummer _ name in english from wikidata .kml
