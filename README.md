@@ -1,4 +1,6 @@
-current status: most swedish protected areas are not on iNaturalist
+current status: most swedish protected areas are not on iNaturalist see official map [skyddadnatur.naturvardsverket.se](https://skyddadnatur.naturvardsverket.se/)
+
+<img width="858" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/58b092e3-f8f5-4fea-898c-e0ee87c0c496">
 
 * [map](https://w.wiki/8g$V) items with an id [P3613](https://www.wikidata.org/wiki/Property:P3613) = Naturvårdsregistret ID = identifier for an area protected see in swedish [Skyddad natur](https://www.naturvardsverket.se/amnesomraden/skyddad-natur/) - [map tool](https://skyddadnatur.naturvardsverket.se/)
 
