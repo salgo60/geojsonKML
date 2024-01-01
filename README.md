@@ -56,6 +56,9 @@ Exemple how a swedish nature reserve is represented
 
 <img width="1075" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/ce6785fa-f930-4698-9da9-a40d7696c305">
 
+### Misc
+* [Best practise att hålla reda på förändringar med Naturvårdsreservat - 2018NV38321](https://phabricator.wikimedia.org/T205847)
+
  
 #### Wikidata <-> Mix-and-match <-> iNaturalist places
  tool to match 
