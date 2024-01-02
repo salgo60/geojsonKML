@@ -1,12 +1,16 @@
-current status: most swedish protected areas are not on iNaturalist
+current status: most swedish protected areas are not on iNaturalist see official map [skyddadnatur.naturvardsverket.se](https://skyddadnatur.naturvardsverket.se/)
+
+<img width="858" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/58b092e3-f8f5-4fea-898c-e0ee87c0c496">
 
 * [map](https://w.wiki/8g$V) items with an id [P3613](https://www.wikidata.org/wiki/Property:P3613) = Naturvårdsregistret ID = identifier for an area protected see in swedish [Skyddad natur](https://www.naturvardsverket.se/amnesomraden/skyddad-natur/) - [map tool](https://skyddadnatur.naturvardsverket.se/)
 
 
-* wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613)
+* wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613) = **6599**
 <img width="821" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/b95a7b36-fb55-42df-8826-0ef34670d5ea"> 
 
-<img width="612" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/72541129-66b9-4b55-b423-f6055428c5e8">
+<img width="612" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/72541129-66b9-4b55-b423-f6055428c5e8"> 
+
+
  
 # geojsonKML
 Python code to convert geojson to KML that can be used on iNaturlist for nature reservate see converted files [salgo60/geojson/kml](https://github.com/salgo60/geojsonKML/tree/main/kml) >  5 530 files 
@@ -36,6 +40,12 @@ Exemple how a swedish nature reserve is represented
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH)
+   * [same but missing iNaturalistPlace on a map](https://w.wiki/8hbx)  / [has](https://w.wiki/8hcJ)
+
+<img width="1064" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/a1c59577-99cd-44c1-84bd-4c54cd2079be">
+
+<img width="1043" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/48f2bd72-28d0-47c0-bf05-79e6019bde83">
+
 * Wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613) but missing geoshape [P3896](https://www.wikidata.org/wiki/Property:P3896) - [sparql](https://w.wiki/8giM) = 61
 * Wikidata has duplicates fir iNaturalist Place id [query sweden](https://w.wiki/8gmR)
 
