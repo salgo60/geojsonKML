@@ -40,7 +40,12 @@ Exemple how a swedish nature reserve is represented
 * [Nature reserves in Stockholms county](https://w.wiki/8g9N) / [Sweden](https://w.wiki/8gFm)
    * [same with link commons geoshape](https://w.wiki/8gAn)
    * [same with Raw geojson link](https://w.wiki/8gBH)
-   * [same but missing iNaturalistPlace on a map](https://w.wiki/8hbp)
+   * [same but missing iNaturalistPlace on a map](https://w.wiki/8hbx)  / [has](https://w.wiki/8hcJ)
+
+<img width="1064" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/a1c59577-99cd-44c1-84bd-4c54cd2079be">
+
+<img width="1043" alt="image" src="https://github.com/salgo60/geojsonKML/assets/14206509/48f2bd72-28d0-47c0-bf05-79e6019bde83">
+
 * Wikidata objects with [P3613](https://www.wikidata.org/wiki/Property:P3613) but missing geoshape [P3896](https://www.wikidata.org/wiki/Property:P3896) - [sparql](https://w.wiki/8giM) = 61
 * Wikidata has duplicates fir iNaturalist Place id [query sweden](https://w.wiki/8gmR)
 
